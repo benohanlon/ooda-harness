@@ -1,0 +1,29 @@
+# Private configuration and credentials
+.env
+.env.*
+!.env.example
+credentials/
+secrets/
+private/
+*.pem
+*.key
+
+# Private operational state and research archives
+data/
+runtime/
+sessions/
+memory/
+logs/
+reviews/
+evidence/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# Local development files
+.venv/
+__pycache__/
+node_modules/
+.DS_Store
+Thumbs.db
