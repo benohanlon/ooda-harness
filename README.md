@@ -100,18 +100,32 @@ We are building a small agentic team around the work you need done. Each role ha
 
 You set the aims and values and retain authority over consequential commitments. Chief of Staff is your principal adviser and default point of contact. It maintains the wider orientation and coordinates specialist contributions. Specialist leads own their work and may delegate bounded assignments to agents, who report to their assigning lead. You can work directly with any role. Roles exercise initiative within their authority, bringing decisions that need your judgement to you.
 
-**MVP team structure**
+**Agreed team structure**
 
 ```mermaid
-flowchart TD
+---
+config:
+  flowchart:
+    nodeSpacing: 16
+    rankSpacing: 36
+---
+flowchart LR
     human["You"] <--> chief["Chief of Staff"]
     chief <--> talent["Head of Talent"]
-    chief <--> engineering["Head of Harness<br/>Engineering<br/>Build and reliability"]
+    chief <--> business["Head of<br/>Business Development"]
+    chief <--> creative["Creative Director"]
+    chief <--> project["Project Lead<br/>per client or project"]
+    chief <--> caseworker["Caseworker"]
+    chief <--> engineering["Head of Harness<br/>Engineering"]
+    chief <--> assistant["Personal Assistant"]
+    chief <--> finance["Head of Finance"]
 ```
 
-The first MVP centres on Chief of Staff and Head of Talent completing one useful assignment. Head of Harness Engineering is responsible for the build and its reliability. The arrows show the default delegation and reporting relationships: assignments go out and field reports return. Chief of Staff receives material outcomes, blockers and decisions needed, without becoming a routine approval gate. Role contracts and deployment remain under development.
+The diagram shows the nine agreed role types and their default delegation and reporting relationships: assignments go out and field reports return. Chief of Staff receives material outcomes, blockers and decisions needed, without becoming a routine approval gate. These role types do not imply nine deployed or always-on agents. Role contracts and deployment remain under development.
 
-Add further roles when the work needs them: Head of Business Development, Creative Director, Head of Finance, Personal Assistant, Caseworker and a Project Lead for each client or project. Head of Finance will own financial planning, including portfolio and risk analysis. Its contract will define the detailed remit and authority.
+**First implementation.** Start with Chief of Staff and Head of Talent completing one useful assignment. Head of Harness Engineering is responsible for the build and its reliability. Introduce the remaining roles as their work and contracts are established.
+
+Head of Finance will own financial planning, including portfolio and risk analysis. Its contract will define the detailed remit and authority.
 
 The team coordinates around a small set of system-wide units of account, drawing on [Numbers come before strategy](https://ecosystemoperator.substack.com/p/numbers-come-before-strategy). These establish a shared axis around which strategies, tests, proposals and schools of thought can contend. Each role is accountable for its contribution against those shared measures. Its contract records the measures it is responsible for and defines the supporting metrics used to judge its work. Where recommendations compete, Chief of Staff brings the evidence and consequences for the whole together for the relevant decision owner to resolve.
 
@@ -192,7 +206,7 @@ The `ROLES.md` and `SKILLS.md` catalogues and OODA’s role contracts are projec
 
 A role defines continuing responsibility. Its contract establishes accountability and authority. A task brief defines one assignment and its acceptance conditions. An agent carries out the work. Skills provide reusable methods or knowledge, loaded on demand. A reusable procedure can be packaged as a skill.
 
-Section 4 shows the MVP team structure. [ROLES.md](ROLES.md) records the agreed responsibilities and reporting. Individual role contracts remain under development.
+Section 4 shows the agreed team structure. [ROLES.md](ROLES.md) records the agreed responsibilities and reporting. Individual role contracts remain under development.
 
 Common operating rules cover evidence, authority, truthful completion and continuity across roles. Catalogues provide routes to maintained definitions. They do not duplicate those definitions.
 
