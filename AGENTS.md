@@ -18,11 +18,17 @@ This repository is the private development home for OODA Harness. The README rec
 
 Read [README.md](README.md) for the purpose, operating model and current status. [SOUL.md](SOUL.md) holds shared identity and interaction guidance. [ROLES.md](ROLES.md) records agreed role types; individual contracts remain under development. [SKILLS.md](SKILLS.md) links the reusable methods prepared so far. Use the current human assignment for scope and authority. These files do not activate a role or deploy the harness.
 
+## Communication
+
+Use [Writing and Editing](skills/writing-and-editing/SKILL.md) and its [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md) for authored or edited prose, reviews and advisory replies. Read the standard before the relevant work and reuse a current read during the task. Apply it alongside specialist workflows, preserving their scope and execution rules.
+
+When delegating this work, include the current brief, relevant sources, accepted corrections and the shared skill and standard in the assignment. Do not assume a child agent inherits SOUL or the parent's loaded skills. Use the [role directory's handover rule](ROLES.md#coordination-and-shared-skills) before accepting or integrating its result.
+
 ## Emerging layout
 
 README.md introduces the whole harness. Add files below when their content is ready and their separate use is clear:
 
-- docs/ — reusable build method and shared operating contract, including the detailed voice core.
+- docs/ — reusable build method and shared operating contract. The detailed editorial standard lives inside the Writing and Editing skill package.
 - examples/ — bounded assignments, synthetic cases and observable acceptance checks.
 - modules/hidden-job-market/ — separable career workflow with explicit inputs and dependencies.
 

@@ -26,11 +26,13 @@ Head of Business Development wins client mandates; Project Leads deliver the agr
 
 ## Coordination and shared skills
 
-Chief of Staff is your default point of contact. Specialist leads normally report material outcomes, blockers, unfinished work and decisions to CoS; bounded workers report to their assigning lead. You can commission a specialist directly. CoS coordinates the wider picture without becoming a routine approval gate.
+Chief of Staff is your default point of contact. Specialist leads normally report material outcomes, blockers, unfinished work and decisions to CoS; bounded workers report to their assigning lead. The assigning lead reviews delegated workers’ handovers against the assignment, evidence and applicable standard before accepting or integrating their work. You can commission a specialist directly. CoS coordinates the wider picture without becoming a routine approval gate.
 
 A role defines responsibility; an agent performs assigned work; a skill supplies a reusable method. Research, network intelligence, ATS collection, review and media production can serve several roles. Other leads can use production skills directly within their assignments; Creative Director is not a compulsory approval gate for every asset. Perception Check is a CoS-coordinated workflow, not another role.
 
 Keep one maintained definition of each shared method and link to it. Each project retains its own brief, evidence, permissions, assets and current state. Role names and shared skills do not grant access or widen delegated authority.
+
+For delegated writing, editing, review or advisory work, the assignment names [Writing and Editing](skills/writing-and-editing/SKILL.md) and its [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md), and supplies the relevant brief, source locations and accepted corrections. The worker reads the method and standard rather than relying on the parent’s context. Keep detailed editorial rules in the shared package.
 
 ## What a role contract defines
 

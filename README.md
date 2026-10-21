@@ -200,21 +200,27 @@ The proposed access model gives the harness a dedicated email account and a defi
 | Document | Responsibility |
 | --- | --- |
 | [README.md](README.md) | The introduction and map: purpose, operating model, components, current status and routes into detailed guidance. |
-| [SOUL.md](SOUL.md) | Shared guidance for identity, interaction, writing and judgement. |
+| [SOUL.md](SOUL.md) | Shared identity, interaction, judgement and core communication principles. |
 | [AGENTS.md](AGENTS.md) | Repository guidance and routes to the available definitions. Detailed operating contracts remain under development. |
 | [ROLES.md](ROLES.md) | A catalogue of agreed role types; individual contracts remain under development. |
 | [SKILLS.md](SKILLS.md) | A catalogue of reusable skills linking to their instructions. |
 | Each skill’s [SKILL.md](skills/perception-check/SKILL.md) | The method or knowledge for that skill, with supporting references, scripts or templates where needed. |
+| [Writing and Editing](skills/writing-and-editing/SKILL.md) | The shared method for drafting, editing, review and advisory replies. |
+| [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md) | The detailed standard for meaning, evidence, argument, voice, revision and review. |
 
 The `ROLES.md` and `SKILLS.md` catalogues and OODA’s role contracts are project conventions, not built-in Hermes features.
 
 A role defines continuing responsibility. Its contract establishes accountability and authority. A task brief defines one assignment and its acceptance conditions. An agent carries out the work. Skills provide reusable methods or knowledge, loaded on demand. A reusable procedure can be packaged as a skill.
+
+SOUL retains the core communication principles. Use [Writing and Editing](skills/writing-and-editing/SKILL.md) for drafting, editing, reviewing prose and giving advisory replies. The skill applies [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md), which has one maintained home inside its package. Read that standard before the relevant work, reusing a current read during the task. Specialist workflows retain their production and execution steps. When delegating this work, pass the brief, accepted corrections and the skill and standard to the worker; [ROLES.md](ROLES.md#coordination-and-shared-skills) defines handover review.
 
 Section 4 shows the agreed team structure. [ROLES.md](ROLES.md) records the agreed responsibilities and reporting. Individual role contracts remain under development.
 
 Common operating rules cover evidence, authority, truthful completion and continuity across roles. Catalogues provide routes to maintained definitions. They do not duplicate those definitions.
 
 Deployment follows [Hermes’s file and loading conventions](https://hermes-agent.nousresearch.com/docs/user-guide/which-file-does-what). Private profile and memory records remain separate from the reusable package. File presence alone does not establish that instructions are loaded or that access is available.
+
+For Writing and Editing, deployment must make the complete skill package available to the intended Hermes profile and install its accepted SOUL. Current Hermes supports preloading the method through [`skills.auto_load`](https://hermes-agent.nousresearch.com/docs/user-guide/configuration#auto-loading-skills-every-session). Verify support in the installed version, loading in a fresh session, retrieval of the detailed standard and use in the actual output. Delegated workers need explicit guidance in their assignment. Installation, loading and live use of this editorial package remain unverified.
 
 **CRM responsibilities.** Notion CRM holds registered companies and hiring sources, exact roles, qualification evidence, application history and career decisions. HubSpot holds the commercial CRM, contact history, outreach and follow-up, retaining the existing two-offer pipeline.
 
