@@ -4,7 +4,7 @@ Roles carry continuing responsibility for outcomes. This directory summarises th
 
 The [README](README.md) explains the wider operating model. [SKILLS.md](SKILLS.md) maps shared methods and their implementation status.
 
-## MVP team
+## First implementation
 
 Start with Chief of Staff and Head of Talent completing one useful assignment. Head of Harness Engineering owns the build and its reliability. Add further roles when continuing work needs a distinct owner. The nine role types below do not imply nine deployed or always-on agents.
 
