@@ -1,4 +1,4 @@
-# OODA Harness
+# Sovereign OODA Harness
 
 **Private alpha.** No public installation release date is confirmed.
 
@@ -103,10 +103,10 @@ You set the aims and values and retain authority over consequential commitments.
 **MVP team structure**
 
 ```mermaid
-flowchart LR
+flowchart TD
     human["You"] <--> chief["Chief of Staff"]
     chief <--> talent["Head of Talent"]
-    chief <--> engineering["Head of Harness Engineering<br>Build and reliability"]
+    chief <--> engineering["Head of Harness<br/>Engineering<br/>Build and reliability"]
 ```
 
 The first MVP centres on Chief of Staff and Head of Talent completing one useful assignment. Head of Harness Engineering is responsible for the build and its reliability. The arrows show the default delegation and reporting relationships: assignments go out and field reports return. Chief of Staff receives material outcomes, blockers and decisions needed, without becoming a routine approval gate. Role contracts and deployment remain under development.
@@ -183,7 +183,7 @@ The proposed access model gives the harness a dedicated email account and a defi
 | --- | --- |
 | [README.md](README.md) | The introduction and map: purpose, operating model, components, current status and routes into detailed guidance. |
 | [SOUL.md](SOUL.md) | Shared guidance for identity, interaction, writing and judgement. |
-| [AGENTS.md](AGENTS.md) | Project instructions and working conventions, with routes to shared rules, the assigned role and current task. |
+| [AGENTS.md](AGENTS.md) | Repository guidance and routes to the available definitions. Detailed operating contracts remain under development. |
 | [ROLES.md](ROLES.md) | A catalogue of agreed role types; individual contracts remain under development. |
 | [SKILLS.md](SKILLS.md) | A catalogue of reusable skills linking to their instructions. |
 | Each skill’s [SKILL.md](skills/perception-check/SKILL.md) | The method or knowledge for that skill, with supporting references, scripts or templates where needed. |
