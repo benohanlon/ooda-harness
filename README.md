@@ -110,6 +110,8 @@ config:
   flowchart:
     nodeSpacing: 16
     rankSpacing: 36
+    wrappingWidth: 200
+    minNodeWidth: 0
 ---
 flowchart LR
     human["You"] <--> chief["Chief of Staff"]
