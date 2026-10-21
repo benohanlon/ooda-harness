@@ -105,6 +105,8 @@ You set the aims and values and retain authority over consequential commitments.
 ```mermaid
 ---
 config:
+  layout: dagre
+  look: classic
   flowchart:
     nodeSpacing: 16
     rankSpacing: 36
