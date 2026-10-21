@@ -1,6 +1,6 @@
 # Repository contribution guidance
 
-This repository is the private development home for OODA Harness. Its initial README is a placeholder; reusable operating rules and runtime behaviour are still being designed.
+This repository is the private development home for OODA Harness. The README records the accepted design; detailed role contracts and runtime behaviour remain under development.
 
 ## Working scope
 
@@ -13,6 +13,10 @@ This repository is the private development home for OODA Harness. Its initial RE
 - Version reusable definitions, methods, configurable interfaces and synthetic examples. Keep credentials, personal/client records, private exports and runtime state outside tracked files.
 - Inspect intended files before committing. Ignore rules prevent ordinary tracking of matching untracked files; they do not remove already committed content or enforce access control.
 - Preserve third-party licence and attribution requirements. Public release and licence selection are separate human decisions.
+
+## Available definitions
+
+Read [README.md](README.md) for the purpose, operating model and current status. [SOUL.md](SOUL.md) holds shared identity and interaction guidance. [ROLES.md](ROLES.md) records agreed role types; individual contracts remain under development. [SKILLS.md](SKILLS.md) links the reusable methods prepared so far. Use the current human assignment for scope and authority. These files do not activate a role or deploy the harness.
 
 ## Emerging layout
 
