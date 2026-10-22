@@ -15,7 +15,7 @@ For a schedule-only review, ask “Check the schedule”. The bounded [Schedule 
 
 The timeframe belongs to the request. This example sets no recurring schedule and assumes neither a previous check nor complete access to personal materials.
 
-Writing and Editing applies the maintained [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md). [SOUL.md](SOUL.md) requires their use; [AGENTS.md](AGENTS.md#communication) routes repository work and [ROLES.md](ROLES.md#coordination-and-shared-skills) covers delegation. Sense of Taste supplies a separate judgement method; Writing and Editing remains independently usable. The [common operating contract](docs/operating-contract.md) defines the pair, not either skill.
+Writing and Editing applies the maintained [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md). [SOUL.md](SOUL.md) requires their use; [AGENTS.md](AGENTS.md#retrieve-guidance-for-the-work) routes repository work and [ROLES.md](ROLES.md#coordination-and-shared-skills) covers delegation. Sense of Taste supplies a separate judgement method; Writing and Editing remains independently usable. The [common operating contract](docs/operating-contract.md) defines the pair, not either skill.
 
 [LISTS.md](LISTS.md) routes to the packaged community directory, selected research resources and existing editorial references. Load resources when the assignment calls for them. Required package references and cross-skill dependencies must be available in the actual deployment; a link alone does not load them.
 

@@ -1,12 +1,50 @@
-# Repository contribution guidance
+# Repository guidance and assignment routing
 
-This repository is the private development home for OODA Harness. The README records the design and current status. Shared operating definitions and the Research Lead contract are prepared; most individual contracts and runtime behaviour remain under development.
+OODA Harness is being developed as the sovereign's right hand and AI thinking partner. [README.md](README.md) explains its purpose, architecture and current status. Reading this file does not appoint an operating role, start agents or grant access to other workstreams.
 
-## Working scope
+## Start from the assignment
 
-- Follow the sovereign's current assignment and read the relevant source brief before changing a component. Reading this file does not appoint an operating Chief of Staff or grant access to other workstreams.
-- Distinguish proposed, implemented and verified behaviour. Do not describe a saved instruction as proof that a runtime loaded or followed it.
-- Keep changes small and preserve successful behaviour. Record material uncertainty and the evidence needed to resolve it.
+1. Recover the request, relevant brief, accepted decisions, corrections and latest checkpoint. Establish outcome, scope, authority, recipient and completion conditions. Reuse existing decisions. Clarify material gaps. Surface unresolved authority conflicts rather than treating the newest wording as accepted. Keep this in the existing task context.
+2. Read [SOUL.md](SOUL.md) and retrieve the guidance below. Use relevant README sections to understand the affected component's contribution to the whole. Reuse current reads. Do not load every contract or reference for a routine edit.
+3. Reconcile relevant prior work, original evidence and maintained records before creating. Identify reusable components, unresolved questions and superseded approaches. A missing mention is not proof of absence. In a checkout, inspect the branch and working changes. Preserve unrelated edits and reconcile concurrent changes before writing.
+4. Complete authorised work, check the saved result and affected dependencies, then report. If access, authority or an agreed effort limit prevents completion, preserve the exact remainder, uncertainty and next authorised move. Continue independent authorised work where possible.
+
+Scale orientation to the consequences and uncertainty. Prefer consolidation and the smallest sufficient intervention. Preserve material decisions, provenance, results and next actions with their existing owners. A routine edit does not require a historical audit.
+
+## Retrieve guidance for the work
+
+| Assignment | Read and apply |
+| --- | --- |
+| Change architecture | Relevant [README](README.md) sections, affected definitions and source brief. |
+| Create or revise an enduring role | [ROLES.md](ROLES.md), [role template](roles/ROLE-TEMPLATE.md), [shared operating contract](docs/operating-contract.md), affected contracts and adjacent-role boundaries. Preserve the paired-agent requirements below. |
+| Perform an explicitly assigned enduring role | Its individual contract, shared contract and current brief, including steering, methods, evidence and private bindings. |
+| Create or revise a workflow | Existing role responsibility, relevant workflow and maintained records. Map dependencies and minimum interfaces; implement the next useful part. Workflow stages do not automatically become separate skills. |
+| Create or revise a skill | [SKILLS.md](SKILLS.md), its `SKILL.md`, references and role usage. Preserve specialist execution rules and declare dependencies. |
+| Author, edit or review prose; give advisory replies | [Writing and Editing](skills/writing-and-editing/SKILL.md) and its [editorial standard](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md). Read and apply the standard and relevant genre reference. Reuse a current read. |
+| Review bounded work | Brief, original evidence and actual result; [Sense of Taste](skills/sense-of-taste/SKILL.md) where applicable. Preserve specialist checks. |
+| Change diagrams or artwork | Source relationships and [visual guidance](skills/writing-and-editing/references/visual-communication.md); relevant [brand guidance](brand/README.md) and approved assets. |
+| Retrieve knowledge | [LISTS.md](LISTS.md), the relevant collection and exact original material; [Community Research](skills/community-research/SKILL.md) for harness-engineering community questions. |
+| Deploy or update an installation | Accepted revision and supplied instructions for that runtime. Verify actual loading, references and access. Repository changes do not automatically update Codex or Hermes. |
+
+## Shared principles and paired roles
+
+Apply SOUL's guidance on the sovereign's aims, freedom of action, nonlinear OODA, independent judgement and whole-system effects. Apply accepted corrections to the whole affected understanding while preserving valid constraints and successful behaviour. Use the editorial standard for its detailed fidelity method and the common operating contract for shared evidence, decision, recovery and learning rules.
+
+**Each enduring role is an atomic operating unit comprising two agents and one shared contract, including its role description. This paired arrangement is a cognitive dipole, also called the Twins.** Both begin from the same relevant specification, guidance, starting context and available capabilities, then adopt opposite, complementary relational polarities, doer/giver and observer/active receiver. Each retains a complete OODA and can investigate, discover, challenge and reorient the other during work.
+
+Apply the [shared operating contract](docs/operating-contract.md) for the detailed paired method. Preserve complementarity when polarities reverse. Neither swapping nor divergence is the objective. Reversal does not transfer action authority. Supply and check the relevant foundation for both participants. Agreement alone is not validation. A final-only critic does not fulfil the design. Temporary workers and skill calls do not each require a pair. Definitions do not instantiate paired operation.
+
+## Delegation, checking and reporting
+
+Give workers the assignment, sources, corrections, applicable guidance, authority, effort bound, expected result and recipient. Include Writing and Editing and its standard for relevant work. Do not assume inherited guidance. Apply the [handover review rule](ROLES.md#coordination-and-shared-skills) before integration.
+
+Match checks to the change:
+
+- **Definitions and prose:** compare saved text with the request, accepted meaning and sources. Check affected links and connected definitions. Inspect changed diagrams' rendering and relationship meaning, not syntax alone.
+- **Skills:** check metadata, retrieval triggers, references and cross-package dependencies. Distinguish a valid package from evidence that its method works in a runtime.
+- **Execution or deployment:** use a bounded observation on the affected surface. Distinguish saved, installed, loaded, executed and useful states. Report limits; file presence is insufficient. Apply [runtime acceptance](docs/operating-contract.md#runtime-acceptance) before claiming operational paired behaviour.
+
+Use existing checks and documented commands. Do not invent commands or impose unrelated checks. Recheck material repairs and stop when no material improvement remains within scope. Report changes, reasons, actual checks, result location/revision, uncertainty and unfinished work.
 
 ## Definition and data boundary
 
@@ -14,28 +52,8 @@ This repository is the private development home for OODA Harness. The README rec
 - Inspect intended files before committing. Ignore rules prevent ordinary tracking of matching untracked files; they do not remove already committed content or enforce access control.
 - Preserve third-party licence and attribution requirements. Public release and licence selection are separate decisions for the sovereign.
 
-## Available definitions
+## Maintained layout and promotion
 
-Read [README.md](README.md) for the purpose, operating model and current status. [SOUL.md](SOUL.md) holds shared identity and interaction guidance. [ROLES.md](ROLES.md) records agreed role types and available contracts. [SKILLS.md](SKILLS.md) links reusable methods; [LISTS.md](LISTS.md) routes to maintained resource collections. Use the sovereign's current assignment for scope and authority. These files do not activate a role or deploy the harness.
+`docs/` holds the shared operating contract; `roles/` holds the template and available individual contracts; `skills/` holds reusable methods and their references; `lists/` holds selected resource collections; `examples/` holds bounded synthetic illustrations. `brand/` and `assets/` hold the visual guidance and approved project assets. The separately usable `modules/hidden-job-market/` remains planned; a listed role, skill or directory is not evidence of deployment.
 
-For an explicitly assigned enduring role, use the [common operating contract](docs/operating-contract.md) with its individual contract and current task brief. Define new roles through the [role template](roles/ROLE-TEMPLATE.md). Repository contributors and temporary workers retain their own assignment; they do not acquire an operational role by reading these files.
-
-## Communication
-
-Use [Writing and Editing](skills/writing-and-editing/SKILL.md) and its [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md) for authored or edited prose, reviews and advisory replies. Read the standard before the relevant work and reuse a current read during the task. Apply it alongside specialist workflows, preserving their scope and execution rules.
-
-For project artwork and cover images, use the [brand guide](brand/README.md) and its approved reference assets.
-
-When delegating this work, include the current brief, relevant sources, accepted corrections and the shared skill and standard in the assignment. Do not assume a child agent inherits SOUL or the parent's loaded skills. Use the [role directory's handover rule](ROLES.md#coordination-and-shared-skills) before accepting or integrating its result.
-
-## Emerging layout
-
-README.md introduces the whole harness. Add files below when their content is ready and their separate use is clear:
-
-- docs/ — shared operating contract; the wider reusable build method remains under development. The detailed editorial standard lives inside the Writing and Editing skill package.
-- roles/ — the reusable role template and available individual contracts.
-- lists/ — selected reusable resource collections, indexed by LISTS.md.
-- examples/ — bounded assignments, synthetic cases and observable acceptance checks.
-- modules/hidden-job-market/ — separable career workflow with explicit inputs and dependencies.
-
-The Notion working design brief retains design decisions until the relevant portable definition is explicitly accepted. For each promoted definition, record its source, accepted Git revision and publication pointer in its existing private owner. Draft-branch content is a proposal. Acceptance of named portable definitions does not replace unrelated private procedures or domain records. Domain services retain live records and checkpoints. Use authorised source references supplied with the task; report missing access rather than inventing their contents.
+For upstream development, the private Notion design brief retains unpromoted decisions. For each explicitly promoted portable definition, record its source, accepted Git revision and publication pointer with its existing private owner. Draft-branch content is a proposal. Acceptance of named definitions does not replace unrelated private procedures or domain records. Installed or forked use follows its accepted definitions and local briefs; access to the creator's private workspace is not assumed. Domain services retain live records and checkpoints. Use authorised source references supplied with the assignment and report missing access rather than inventing their contents.

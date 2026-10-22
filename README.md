@@ -142,7 +142,7 @@ The team coordinates around a small set of system-wide units of account, drawing
 
 ### Two agents within each role
 
-Each enduring role has one contract and outward accountability, with two agents operating around it. Both begin with the same relevant specification, guidance, context and available capabilities. They adopt complementary relational roles, or polarities: doer/giver and observer/active receiver. These positions may reverse without changing the enduring role or contract. Each has a complete OODA. Both can investigate, interpret, challenge and revise the other's understanding while work proceeds.
+Each enduring role is an atomic operating unit comprising two agents and one shared contract, including its role description. We call this arrangement a cognitive dipole, also known as the Twins. It has one outward accountability. Both begin with the same relevant specification, guidance, context and available capabilities. They adopt opposite, complementary relational roles, or polarities: doer/giver and observer/active receiver. These positions may reverse without changing the enduring role or contract. Each has a complete OODA. Both can investigate, interpret, challenge and revise the other's understanding while work proceeds.
 
 ```mermaid
 flowchart TB
@@ -226,7 +226,7 @@ The proposed access model gives the harness a dedicated email account and a defi
 | --- | --- |
 | [README.md](README.md) | The introduction and map: purpose, operating model, components, current status and routes into detailed guidance. |
 | [SOUL.md](SOUL.md) | Shared identity, interaction, judgement and core communication principles. |
-| [AGENTS.md](AGENTS.md) | Repository guidance and routes to the available definitions. |
+| [AGENTS.md](AGENTS.md) | Assignment orientation, repository guidance and routes to governing definitions. |
 | [Common operating contract](docs/operating-contract.md) | Shared paired-role method, decision rights, assignments, recovery and learning. |
 | [ROLES.md](ROLES.md) | A catalogue of agreed role types and available contracts, including Research Lead. |
 | [Role template](roles/ROLE-TEMPLATE.md) | The seven-section structure for defining a role's continuing responsibility. |
@@ -258,7 +258,7 @@ Relevant records can be linked while preserving their respective owners. This di
 
 ### Evidence and further development
 
-Version history records which definition changed. Run evidence records what was attempted and what resulted. Diagnostics uses that evidence to identify the cause of a gap and choose an appropriate repair. Keep these records connected to the work and its owner.
+Version history records which definition changed. Run evidence records what was attempted and what resulted. Use that evidence to diagnose the gap and choose a repair. Keep these records connected to the work and its owner.
 
 The [common operating contract](docs/operating-contract.md) provides the portable method for evidence, correction and recovery. Its source history remains in the private “Master & component handover” and “Change Checklist”, which retain their private operating scope. Role contracts name their record owners. Section 8 explains how accepted portable revisions are promoted and distinguishes draft, publication and deployment states.
 

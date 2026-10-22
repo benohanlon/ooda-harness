@@ -69,7 +69,7 @@ Preserve the route from source to interpretation, decision, action and observed 
 
 Use the common checkpoint shape for completed and pending items, current artifacts, distinct material interpretations, uncertainty, accepted steering and the next authorised move. Check an uncertain effect at its destination before retrying. Restore both participants against the current basis after interruption, or state the limits of degraded operation.
 
-Separate artifact acceptance, delivery and pending downstream response. A complete bounded report can leave the worldly outcome unresolved. Silence remains unknown.
+Separate artifact acceptance, delivery and pending downstream response. A complete bounded report can leave the downstream outcome unresolved. Silence remains unknown.
 
 ## 7. Review and learning
 
