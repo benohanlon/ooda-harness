@@ -27,7 +27,7 @@ Head of Business Development wins client mandates; Project Leads deliver the agr
 
 ## Coordination and shared skills
 
-Each enduring role is realised by two agents around one contract and outward accountability. Both start from the same relevant specification, guidance, context and available capabilities, then adopt complementary doer/giver and observer/active-receiver duties. Each has a complete OODA and can change the other's understanding during work. The [common operating contract](docs/operating-contract.md) owns their decision rights, one action owner per work unit, checkpoints and recovery. Research Lead has its own pair and is not the other roles' observer.
+Each enduring role is realised by two agents around one contract and outward accountability. Both start from the same relevant specification, guidance, context and available capabilities, then adopt complementary relational roles, or polarities: doer/giver and observer/active receiver. These positions may reverse within the same enduring role and contract. Each has a complete OODA and can change the other's understanding during work. The [common operating contract](docs/operating-contract.md) owns their decision rights, one action owner per work unit, checkpoints and recovery. Research Lead has its own pair and is not the other roles' observer.
 
 Chief of Staff is your default point of contact. Specialist leads normally report material outcomes, blockers, unfinished work and decisions to CoS; bounded workers report to their assigning lead. The assigning lead reviews delegated workers’ handovers against the assignment, evidence and applicable standard before accepting or integrating their work. You can commission a specialist directly. CoS coordinates the wider picture without becoming a routine approval gate.
 
@@ -50,3 +50,4 @@ Use the [seven-section template](roles/ROLE-TEMPLATE.md). It specialises the com
 Each role reviews its work and retains useful learning. Head of Harness Engineering adds independent scrutiny of the wider system; existing task and change owners retain their decisions.
 
 Before treating a role as operational, exercise both participants: retrieve and apply the accepted guidance and original sources, exchange consequential findings during work, reconcile new human steering, complete useful authorised work and restore both perspectives after interruption. Verify that uncertain effects are checked before retrying and that one coherent handover reaches its owner. Use the [runtime acceptance conditions](docs/operating-contract.md#runtime-acceptance). An agreed role type, two named agents or a saved document alone does not establish that capability.
+

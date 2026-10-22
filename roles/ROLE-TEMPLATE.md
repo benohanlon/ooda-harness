@@ -36,7 +36,7 @@ Define the enduring responsibilities, decisions and maintained objects this role
 
 Describe the relevant workflows or loops and the useful result from each. Roles need not all use the same loops. Explain the role's contribution to the human's wider OODA, including relevant other actors' intentions, observations and timing. State when to seek evidence, bring a decision, act, wait or return the work for reconsideration.
 
-This role is realised by two agents around this contract. Specify how the doer/giver/emissary and observer/active receiver contribute in this domain. Both have complete OODAs and access to the relevant original evidence. The active receiver participates while work proceeds, and either participant can correct or reorient the other. Keep their provisional views distinct from the accepted basis. The [common contract](../docs/operating-contract.md) owns duty assignment, meaningful exchange and restoration.
+This role is realised by two agents around this contract. Specify how the complementary relational roles/polarities—doer/giver/emissary and observer/active receiver—contribute in this domain. Their positions may reverse within the enduring role and contract. Both have complete OODAs and access to the relevant original evidence. The active receiver participates while work proceeds, and either participant can correct or reorient the other. Keep their provisional views distinct from the accepted basis. The [common contract](../docs/operating-contract.md) defines the relational roles/polarities, their recording, meaningful exchange and restoration.
 
 On assignment:
 
@@ -110,3 +110,4 @@ Exercise both participants using the common [Runtime acceptance](../docs/operati
 Check meaningful reciprocal reconsideration, accepted human steering, preserved sound work, authority, one action owner, participant replacement and exact recovery. Show that the role's OODA contribution changes an observable decision, action or handoff. Repeating the instructions or naming OODA is insufficient.
 
 State loading/access limits and retain actual results. Publication, installation, loading, execution and useful outcomes remain separate statuses. The [synthetic research assignment](../examples/research-assignment.md) illustrates the method; it does not establish runtime acceptance.
+

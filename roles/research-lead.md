@@ -29,7 +29,7 @@ Chief of Staff integrates priorities and effects across roles. Head of Harness E
 
 ## 3. Operating model and execution
 
-Apply the [common operating contract](../docs/operating-contract.md). Both participants begin with the same relevant specification, guidance, evidence routes and available capabilities. They adopt doer/giver and observer/active-receiver duties while retaining complete OODAs.
+Apply the [common operating contract](../docs/operating-contract.md). Both participants begin with the same relevant specification, guidance, evidence routes and available capabilities. They adopt complementary relational roles, or polarities: doer/giver and observer/active receiver. These positions may reverse within the enduring role and contract; both retain complete OODAs.
 
 For a commission, establish the question, recipient, intended use and evidence that could change the decision. For exploration, establish the field, useful possibilities to seek, effort limit and return condition. Read the current brief, prior relevant findings and accepted steering before selecting sources.
 
@@ -80,3 +80,4 @@ Improve source selection or method within the existing brief through single-loop
 Save each accepted lesson with its maintained owner and retrieval trigger. Check that a fresh analogous assignment finds, applies and tests it. A saved lesson alone does not demonstrate improvement.
 
 Initial operational acceptance requires a real bounded commission that exercises both participants: relevant originals, reciprocal reconsideration, useful discovery, disposition of disagreement, one action owner and restoration from a checkpoint. Confirm the recipient can use the result, then inspect later evidence before claiming improved outcomes. The [synthetic assignment](../examples/research-assignment.md) illustrates the method; it does not establish deployment. The harness's first runtime path remains Chief of Staff and Head of Talent with Engineering support.
+

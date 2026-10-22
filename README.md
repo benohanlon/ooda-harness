@@ -28,6 +28,8 @@ You remain the human in the loop. You are an active participant in the OODA harn
 
 Your most prized commodities are time and attention. OODA Harness exists to increase your agency: your ability to choose, express and act on your intentions and values.
 
+We draw on manoeuvre warfare as a strategic lens. The ambition is cognitive supremacy within this ecology: better orientation and effective action to recognise and shape opportunities, secure resources and increase sovereignty in service of your freedom of action and expression. This governs how the harness prioritises work in service of your intentions, values and creativity. Cooperation, negotiation and competition can each serve that aim as relationships and interests change.
+
 1. **Increase what you can achieve with your time and attention.** Progressively automate suitable work within your delegated authority and to an agreed standard, creating capacity you can reinvest.
 2. **Put knowledge and specialist capabilities to work.** Connect and apply relevant knowledge and capabilities to solve worthwhile problems beyond your own expertise, while developing your judgement and situational awareness. Extend your capacity for discovery by widening your field of vision and broadening your horizon. Retain useful decisions and learning so subsequent work builds on them.
 3. **Bring you closer to people and communities.** Increase the chance of serendipitous encounters by helping you discover people and possibilities, and helping others discover you and your work. Enable shared work and projects that extend what you can achieve together, including the further value created by what your contributions enable others to do in turn.
@@ -138,7 +140,7 @@ The team coordinates around a small set of system-wide units of account, drawing
 
 ### Two agents within each role
 
-Each enduring role has one contract and outward accountability, with two agents operating around it. Both begin with the same relevant specification, guidance, context and available capabilities. They adopt complementary doer/giver and observer/active-receiver duties. Each has a complete OODA. Both can investigate, interpret, challenge and revise the other's understanding while work proceeds.
+Each enduring role has one contract and outward accountability, with two agents operating around it. Both begin with the same relevant specification, guidance, context and available capabilities. They adopt complementary relational roles, or polarities: doer/giver and observer/active receiver. These positions may reverse without changing the enduring role or contract. Each has a complete OODA. Both can investigate, interpret, challenge and revise the other's understanding while work proceeds.
 
 ```mermaid
 flowchart TB
@@ -175,7 +177,7 @@ Discovery and ingestion support your observation. Distribution helps active rece
 | **1:Few** | Coordinate interdependent people or teams. Develop shared orientation: enough common understanding of the situation and agreed aims to act together. Make differing perspectives and incentives visible and connect local contributions to shared outcomes. |
 | **1:Many** | Gather intelligence from wider networks and help relevant people encounter, understand and respond to your work. Distribution supports observation. Positioning, offers, résumés, onboarding and qualification can support orientation. Credible proof supports decisions. Clear asks and usable next steps support action. Shared outcomes and visible signals can support collective coordination. |
 
-These scales overlap. Your own cycle continues throughout, and capabilities can support several OODA activities. How public or private the encounter is matters at every scale. Other people retain their own aims and decisions.
+These scales overlap. Your own cycle continues throughout, and capabilities can support several OODA activities. An interaction can change your own understanding, affect a group and ripple through a wider network. How public or private the encounter is matters at every scale. Other people retain their own aims and decisions.
 
 ### Review and learning
 
@@ -362,3 +364,4 @@ If you share or adapt the project, please credit Ben and link to the original pr
 [Original project](https://github.com/benohanlon/ooda-harness) · [Writing, resume and contact](https://linktr.ee/benohanlon)
 
 ---
+

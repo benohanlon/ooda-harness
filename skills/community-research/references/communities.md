@@ -26,7 +26,7 @@ Follow [OpenEvals](https://huggingface.co/OpenEvals) and [Community Evals / Eval
 
 **Use when:** deciding what counts as a useful failure, calibrating semantic judgement against human examples, or checking whether a reviewer damages good work.
 
-Use Hamel Husain and Shreya Shankar's [Parlance Labs article on automatic evaluations](https://parlance-labs.com/blog/posts/auto-evals/) as a primary starting route. Read the treatment of human annotation, evolving criteria, missed failures, false criticisms and new discoveries. Follow the authors' cited experiments and implementations where they bear on the assignment.
+Use Antaripa Saha and Hamel Husain's [Parlance Labs article on automatic evaluations](https://parlance-labs.com/blog/posts/auto-evals/) as a primary starting route. Read the treatment of human annotation, evolving criteria, missed failures, false criticisms and new discoveries. Follow the authors' cited experiments and implementations where they bear on the assignment.
 
 **Recorded coverage and limits:** the primary article and selected practitioner discussion were reviewed. This is methodological guidance, not a deployed evaluator or proof that one scoring scheme fits every task. Public article access does not imply access to paid teaching or private communities.
 
@@ -49,3 +49,4 @@ Follow the [Agent Memory Repo introduction](https://cognition.com/agent-memory-r
 ## Maintaining this directory
 
 Retain a route when it answers a recurring question or opens a useful line of inquiry. Record changed locations, unavailable access or superseded methods with the relevant evidence. Keep source reading separate from adopted operating policy. Broader GTM, career and open-research trails remain with the assigned domain's source owner until a reusable route is deliberately selected for this package.
+

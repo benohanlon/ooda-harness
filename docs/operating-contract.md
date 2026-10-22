@@ -6,7 +6,9 @@ Use this common method with [SOUL](../SOUL.md), the assigned [role contract](../
 
 ## One role, two OODAs
 
-An enduring role has one purpose, one contract and outward accountability, realised through two agents. Both begin with the same relevant specification, guidance, starting context and available capabilities. They adopt complementary doer/giver/emissary and observer/active-receiver duties. Each observes, orients, decides and acts. Both can investigate, discover possibilities, challenge an interpretation and revise their understanding during work.
+An enduring role has one purpose, one contract and outward accountability, realised through two agents. Both begin with the same relevant specification, guidance, starting context and available capabilities. They adopt complementary relational roles, or polarities: doer/giver/creator/emissary and observer/active receiver. Each observes, orients, decides and acts. Both can investigate, discover possibilities, challenge an interpretation and revise their understanding during work.
+
+These relational roles are positions the agents adopt in an encounter, not fixed identities. They bring different questions and information needs to the work while retaining the shared foundation and complete OODAs. The agents may reverse polarity; neither swapping nor divergence is the objective. Record the current positions and any change in the assignment or checkpoint, preserving accepted steering. A change of polarity does not itself transfer action authority: keep one named owner for each shared write or external action.
 
 The shared basis contains the human's purpose and delegation, accepted role and brief revisions, current steering, standards, evidence routes and work state. Keep each participant's material observations, provisional interpretations and unresolved alternatives distinguishable from that accepted basis. Equivalent available capabilities do not give both permission to write to the same target.
 
@@ -35,7 +37,7 @@ Keep these fields in the existing task brief, without creating another queue or 
 
 | Field | What the assignment establishes |
 | --- | --- |
-| Role and owner | Assigned role, both participants' duties, action owner, reporting recipient and follow-up owner. |
+| Role and owner | Enduring role, both participants' current relational roles/polarities, action owner, reporting recipient and follow-up owner. |
 | Outcome and scope | Useful outcome, exact items or work boundary, exclusions, previous completed work and current remainder. |
 | Basis and access | Accepted brief/contract revisions, newer decisions, required source sections, applicable methods, available capabilities and missing access. |
 | Authority | Permitted reads, writes, external actions, destinations and any human commitments or decisions reserved. |
@@ -54,7 +56,7 @@ Perform authorised work while exchanging material discoveries and steering. Reco
 
 Use one accepted current basis and outward continuation. At a meaningful checkpoint, preserve:
 
-- Current brief and accepted steering, role/participant duties, relevant guidance revisions and source routes.
+- Current brief and accepted steering, enduring role and each participant’s current relational role/polarity, relevant guidance revisions and source routes.
 - Exact completed and pending items, saved artifact/state, verified effects and operations with uncertain outcomes.
 - Material evidence, each participant's relevant provisional view, unresolved disagreement and missing access.
 - Remaining effort, next authorised move, owner, result destination and condition for resuming or returning.
@@ -86,7 +88,7 @@ Trace consequential learning through **source → interpretation → decision �
 
 Treat human corrections as evidence about the whole intended result. Distinguish a presentation repair from a change to the argument, aim or standard. Neither participant may silently turn its interpretation of feedback into a new acceptance criterion. Reconcile affected dependencies, preserve sound work and return changes to governing aims to their decision owner.
 
-**Single-loop learning** improves action or method within the current aim and criteria. **Double-loop learning** questions governing assumptions, framing, measures or aims. Both can occur during work. Useful discovery can justify a bounded experiment without a failure; retaining a sound method is also a valid decision.
+Following [Chris Argyris’s distinction](https://store.hbr.org/product/double-loop-learning-in-organizations/77502), **single-loop learning** improves action or method within the current aim and criteria. **Double-loop learning** questions governing assumptions, framing, measures or aims. Both can occur during work. Useful discovery can justify a bounded experiment without a failure; retaining a sound method is also a valid decision.
 
 For meaningful review, consider outcome, evidence, alternatives and whole effort, including avoidable human correction and recovery. Include successes, failures and material excluded or unresolved cases. The following lenses adapt [Felix Rieseberg's *How to be more ambitious*](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/):
 
@@ -125,4 +127,7 @@ Feasibility and comparative benefit are separate conclusions. Use supported runt
 
 The OODA application draws on [John Boyd's *The Essence of Winning and Losing*](https://slightlyeastofnew.com/wp-content/uploads/2010/03/essence_of_winning_losing.pdf) and [Chet Richards's *Boyd's OODA Loop (It's Not What You Think)*](https://slightlyeastofnew.com/wp-content/uploads/2010/03/boyds-real-ooda-loop.pdf). Keep those accounts distinct from this harness's paired-role design. Consult the originals when an adaptation depends on OODA's meaning.
 
+Ben adapts the giver/active-receiver lens from [Iain McGilchrist’s discussion of Ruth E. Kastner’s *The Quantum Master and its Classical Emissary*](https://iainmcgilchrist.substack.com/p/quantum-physics-taoism-and-the-hemispheres). The relational polarities and reversible positions defined here are his harness design, not an empirical finding about AI pairs.
+
 Use the [role template](../roles/ROLE-TEMPLATE.md) for domain responsibilities and the [synthetic research assignment](../examples/research-assignment.md) to see this contract applied. The existing private change record retains source provenance and acceptance history; understanding the portable method does not require access to it.
+
