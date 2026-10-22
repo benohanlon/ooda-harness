@@ -23,6 +23,6 @@ Writing and Editing applies the maintained [Writing and Editorial Standards](ski
 
 The repository holds the versioned skill source. The selected runtime must discover and load that source through its supported skills route. A catalogue entry does not install a skill. See the [Hermes skills guide](https://hermes-agent.nousresearch.com/docs/user-guide/features/skills) for its loading conventions.
 
-Private account connections and changing access state stay with the owner's private setup and working records. Perception Check establishes what the current runtime can actually access and reports material gaps. This catalogue does not inventory every bundled or third-party skill in an installation.
+Private account connections and changing access state stay with the account owner's private setup and working records. Perception Check establishes what the current runtime can actually access and reports material gaps. This catalogue does not inventory every bundled or third-party skill in an installation.
 
 [Return to the README](README.md)

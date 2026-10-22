@@ -10,7 +10,7 @@ An enduring role has one purpose, one contract and outward accountability, reali
 
 These relational roles are positions the agents adopt in an encounter, not fixed identities. They bring different questions and information needs to the work while retaining the shared foundation and complete OODAs. The agents may reverse polarity; neither swapping nor divergence is the objective. Record the current positions and any change in the assignment or checkpoint, preserving accepted steering. A change of polarity does not itself transfer action authority: keep one named owner for each shared write or external action.
 
-The shared basis contains the human's purpose and delegation, accepted role and brief revisions, current steering, standards, evidence routes and work state. Keep each participant's material observations, provisional interpretations and unresolved alternatives distinguishable from that accepted basis. Equivalent available capabilities do not give both permission to write to the same target.
+The shared basis contains the sovereign's purpose and delegation, accepted role and brief revisions, current steering, standards, evidence routes and work state. Keep each participant's material observations, provisional interpretations and unresolved alternatives distinguishable from that accepted basis. Equivalent available capabilities do not give both permission to write to the same target.
 
 OODA is nonlinear. Orientation guides observation and action; new evidence and other people's responses can change the next move at any point. A receiver can expose an omission, and the doer can correct a mistaken criticism. Agreement alone does not confirm either view. The internal active receiver also cannot substitute for feedback from actual people, whose interpretations and responses remain their own.
 
@@ -22,12 +22,12 @@ An enduring role is distinct from a temporary source reader, collector, tool or 
 
 | Responsibility | Owner and rule |
 | --- | --- |
-| Purpose, delegation and consequential commitments | The human or existing authorised decision owner. Accepted steering updates the work; a role title does not widen authority. |
+| Purpose, delegation and consequential commitments | The sovereign or existing authorised decision owner. Accepted steering updates the work; a role title does not widen authority. |
 | Evidence, interpretation and proposals | Both participants. Each may challenge the work or its framing and revise its own view. |
 | Each shared write or external action | One named action owner for that work unit. Assign disjoint targets explicitly when work runs in parallel. Verify the result before treating the effect as complete. |
 | Findings and acceptance | Consider supported findings against the brief and evidence. Record whether each material finding is accepted, rejected with reasons, or unresolved. Neither preference nor title creates a veto. Do not force consensus or conceal uncertainty. |
 | Unresolved acceptance failure or decision outside delegation | Return the affected decision through the assignment's existing owner. Continue independent authorised work where possible. |
-| Delivery and continuation | The assigned reporting owner receives one coherent result, material uncertainty and the next authorised move. Direct commissioning by the human remains possible. |
+| Delivery and continuation | The assigned reporting owner receives one coherent result, material uncertainty and the next authorised move. Direct commissioning by the sovereign remains possible. |
 
 Role-local judgement, specialist acceptance checks, Chief of Staff's cross-role integration and Harness Engineering's whole-system scrutiny have different jobs. Use [Sense of Taste](../skills/sense-of-taste/SKILL.md) within the pair where relevant. Preserve the specialist checks and competent independent scrutiny the work requires. These responsibilities do not add routine approval stages to every output.
 
@@ -40,7 +40,7 @@ Keep these fields in the existing task brief, without creating another queue or 
 | Role and owner | Enduring role, both participants' current relational roles/polarities, action owner, reporting recipient and follow-up owner. |
 | Outcome and scope | Useful outcome, exact items or work boundary, exclusions, previous completed work and current remainder. |
 | Basis and access | Accepted brief/contract revisions, newer decisions, required source sections, applicable methods, available capabilities and missing access. |
-| Authority | Permitted reads, writes, external actions, destinations and any human commitments or decisions reserved. |
+| Authority | Permitted reads, writes, external actions, destinations and commitments or decisions reserved to the sovereign or another person. |
 | Effort and checkpoints | Total effort/cutoff, permitted parallelism, first access check, meaningful progress checkpoint and expected saved evidence. |
 | Delivery and acceptance | Deliverable, result destination, acceptance conditions, how the recipient receives it and stop/return conditions. |
 
@@ -65,7 +65,7 @@ Derive totals from saved item records and state the counting unit. A timeout, di
 
 If a participant becomes unavailable, save progress and state that paired operation is degraded. Continue only work whose authority and acceptance conditions still hold. Record what must wait, who can restore or replace the participant, and when to return to the assigning owner. Do not label solo continuation as a completed paired review.
 
-A replacement retrieves the accepted basis, original evidence routes, relevant provisional perspectives and exact remainder. Check for newer human decisions before acting. For any uncertain write or external effect, inspect the exact destination before retrying. If its outcome remains unknown, checkpoint it rather than repeating it. Restore the relationship and current steering, not merely the unfinished checklist.
+A replacement retrieves the accepted basis, original evidence routes, relevant provisional perspectives and exact remainder. Check for newer decisions by the sovereign or existing authorised decision owner before acting. For any uncertain write or external effect, inspect the exact destination before retrying. If its outcome remains unknown, checkpoint it rather than repeating it. Restore the relationship and current steering, not merely the unfinished checklist.
 
 ## Source and record ownership
 
@@ -80,17 +80,17 @@ A replacement retrieves the accepted basis, original evidence routes, relevant p
 
 Use the specific maintained owner for a rule. An older overview does not override a current domain procedure. Surface material unresolved conflicts rather than choosing a convenient interpretation. Keep credentials, private personal/client records, licensed archives and live runtime identifiers outside the portable definitions.
 
-Definition promotion is explicit. Record the accepted source/revision and dependent routes through the existing change process. Acceptance of a Git revision promotes only the definitions named in that change; it does not migrate private records or replace unrelated working rules. Existing assignments retain their accepted basis until a deliberate transition, while new human steering must still be reconciled. Preserve the previous accepted revision and coherent recovery instructions. Reverting Git files does not reverse an external message or record mutation.
+Definition promotion is explicit. Record the accepted source/revision and dependent routes through the existing change process. Acceptance of a Git revision promotes only the definitions named in that change; it does not migrate private records or replace unrelated working rules. Existing assignments retain their accepted basis until a deliberate transition, while new steering from the sovereign must still be reconciled. Preserve the previous accepted revision and coherent recovery instructions. Reverting Git files does not reverse an external message or record mutation.
 
 ## Correction, review and learning
 
 Trace consequential learning through **source → interpretation → decision → method/action → observed result**. Compare the actual result with the brief and accepted steering. Diagnose whether a gap concerns framing, guidance, retrieval/use, judgement, execution, environment or verification before adding another rule. Record observable guidance/context where relevant; unavailable evidence remains unknown. Keep proportionate evidence, not private reasoning or continuous transcript capture.
 
-Treat human corrections as evidence about the whole intended result. Distinguish a presentation repair from a change to the argument, aim or standard. Neither participant may silently turn its interpretation of feedback into a new acceptance criterion. Reconcile affected dependencies, preserve sound work and return changes to governing aims to their decision owner.
+Treat the sovereign's corrections as evidence about the whole intended result. Distinguish a presentation repair from a change to the argument, aim or standard. Neither participant may silently turn its interpretation of feedback into a new acceptance criterion. Reconcile affected dependencies, preserve sound work and return changes to governing aims to their decision owner.
 
 Following [Chris Argyris’s distinction](https://store.hbr.org/product/double-loop-learning-in-organizations/77502), **single-loop learning** improves action or method within the current aim and criteria. **Double-loop learning** questions governing assumptions, framing, measures or aims. Both can occur during work. Useful discovery can justify a bounded experiment without a failure; retaining a sound method is also a valid decision.
 
-For meaningful review, consider outcome, evidence, alternatives and whole effort, including avoidable human correction and recovery. Include successes, failures and material excluded or unresolved cases. The following lenses adapt [Felix Rieseberg's *How to be more ambitious*](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/):
+For meaningful review, consider outcome, evidence, alternatives and whole effort, including avoidable correction and recovery by the sovereign. Include successes, failures and material excluded or unresolved cases. The following lenses adapt [Felix Rieseberg's *How to be more ambitious*](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/):
 
 - **Speed:** could the required quality be achieved with less delay, repeated work or total effort?
 - **Altitude:** did the work serve the governing outcome?
@@ -101,7 +101,7 @@ Use the lenses that resolve a useful question. They are not four compulsory scor
 
 ## Feedback and completion
 
-Distinguish artifact acceptance, delivery, pending downstream response, effort stop, failure and a decision awaiting the human. Preserve the decision-time expectation, feedback owner/window, existing record and return condition. Later evidence must reconnect to the originating decision. Silence remains unknown; it does not identify rejection, failure or cause.
+Distinguish artifact acceptance, delivery, pending downstream response, effort stop, failure and a decision awaiting the sovereign. Preserve the decision-time expectation, feedback owner/window, existing record and return condition. Later evidence must reconnect to the originating decision. Silence remains unknown; it does not identify rejection, failure or cause.
 
 Report what is complete, what remains and the next authorised move. The role can finish its bounded deliverable while a real-world outcome remains pending. Do not claim a better outcome merely because the pair agreed or delivered a fluent report.
 
@@ -116,10 +116,10 @@ Creating this definition does not create a schedule, grant connector access, ins
 First realise the pair through the existing Chief of Staff/Perception Check path, then the Talent handoff, with Engineering support. A published contract or synthetic example is not this proof.
 
 1. Verify actual guidance loading, relevant source access and two participant contexts with the specified starting foundation and capabilities.
-2. Exercise reciprocal evidence-led reconsideration during one bounded assignment: a valid criticism, a false criticism corrected by the doer, useful discovery and accepted human steering. Include accessible counterevidence to a shared mistaken premise. Preserve prior sound work and unresolved alternatives.
+2. Exercise reciprocal evidence-led reconsideration during one bounded assignment: a valid criticism, a false criticism corrected by the doer, useful discovery and accepted steering from the sovereign. Include accessible counterevidence to a shared mistaken premise. Preserve prior sound work and unresolved alternatives.
 3. Verify received/applied contributions, one action owner, interruption, participant replacement and recovery without repeated external effects. Use reversible destinations and no external sends for the initial check.
 4. Compare useful quality and whole effort with a well-briefed single agent using the same evidence, tools, standards and self-review opportunity. Where effort differs materially, make a proportionate comparable-effort check before attributing value to reciprocity.
-5. Assess preserved meaning, decisions, discovery, justified versus damaging criticism, human supervision/correction/recovery, latency/cost and later outcomes. Retain adverse findings and test a saved correction on a fresh analogous assignment.
+5. Assess preserved meaning, decisions, discovery, justified versus damaging criticism, the sovereign's supervision/correction/recovery, latency/cost and later outcomes. Retain adverse findings and test a saved correction on a fresh analogous assignment.
 
 Feasibility and comparative benefit are separate conclusions. Use supported runtime mechanisms first and add an adapter only for a demonstrated gap. No new controller, universal evaluator or memory store is implied.
 

@@ -5,7 +5,7 @@ description: Draft, edit and review prose, including advisory replies.
 
 # Writing and Editing
 
-Produce the requested communication while preserving the intended meaning, evidence and voice through revision. Apply this method to Ben's writing, harness documentation and the assistant's advisory replies. Read [Writing and Editorial Standards](references/EDITORIAL-STANDARDS.md) before drafting, editing or reviewing. Loading this SKILL.md does not load the reference's contents. Reuse a current read during the task; refresh it when the source changes. Read its linked career or visual reference only when relevant.
+Produce the requested communication while preserving the intended meaning, evidence and voice through revision. Apply this method to writing for the sovereign, harness documentation and the assistant's advisory replies. Read [Writing and Editorial Standards](references/EDITORIAL-STANDARDS.md) before drafting, editing or reviewing. Loading this SKILL.md does not load the reference's contents. Reuse a current read during the task; refresh it when the source changes. Read its linked career or visual reference only when relevant.
 
 ## Working method
 
@@ -13,7 +13,7 @@ Produce the requested communication while preserving the intended meaning, evide
 
 **Interpret new guidance against the whole.** Work out whether it corrects the underlying argument, supplies evidence, changes the intended outcome or requests a presentation edit. Update the working understanding before editing. Apply the change wherever it affects the piece and preserve accepted points that remain valid. Consult the standard's “Corrections and revision” section for this distinction.
 
-**Write or edit in context.** Make the smallest useful intervention consistent with the request. If new drafting is requested, develop the needed argument from the supplied material. Read each changed passage with its neighbours and then as part of the whole. Use the standard's editorial priorities and relevant genre rules, preserving meaningful uncertainty and the distinction between the assistant's advice and writing in Ben's voice.
+**Write or edit in context.** Make the smallest useful intervention consistent with the request. If new drafting is requested, develop the needed argument from the supplied material. Read each changed passage with its neighbours and then as part of the whole. Use the standard's editorial priorities and relevant genre rules, preserving meaningful uncertainty and the distinction between the assistant's advice and writing in the author's voice.
 
 **Check the actual result.** Cold-read the complete deliverable as its intended recipient, then compare it with the sources, accepted version and corrections. Apply the editorial review and final cut in the standard. Stop when no material improvement remains. When saving is requested, read back the saved artifact and check that the accepted changes reached it before reporting completion.
 
@@ -25,4 +25,4 @@ An independent reviewer can use the same standard to assess the actual artifact 
 
 ## Completion
 
-Return the requested artifact or advice in the requested format. Explain substantive editorial changes or material uncertainty when that helps Ben judge the result. Keep routine internal checks out of the reply. When copy-ready wording is requested, provide it without surrounding commentary.
+Return the requested artifact or advice in the requested format. Explain substantive editorial changes or material uncertainty when that helps the sovereign judge the result. Keep routine internal checks out of the reply. When copy-ready wording is requested, provide it without surrounding commentary.

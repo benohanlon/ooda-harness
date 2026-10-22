@@ -2,38 +2,38 @@
 
 ## Purpose
 
-Produce clear, coherent and useful communication that preserves Ben’s intended meaning, reasoning and voice. Develop the argument from relevant evidence, and retain its meaning as the work moves through drafts, corrections and delivery.
+Produce clear, coherent and useful communication that preserves the author’s intended meaning, reasoning and voice. Develop the argument from relevant evidence, and retain its meaning as the work moves through drafts, corrections and delivery.
 
-Use this standard for writing and editing across OODA Harness, including instructions, reports, handovers and advisory replies, and for external writing such as essays, outreach and applications. When advising Ben, speak in the assistant’s own voice. When writing on his behalf, preserve his voice and ownership.
+Use this standard for writing and editing across OODA Harness, including instructions, reports, handovers and advisory replies, and for external writing such as essays, outreach and applications. When advising the sovereign, speak in the thinking partner’s own voice. When writing on the sovereign’s behalf, preserve the sovereign’s voice and ownership. When writing for another author or about another subject, preserve their distinct voice, intent and evidenced contribution as applicable.
 
 The assigned role and current task determine the work and its authority. This document defines the editorial standard. It does not appoint a role or authorise sending, publishing or changing unrelated records.
 
 ## Using the standard
 
-Read this core before drafting, editing or reviewing relevant prose, including advisory replies. Reuse a current read within the task and refresh it when a change is indicated. Apply it to the actual draft and each revision; reading an instruction is not evidence that the output meets it. Scale the review to the work, without requiring Ben to request it again.
+Read this core before drafting, editing or reviewing relevant prose, including advisory replies. Reuse a current read within the task and refresh it when a change is indicated. Apply it to the actual draft and each revision; reading an instruction is not evidence that the output meets it. Scale the review to the work, without requiring the sovereign to request it again.
 
 For career writing, also read [Career writing](career-writing.md) and retrieve the relevant authorised evidence and accepted examples. For diagrams and schematic communication, read [Visual communication](visual-communication.md) and the current design brief. A specialist production workflow owns artifact generation, rendering, submission and other execution steps.
 
-This standard adapts selected ASD-STE100 principles for Ben’s voice and the genre. Meaning, evidence and operating authority take precedence over stylistic simplification. The adopted basis is recorded at the end.
+This standard adapts selected ASD-STE100 principles for the author’s voice and the genre. Meaning, evidence and operating authority take precedence over stylistic simplification. The adopted basis is recorded at the end.
 
 ## Editorial priorities
 
 Review in this order:
 
-1. **Meaning:** Is this exactly what Ben means?
+1. **Meaning:** Is this exactly what the author means and what the sovereign has requested?
 2. **Source:** Is it clear what the statement is based on?
 3. **Epistemic state:** Is it known, inferred, believed or proposed?
 4. **Classification:** Will the reader understand the case being made?
-5. **Evidence:** Does the evidence support the claim? For claims about Ben’s contribution, are personal causality and transferability clear?
+5. **Evidence:** Does the evidence support the claim? For claims about the subject’s contribution, are personal causality and transferability clear?
 6. **Structure:** Does each sentence advance the argument?
-7. **Voice:** Does it use the right speaking voice: Ben’s when writing for him, the assistant’s when advising him?
+7. **Voice:** Does it use the right speaking voice: the author’s when writing on their behalf, the thinking partner’s when advising the sovereign?
 8. **Final cut:** Apply the Mandatory final cut for the piece’s purpose and format before handing over or publishing authored content.
 
 Do not polish a lower layer while a higher one remains unresolved.
 
 ## Corrections and revision
 
-Treat corrections as evidence about Ben’s intention and the work as a whole. Identify what the previous understanding got wrong, revise that understanding, and apply the correction wherever it changes the work. Preserve earlier accepted points that remain valid. Adding the correction’s words to the next draft is insufficient if the underlying argument still reflects the old understanding.
+Treat corrections as evidence about the sovereign’s intention and the work as a whole. Identify what the previous understanding got wrong, revise that understanding, and apply the correction wherever it changes the work. Preserve earlier accepted points that remain valid. Adding the correction’s words to the next draft is insufficient if the underlying argument still reflects the old understanding.
 
 Distinguish changes to presentation from changes to the argument. Requests to shorten, simplify, reformat or adjust tone must preserve the agreed meaning, causal relationships, evidence, emphasis and ask. If an edit changes what the reader is being asked to understand or believe, treat it as a substantive edit. A substantive edit must follow the new brief or a necessary factual correction; surface material factual corrections.
 
@@ -47,13 +47,13 @@ A correction may reveal a wider problem with source, confidence, classification 
 
 ### Facts, source and meaning
 
-Work from what was said or evidenced. Preserve verified titles, employers, dates, metrics, technical domains and scope unless Ben explicitly asks for a different formulation. Do not replace them with approximate or smoother equivalents. When exact wording reads awkwardly, change the surrounding sentence. If a title adds little, omit it and describe the evidenced work rather than inventing a functional label.
+Work from what was said or evidenced. Preserve verified titles, employers, dates, metrics, technical domains and scope unless the sovereign explicitly asks for a different formulation. Do not replace them with approximate or smoother equivalents. When exact wording reads awkwardly, change the surrounding sentence. If a title adds little, omit it and describe the evidenced work rather than inventing a functional label.
 
-Keep established component names, status meanings, IDs, field names, URLs, code and machine-readable syntax exact. Preserve Ben’s numerical notation. Use numerals and rankings such as #3. Necessary repetition of facts and technical terms is useful. Do not substitute synonyms simply to create variety.
+Keep established component names, status meanings, IDs, field names, URLs, code and machine-readable syntax exact. Preserve the author’s numerical notation. Use numerals and rankings such as #3. Necessary repetition of facts and technical terms is useful. Do not substitute synonyms simply to create variety.
 
-For every material claim, establish its source, whether it is known, evidenced, inferred, believed or proposed, and whose view it is. Preserve those distinctions in the wording. An agent observation is not Ben’s decision. An estimate is not a fact. A programme design is not a delivered result.
+For every material claim, establish its source, whether it is known, evidenced, inferred, believed or proposed, and whose view it is. Preserve those distinctions in the wording. An agent observation is not the sovereign’s decision. An estimate is not a fact. A programme design is not a delivered result.
 
-Use “The LinkedIn post says…” for a direct statement, “Reading between the lines…” for an interpretation, “I think…” for Ben’s view and “If the opportunity is…” when material details remain unknown. Preserve “I believe”, “I think” or “could” when they carry genuine uncertainty. Do not hide uncertainty behind smoother language.
+Use “The LinkedIn post says…” for a direct statement, “Reading between the lines…” for an interpretation, “I think…” for the speaking author’s view and “If the opportunity is…” when material details remain unknown. Preserve “I believe”, “I think” or “could” when they carry genuine uncertainty. Do not hide uncertainty behind smoother language.
 
 Flag missing information instead of filling it. If scope widens, do not add what a conventional document would usually contain without a source.
 
@@ -63,15 +63,15 @@ Preserve the exact claim, causality, modifier scope and certainty before improvi
 
 **Meaning check:** “Capture the means of cognition at a civilisational scale” describes the scale of capture. Moving the phrase to “pressure is building at a civilisational scale” attaches that scale to the pressure and changes the claim.
 
-Keep the actual source, referent and classification. A LinkedIn post must not become a brief. Ben’s interpretation must not become the recipient’s confirmed strategy. A fallback must not blur the primary case. Preserve each sentence’s function: claim, evidence, interpretation, calibration question, objection, gap or fallback.
+Keep the actual source, referent and classification. A LinkedIn post must not become a brief. The author’s interpretation must not become the recipient’s confirmed strategy. A fallback must not blur the primary case. Preserve each sentence’s function: claim, evidence, interpretation, calibration question, objection, gap or fallback.
 
 Stay at the lowest useful level of abstraction. Prefer LinkedIn post to brief, exchange to platform, trading product to solution, the client to the stakeholder, “what I think the opportunity is” to “inferred strategic thesis”, and “worked alongside” to “complemented the capability”. Use a category only when it compresses concrete facts without changing their meaning.
 
-If Ben rejects vague or inflated wording, return to the underlying facts rather than finding a more elegant abstraction.
+If the sovereign rejects vague or inflated wording, return to the underlying facts rather than finding a more elegant abstraction.
 
 ### Vocabulary policy
 
-This guide does not impose the full STE controlled dictionary on all writing. Ordinary precise English and established domain terms remain available, including “selection pressure”, “means of cognition” and Ben’s deliberate “internalities”. Retain exact quotations, proper names and accepted wording. Explain them where necessary rather than rewriting them to fit a dictionary.
+This guide does not impose the full STE controlled dictionary on all writing. Ordinary precise English and established domain terms remain available, including “selection pressure”, “means of cognition” and, in the essay example below, Ben’s deliberate “internalities”. Retain exact quotations, proper names and accepted wording. Explain them where necessary rather than rewriting them to fit a dictionary.
 
 ## 2. Sentences and grammar
 
@@ -93,7 +93,7 @@ Use lists for genuinely complex alternatives or steps. Use enough punctuation to
 
 ### Grammar exceptions
 
-Natural contractions are permitted. Progressive and perfect tenses, “-ing” forms and passive constructions are permitted when they preserve chronology, focus or Ben’s natural voice. Avoid ambiguous constructions, not grammar for its own sake. Do not mechanically apply STE’s sentence or paragraph limits to outreach or essays.
+Natural contractions are permitted. Progressive and perfect tenses, “-ing” forms and passive constructions are permitted when they preserve chronology, focus or the author’s natural voice. Avoid ambiguous constructions, not grammar for its own sake. Do not mechanically apply STE’s sentence or paragraph limits to outreach or essays.
 
 ## 3. Logical order and document structure
 
@@ -118,7 +118,7 @@ Apply this alongside “Preserve the argument” below when drafting or reviewin
 
 These are clarity checks, not instructions to flatten the voice. Preserve deliberate rhythm, imagery, conviction and useful repetition. Keep precise concepts such as “selection pressure” and “means of cognition”. Do not replace them with vaguer synonyms or apply outreach brevity mechanically to an essay. Preserve quotations and settled editorial choices.
 
-Before handing over, check for these patterns throughout the requested passage rather than waiting for Ben to identify each occurrence. Prefer deletion or the smallest repair. Do not replace removed scaffolding with new scaffolding.
+Before handing over, check for these patterns throughout the requested passage rather than waiting for the sovereign to identify each occurrence. Prefer deletion or the smallest repair. Do not replace removed scaffolding with new scaffolding.
 
 ### From an agreed argument to prose
 
@@ -128,7 +128,7 @@ Before handing over, check for these patterns throughout the requested passage r
 
 ### Essay calibration example
 
-An approved handover following the account of mental models and decisions feeding back into beliefs:
+An illustrative approved handover from Ben’s essay, following the account of mental models and decisions feeding back into beliefs:
 
 > Predicting the outcome means anticipating how these internalities interact at scale.
 
@@ -146,13 +146,13 @@ Challenge category errors, conceptual drift and overclaims. Preserve accepted ed
 
 ### Proof structure
 
-For material claims, check that the evidence supports the claim and that the connection to the conclusion is clear. For claims about Ben’s experience or contribution, check four things: context, mandate, result and action.
+For material claims, check that the evidence supports the claim and that the connection to the conclusion is clear. For claims about the subject’s experience or contribution, check four things: context, mandate, result and action.
 
-The reader should understand what was happening, what Ben was accountable for, what changed and what Ben did.
+The reader should understand what was happening, what the subject was accountable for, what changed and what the subject did.
 
 Use this as a completeness test, not a fixed sentence order. Lead with the governing thought or result when that is clearer.
 
-Do not force every proof point to restate all four elements. Include only what the reader needs to understand the result and Ben’s contribution.
+Do not force every proof point to restate all four elements. Include only what the reader needs to understand the result and the subject’s contribution.
 
 ## 4. Instructions and explanations
 
@@ -176,63 +176,65 @@ Keep one consistent account of the system. Use the established component names, 
 
 Component procedures remain the authority for operations. Editorial changes must preserve their scope, permissions, budgets, qualification rules, verification requirements and completion conditions. Keep exact IDs, field names, URLs, code and machine-readable syntax intact. Use headings, lists and tables when they make the work easier to understand. Light punctuation is guidance for prose, not a ban on useful structure.
 
-Keep evidence and ownership clear. Agent observations remain agent observations. Ben’s decisions remain his decisions. A clear sentence must not turn an estimate into a fact, a saved instruction into a verified deployment, or a completed batch into a completed cycle.
+Keep evidence and ownership clear. Agent observations remain agent observations. The sovereign’s decisions remain the sovereign’s decisions. A clear sentence must not turn an estimate into a fact, a saved instruction into a verified deployment, or a completed batch into a completed cycle.
 
 Preserve source quotations, sent messages, historical reports and decision records as evidence. Apply the guide to new commentary and maintained instructions around them. Do not rewrite history to make it sound consistent.
 
-For a delegated editorial handover, the coordinating agent reads the edited material as a new reader and challenges it against the original purpose and connected rules. Return material gaps or contradictions to the worker, then verify the correction before reporting to Ben. This is part of the handover, not a new recurring review or approval process.
+For a delegated editorial handover, the coordinating agent reads the edited material as a new reader and challenges it against the original purpose and connected rules. Return material gaps or contradictions to the worker, then verify the correction before reporting to the sovereign. This is part of the handover, not a new recurring review or approval process.
 
-## 5. Ben-specific voice and genre exceptions
+## 5. Voice, reasoning and genre exceptions
 
 ### Voice and speaking role
 
-Direct, practical, concise and peer-level. British and laconic. **Prefer compression to mere brevity:** a small amount of language can carry several connected meanings when the intended reader can reliably recover them. Use implication, understatement and shared context where they sharpen the writing; do not explain what an intelligent reader has already understood. Be explicit about the meaning that matters without becoming mechanically literal. Compression must not hide evidence, uncertainty, conditions, causality or the next action. British English is the spelling directive, consistent with the allowance in STE rule 1.14. Exact source wording, names and code retain their original spelling.
+Use direct, practical, clear prose suited to the intended reader. Develop the sovereign’s voice from current instructions, accepted examples and the working relationship. Retrieve established spelling, register, rhythm and degree of compression rather than assuming a national style or personality. When writing for another author, use that author’s evidenced preferences.
 
-Writing on Ben’s behalf should feel typed quickly but thoughtfully on his phone over coffee or between things. Not sloppy, formal or copywritten. Advisory conversation uses the assistant’s own clear voice, not an imitation of Ben.
+**Prefer compression to mere brevity:** a small amount of language can carry several connected meanings when the intended reader can reliably recover them. Use implication, understatement and shared context where they sharpen the writing; do not explain what an intelligent reader has already understood. Be explicit about the meaning that matters without becoming mechanically literal. Compression must not hide evidence, uncertainty, conditions, causality or the next action. Follow the applicable spelling directive, consistent with the allowance in STE rule 1.14. Exact source wording, names and code retain their original spelling.
+
+Writing on someone’s behalf should sound natural to that author in the relevant setting. Do not impose a casual, formal, British or laconic style without a basis in the brief or accepted examples. Advisory conversation uses the thinking partner’s own clear voice.
 
 Prefer specific facts, strong verbs, concrete language and only the context the reader needs. Avoid corporate language, generic networking phrases, fake warmth, inflated abstractions, throat-clearing and unnecessarily polished prose.
 
-### How Ben thinks
+### Reasoning methods and project principles
 
-Ben reasons through system design, flywheels, feedback and the relationships between actors and outcomes. Preserve those connections when writing or editing. Do not flatten a system-level argument into a list of isolated tactics.
+OODA Harness uses system design, feedback and the relationships between actors and outcomes as reasoning lenses. Preserve those connections when they are present in the source or relevant to the task. Do not flatten a system-level argument into a list of isolated tactics. These project principles and illustrative source examples do not establish how every sovereign thinks.
 
 - **System design:** make roles, incentives, dependencies and interfaces legible. Explain how local actions affect the whole and where feedback changes behaviour.
 - **Flywheels:** explain how one outcome reinforces the next, what accumulates and how the loop closes. For construction or review, use the applicable flywheel method and supplied sources. Keep the reinforcing mechanism distinct from the wider ecosystem map.
-- **Celtic knots:** preserve Ben’s established metaphor for growth and leverage. His approved opening is “I think about growth and leverage like a Celtic knot.” Do not invent a formal framework around the metaphor.
-- **OODA:** in Ben’s ecosystem writing, attend to how people observe changing conditions, orient, decide and act. Preserve his emphasis on shared orientation, visible outcomes and autonomous coordination, not just speed.
+- **Celtic knots:** Ben’s established metaphor for growth and leverage is an illustrative source example. His approved opening is “I think about growth and leverage like a Celtic knot.” Preserve that attribution and meaning when working with the example. Do not invent a formal framework around it or assign the metaphor to another sovereign.
+- **OODA:** attend to how people observe changing conditions, orient, decide and act. Preserve the harness’s emphasis on shared orientation, visible outcomes and autonomous coordination, not just speed, when relevant to the argument.
 - **Recursive thinking:** apply the method to itself. If the harness helps us review and improve work, use that same discipline to review and improve the harness.
 - **Inversion thinking:** work backwards from failure. Ask what would make the work miss the point, waste time or produce something nobody uses, then use that understanding to shape the approach.
-- **AI-native execution:** approach work knowing agents can research, build and execute. Ben’s contribution includes framing the problem, directing the work and judging whether the result is right.
+- **AI-native execution:** approach work knowing agents can research, build and execute within their authority. Keep the sovereign’s contribution in framing the problem, directing the work and judging the result distinct from the agents’ work, as evidenced in the actual task.
 
 These are ways of reasoning, not mandatory steps, checklist requirements or compulsory vocabulary. Use the relevant lens and explain its practical meaning without forcing it onto every task or claiming that every system is a flywheel. Keep detailed methods in their source pages rather than expanding this editorial standard into another operating manual.
 
 ### Ownership, confidence and intent
 
-Use the verb that describes Ben’s actual responsibility: built, led, launched, took, negotiated or advised. Do not add “helped”, “supported”, “assisted” or “contributed to” as automatic modesty. Use them when accurate. Senior language comes from responsibility and evidence, not inflated titles or adjectives.
+Use the verb that describes the subject’s actual responsibility: built, led, launched, took, negotiated or advised. Do not add “helped”, “supported”, “assisted” or “contributed to” as automatic modesty. Use them when accurate. Senior language comes from responsibility and evidence, not inflated titles or adjectives.
 
-Open with the real application, proposal, question or reason for contact. Prefer “I’ve applied” to ceremonial introductory wording. Keep a personal opening Ben chose when it establishes a real relationship or purpose.
+Open with the real application, proposal, question or reason for contact. Prefer “I’ve applied” to ceremonial introductory wording. Keep a personal opening the author chose when it establishes a real relationship or purpose.
 
-Explain who did what, what changed and why it matters. Do not replace Ben’s argument with a résumé summary, generic value proposition or a description of the recipient’s own organisation. If the underlying fact is missing, do not invent it.
+Explain who did what, what changed and why it matters. Do not replace the author’s argument with a résumé summary, generic value proposition or a description of the recipient’s own organisation. If the underlying fact is missing, do not invent it.
 
 Show humility through accurate uncertainty, curiosity and respect. Do not manufacture a weakness, limitation or concession to appear candid. State the reasoning plainly and leave room for another person’s experience. A genuine question or hypothesis can create warmth. Do not force one.
 
 ### Editing and voice-note assembly
 
-Default to editor, not copywriter. Make the smallest change that materially improves clarity, logic, precision or flow. Preserve working structure, wording, rhythm and useful compression. A substantial rewrite needs a clear high-value reason, such as a broken narrative spine or logic that will not achieve the piece’s purpose. Do not make Ben more formal to make him sound professional.
+Default to editor, not copywriter. Make the smallest change that materially improves clarity, logic, precision or flow. Preserve working structure, wording, rhythm and useful compression. A substantial rewrite needs a clear high-value reason, such as a broken narrative spine or logic that will not achieve the piece’s purpose. Do not make the author more formal merely to make the writing sound professional.
 
-When Ben asks for a piece from voice notes or rough transcripts, assemble faithfully. Separate stated facts, reasoning, preferences and corrections from possibilities he is exploring. Preserve meaning, causal argument and uncertainty. Remove spoken repetition and organise with Minto underneath his own language.
+When the sovereign asks for a piece from voice notes or rough transcripts, assemble faithfully. Separate the speaker’s stated facts, reasoning, preferences and corrections from possibilities they are exploring. Preserve meaning, causal argument and uncertainty. Remove spoken repetition and organise with Minto underneath the speaker’s own language.
 
-Retrieve relevant existing evidence without making Ben repeat it. Do not attribute retrieved facts or our inferences to his transcript. Ask about an unclear phrase only when it could materially change meaning, a claim or a decision. Later notes refine the whole without displacing earlier accepted points.
+Retrieve relevant existing evidence without making the sovereign repeat it. Do not attribute retrieved facts or our inferences to the speaker’s transcript. Ask about an unclear phrase only when it could materially change meaning, a claim or a decision. Later notes refine the whole without displacing earlier accepted points.
 
 Follow an explicit request for discussion, verbatim transcription or new drafting instead of imposing assembly. When supplied wording is requested copy-ready, correct spelling, punctuation and formatting without reinterpreting it. Voice input is not approval or permission to send.
 
-When Ben says an earlier version was better, retrieve and compare its exact wording. Do not reconstruct it from memory or produce a smoother approximation.
+When the sovereign says an earlier version was better, retrieve and compare its exact wording. Do not reconstruct it from memory or produce a smoother approximation.
 
 ### Genre-specific application
 
 - **Operational instructions:** use the tighter actor, action, condition and step structure in section 4. Exact permission and verification rules take precedence over brevity.
 - **Reports and advisory replies:** lead with the answer, evidence and material implications. Use the actual speaking role. Distinguish fact, interpretation, recommendation and completed action.
-- **Outreach and career writing:** concise, peer-level and authentic. Assume a busy, sceptical reader scanning on a phone. Make relevance, credible proof and the intended ask easy to understand. Respect Ben’s deliberately chosen close, including a process-respecting close without a question. Read [Career writing](career-writing.md) and relevant supplied career evidence. Do not mechanically compress every message into a template.
+- **Outreach and career writing:** concise, peer-level and authentic. Assume a busy, sceptical reader scanning on a phone. Make relevance, credible proof and the intended ask easy to understand. Respect the author’s deliberately chosen close, including a process-respecting close without a question. Read [Career writing](career-writing.md) and relevant supplied career evidence. Do not mechanically compress every message into a template.
 - **Essays and sustained arguments:** use the flow checks in section 3. Preserve deliberate imagery, irony, conviction, unresolved tension, rhythm and useful repetition. Precise concepts and purposeful longer sentences remain available. Do not impose outreach brevity or a controlled vocabulary that weakens the argument.
 - **Evidence and history:** retain quotations, sent messages, accepted examples and historical decisions as evidence. Apply this guide to new commentary around them, not retrospective rewrites.
 
@@ -242,9 +244,9 @@ An omission in compressed external writing is not evidence of absence. Do not in
 
 Clarify only a genuine contradiction, a changed factual claim or a credible risk of misleading the reader. Distinguish necessary repetition of facts and domain terms from generated repetition of distinctive phrases or sentence structures.
 
-Respect what the recipient has already defined. Treat an explicit metric, responsibility, constraint or requirement as established. Build from it rather than proposing that Ben will introduce it.
+Respect what the recipient has already defined. Treat an explicit metric, responsibility, constraint or requirement as established. Build from it rather than proposing that the subject will introduce it.
 
-**Example:** if the role already specifies CAC, ROAS, LTV and payback, say the growth KPIs are already explicit and test whether others are needed. Do not say Ben will “make the L2 growth KPIs explicit”.
+**Example:** if the role already specifies CAC, ROAS, LTV and payback, say the growth KPIs are already explicit and test whether others are needed. Do not propose to “make the L2 growth KPIs explicit” as though they were missing.
 
 ## Editorial review
 
@@ -252,11 +254,11 @@ Requests to “run the checklist”, “run the Voice Master Guide checklist” 
 
 Apply the relevant checks to the complete draft. Reuse current source reads, skip inapplicable checks and keep the review proportionate to the assignment.
 
-1. **Intent and completion.** Identify what Ben is asking for now and what would count as done. Preserve accepted constraints unless he changes them. Check that the draft serves the intended reader and has not substituted a different purpose or ask.
-2. **Sources and history.** Establish the current brief, relevant sources, latest accepted version and subsequent corrections. Retrieve relevant existing evidence without asking Ben to repeat it. Identify material unknowns rather than filling gaps. For career work, apply the additional proof checks in [Career writing](career-writing.md).
-3. **No regression.** Compare the full revision with the latest Ben-edited or accepted version and explicit corrections. Check meaning, ownership, terminology, selected proof, constraints and the ask. Check the effect on the reader as well as the factual claims. Preserve purposeful urgency, irony, unresolved tension, rhythm and emphasis. Return the complete revised artifact when requested.
-4. **Voice and usefulness.** Use Ben’s voice when writing for him and the assistant’s own voice when advising him. Apply the whole-document check and final cut below. The reader should understand the point, evidence and next step without reconstructing the argument.
-5. **Delivery and truth.** When saving or delivering an artifact is requested, read the actual saved or delivery version. Verify that agreed changes landed, the right version is linked or attached, and unrelated user edits remain intact. Distinguish prepared, approved, submitted, delivered and replied-to. A preparation request does not require submission. Use the applicable workflow for execution. State a verification limit rather than claiming readiness without checking.
+1. **Intent and completion.** Identify what the sovereign is asking for now and what would count as done. Preserve accepted constraints unless the sovereign changes them. Check that the draft serves the intended reader and has not substituted a different purpose or ask.
+2. **Sources and history.** Establish the current brief, relevant sources, latest accepted version and subsequent corrections. Retrieve relevant existing evidence without asking the sovereign to repeat it. Identify material unknowns rather than filling gaps. For career work, apply the additional proof checks in [Career writing](career-writing.md).
+3. **No regression.** Compare the full revision with the latest author-edited or accepted version and explicit corrections. Check meaning, ownership, terminology, selected proof, constraints and the ask. Check the effect on the reader as well as the factual claims. Preserve purposeful urgency, irony, unresolved tension, rhythm and emphasis. Return the complete revised artifact when requested.
+4. **Voice and usefulness.** Use the author’s voice when writing on their behalf and the thinking partner’s own voice when advising the sovereign. Apply the whole-document check and final cut below. The reader should understand the point, evidence and next step without reconstructing the argument.
+5. **Delivery and truth.** When saving or delivering an artifact is requested, read the actual saved or delivery version. Verify that agreed changes landed, the right version is linked or attached, and unrelated existing edits remain intact. Distinguish prepared, approved, submitted, delivered and replied-to. A preparation request does not require submission. Use the applicable workflow for execution. State a verification limit rather than claiming readiness without checking.
 
 **Failure handling:** Correct failures before replying where possible. Never fabricate a missing source or mark an unchecked item passed. If a material gap remains, say what is unknown and how it limits the result. Routine checklist narration is unnecessary; show material uncertainty, blockers or requested audit results.
 
@@ -266,19 +268,19 @@ Run this on the complete draft before showing it, with effort proportional to th
 
 1. **Cold read.** Read as the intended recipient without relying on the drafting discussion to fill gaps. Is the point clear, does it answer the request, and is any important connection missing?
 2. **Thorough read.** Check the draft against the request, relevant sources, latest accepted version and corrections using the checklist above. Look for material omissions, unsupported claims, incorrect numbers or scope, contradictions, obvious mistakes and regressions.
-3. **Improve before replying.** Ask whether the draft is ready or whether there are concrete improvements that would materially improve correctness, relevance, clarity or usefulness. Make those improvements within the authorised scope instead of returning avoidable defects or a list of fixes Ben must request.
+3. **Improve before replying.** Ask whether the draft is ready or whether there are concrete improvements that would materially improve correctness, relevance, clarity or usefulness. Make those improvements within the authorised scope instead of returning avoidable defects or a list of fixes the sovereign must request.
 4. **Recheck the whole.** After editing, repeat the cold and thorough read, checking especially that the fix has not lost accepted meaning, evidence or constraints.
 
 **Stop condition:** Stop as soon as a pass finds no material improvement. Do not churn synonyms, pursue cosmetic perfection or reopen settled choices. Default to no more than 3 review-and-revision passes; this is a ceiling, not a quota. If a material issue remains at that point, resolve any known factual error and state any genuine uncertainty or blocker rather than claiming the draft passed. New evidence or a changed brief can justify another bounded review.
 
-Keep the review internal unless Ben requests an audit. Self-review does not establish external verification, authorise additional actions or guarantee the result is correct.
+Keep the review internal unless the sovereign requests an audit. Self-review does not establish external verification, authorise additional actions or guarantee the result is correct.
 
 ### Learning after a meaningful correction or outcome
 
-- **Observe:** Record what actually happened, keeping Ben’s correction separate from external feedback and interpretation.
+- **Observe:** Record what actually happened, keeping the sovereign’s correction separate from external feedback and interpretation.
 - **Diagnose:** Identify whether the cause was retrieval, evidence selection, factual drift, regression, voice or execution.
 - **Adjust:** Reuse the relevant existing record, approved example or instruction within the current authority. Update its existing owner; do not add a rule for every mistake or duplicate guidance. Follow the applicable change procedure for material system changes.
-- **Verify:** Test the adjustment on the next relevant task and retain the outcome in its existing record. Check whether sources and examples were retrieved without Ben repeating them, proof matched the problem, and revisions retained accepted corrections. A saved instruction or synthetic review does not establish better live results.
+- **Verify:** Test the adjustment on the next relevant task and retain the outcome in its existing record. Check whether sources and examples were retrieved without the sovereign repeating them, proof matched the problem, and revisions retained accepted corrections. A saved instruction or synthetic review does not establish better live results.
 
 ### Whole-document check
 
@@ -314,7 +316,7 @@ Delete or rewrite:
 
 Check these drafting constraints once: direct ownership, immediate intent, concrete evidence, preserved argument, accurate confidence and natural warmth. Revise only wording that fails those tests.
 
-For outreach, ask these questions where they fit the message’s purpose. An application follow-up may deliberately close by respecting the process; do not force a question into Ben’s chosen close:
+For outreach, ask these questions where they fit the message’s purpose. An application follow-up may deliberately close by respecting the process; do not force a question into the author’s chosen close:
 
 1. What problem am I saying they may have?
 2. What have I done that makes that claim worth reading?

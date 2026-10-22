@@ -22,7 +22,7 @@ We are developing the harness’s theory of mind and cognitive empathy with you,
 
 The harness gives you an interface through which to engage intentionally with other people’s decision cycles. It supports diagnosis and intervention by considering whose OODA you are enabling, at what scale, and who is giving or receiving. For observation, the approach depends on your intention. Improving your own observation may call for intelligence and ingestion. Informing others’ observation calls for understanding active receivers’ field of view and horizon, so distribution can bring relevant information into view. The real action is the reaction: the active receiver participates in shaping the encounter, and their response helps determine what happens next.
 
-You remain the human in the loop. You are an active participant in the OODA harness. You review its interpretations and methods, retaining what proves useful so subsequent work can build on it. We establish the standard with your close involvement, and can reduce supervision of suitable work as the harness demonstrates reliable performance. Within the scope of your delegation, the harness carries your intentions and values into action and follows through on agreed work, including when you are away or asleep. Decisions that need your judgement are brought to you.
+You are the sovereign, the human in the loop. The harness is your right hand and AI thinking partner, extending your ability to see, decide and act. You are an active participant in the OODA harness. You review its interpretations and methods, retaining what proves useful so subsequent work can build on it. We establish the standard with your close involvement, and can reduce supervision of suitable work as the harness demonstrates reliable performance. Within the scope of your delegation, the harness carries your intentions and values into action and follows through on agreed work, including when you are away or asleep. Decisions that need your judgement are brought to you.
 
 ## 1. Purpose
 
@@ -62,7 +62,7 @@ Maintained briefs hold the current objectives, targets, responsibilities, timefr
 
 Here, “operating system” means the connected arrangement of working practices, roles, knowledge and AI capabilities around you. Much of the existing harness lives in Notion as a multi-nodal knowledge network: cross-referenced pages that are not necessarily hierarchical.
 
-We are reconsidering the system design and rebuilding reusable components in GitHub for Hermes, preserving useful knowledge and relationships while making the harness portable and shareable. GitHub versions accepted definitions and methods. Hermes provides the runtime for deployed guidance, models and tools. The portable design keeps private working records in stores chosen by the user. The existing arrangement still depends on access to Ben’s private Notion workspace.
+We are reconsidering the system design and rebuilding reusable components in GitHub for Hermes, preserving useful knowledge and relationships while making the harness portable and shareable. GitHub versions accepted definitions and methods. Hermes provides the runtime for deployed guidance, models and tools. The portable design keeps private working records in stores chosen by the sovereign. The existing arrangement still depends on access to Ben’s private Notion workspace.
 
 The first recorded private alpha snapshot is [v0.1.0-alpha.1](https://github.com/benohanlon/ooda-harness/releases/tag/v0.1.0-alpha.1). This README records the design; changes on a draft branch remain proposals until accepted. The setup guide remains a private working draft; independent installation of this package has not been demonstrated.
 
@@ -76,7 +76,7 @@ Recorded Hermes setup checks on 2026-10-14 covered repository access and instruc
 
 ### Installation and configuration
 
-The intended onboarding experience is as close to one-click installation as possible, followed by configuration of the user’s own context and connections. Feedback from early users will help improve that experience.
+The intended onboarding experience is as close to one-click installation as possible, followed by configuration of the sovereign’s own context and connections. Feedback from early adopters will help improve that experience.
 
 Review your goals, role boundaries and communication preferences. Choose a durable home for private context and working records. Establish which interfaces and connections the harness will use.
 
@@ -329,7 +329,7 @@ The [common operating contract](docs/operating-contract.md) carries the reusable
 
 Notion is our working design and review space. GitHub versions accepted reusable definitions. Promotion requires explicit agreement. Runtime deployment is a separate step.
 
-On accepting a change, record the source and Git revision of each promoted definition. Update its existing private owner with a publication pointer while preserving design history and private operating instructions. The common contract, role template, Research Lead, skill methods and selected collections have explicit portable homes in this package. This does not transfer all Notion authority to GitHub. Existing assignments retain their accepted revision until deliberately updated; reconcile new human steering wherever it affects the work.
+On accepting a change, record the source and Git revision of each promoted definition. Update its existing private owner with a publication pointer while preserving design history and private operating instructions. The common contract, role template, Research Lead, skill methods and selected collections have explicit portable homes in this package. This does not transfer all Notion authority to GitHub. Existing assignments retain their accepted revision until deliberately updated; reconcile new steering from the sovereign wherever it affects the work.
 
 Keep filenames stable. Git commits identify exact revisions. Release tags identify complete repository snapshots. Use [Semantic Versioning](https://semver.org/), with `0.y.z` and pre-release labels such as `v0.1.0-alpha.1` during initial development. After `1.0.0`, use patch releases for compatible fixes, minor releases for compatible additions and major releases for incompatible changes to documented contracts or interfaces. Keep published tags fixed.
 
@@ -337,7 +337,7 @@ Before publication, compare the candidate files with the approved draft. Afterwa
 
 ### Sharing
 
-Keep private personalisation, contacts, client records, credentials and runtime state outside reusable packages. Review selected files, history and dependencies before public release. Public packages must include accessible guidance and reusable dependencies without requiring Ben’s private workspace.
+Keep private personalisation, contacts, client records, credentials and runtime state outside reusable packages. Review selected files, history and dependencies before public release. Public packages must include accessible guidance and reusable dependencies without requiring access to the creator’s private workspace.
 
 The Hidden Job Market module is intended for separate use and release. Publishing it does not require publishing the wider harness.
 
