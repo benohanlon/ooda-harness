@@ -1,6 +1,6 @@
 # Repository contribution guidance
 
-This repository is the private development home for OODA Harness. The README records the accepted design; detailed role contracts and runtime behaviour remain under development.
+This repository is the private development home for OODA Harness. The README records the design and current status. Shared operating definitions and the Research Lead contract are prepared; most individual contracts and runtime behaviour remain under development.
 
 ## Working scope
 
@@ -16,7 +16,9 @@ This repository is the private development home for OODA Harness. The README rec
 
 ## Available definitions
 
-Read [README.md](README.md) for the purpose, operating model and current status. [SOUL.md](SOUL.md) holds shared identity and interaction guidance. [ROLES.md](ROLES.md) records agreed role types; individual contracts remain under development. [SKILLS.md](SKILLS.md) links the reusable methods prepared so far. Use the current human assignment for scope and authority. These files do not activate a role or deploy the harness.
+Read [README.md](README.md) for the purpose, operating model and current status. [SOUL.md](SOUL.md) holds shared identity and interaction guidance. [ROLES.md](ROLES.md) records agreed role types and available contracts. [SKILLS.md](SKILLS.md) links reusable methods; [LISTS.md](LISTS.md) routes to maintained resource collections. Use the current human assignment for scope and authority. These files do not activate a role or deploy the harness.
+
+For an explicitly assigned enduring role, use the [common operating contract](docs/operating-contract.md) with its individual contract and current task brief. Define new roles through the [role template](roles/ROLE-TEMPLATE.md). Repository contributors and temporary workers retain their own assignment; they do not acquire an operational role by reading these files.
 
 ## Communication
 
@@ -28,8 +30,10 @@ When delegating this work, include the current brief, relevant sources, accepted
 
 README.md introduces the whole harness. Add files below when their content is ready and their separate use is clear:
 
-- docs/ — reusable build method and shared operating contract. The detailed editorial standard lives inside the Writing and Editing skill package.
+- docs/ — shared operating contract; the wider reusable build method remains under development. The detailed editorial standard lives inside the Writing and Editing skill package.
+- roles/ — the reusable role template and available individual contracts.
+- lists/ — selected reusable resource collections, indexed by LISTS.md.
 - examples/ — bounded assignments, synthetic cases and observable acceptance checks.
 - modules/hidden-job-market/ — separable career workflow with explicit inputs and dependencies.
 
-The Notion working design brief owns current design decisions until an explicit definition cutover. Domain services retain live records and checkpoints. Use authorised source references supplied with the task; report missing access rather than inventing their contents.
+The Notion working design brief retains design decisions until the relevant portable definition is explicitly accepted. For each promoted definition, record its source, accepted Git revision and publication pointer in its existing private owner. Draft-branch content is a proposal. Acceptance of named portable definitions does not replace unrelated private procedures or domain records. Domain services retain live records and checkpoints. Use authorised source references supplied with the task; report missing access rather than inventing their contents.

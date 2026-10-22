@@ -4,7 +4,7 @@
 
 Start with [current status and setup](#3-current-state-and-getting-started). Read the [operating model](#4-operating-model) and [component map](#5-system-design-and-components).
 
-[SOUL](SOUL.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md)
+[SOUL](SOUL.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md) · [Lists](LISTS.md)
 
 Welcome to the real OODA Harness. OODA stands for Observe, Orient, Decide and Act. [John Boyd](https://slightlyeastofnew.com/wp-content/uploads/2010/03/essence_of_winning_losing.pdf) described its role in enabling us to “comprehend, shape, adapt to and in turn be shaped by an unfolding evolving reality that is uncertain, everchanging, and unpredictable.” OODA is a non-linear process of continuing reorientation and feedback, rather than a fixed sequence of four steps.
 
@@ -27,6 +27,8 @@ You remain the human in the loop. You are an active participant in the OODA harn
 ## 1. Purpose
 
 Your most prized commodities are time and attention. OODA Harness exists to increase your agency: your ability to choose, express and act on your intentions and values.
+
+We draw on manoeuvre warfare as a strategic lens. The ambition is cognitive supremacy within this ecology: better orientation and effective action to recognise and shape opportunities, secure resources and increase sovereignty in service of your freedom of action and expression. This governs how the harness prioritises work in service of your intentions, values and creativity. Cooperation, negotiation and competition can each serve that aim as relationships and interests change.
 
 1. **Increase what you can achieve with your time and attention.** Progressively automate suitable work within your delegated authority and to an agreed standard, creating capacity you can reinvest.
 2. **Put knowledge and specialist capabilities to work.** Connect and apply relevant knowledge and capabilities to solve worthwhile problems beyond your own expertise, while developing your judgement and situational awareness. Extend your capacity for discovery by widening your field of vision and broadening your horizon. Retain useful decisions and learning so subsequent work builds on them.
@@ -62,7 +64,7 @@ Here, “operating system” means the connected arrangement of working practice
 
 We are reconsidering the system design and rebuilding reusable components in GitHub for Hermes, preserving useful knowledge and relationships while making the harness portable and shareable. GitHub versions accepted definitions and methods. Hermes provides the runtime for deployed guidance, models and tools. The portable design keeps private working records in stores chosen by the user. The existing arrangement still depends on access to Ben’s private Notion workspace.
 
-The first recorded private alpha snapshot is [v0.1.0-alpha.1](https://github.com/benohanlon/ooda-harness/releases/tag/v0.1.0-alpha.1). This README publishes the accepted design. The setup guide remains a private working draft; independent installation of this package has not been demonstrated.
+The first recorded private alpha snapshot is [v0.1.0-alpha.1](https://github.com/benohanlon/ooda-harness/releases/tag/v0.1.0-alpha.1). This README records the design; changes on a draft branch remain proposals until accepted. The setup guide remains a private working draft; independent installation of this package has not been demonstrated.
 
 ### Current status
 
@@ -70,7 +72,7 @@ The Hermes rebuild is in private alpha development and has not yet demonstrated 
 
 No public installation release date is confirmed. Releasing selected elements or open-sourcing the wider harness remains a choice.
 
-Recorded Hermes setup checks on 2026-10-14 covered repository access and instruction loading for earlier definitions. They do not verify the current alpha snapshot or useful end-to-end work. Role definitions, connected workflows and supported interfaces remain under development. The private Hermes Cloud setup guide retains the setup instructions, dated checks and remaining verification.
+Recorded Hermes setup checks on 2026-10-14 covered repository access and instruction loading for earlier definitions. They do not verify the current alpha snapshot or useful end-to-end work. The [common operating contract](docs/operating-contract.md), [role template](roles/ROLE-TEMPLATE.md) and [Research Lead contract](roles/research-lead.md) provide definitions for review and manual testing. Other role contracts, connected workflows and supported interfaces remain under development. Installation, loading and useful paired work remain unverified. The private Hermes Cloud setup guide retains the setup instructions, dated checks and remaining verification.
 
 ### Installation and configuration
 
@@ -82,7 +84,7 @@ The private Hermes Cloud setup draft covers repository access, accepted SOUL dep
 
 ### First useful interaction
 
-Perception Check is the first diagnostic interaction. The first delivery test then takes one bounded career assignment through Chief of Staff and Head of Talent.
+Perception Check is the first diagnostic interaction. The first paired-role test starts with one bounded Chief of Staff assignment using Perception Check, then takes a bounded career assignment through Chief of Staff and Head of Talent.
 
 **First intended task: [Perception Check](skills/perception-check/SKILL.md).** Ask, for example: “Run a Perception Check for the past 72 hours. What needs my attention?”
 
@@ -123,15 +125,36 @@ flowchart LR
     chief <--> engineering["Head of Harness<br/>Engineering"]
     chief <--> assistant["Personal Assistant"]
     chief <--> finance["Head of Finance"]
+    chief <--> research["Research Lead"]
 ```
 
-The diagram shows the nine agreed role types and their default delegation and reporting relationships: assignments go out and field reports return. Chief of Staff receives material outcomes, blockers and decisions needed, without becoming a routine approval gate. These role types do not imply nine deployed or always-on agents. Role contracts and deployment remain under development.
+The diagram shows the ten agreed role types and their default delegation and reporting relationships: assignments go out and field reports return. Chief of Staff receives material outcomes, blockers and decisions needed, without becoming a routine approval gate. Each enduring role is designed as a pair, described below. The chart does not imply ten deployed roles or twenty always-on agents. Most individual role contracts and all paired-role deployment remain under development.
 
 **First implementation.** Start with Chief of Staff and Head of Talent completing one useful assignment. Head of Harness Engineering is responsible for the build and its reliability. Introduce the remaining roles as their work and contracts are established.
 
 Head of Finance will own financial planning, including portfolio and risk analysis. Its contract will define the detailed remit and authority.
 
+[Research Lead](roles/research-lead.md) owns commissioned inquiry, exploratory discovery and the organisation of useful research. It has its own pair; other roles retain their domain decisions and can conduct research themselves.
+
 The team coordinates around a small set of system-wide units of account, drawing on [Numbers come before strategy](https://ecosystemoperator.substack.com/p/numbers-come-before-strategy). These establish a shared axis around which strategies, tests, proposals and schools of thought can contend. Each role is accountable for its contribution against those shared measures. Its contract records the measures it is responsible for and defines the supporting metrics used to judge its work. Where recommendations compete, Chief of Staff brings the evidence and consequences for the whole together for the relevant decision owner to resolve.
+
+### Two agents within each role
+
+Each enduring role has one contract and outward accountability, with two agents operating around it. Both begin with the same relevant specification, guidance, context and available capabilities. They adopt complementary relational roles, or polarities: doer/giver and observer/active receiver. These positions may reverse without changing the enduring role or contract. Each has a complete OODA. Both can investigate, interpret, challenge and revise the other's understanding while work proceeds.
+
+```mermaid
+flowchart TB
+    basis["Role contract, assignment<br/>and accepted steering"]
+    doer["Doer / giver<br/>Complete OODA"]
+    observer["Observer / active receiver<br/>Complete OODA"]
+    basis --- doer
+    basis --- observer
+    doer <-->|Evidence and challenge| observer
+```
+
+The shared basis keeps the work coherent while each agent's provisional interpretation remains distinguishable. One named participant owns each shared write or external action. Their exchanges inform the work and can reveal a need to reconsider its framing or standard. Changes to agreed aims or criteria follow the existing decision authority. A final-only critic or an unused second agent does not fulfil this design. Temporary workers, tools and skill calls do not each require another enduring pair.
+
+The [common operating contract](docs/operating-contract.md) defines decision rights, checkpoints, correction, recovery and feedback. [Sense of Taste](skills/sense-of-taste/SKILL.md) provides a judgement method within the pair. Specialist acceptance and whole-system review retain their distinct jobs. The [synthetic research assignment](examples/research-assignment.md) shows the method, including disagreement and interrupted work; it is not evidence of a running pair.
 
 ### Work in the field
 
@@ -154,7 +177,7 @@ Discovery and ingestion support your observation. Distribution helps active rece
 | **1:Few** | Coordinate interdependent people or teams. Develop shared orientation: enough common understanding of the situation and agreed aims to act together. Make differing perspectives and incentives visible and connect local contributions to shared outcomes. |
 | **1:Many** | Gather intelligence from wider networks and help relevant people encounter, understand and respond to your work. Distribution supports observation. Positioning, offers, résumés, onboarding and qualification can support orientation. Credible proof supports decisions. Clear asks and usable next steps support action. Shared outcomes and visible signals can support collective coordination. |
 
-These scales overlap. Your own cycle continues throughout, and capabilities can support several OODA activities. How public or private the encounter is matters at every scale. Other people retain their own aims and decisions.
+These scales overlap. Your own cycle continues throughout, and capabilities can support several OODA activities. An interaction can change your own understanding, affect a group and ripple through a wider network. How public or private the encounter is matters at every scale. Other people retain their own aims and decisions.
 
 ### Review and learning
 
@@ -164,7 +187,7 @@ Proportionate independent review challenges consequential judgements and propose
 
 A hiring manager’s response may overturn our initial reading of a role. We revise the assessment and choose whether to apply, propose a different mandate or stop, retaining the evidence and decision for later work.
 
-[AGENTS.md](AGENTS.md) provides repository guidance and routes to the available definitions. Detailed operating contracts remain under development. Role contracts define continuing responsibility; task briefs define individual assignments. Direct requests, agreed projects, research and delivery can enter through the relevant role without passing through opportunity discovery. The three opportunity loops in Section 6 sustain particular work within this wider operating model. Section 7 explains triggers and schedules. Section 5 maps the supporting components and records.
+[AGENTS.md](AGENTS.md) provides repository guidance. The [common operating contract](docs/operating-contract.md) defines the shared method; [individual role contracts](ROLES.md) define continuing responsibility and task briefs define individual assignments. Direct requests, agreed projects, research and delivery can enter through the relevant role without passing through opportunity discovery. The three opportunity loops in Section 6 sustain particular work within this wider operating model. Section 7 explains triggers and schedules. Section 5 maps the supporting components and records.
 
 Foundation: [Boyd’s The Essence of Winning and Losing](https://slightlyeastofnew.com/wp-content/uploads/2010/03/essence_of_winning_losing.pdf), read alongside [Richards’s interpretation](https://slightlyeastofnew.com/wp-content/uploads/2010/03/boyds-real-ooda-loop.pdf). The interaction scales and capability examples are our application. Active receptivity draws on [McGilchrist’s discussion of Ruth Kastner](https://iainmcgilchrist.substack.com/p/quantum-physics-taoism-and-the-hemispheres); the intelligence and distribution mapping is our harness application.
 
@@ -191,7 +214,7 @@ A knowledge link explains a relationship. An execution dependency determines whi
 
 ### Selected structure and current state
 
-**Runtime and access.** Hermes is the selected deployment target. For each supported combination of interface, model and tools, we need to verify the routes for loading instructions, retrieving context and saving results. Role contracts and their loading routes remain under development.
+**Runtime and access.** Hermes is the selected deployment target. For each supported combination of interface, model and tools, we need to verify the routes for loading instructions, retrieving context and saving results. The common contract and Research Lead definition are prepared; their runtime loading and paired execution remain unverified.
 
 The proposed access model gives the harness a dedicated email account and a defined working environment, with personal accounts outside that scope unless explicitly connected. A separate role, chat or directory does not by itself establish isolation. Account details and credentials belong in private configuration.
 
@@ -201,9 +224,12 @@ The proposed access model gives the harness a dedicated email account and a defi
 | --- | --- |
 | [README.md](README.md) | The introduction and map: purpose, operating model, components, current status and routes into detailed guidance. |
 | [SOUL.md](SOUL.md) | Shared identity, interaction, judgement and core communication principles. |
-| [AGENTS.md](AGENTS.md) | Repository guidance and routes to the available definitions. Detailed operating contracts remain under development. |
-| [ROLES.md](ROLES.md) | A catalogue of agreed role types; individual contracts remain under development. |
+| [AGENTS.md](AGENTS.md) | Repository guidance and routes to the available definitions. |
+| [Common operating contract](docs/operating-contract.md) | Shared paired-role method, decision rights, assignments, recovery and learning. |
+| [ROLES.md](ROLES.md) | A catalogue of agreed role types and available contracts, including Research Lead. |
+| [Role template](roles/ROLE-TEMPLATE.md) | The seven-section structure for defining a role's continuing responsibility. |
 | [SKILLS.md](SKILLS.md) | A catalogue of reusable skills linking to their instructions. |
+| [LISTS.md](LISTS.md) | Routes into maintained collections, their purpose and when to retrieve them. |
 | Each skill’s [SKILL.md](skills/perception-check/SKILL.md) | The method or knowledge for that skill, with supporting references, scripts or templates where needed. |
 | [Writing and Editing](skills/writing-and-editing/SKILL.md) | The shared method for drafting, editing, review and advisory replies. |
 | [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md) | The detailed standard for meaning, evidence, argument, voice, revision and review. |
@@ -214,9 +240,9 @@ A role defines continuing responsibility. Its contract establishes accountabilit
 
 SOUL retains the core communication principles. Use [Writing and Editing](skills/writing-and-editing/SKILL.md) for drafting, editing, reviewing prose and giving advisory replies. The skill applies [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md), which has one maintained home inside its package. Read that standard before the relevant work, reusing a current read during the task. Specialist workflows retain their production and execution steps. When delegating this work, pass the brief, accepted corrections and the skill and standard to the worker; [ROLES.md](ROLES.md#coordination-and-shared-skills) defines handover review.
 
-Section 4 shows the agreed team structure. [ROLES.md](ROLES.md) records the agreed responsibilities and reporting. Individual role contracts remain under development.
+Section 4 shows the agreed team structure. [ROLES.md](ROLES.md) records responsibilities, reporting and contract availability. Research Lead has a prepared contract. The other individual contracts remain under development.
 
-Common operating rules cover evidence, authority, truthful completion and continuity across roles. Catalogues provide routes to maintained definitions. They do not duplicate those definitions.
+The [common operating contract](docs/operating-contract.md) owns the shared rules for evidence, authority, truthful completion and continuity. Catalogues provide routes to maintained definitions. [LISTS.md](LISTS.md) links the packaged community directory, selected research resources and existing editorial references. Role contracts explain when those methods and resources are useful. Private reading and ideas queues retain their existing owners.
 
 Deployment follows [Hermes’s file and loading conventions](https://hermes-agent.nousresearch.com/docs/user-guide/which-file-does-what). Private profile and memory records remain separate from the reusable package. File presence alone does not establish that instructions are loaded or that access is available.
 
@@ -232,7 +258,7 @@ Relevant records can be linked while preserving their respective owners. This di
 
 Version history records which definition changed. Run evidence records what was attempted and what resulted. Diagnostics uses that evidence to identify the cause of a gap and choose an appropriate repair. Keep these records connected to the work and its owner.
 
-The private “Master & component handover”, under “Evidence, diagnostics and source attribution”, defines the detailed practice. The private “Change Checklist” governs approved system changes. Portable versions of this detailed guidance remain to be prepared. Role contracts name their record owners. Section 8 explains repository versions and the separate draft, publication and deployment states.
+The [common operating contract](docs/operating-contract.md) provides the portable method for evidence, correction and recovery. Its source history remains in the private “Master & component handover” and “Change Checklist”, which retain their private operating scope. Role contracts name their record owners. Section 8 explains how accepted portable revisions are promoted and distinguishes draft, publication and deployment states.
 
 For each component, record the selected approach, its implementation state and the evidence available. Distinguish something proposed, something configured and something demonstrated through useful work.
 
@@ -285,7 +311,9 @@ Ask for a Schedule Check to establish what is due, what actually ran and what ne
 
 Develop the harness through bounded changes grounded in real work. Start from a useful outcome or observed problem. Preserve working behaviour. Compare the change with the current approach. Check results and total human effort before deciding what to keep, revise or revert.
 
-The private “How to build a harness” guide and “Role charter — reusable template” support development of capabilities and roles. Their portable versions remain under development. Under the operating model in Section 4, Head of Harness Engineering maintains the shared construction method and reviews whole-system alignment. Each role contract names its drafting and maintenance owner. Chief of Staff identifies capability gaps and reviews how roles fit together. The private “Build and prove the Harness Improvement loop” brief defines the intended independent scrutiny. Contracts and portable deployment remain under development.
+Use the [role template](roles/ROLE-TEMPLATE.md) and [common operating contract](docs/operating-contract.md) to define a role. The wider construction guide, “How to build a harness”, remains a private working document. Under the operating model in Section 4, Head of Harness Engineering maintains the shared construction method and reviews whole-system alignment. Each role contract names its drafting and maintenance owner. Chief of Staff identifies capability gaps and reviews how roles fit together. The private “Build and prove the Harness Improvement loop” brief retains its wider development remit. Most individual contracts and portable deployment remain under development.
+
+The next runtime milestone is to realise one pair in Hermes, starting with Chief of Staff and Perception Check, then a Talent handoff. Verify both agents' guidance and source use, reciprocal correction, accepted steering, action ownership and recovery. Compare useful results and total effort with a well-briefed single agent using the same evidence and standards. Retain adverse findings and test whether a saved correction improves a later assignment. See [runtime acceptance](docs/operating-contract.md#runtime-acceptance). Publishing these definitions does not complete that milestone.
 
 ### Shared design and knowledge principles
 
@@ -295,11 +323,13 @@ The private “How to build a harness” guide and “Role charter — reusable 
 - **Attribute adapted thinking.** Name and link the original source or maintained entry, its relevant section or version, and our adaptation. Distinguish primary work from later interpretation.
 - **Make knowledge usable.** The README links essential guidance. Role contracts connect tasks to relevant resources and explain when and how to use them. Broader reading and history stay in the research library. Keep reading coverage, adoption and demonstrated usefulness distinct.
 
-The detailed review and change method remains in the private “Master & component handover” and “Change Checklist”. For repository work, read [AGENTS.md](AGENTS.md).
+The [common operating contract](docs/operating-contract.md) carries the reusable review, correction and recovery method. The private “Master & component handover” and “Change Checklist” retain private procedures and change records. For repository work, read [AGENTS.md](AGENTS.md).
 
 ### Versioning and releases
 
 Notion is our working design and review space. GitHub versions accepted reusable definitions. Promotion requires explicit agreement. Runtime deployment is a separate step.
+
+On accepting a change, record the source and Git revision of each promoted definition. Update its existing private owner with a publication pointer while preserving design history and private operating instructions. The common contract, role template, Research Lead, skill methods and selected collections have explicit portable homes in this package. This does not transfer all Notion authority to GitHub. Existing assignments retain their accepted revision until deliberately updated; reconcile new human steering wherever it affects the work.
 
 Keep filenames stable. Git commits identify exact revisions. Release tags identify complete repository snapshots. Use [Semantic Versioning](https://semver.org/), with `0.y.z` and pre-release labels such as `v0.1.0-alpha.1` during initial development. After `1.0.0`, use patch releases for compatible fixes, minor releases for compatible additions and major releases for incompatible changes to documented contracts or interfaces. Keep published tags fixed.
 
