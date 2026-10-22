@@ -1,27 +1,32 @@
 {
   "brand": "Sovereign OODA Harness",
-  "version": "1.1",
+  "version": "1.2",
   "status": "approved benchmark",
   "approved_on": "2026-10-22",
-  "revision": "Credited cover with softer title, muted attribution and NEEDS without a full stop.",
+  "revision": "Added credit removed to restore balance; softer title and NEEDS without a full stop retained.",
   "generation": "Built-in image generation tool; GitHub JPEG is a proportional resize and compression export.",
   "assets": [
     {
       "file": "brand/assets/sovereign-ooda-cover-master.png",
       "width": 1774,
       "height": 887,
-      "bytes": 2596533,
-      "sha256": "066ddfdb5f61334523e259a7f6f569d3fdd2854cd00d415ad8459fe70c664a7c",
-      "git_blob_sha": "8305e9b8221abad89dfe84ddb0247b76dc6e9a09"
+      "bytes": 2535801,
+      "sha256": "ee1b5e82cbd3fa33028642cf6fce793deaa53786163bb1262054c39ea88947a2",
+      "git_blob_sha": "f95debf5f041bd8354b1a4cefb8a71203afe4d10"
     },
     {
       "file": "assets/sovereign-ooda-cover.jpg",
       "width": 1280,
       "height": 640,
-      "bytes": 497082,
-      "sha256": "02e85892a8fd475c4c560f33f92d72d2f46d3624726627ed5870e844c0a1afd6",
-      "git_blob_sha": "f667d54e74cef2a78ff2b137cba391cabdcbf414"
+      "bytes": 495146,
+      "sha256": "8a4bd8ed10a9d097c84a48055f85b8fa4768de218dc59ab60709710a10286f4d",
+      "git_blob_sha": "0ac2a6063a19fdd0ede8a36edcedd506e0daa545"
     }
   ],
+  "attribution": {
+    "author": "Ben O\u2019Hanlon",
+    "public_url": "https://ecosystemoperator.substack.com/",
+    "placement": "Accompanying text and metadata; not embedded in the cover"
+  },
   "asset_paths_relative_to": "repository root"
 }

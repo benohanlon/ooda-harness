@@ -1,6 +1,6 @@
-# Sovereign OODA Harness � brand kit v1.1
+# Sovereign OODA Harness � brand kit v1.2
 
-Approved by Ben on 22 October 2026. Version 1.1 is the current benchmark: the credited cinematic eye, a softer title, a quieter credit and no full stop after NEEDS.
+Approved by Ben on 22 October 2026. Version 1.2 removes the added authorship line to restore the cover's balance. The softer title and the pupil statement ending NEEDS without a full stop remain.
 
 ## Start with the approved artwork
 
@@ -41,7 +41,6 @@ These hex values are working targets for editable materials. The approved photog
 | Antique gold | #C6A45D | Rules, strategic labels and warm light accents. |
 | Bone | #F1EBD7 | Pupil statement and cognitive footer. |
 | Quiet bone | #C9C5B5 | Softer product title. |
-| Muted gold | #8E815E | Discreet authorship credit. |
 
 Keep dark green dominant. Gold rules and labels are flat printed colour; gold reflections within the eye may glow naturally. Bone text stays clear against dark areas. Preserve the green-and-gold balance rather than shifting the whole image to orange, blue or cream.
 
@@ -53,21 +52,16 @@ Keep dark green dominant. Gold rules and labels are flat printed colour; gold re
 | Pupil statement | Helvetica Bold; Arial Bold or sans-serif fallback | Uppercase, compact five-line block, centred in pupil. |
 | Strategic labels | Courier New Bold; Courier or monospace fallback | Uppercase gold, left and right beneath the image. |
 | Cognitive footer | Courier New Bold; Courier or monospace fallback | Uppercase bone, two centred lines. |
-| Authorship credit | Courier New; Courier or monospace fallback | Small muted-gold line, right aligned below the cognitive footer. |
 
 The approved raster approximates these letterforms and has no editable text or embedded fonts. These are production choices for future live typesetting.
 
 Maintain this order of attention: personal statement and eye, product identity, strategic labels, cognitive footer. Check real display size; use live type when exact wording and spacing are critical.
 
-## Authorship credit
+## Attribution
 
-The image carries its own origin and a public destination:
+The approved cover has no embedded author name, handle, URL, signature or watermark. Keep origin credit in accompanying text and asset metadata, preserving the image's visual balance.
 
-```text
-BEN O�HANLON � ecosystemoperator.substack.com
-```
-
-Keep this credit in the image itself, so saved or reposted copies remain traceable. Use a subdued warm gold on the lower-right dark margin, with its own baseline below the cognitive footer. Align the right edge with the main text/rule margin. Keep it readable at the 1280 � 640 export size, while the pupil message stays brightest. The product title is quieter warm bone; do not fade the central statement.
+Creator: Ben O�Hanlon. Public destination: [The Ecosystem Operator](https://ecosystemoperator.substack.com/). The README already carries the project's creator and publication links.
 
 ## Canonical cover copy
 
@@ -107,7 +101,7 @@ Retain the hyphen in COUNTER-REVOLUTIONARY and the British spelling MANOEUVRE: M
 
 The approved cover is 2:1. The eye image reaches the canvas edges; title, rules and lower text sit within approximately 4% horizontal margins. The photographic band occupies roughly 60% of the height. These are matching guides, not a substitute for the actual artwork.
 
-The title sits above a thin gold rule. The eye fills the middle. Gold strategic labels sit beneath it, followed by a second gold rule and a two-line bone footer. The pupil is left of the canvas centre and contains the personal statement. The subdued credit sits on its own lower-right baseline beneath the main footer.
+The title sits above a thin gold rule. The eye fills the middle. Gold strategic labels sit beneath it, followed by a second gold rule and a two-line bone footer. The pupil is left of the canvas centre and contains the personal statement.
 
 | Asset | Dimensions | Use |
 | --- | --- | --- |
@@ -118,7 +112,7 @@ The title sits above a thin gold rule. The eye fills the middle. Gold strategic 
 
 Resize proportionally. Do not stretch the eye or crop away text to make a different ratio. A future larger export from this master is an upscale, not additional source detail.
 
-GitHub recommends 1280 � 640 and a file below 1 MB for repository social previews. This is separate from README display sizing. Our JPEG is 497,082 bytes. [GitHub guidance](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview).
+GitHub recommends 1280 � 640 and a file below 1 MB for repository social previews. This is separate from README display sizing. Our JPEG is 495,146 bytes. [GitHub guidance](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview).
 
 ## Making coherent new artwork
 
@@ -146,6 +140,6 @@ Do not introduce generic HUD overlays, unrelated symbols, additional eyes, other
 
 Version 1.1 freezes the approved cinematic eye cover. The manifest records dimensions, byte counts and SHA-256 checksums for the packaged assets. The ZIP contains this guide, design tokens, reusable prompts, generation/edit prompts, the master and the GitHub export.
 
-The current master is assets/sovereign-ooda-cover-master.png. The README uses ../assets/sovereign-ooda-cover.jpg. Git history preserves earlier published versions; Notion retains the private approvals and exploration history.
+The current master is assets/sovereign-ooda-cover-master.png. The README uses ../assets/sovereign-ooda-cover.jpg. Git history preserves earlier published versions; Notion retains approvals and exploration history.
 
 GitHub carries the portable guide, tokens, reusable prompts, manifest, master and cover export. Notion retains the maintained approval record and exploration history. On a new accepted revision, update the portable files and record the accepted commit in Notion. Publication is separate from any runtime deployment.

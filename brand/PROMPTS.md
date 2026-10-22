@@ -1,13 +1,13 @@
 # Sovereign OODA Harness � reusable artwork prompts
 
-Use these with the approved v1.1 image attached. The image is the main visual authority. These templates do not promise identical results from text alone.
+Use these with the approved v1.2 image attached. The image is the main visual authority. These templates do not promise identical results from text alone.
 
-For a full cover, preserve the softer warm-bone title, the complete pupil statement ending NEEDS without a full stop, and the subdued lower-right credit: BEN O�HANLON � ecosystemoperator.substack.com. Keep the credit legible while the pupil statement stays brightest.
+For a full cover, preserve the softer warm-bone title and the complete pupil statement ending NEEDS without a full stop. Keep the cover free of added author names, handles, URLs, signatures and watermarks. Origin credit belongs in accompanying text and metadata. Keep the pupil statement brightest.
 
 ## Adapt an existing asset
 
 ```text
-Use the attached Sovereign OODA Harness approved v1.1 cover as the edit target and visual benchmark.
+Use the attached Sovereign OODA Harness approved v1.2 cover as the edit target and visual benchmark.
 
 Task: [asset purpose and destination].
 Output: [width � height and aspect ratio].
@@ -24,7 +24,7 @@ Do not introduce a frontal whole almond eye, generic HUD graphics, other logos, 
 ## Create a related artwork
 
 ```text
-Create a new Sovereign OODA Harness artwork in the visual family of the attached approved v1.1 cover.
+Create a new Sovereign OODA Harness artwork in the visual family of the attached approved v1.2 cover.
 
 Purpose and audience: [brief].
 Format and size: [brief].
@@ -54,8 +54,6 @@ MANOEUVRE WARFARE
 
 COGNITIVE SUPERIORITY
 WITHIN THE DISTRIBUTED MIND
-
-BEN O�HANLON � ecosystemoperator.substack.com
 ```
 
 Check MANOEUVRE letter by letter: M A N O E U V R E. Keep the hyphen in COUNTER-REVOLUTIONARY.
