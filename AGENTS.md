@@ -4,7 +4,7 @@ This repository is the private development home for OODA Harness. The README rec
 
 ## Working scope
 
-- Follow the current human assignment and read the relevant source brief before changing a component. Reading this file does not appoint an operating Chief of Staff or grant access to other workstreams.
+- Follow the sovereign's current assignment and read the relevant source brief before changing a component. Reading this file does not appoint an operating Chief of Staff or grant access to other workstreams.
 - Distinguish proposed, implemented and verified behaviour. Do not describe a saved instruction as proof that a runtime loaded or followed it.
 - Keep changes small and preserve successful behaviour. Record material uncertainty and the evidence needed to resolve it.
 
@@ -12,11 +12,11 @@ This repository is the private development home for OODA Harness. The README rec
 
 - Version reusable definitions, methods, configurable interfaces and synthetic examples. Keep credentials, personal/client records, private exports and runtime state outside tracked files.
 - Inspect intended files before committing. Ignore rules prevent ordinary tracking of matching untracked files; they do not remove already committed content or enforce access control.
-- Preserve third-party licence and attribution requirements. Public release and licence selection are separate human decisions.
+- Preserve third-party licence and attribution requirements. Public release and licence selection are separate decisions for the sovereign.
 
 ## Available definitions
 
-Read [README.md](README.md) for the purpose, operating model and current status. [SOUL.md](SOUL.md) holds shared identity and interaction guidance. [ROLES.md](ROLES.md) records agreed role types and available contracts. [SKILLS.md](SKILLS.md) links reusable methods; [LISTS.md](LISTS.md) routes to maintained resource collections. Use the current human assignment for scope and authority. These files do not activate a role or deploy the harness.
+Read [README.md](README.md) for the purpose, operating model and current status. [SOUL.md](SOUL.md) holds shared identity and interaction guidance. [ROLES.md](ROLES.md) records agreed role types and available contracts. [SKILLS.md](SKILLS.md) links reusable methods; [LISTS.md](LISTS.md) routes to maintained resource collections. Use the sovereign's current assignment for scope and authority. These files do not activate a role or deploy the harness.
 
 For an explicitly assigned enduring role, use the [common operating contract](docs/operating-contract.md) with its individual contract and current task brief. Define new roles through the [role template](roles/ROLE-TEMPLATE.md). Repository contributors and temporary workers retain their own assignment; they do not acquire an operational role by reading these files.
 

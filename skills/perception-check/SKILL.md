@@ -5,7 +5,7 @@ description: Run a Perception Check to refresh situational awareness from curren
 
 # Perception Check
 
-Refresh the owner's situational awareness. Bring relevant evidence and unfinished work into view so the owner can reorient and choose the next useful move. Chief of Staff normally coordinates the wider picture; other roles can use the method within their remit.
+Refresh the sovereign's situational awareness. Bring relevant evidence and unfinished work into view so the sovereign can reorient and choose the next useful move. Chief of Staff normally coordinates the wider picture; other roles can use the method within their remit.
 
 **MVP method for manual testing.** Prepared instructions do not establish installation, source access or useful live performance.
 
@@ -19,7 +19,7 @@ The method covers relevant work across the harness, including projects, relation
 
 ### 1. Establish the horizon
 
-Recover the owner's current aims, priorities, commitments and material decisions from the relevant brief and maintained records. Load the applicable role and source instructions. State the review's focus, period and important limits. If the brief is unavailable, use the context and evidence actually available; identify the resulting uncertainty and continue useful work.
+Recover the sovereign's current aims, priorities, commitments and material decisions from the relevant brief and maintained records. Load the applicable role and source instructions. State the review's focus, period and important limits. If the brief is unavailable, use the context and evidence actually available; identify the resulting uncertainty and continue useful work.
 
 ### 2. Establish the field of vision
 
@@ -45,13 +45,13 @@ Lead with what needs attention, then show relevant due work and observed run sta
 
 ### 4. Identify useful findings
 
-Prioritise what matters to the owner's aims. For each material finding, explain why it matters, cite the source and relevant date, distinguish observation from inference, and identify a decision or next useful move. Include significant unfinished assessment and commitments, not just new opportunities. With no prior baseline, describe the current picture without inventing what changed.
+Prioritise what matters to the sovereign's aims. For each material finding, explain why it matters, cite the source and relevant date, distinguish observation from inference, and identify a decision or next useful move. Include significant unfinished assessment and commitments, not just new opportunities. With no prior baseline, describe the current picture without inventing what changed.
 
 No findings, not checked, collection failed and collected but unassessed are different results. Report only the conclusion supported by the evidence. Do not treat retrieval volume as useful progress.
 
 ### 5. Explain gaps and preserve continuity
 
-State material limits and exact unchecked or unfinished scope. Suggest an additional connection or next investigation when it would address a relevant blind spot, subject to the owner's choice and existing authority. Keep intentional exclusions distinct from unavailable intended sources.
+State material limits and exact unchecked or unfinished scope. Suggest an additional connection or next investigation when it would address a relevant blind spot, subject to the sovereign's choice and existing authority. Keep intentional exclusions distinct from unavailable intended sources.
 
 Retain the report, material decisions and exact next action in the existing authorised record owner when that route is available. Keep proposed next moves distinct from agreed decisions. In an explicitly read-only check, return them in chat without persistent writes. If a permitted persistence route is missing, give a resumable continuation in the response and identify that limit. Do not create a second queue or overwrite other owners' decisions.
 
@@ -59,7 +59,7 @@ Retain the report, material decisions and exact next action in the existing auth
 
 Lead with what needs attention and why, with source references and proposed next moves. Follow with a concise coverage statement: the review window, evidence actually checked or reused, relevant schedule results and material gaps. Use a small table only when it improves clarity.
 
-On first use, include a concise roll call of the relevant connections and capabilities. On subsequent checks, state actual coverage and material changes or gaps without repeating an unchanged full inventory. Include enough context for the owner to decide what to do, rather than reproducing the method as a checklist.
+On first use, include a concise roll call of the relevant connections and capabilities. On subsequent checks, state actual coverage and material changes or gaps without repeating an unchanged full inventory. Include enough context for the sovereign to decide what to do, rather than reproducing the method as a checklist.
 
 Before returning, check each material claim against the examined evidence, reconcile later decisions and expose unfinished scope. Repair reporting errors without rerunning successful collection. A useful result with partial coverage must not claim complete harness visibility.
 
@@ -67,5 +67,5 @@ Before returning, check each material claim against the examined evidence, recon
 
 Use authority already given for the assignment. Source access alone does not authorise outreach, account connections, schedule changes, paid collection or other external actions. Report a technical fault and its effect on coverage; route diagnosis or repair to the relevant owner or Health Check when available.
 
-This method creates no recurring task and imposes no quotas, compulsory source-wide sweep or new schedule. Keep private connection details, live briefs and runtime state outside the reusable skill. The MVP must work with the owner's available setup without requiring a particular private Notion workspace.
+This method creates no recurring task and imposes no quotas, compulsory source-wide sweep or new schedule. Keep private connection details, live briefs and runtime state outside the reusable skill. The MVP must work with the sovereign's available setup without requiring a particular private Notion workspace.
 

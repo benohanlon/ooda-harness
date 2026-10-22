@@ -6,7 +6,7 @@ The [Research Lead](../roles/research-lead.md) works under the [common operating
 
 ## Assignment and shared starting basis
 
-Chief of Staff commissions a recommendation on which research-record handover method to test. The intended outcome is to resume interrupted work without losing accepted human steering or making the human reconstruct it.
+Chief of Staff commissions a recommendation on which research-record handover method to test. The intended outcome is to resume interrupted work without losing accepted steering from the sovereign or making the sovereign reconstruct it.
 
 | Assignment field | Accepted basis, revision 1 |
 | --- | --- |
@@ -29,7 +29,7 @@ These source cards stand in for originals in this illustration. A real assignmen
 | Card | Fictional evidence | Reliance limit |
 | --- | --- | --- |
 | E1 | Candidate A's guide includes accepted brief revision, completed items and unresolved effects in its handover record. | Documented fields only; no runtime test. |
-| E2 | Candidate B's demo uses fewer handover steps, but its current record omits accepted steering. | A selected demonstration does not establish lower total human effort. |
+| E2 | Candidate B's demo uses fewer handover steps, but its current record omits accepted steering. | A selected demonstration does not establish lower total effort for the sovereign. |
 | E3 | A maintainer reply proposes adding steering to Candidate B's next release. | A proposal is not a shipped capability. |
 | E4 | The supplied Candidate A sample includes brief revision 1 and separate provisional notes from each participant. | One synthetic sample does not establish reliable recovery. |
 
@@ -39,11 +39,11 @@ Agent B also claims that A lacks a way to identify the current brief. A points t
 
 E3 remains a useful possibility. B proposes checking the next release only if the work later warrants it. The pair records that possibility without treating it as current functionality or creating a monitoring schedule.
 
-## Human steering changes the whole comparison
+## The sovereign's steering changes the whole comparison
 
-The human clarifies: “Preserving the brief matters, but the result I care about is less time reconstructing my intention. Include my effort in the test.” Chief of Staff records this as brief revision 2 and supplies it to both participants.
+The sovereign clarifies: “Preserving the brief matters, but the result I care about is less time reconstructing my intention. Include my effort in the test.” Chief of Staff records this as brief revision 2 and supplies it to both participants.
 
-Both acknowledge revision 2 and apply it. Their recommendation now asks Engineering to test recovery accuracy and the human's clarification and repair effort. Counting saved fields alone would miss the clarified outcome. They keep E1's useful capability evidence, the warning about B's omitted steering and B's possible interaction advantage. They amend the comparison, proposed test and acceptance conditions together, preserving the prior revision.
+Both acknowledge revision 2 and apply it. Their recommendation now asks Engineering to test recovery accuracy and the sovereign's clarification and repair effort. Counting saved fields alone would miss the clarified outcome. They keep E1's useful capability evidence, the warning about B's omitted steering and B's possible interaction advantage. They amend the comparison, proposed test and acceptance conditions together, preserving the prior revision.
 
 The existing work record distinguishes the accepted basis from provisional views. It records A's initial preference, B's supported challenge, B's withdrawn objection and the unresolved possibility in E3. It does not retain private reasoning traces or promote either agent's preference into an instruction.
 
@@ -65,8 +65,8 @@ A reads `R-001` at the exact destination. Its saved content matches recommendati
 
 ## Delivery and later feedback
 
-The recommendation is accepted as a research deliverable: test A first, retain B as an alternative, and measure recovery accuracy together with human repair effort. No runtime superiority has been established. Engineering still needs a separately assigned test using the same sources, tools and standards for a well-briefed single agent and the pair.
+The recommendation is accepted as a research deliverable: test A first, retain B as an alternative, and measure recovery accuracy together with the sovereign's repair effort. No runtime superiority has been established. Engineering still needs a separately assigned test using the same sources, tools and standards for a well-briefed single agent and the pair.
 
 Chief of Staff owns the pending response: whether to commission that test. If commissioned, Engineering returns the findings within the agreed test window, including adverse results and the whole effort. Research Lead revisits the recommendation when those findings arrive, when relevant capability evidence changes, or at the next agreed review if no response has arrived. Silence remains unknown; it does not prove rejection or success. This example creates no calendar event or recurring job.
 
-The retained lesson is specific: a shorter demonstration did not answer the commissioned continuity question, and the human's clarification changed how success should be assessed. Research Lead records the lesson with this evidence and the next relevant retrieval trigger. Its value remains to be checked on a later assignment where the recipient actually retrieves it, applies it correctly and observes the result.
+The retained lesson is specific: a shorter demonstration did not answer the commissioned continuity question, and the sovereign's clarification changed how success should be assessed. Research Lead records the lesson with this evidence and the next relevant retrieval trigger. Its value remains to be checked on a later assignment where the recipient actually retrieves it, applies it correctly and observes the result.

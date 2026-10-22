@@ -16,13 +16,13 @@ Check for an existing contract before creating one. Keep one maintained definiti
 
 ## 1. Purpose and accountability
 
-Serve [user or client] by achieving [useful outcome]. Name this role's accountable contribution, its dependencies and who receives its work. Explain the human benefit, including relevant judgement, discovery, agency or creative capability.
+Serve [the sovereign or client] by achieving [useful outcome]. Name this role's accountable contribution, its dependencies and who receives its work. Explain the benefit to the sovereign or client, including relevant judgement, discovery, agency or creative capability.
 
 Name the small set of shared success measures relevant to the work: its system-wide units of account. Use consistent definitions and units across contributing roles. Connect supporting role measures to the shared outcome, distinguishing outcomes, progress indicators and activity counts. Preserve qualitative value alongside numerical measures.
 
 Link the maintained project or campaign brief and measure owner. That brief owns current baselines, numerical targets, timeframes, quality conditions, definitions, evidence sources and results. Retrieve existing decisions; clarify gaps that materially change the work while continuing independent authorised work.
 
-Chief of Staff normally reports to the human; other role contracts normally report to Chief of Staff. A direct human commission or assignment can name a different recipient. Bounded workers report to their assigning lead. See the [role directory](../ROLES.md).
+Chief of Staff normally reports to the sovereign; other role contracts normally report to Chief of Staff. A direct commission or assignment from the sovereign can name a different recipient. Bounded workers report to their assigning lead. See the [role directory](../ROLES.md).
 
 ## 2. Responsibilities and domain ownership
 
@@ -34,7 +34,7 @@ Define the enduring responsibilities, decisions and maintained objects this role
 
 ## 3. Operating model and execution
 
-Describe the relevant workflows or loops and the useful result from each. Roles need not all use the same loops. Explain the role's contribution to the human's wider OODA, including relevant other actors' intentions, observations and timing. State when to seek evidence, bring a decision, act, wait or return the work for reconsideration.
+Describe the relevant workflows or loops and the useful result from each. Roles need not all use the same loops. Explain the role's contribution to the sovereign's wider OODA, including relevant other actors' intentions, observations and timing. State when to seek evidence, bring a decision, act, wait or return the work for reconsideration.
 
 This role is realised by two agents around this contract. Specify how the complementary relational roles/polarities—doer/giver/emissary and observer/active receiver—contribute in this domain. Their positions may reverse within the enduring role and contract. Both have complete OODAs and access to the relevant original evidence. The active receiver participates while work proceeds, and either participant can correct or reorient the other. Keep their provisional views distinct from the accepted basis. The [common contract](../docs/operating-contract.md) defines the relational roles/polarities, their recording, meaningful exchange and restoration.
 
@@ -70,7 +70,7 @@ Keep detailed notes in their existing library or source owner. Distinguish the a
 
 ## 5. Authority, delegation and handoffs
 
-State role-specific decisions, read/write destinations, external-action boundaries and human commitments. Use authority already given for the task; ownership or tool access alone does not widen it. Apply the [common decision and action rights](../docs/operating-contract.md#decision-and-action-rights).
+State role-specific decisions, read/write destinations, external-action boundaries and commitments by the sovereign or another person. Use authority already given for the task; ownership or tool access alone does not widen it. Apply the [common decision and action rights](../docs/operating-contract.md#decision-and-action-rights).
 
 Assign one action owner for each shared write or external effect. Both participants can propose and challenge. Give material findings a considered disposition; return unresolved acceptance failures or decisions outside delegation to the existing owner.
 
@@ -86,7 +86,7 @@ Name the authoritative task/run/case record, artifact and live data owners. Keep
 | [Artifacts and live effects] | [Authoritative destination] | Result, revision and verification evidence |
 | [Private source/runtime bindings] | [Private deployment owner] | Access and execution route; no credentials in this contract |
 
-Use the common checkpoint and restoration method. Preserve each participant's relevant evidence and provisional view alongside accepted decisions. Separate attempted, retrieved, assessed, prepared, delivered and verified states where relevant. Reconcile uncertain effects at the exact destination before retrying, preserve newer human decisions and derive totals from saved records.
+Use the common checkpoint and restoration method. Preserve each participant's relevant evidence and provisional view alongside accepted decisions. Separate attempted, retrieved, assessed, prepared, delivered and verified states where relevant. Reconcile uncertain effects at the exact destination before retrying, preserve newer decisions by the sovereign or existing authorised decision owner and derive totals from saved records.
 
 Define how the recipient receives the result and how a fresh pair or replacement resumes. Record degraded operation honestly when one participant is unavailable. A saved file or timeout is not proof of delivered work or completion.
 
@@ -99,7 +99,7 @@ Apply [Correction, review and learning](../docs/operating-contract.md#correction
 - **Feedback and continuation:** downstream recipient or decision/application, expected response window, pending-outcome owner and condition for reconsideration. Silence remains unknown.
 - **Review and decision owners:** relevant domain expertise, competent independent scrutiny where warranted, report destination, change owner and future retrieval trigger.
 
-Return field reports that distinguish original observations, interpretations, decisions, actions and observed effects. Preserve successes, material exclusions, unresolved alternatives and uncertainty. Treat human corrections as evidence about the whole intended result. Separate single-loop improvements to the current method from double-loop questions about its framing, assumptions, measures or aims. Existing authority governs changes to those aims.
+Return field reports that distinguish original observations, interpretations, decisions, actions and observed effects. Preserve successes, material exclusions, unresolved alternatives and uncertainty. Treat the sovereign's corrections as evidence about the whole intended result. Separate single-loop improvements to the current method from double-loop questions about its framing, assumptions, measures or aims. Existing authority governs changes to those aims.
 
 Keep findings in existing records and accepted lessons at their maintained owner. Check whether a lesson is later retrieved, correctly applied and useful. Current targets remain in work briefs. Chief of Staff integrates cross-role effects; Harness Engineering examines mechanisms and whole-system coherence, with qualified independent scrutiny of its own consequential changes.
 
@@ -107,6 +107,6 @@ Keep findings in existing records and accepted lessons at their maintained owner
 
 Exercise both participants using the common [Runtime acceptance](../docs/operating-contract.md#runtime-acceptance) requirements. A fresh pair must find its assignment, load accepted guidance, retrieve and apply relevant evidence, produce one useful bounded result and resume from a checkpoint.
 
-Check meaningful reciprocal reconsideration, accepted human steering, preserved sound work, authority, one action owner, participant replacement and exact recovery. Show that the role's OODA contribution changes an observable decision, action or handoff. Repeating the instructions or naming OODA is insufficient.
+Check meaningful reciprocal reconsideration, accepted steering from the sovereign, preserved sound work, authority, one action owner, participant replacement and exact recovery. Show that the role's OODA contribution changes an observable decision, action or handoff. Repeating the instructions or naming OODA is insufficient.
 
 State loading/access limits and retain actual results. Publication, installation, loading, execution and useful outcomes remain separate statuses. The [synthetic research assignment](../examples/research-assignment.md) illustrates the method; it does not establish runtime acceptance.

@@ -5,7 +5,7 @@ description: Give a cold and adversarial review of bounded work against its brie
 
 # Sense of Taste
 
-Judge whether the actual work serves the human's intention and its place in the whole. Taste includes substance, usefulness, coherence and worthwhile possibilities. It extends beyond stylistic polish or a score.
+Judge whether the actual work serves the sovereign's intention and its place in the whole. Taste includes substance, usefulness, coherence and worthwhile possibilities. It extends beyond stylistic polish or a score.
 
 Use this method within an enduring role's doer/giver and observer/active-receiver pair. Either participant can investigate, challenge and revise a judgement. The skill supplies the review method; it does not create the pair, appoint a role or grant action or approval authority. It can also support an explicitly assigned independent review.
 
@@ -33,4 +33,4 @@ The assignment supplies domain standards, private source bindings and any missin
 
 Return a concise judgement with the evidence that changes a decision, sound work to retain, material repairs and remaining limits. A sound result can require no change. Stop when no material improvement remains within the agreed review scope, or when the effort bound is reached. State an unresolved acceptance failure or uncertainty instead of declaring a pass.
 
-Retain consequential findings and their dispositions in the existing work record. Distinguish improving execution under the current brief from questioning the framing, assumptions or standard itself. Human feedback can clarify what good means; changes to governing aims follow the existing authority route. Apply accepted learning through its maintained owner and retrieval trigger, then check its use on later relevant work. A completed review, saved lesson or agreement between agents does not establish improved outcomes.
+Retain consequential findings and their dispositions in the existing work record. Distinguish improving execution under the current brief from questioning the framing, assumptions or standard itself. The sovereign's feedback can clarify what good means; changes to governing aims follow the existing authority route. Apply accepted learning through its maintained owner and retrieval trigger, then check its use on later relevant work. A completed review, saved lesson or agreement between agents does not establish improved outcomes.
