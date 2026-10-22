@@ -6,7 +6,8 @@ This is the catalogue of OODA Harness's reusable skills, including methods being
 | --- | --- | --- | --- |
 | [Perception Check](skills/perception-check/SKILL.md) | Refresh situational awareness by establishing the horizon, accessible field of vision, actual observations, useful findings and material gaps. | Chief of Staff normally coordinates the wider picture; you can request a check directly. | MVP method prepared and exercised with an isolated fixture; live installation, source access and useful runtime behaviour remain unverified. |
 | [Writing and Editing](skills/writing-and-editing/SKILL.md) | Draft, edit and review prose, including advisory replies, while preserving meaning, evidence, argument and voice. | Shared across roles; the producing role remains accountable. | Method published. Hermes installation, loading and live use remain unverified. |
-| Sense of Taste | Provide an independent cold and adversarial review of bounded work against its brief, wider purpose and relevant standards, with specific feedback to the producer. | Any producing role can work with a reviewer buddy; the producing role retains accountability. | Draft method captured. Portable SKILL.md, installation and a real-work test remain unfinished. |
+| [Sense of Taste](skills/sense-of-taste/SKILL.md) | Judge bounded work against its brief, original evidence, wider purpose and standards. Preserve successful work and identify material gaps and useful possibilities. | Shared judgement method within an enduring role's pair; it can also serve an explicitly assigned review. | Packaged definition prepared for review and manual testing. Installation, loading and useful live execution remain unverified. |
+| [Community Research](skills/community-research/SKILL.md) | Investigate what relevant communities say about a harness-engineering question, following substantive discussion to original evidence and implementations. | Shared across roles; Research Lead maintains the method and community routes with Engineering's technical input. | Packaged definition prepared for review and manual testing. Installation, access to particular communities and useful live execution remain unverified. |
 
 For example: “Run a Perception Check for the past 72 hours. What needs my attention?”
 
@@ -14,7 +15,9 @@ For a schedule-only review, ask “Check the schedule”. The bounded [Schedule 
 
 The timeframe belongs to the request. This example sets no recurring schedule and assumes neither a previous check nor complete access to personal materials.
 
-Writing and Editing applies the maintained [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md). [SOUL.md](SOUL.md) requires their use; [AGENTS.md](AGENTS.md#communication) routes repository work and [ROLES.md](ROLES.md#coordination-and-shared-skills) covers delegation. Sense of Taste remains a separate draft review method, not an installed dependency of this skill.
+Writing and Editing applies the maintained [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md). [SOUL.md](SOUL.md) requires their use; [AGENTS.md](AGENTS.md#communication) routes repository work and [ROLES.md](ROLES.md#coordination-and-shared-skills) covers delegation. Sense of Taste supplies a separate judgement method; Writing and Editing remains independently usable. The [common operating contract](docs/operating-contract.md) defines the pair, not either skill.
+
+[LISTS.md](LISTS.md) routes to the packaged community directory, selected research resources and existing editorial references. Load resources when the assignment calls for them. Required package references and cross-skill dependencies must be available in the actual deployment; a link alone does not load them.
 
 ## Loading and connections
 
