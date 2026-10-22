@@ -1,12 +1,12 @@
 # Sovereign OODA Harness
 
-![Sovereign OODA Harness. A green eye reflects gold city lights. There's something in you that the world needs. Counter-revolutionary manoeuvre warfare. Cognitive superiority within the distributed mind.](assets/sovereign-ooda-cover.jpg)
+![Sovereign OODA Harness. A green eye reflects gold city lights. There's something in you that the world needs. Counter-revolutionary manoeuvre warfare. Cognitive superiority within the distributed mind. Ben O'Hanlon — ecosystemoperator.substack.com.](assets/sovereign-ooda-cover.jpg)
 
 **Private alpha.** No public installation release date is confirmed.
 
 Start with [current status and setup](#3-current-state-and-getting-started). Read the [operating model](#4-operating-model) and [component map](#5-system-design-and-components).
 
-[SOUL](SOUL.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md) · [Lists](LISTS.md)
+[SOUL](SOUL.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md) · [Lists](LISTS.md) · [Brand guide](brand/README.md)
 
 Welcome to the real OODA Harness. OODA stands for Observe, Orient, Decide and Act. [John Boyd](https://slightlyeastofnew.com/wp-content/uploads/2010/03/essence_of_winning_losing.pdf) described its role in enabling us to “comprehend, shape, adapt to and in turn be shaped by an unfolding evolving reality that is uncertain, everchanging, and unpredictable.” OODA is a non-linear process of continuing reorientation and feedback, rather than a fixed sequence of four steps.
 

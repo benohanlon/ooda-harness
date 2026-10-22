@@ -24,6 +24,8 @@ For an explicitly assigned enduring role, use the [common operating contract](do
 
 Use [Writing and Editing](skills/writing-and-editing/SKILL.md) and its [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md) for authored or edited prose, reviews and advisory replies. Read the standard before the relevant work and reuse a current read during the task. Apply it alongside specialist workflows, preserving their scope and execution rules.
 
+For project artwork and cover images, use the [brand guide](brand/README.md) and its approved reference assets.
+
 When delegating this work, include the current brief, relevant sources, accepted corrections and the shared skill and standard in the assignment. Do not assume a child agent inherits SOUL or the parent's loaded skills. Use the [role directory's handover rule](ROLES.md#coordination-and-shared-skills) before accepting or integrating its result.
 
 ## Emerging layout

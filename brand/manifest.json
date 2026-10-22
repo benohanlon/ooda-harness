@@ -1,0 +1,27 @@
+{
+  "brand": "Sovereign OODA Harness",
+  "version": "1.1",
+  "status": "approved benchmark",
+  "approved_on": "2026-10-22",
+  "revision": "Credited cover with softer title, muted attribution and NEEDS without a full stop.",
+  "generation": "Built-in image generation tool; GitHub JPEG is a proportional resize and compression export.",
+  "assets": [
+    {
+      "file": "brand/assets/sovereign-ooda-cover-master.png",
+      "width": 1774,
+      "height": 887,
+      "bytes": 2596533,
+      "sha256": "066ddfdb5f61334523e259a7f6f569d3fdd2854cd00d415ad8459fe70c664a7c",
+      "git_blob_sha": "8305e9b8221abad89dfe84ddb0247b76dc6e9a09"
+    },
+    {
+      "file": "assets/sovereign-ooda-cover.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 497082,
+      "sha256": "02e85892a8fd475c4c560f33f92d72d2f46d3624726627ed5870e844c0a1afd6",
+      "git_blob_sha": "f667d54e74cef2a78ff2b137cba391cabdcbf414"
+    }
+  ],
+  "asset_paths_relative_to": "repository root"
+}
