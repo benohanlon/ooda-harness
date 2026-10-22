@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="875" viewBox="0 0 1280 875" role="img" aria-labelledby="title desc">
+<title id="title">Sovereign OODA Harness editable typography</title><desc id="desc">IBM Plex Mono Medium for identity and support, Inter Bold for the pupil message. Prototype typesetting, not a change to the approved raster.</desc>
+<style>
+@font-face{font-family:OodaMono;src:url('../fonts/IBMPlexMono-Regular.ttf') format('truetype');font-weight:400}
+@font-face{font-family:OodaMono;src:url('../fonts/IBMPlexMono-Medium.ttf') format('truetype');font-weight:500}
+@font-face{font-family:OodaSans;src:url('../fonts/Inter-Bold.woff2') format('woff2');font-weight:700}
+text{font-kerning:normal;text-rendering:geometricPrecision}
+.mono{font-family:OodaMono,'IBM Plex Mono',monospace;font-weight:500}
+.small{font-family:OodaMono,'IBM Plex Mono',monospace;font-weight:400}
+.message{font-family:OodaSans,Inter,sans-serif;font-weight:700}
+</style><rect width="1280" height="875" fill="#07140F"/>
+<text class="mono" x="60" y="65" font-size="22" fill="#C9C5B5" text-anchor="start" letter-spacing="1.5">SOVEREIGN OODA HARNESS</text><text class="mono" x="60" y="145" font-size="48" fill="#F1EBD7" text-anchor="start" letter-spacing="0">EDITABLE TYPOGRAPHY</text><path d="M60 182H1220" fill="none" stroke="#C6A45D" stroke-width="2"/><text class="small" x="60" y="237" font-size="19" fill="#C6A45D" text-anchor="start" letter-spacing="0">IDENTITY / IBM PLEX MONO MEDIUM</text><text class="mono" x="60" y="314" font-size="40" fill="#C9C5B5" text-anchor="start" letter-spacing="2.5">SOVEREIGN OODA HARNESS</text><text class="small" x="60" y="402" font-size="19" fill="#C6A45D" text-anchor="start" letter-spacing="0">MESSAGE / INTER BOLD</text><text class="message" x="60" y="483" font-size="51" fill="#F1EBD7" text-anchor="start" letter-spacing="0">THERE&#x27;S SOMETHING IN YOU</text><text class="message" x="60" y="547" font-size="51" fill="#F1EBD7" text-anchor="start" letter-spacing="0">THAT THE WORLD NEEDS</text><text class="small" x="60" y="632" font-size="19" fill="#C6A45D" text-anchor="start" letter-spacing="0">SUPPORT / IBM PLEX MONO MEDIUM</text><text class="mono" x="60" y="689" font-size="34" fill="#C6A45D" text-anchor="start" letter-spacing="0">COUNTER-REVOLUTIONARY</text><text class="mono" x="60" y="738" font-size="34" fill="#C6A45D" text-anchor="start" letter-spacing="0">MANOEUVRE WARFARE</text><path d="M60 788H1220" fill="none" stroke="#C6A45D" stroke-width="2"/><text class="small" x="60" y="831" font-size="18" fill="#C9C5B5" text-anchor="start" letter-spacing="0">Prototype typesetting; the approved raster remains the visual benchmark</text>
+</svg>

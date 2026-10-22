@@ -1,32 +1,247 @@
 {
   "brand": "Sovereign OODA Harness",
-  "version": "1.2",
-  "status": "approved benchmark",
-  "approved_on": "2026-10-22",
-  "revision": "Added credit removed to restore balance; softer title and NEEDS without a full stop retained.",
-  "generation": "Built-in image generation tool; GitHub JPEG is a proportional resize and compression export.",
+  "kit_version": "1.3",
+  "approved_cover_version": "1.2",
+  "template_revision": "0.1",
+  "published_on": "2026-10-22",
+  "status": "Kit improvements authorised for publication; approved artwork remains cover v1.2; template layouts are prototypes",
+  "asset_paths_relative_to": "repository root",
+  "generation": {
+    "approved_cover": "Existing built-in image tool output, unchanged",
+    "clean_eye": "Built-in image tool removed typography and rules; source prompt in brand/prompts/clean-eye-prototype-v1.3.txt",
+    "template_exports": "Live SVG text, local bundled fonts and separate clean photographic layer, rendered with Playwright and Chromium"
+  },
+  "attribution": {
+    "author": "Ben O’Hanlon",
+    "public_url": "https://ecosystemoperator.substack.com/",
+    "placement": "Accompanying text and metadata; no embedded author, URL or watermark on artwork"
+  },
   "assets": [
     {
-      "file": "brand/assets/sovereign-ooda-cover-master.png",
-      "width": 1774,
-      "height": 887,
-      "bytes": 2535801,
-      "sha256": "ee1b5e82cbd3fa33028642cf6fce793deaa53786163bb1262054c39ea88947a2",
-      "git_blob_sha": "f95debf5f041bd8354b1a4cefb8a71203afe4d10"
-    },
-    {
       "file": "assets/sovereign-ooda-cover.jpg",
-      "width": 1280,
-      "height": 640,
       "bytes": 495146,
       "sha256": "8a4bd8ed10a9d097c84a48055f85b8fa4768de218dc59ab60709710a10286f4d",
-      "git_blob_sha": "0ac2a6063a19fdd0ede8a36edcedd506e0daa545"
+      "git_blob_sha": "0ac2a6063a19fdd0ede8a36edcedd506e0daa545",
+      "width": 1280,
+      "height": 640,
+      "status": "approved cover v1.2; unchanged"
+    },
+    {
+      "file": "brand/assets/eye-clean-prototype.jpg",
+      "bytes": 421008,
+      "sha256": "e137a76233acd1caa02301009573a7f290ee807e76c410e57e223b3eb7d8e70b",
+      "git_blob_sha": "a05b67503d4c22f7e4158af1b715f885fe3fb6f6",
+      "width": 1280,
+      "height": 640,
+      "status": "prototype; not approved artwork"
+    },
+    {
+      "file": "brand/assets/sovereign-ooda-cover-master.png",
+      "bytes": 2535801,
+      "sha256": "ee1b5e82cbd3fa33028642cf6fce793deaa53786163bb1262054c39ea88947a2",
+      "git_blob_sha": "f95debf5f041bd8354b1a4cefb8a71203afe4d10",
+      "width": 1774,
+      "height": 887,
+      "status": "approved cover v1.2; unchanged"
+    },
+    {
+      "file": "brand/fonts/IBMPlexMono-Medium.ttf",
+      "bytes": 136704,
+      "sha256": "a9b4c49bb299e05b5f6c481e7fb5e78943d2793249a0c8874ab574a2d1ea6755",
+      "git_blob_sha": "33c546f68b6007a45a3f10e845523abb2db25399"
+    },
+    {
+      "file": "brand/fonts/IBMPlexMono-OFL.txt",
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+      "git_blob_sha": "c35c4c618fab33da8695177b3a6cefe0810b7b28"
+    },
+    {
+      "file": "brand/fonts/IBMPlexMono-Regular.ttf",
+      "bytes": 135580,
+      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46",
+      "git_blob_sha": "0c9770d5183ba60dc4350d3e011b782a320761ae"
+    },
+    {
+      "file": "brand/fonts/Inter-Bold.ttf",
+      "bytes": 420428,
+      "sha256": "288316099b1e0a47a4716d159098005eef7c0066921f34e3200393dbdb01947f",
+      "git_blob_sha": "9fb9b751e5b2441054f6eef670da7b3f53a3505a"
+    },
+    {
+      "file": "brand/fonts/Inter-Bold.woff2",
+      "bytes": 114840,
+      "sha256": "fa888127b6da015b65569f0351f3b5c391ad928904951f1c20e9f8462a8d95ea",
+      "git_blob_sha": "b9e3cb3b1fde34010b001d0a069b6a5ce2a08d0f"
+    },
+    {
+      "file": "brand/fonts/Inter-LICENSE.txt",
+      "bytes": 4380,
+      "sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "git_blob_sha": "9b2ca37b3ffc77391d8b2ebef4a974ef32bf46ea"
+    },
+    {
+      "file": "brand/fonts/README.md",
+      "bytes": 1557,
+      "sha256": "b8f3944caf44f318315ea300ccf06c6742646d70ae1080e2386398e52aee79cb",
+      "git_blob_sha": "7a4cf34812961fc3ea921b426bd218c5294c16b5"
+    },
+    {
+      "file": "brand/GUIDELINES.md",
+      "bytes": 10749,
+      "sha256": "50fc4761886105f8d33cc3da101ef1f8bf0a9420e9a9b3cdeea173a4aa456c3c",
+      "git_blob_sha": "0745e9843c26313ef8cdf9b583954cc270a2f38d"
+    },
+    {
+      "file": "brand/previews/colour-system.png",
+      "bytes": 47811,
+      "sha256": "42eb0ee54351e7d9e425fbf753776aaed0620105ee6bdbe64b410ece021d2069",
+      "git_blob_sha": "1f50256054d46f7666c66f154cb3371e13f22f39",
+      "width": 1280,
+      "height": 875
+    },
+    {
+      "file": "brand/previews/colour-system.svg",
+      "bytes": 4294,
+      "sha256": "e9e081948ce2bd6ce3a5cf879d22d9244a6aafbaef6b41959059d7fe4a53e44a",
+      "git_blob_sha": "3c9fd26ed9728e448aea812bd11cb3f240fd31f0"
+    },
+    {
+      "file": "brand/previews/compact-landscape.jpg",
+      "bytes": 191575,
+      "sha256": "9ff6337caf2f4020d15e1b30d24946bf5f32d269b5e32dc2d608ec0c87ada2f1",
+      "git_blob_sha": "03421c1c45e311d82d6b79cacae1da99d778ee2a",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "file": "brand/previews/cover-editable.jpg",
+      "bytes": 358479,
+      "sha256": "d972587eb5ebbd7552c52fac294ef10512e256a616c586ec2bc5776d093327f8",
+      "git_blob_sha": "8dd112cf6df33d8df2b234cf16783ede5e8ea510",
+      "width": 1280,
+      "height": 640
+    },
+    {
+      "file": "brand/previews/layout-gallery.jpg",
+      "bytes": 533573,
+      "sha256": "92ece80c273a70060e38523363d8b056b997be022bfa0e82655fc350b2724691",
+      "git_blob_sha": "e009dc12d7f104837f7c196f55fafedb91ac0114",
+      "width": 1600,
+      "height": 1580
+    },
+    {
+      "file": "brand/previews/layout-gallery.svg",
+      "bytes": 2326,
+      "sha256": "3135dfacb175d520fb959574a6e94235cde7f2aaae69e5bd15c141389974688f",
+      "git_blob_sha": "0ab1e506da348e2650e6660737e602d5d16f5df9"
+    },
+    {
+      "file": "brand/previews/portrait.jpg",
+      "bytes": 283984,
+      "sha256": "642b36950916dcc37a199e6f3c97e442d1c2d41ad47988e2783348ff9673e01a",
+      "git_blob_sha": "dcaca87b18d6ee9344ef57143c29e8a33164b9b6",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "file": "brand/previews/square.jpg",
+      "bytes": 269695,
+      "sha256": "6096baa429c43d22127038dab6dfc2013634519b1a8fd11953c9c5c92555e5cc",
+      "git_blob_sha": "dc3f498f6222aca7044e20e3d24e125b1d4ae878",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "file": "brand/previews/typography.png",
+      "bytes": 65702,
+      "sha256": "43dd08e687539a02e7fbf40fcce9bf5306a126cc5d307d8f21f469653cbdf240",
+      "git_blob_sha": "bb69cba0f7e755cb082bf803ba23c7727f284f56",
+      "width": 1280,
+      "height": 875
+    },
+    {
+      "file": "brand/previews/typography.svg",
+      "bytes": 2690,
+      "sha256": "206d8a135608a046536abe95a89c8babb4d90eda133e2d5c8655c8c15394b822",
+      "git_blob_sha": "81a6bd8ec224b60726ec4d3d47ede24ca9ea70aa"
+    },
+    {
+      "file": "brand/prompts/clean-eye-prototype-v1.3.txt",
+      "bytes": 1259,
+      "sha256": "efc8c2b850b60de64754e7c4ed16340c2b64aa430b35fc1c51599ec81ae55d41",
+      "git_blob_sha": "b9f91041f11b0a6d8188c30fd6dc84596cd650d7"
+    },
+    {
+      "file": "brand/PROMPTS.md",
+      "bytes": 3989,
+      "sha256": "145a4d017691bf33724f7984d20febad59ccc833a00196d2e907bda42c0493c9",
+      "git_blob_sha": "c1eee3e464cde14b2e00e9bc840356662e17f942"
+    },
+    {
+      "file": "brand/README.md",
+      "bytes": 5239,
+      "sha256": "3283843849ba6e4a39311d99a7cf0da8a73c86bcb80db33a2e20bfe45197d2da",
+      "git_blob_sha": "20f75f95701517d02ba4bf07b75bbec19cbf1cb9"
+    },
+    {
+      "file": "brand/templates/compact-landscape.svg",
+      "bytes": 2798,
+      "sha256": "5a05f2fa14fed207c93f90189f0f06f8bdeb65ac764c4c4406ffb3b6771a12f5",
+      "git_blob_sha": "bb6e2613e0989a01959a09f272e95fa9a9f4391d",
+      "status": "prototype; not approved artwork"
+    },
+    {
+      "file": "brand/templates/cover-editable.svg",
+      "bytes": 2614,
+      "sha256": "63eef551bf2e69400207d64efbd66c02cf29370822df003c0c3e0b13e853d247",
+      "git_blob_sha": "a32bc0ba651c66757029c05a16b0329dec759afa",
+      "status": "prototype; not approved artwork"
+    },
+    {
+      "file": "brand/templates/layouts.json",
+      "bytes": 956,
+      "sha256": "0510f47ac944352879feae7895c4a78376c8d4d41f7242199e1fc7775796a42f",
+      "git_blob_sha": "fe5c35217a113742008b386978a5f2fae46ffd7f"
+    },
+    {
+      "file": "brand/templates/package.json",
+      "bytes": 216,
+      "sha256": "153f1e59b6495eeedec14d2985ccdfe36761ffe0ea8a1c12056504a21e7b2ed2",
+      "git_blob_sha": "e844fd4aade061090af40807d4fb2e8f8ccff683"
+    },
+    {
+      "file": "brand/templates/portrait.svg",
+      "bytes": 2806,
+      "sha256": "c01247fd8b0c760562ac4de54a6bacaa0fe092fc859cf518da86e731eb201382",
+      "git_blob_sha": "2bbddf895646fe9911bf8eedab851f5c96546e30",
+      "status": "prototype; not approved artwork"
+    },
+    {
+      "file": "brand/templates/README.md",
+      "bytes": 2690,
+      "sha256": "13f90787f158e84e5dcd074c984745335397ec41ade35192d28cc4b19d68e3aa",
+      "git_blob_sha": "06318909c442c6caa505011b0655945b33aa317d"
+    },
+    {
+      "file": "brand/templates/render.mjs",
+      "bytes": 5901,
+      "sha256": "2cf52111166764ac46d5b54962973db36e65646c06a62c4e0a4d926f9f72c84e",
+      "git_blob_sha": "d3732626d99e031bc44a1d2230572bf262cacfdb"
+    },
+    {
+      "file": "brand/templates/square.svg",
+      "bytes": 2799,
+      "sha256": "31b6eb7bfb2fe853a34decd7be54fce67cfb9637178a3f448369113306dceb6e",
+      "git_blob_sha": "5acc36336c5fc97d8de2996342fb3bf745df63b4",
+      "status": "prototype; not approved artwork"
+    },
+    {
+      "file": "brand/tokens.json",
+      "bytes": 3941,
+      "sha256": "41ceaa7bc5bde4c63e149357e8138519fe545079bd0669768b67a10cb1970e83",
+      "git_blob_sha": "155888bff214682c83affb7aba498220bab67032"
     }
   ],
-  "attribution": {
-    "author": "Ben O\u2019Hanlon",
-    "public_url": "https://ecosystemoperator.substack.com/",
-    "placement": "Accompanying text and metadata; not embedded in the cover"
-  },
-  "asset_paths_relative_to": "repository root"
+  "checksum_scope": "Assets above exclude this manifest and the ZIP to avoid recursive hashes. Archive checksum is in brand/downloads/SHA256SUMS.txt."
 }

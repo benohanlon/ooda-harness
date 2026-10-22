@@ -1,4 +1,4 @@
-# Sovereign OODA Harness � reusable artwork prompts
+# Sovereign OODA Harness — reusable artwork prompts
 
 Use these with the approved v1.2 image attached. The image is the main visual authority. These templates do not promise identical results from text alone.
 
@@ -10,7 +10,7 @@ For a full cover, preserve the softer warm-bone title and the complete pupil sta
 Use the attached Sovereign OODA Harness approved v1.2 cover as the edit target and visual benchmark.
 
 Task: [asset purpose and destination].
-Output: [width � height and aspect ratio].
+Output: [width × height and aspect ratio].
 Change only: [specific requested changes].
 Exact copy: [complete text and intended line breaks].
 
@@ -63,3 +63,12 @@ Check MANOEUVRE letter by letter: M A N O E U V R E. Keep the hyphen in COUNTER-
 ```text
 Compare this candidate with the attached approved cover. Check palette, eye scale/crop/angle, reflected light, type hierarchy, exact copy, output ratio and legibility. Identify any material drift and fix the smallest number of things needed. Keep the candidate separate from the approved benchmark until Ben selects it.
 ```
+
+
+## Use the editable layouts
+
+Use [templates/README.md](templates/README.md) when the change concerns copy, spacing, type size or output format. Edit the live SVG text and explicit coordinates, then render with the bundled fonts. Reuse the clean photographic plate for these studies. Avoid generating typography again when an editable layout already serves the brief.
+
+The four v1.3 layouts are prototypes. The approved cover is v1.2. Do not substitute a template export into the repository README until Ben selects it. Keep all current chosen copy, including the five-line pupil statement and strategic footer, unless the brief explicitly changes it.
+
+For a new photographic edit, attach the approved cover and identify exactly what may change. The [clean-plate prompt](prompts/clean-eye-prototype-v1.3.txt) records the derivative used in these templates.

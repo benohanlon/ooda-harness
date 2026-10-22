@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cover-editable",
+    "width": 1280,
+    "height": 640,
+    "status": "prototype; not the approved cover",
+    "purpose": "Full cover",
+    "source": "templates/cover-editable.svg",
+    "preview": "previews/cover-editable.jpg"
+  },
+  {
+    "id": "compact-landscape",
+    "width": 960,
+    "height": 720,
+    "status": "prototype; not the approved cover",
+    "purpose": "Compact landscape",
+    "source": "templates/compact-landscape.svg",
+    "preview": "previews/compact-landscape.jpg"
+  },
+  {
+    "id": "square",
+    "width": 1080,
+    "height": 1080,
+    "status": "prototype; not the approved cover",
+    "purpose": "Square",
+    "source": "templates/square.svg",
+    "preview": "previews/square.jpg"
+  },
+  {
+    "id": "portrait",
+    "width": 1080,
+    "height": 1350,
+    "status": "prototype; not the approved cover",
+    "purpose": "Portrait",
+    "source": "templates/portrait.svg",
+    "preview": "previews/portrait.jpg"
+  }
+]

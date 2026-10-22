@@ -1,145 +1,64 @@
-# Sovereign OODA Harness � brand kit v1.2
+# Sovereign OODA Harness — brand kit
 
-Approved by Ben on 22 October 2026. Version 1.2 removes the added authorship line to restore the cover's balance. The softer title and the pupil statement ending NEEDS without a full stop remain.
+![Approved v1.2 cover: an oblique emerald eye reflecting gold city lights, with the message There's something in you that the world needs](../assets/sovereign-ooda-cover.jpg)
 
-## Start with the approved artwork
+**Kit v1.3 · Approved cover v1.2 · 22 October 2026**
 
-![Approved cinematic eye cover](../assets/sovereign-ooda-cover.jpg)
+[Download complete kit](downloads/sovereign-ooda-brand-kit-v1.3.zip?raw=true) · [Design guidelines](GUIDELINES.md) · [Editable layouts](templates/README.md) · [Artwork prompts](PROMPTS.md)
 
-[Master PNG](assets/sovereign-ooda-cover-master.png) � [GitHub JPEG](../assets/sovereign-ooda-cover.jpg) � [Reusable prompts](PROMPTS.md) � [Design tokens](tokens.json)
+An intimate human eye caught in a moment of noticing. Dark forest green, an emerald iris, gold reflected light and a warm-bone statement inside the pupil. The human message leads; counter-revolutionary manoeuvre warfare and cognitive superiority within the distributed mind provide the strategic frame.
 
-Use the approved image as the visual reference in every artwork brief. Reuse the existing asset whenever the task needs this cover. New generations are candidates until compared with it and accepted. The earlier blue, frontal-eye and pupil-position studies are exploration history.
+## Approved artwork
 
-## Identity and intent
+Use this cover unchanged when you need the established identity. It has no embedded author name or URL. Keep origin credit in accompanying text and metadata.
 
-Sovereign OODA Harness connects observation and orientation with human agency, sovereignty and the distributed mind. The artwork combines an intimate human eye with the pressure and complexity of the world reflected in it.
+| Asset | Dimensions | Use | Download |
+| --- | --- | --- | --- |
+| Approved cover v1.2 | 1280 × 640, JPEG, 495 KB | Repository README; suitable dimensions for a social preview | [JPEG](../assets/sovereign-ooda-cover.jpg?raw=true) |
+| Approved master v1.2 | 1774 × 887, PNG | Visual benchmark and source archive | [PNG](assets/sovereign-ooda-cover-master.png?raw=true) |
+| Complete kit v1.3 | ZIP | Artwork, sources, fonts, guides and prototypes | [ZIP](downloads/sovereign-ooda-brand-kit-v1.3.zip?raw=true) |
 
-The emotional centre is the message inside the pupil: there is something in you that the world needs. Counter-revolutionary, manoeuvre warfare and cognitive superiority supply the strategic framing. Preserve the user's language.
+The repository README already displays the approved JPEG. GitHub's repository social-preview setting is separate. The JPEG meets its recommended 1280 × 640 dimensions and under-1-MB file size. See [GitHub's guidance](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview).
 
-The chosen look is cinematic, tactile, alert and human. Green carries the identity, gold carries structure and reflected light, and bone carries the message. Blade Runner's reflected-world eye informed the cinematic treatment; Nous/Hermes and Metalabel informed the earlier print and typographic research. The approved Sovereign OODA image is the reference for production.
+## Colour
 
-## The eye
+![Six colour swatches: forest dark #07140F, emerald #20784E, sage #A2BA91, antique gold #C6A45D, bone #F1EBD7 and quiet bone #C9C5B5](previews/colour-system.png)
 
-- Use a large emerald iris and dark pupil in an extreme close crop. Preserve natural anatomy and the intimate scale.
-- Carry a diagonal sweep through the eyelids and lashes, falling toward the viewer's right. The intended reading is a slightly low, oblique viewpoint and attention caught by something below-right.
-- Keep the eye as a fragment of a person in a moment of noticing. Preserve the tension, vulnerability and ambiguity of alertness or surprise.
-- Reflect tiny city lights and distant amber-gold fire across the iris and corneal highlights. They suggest the surrounding world; they must not cover the pupil's words.
-- Keep the pupil dark, the personal statement upright and complete, and the iris visually dominant.
-- Match the approved image's visible geometry. Do not replace it with a frontal whole almond eye or treat sideways pupil movement alone as the solution.
-
-The viewpoint is art direction and a perceptual reading. The benchmark itself resolves ambiguities more reliably than a verbal camera description.
-
-## Colour system
-
-These hex values are working targets for editable materials. The approved photograph contains a broad tonal range; they are not measurements of every generated pixel.
-
-| Colour | Target | Use |
-| --- | --- | --- |
-| Forest dark | #07140F | Main background and negative space. |
-| Emerald | #20784E | Eye and primary identity colour. |
-| Sage | #A2BA91 | Lighter photographic detail. |
-| Antique gold | #C6A45D | Rules, strategic labels and warm light accents. |
-| Bone | #F1EBD7 | Pupil statement and cognitive footer. |
-| Quiet bone | #C9C5B5 | Softer product title. |
-
-Keep dark green dominant. Gold rules and labels are flat printed colour; gold reflections within the eye may glow naturally. Bone text stays clear against dark areas. Preserve the green-and-gold balance rather than shifting the whole image to orange, blue or cream.
+Green carries the identity, gold carries structure and reflected light, and bone carries the message. These are working targets for editable materials; the photograph retains a broad tonal range. [Colour values and roles](GUIDELINES.md#colour-system) · [Design tokens](tokens.json).
 
 ## Typography
 
-| Role | Editable specification | Treatment |
-| --- | --- | --- |
-| Product title | Courier New Bold; Courier or monospace fallback | Uppercase quiet bone, left aligned, generous tracking. |
-| Pupil statement | Helvetica Bold; Arial Bold or sans-serif fallback | Uppercase, compact five-line block, centred in pupil. |
-| Strategic labels | Courier New Bold; Courier or monospace fallback | Uppercase gold, left and right beneath the image. |
-| Cognitive footer | Courier New Bold; Courier or monospace fallback | Uppercase bone, two centred lines. |
+![Editable typography specimen: IBM Plex Mono Medium for identity and supporting lines, Inter Bold for the central message](previews/typography.png)
 
-The approved raster approximates these letterforms and has no editable text or embedded fonts. These are production choices for future live typesetting.
+The new editable studies use **IBM Plex Mono Medium** and **Inter Bold**, with bundled font files and licences. The approved raster's letterforms remain the visual benchmark. [Type specifications](GUIDELINES.md#editable-template-typography) · [Font files and sources](fonts/README.md).
 
-Maintain this order of attention: personal statement and eye, product identity, strategic labels, cognitive footer. Check real display size; use live type when exact wording and spacing are critical.
+## Layout studies
 
-## Attribution
+![Four prototype layouts: full cover, compact landscape, square and portrait. These are studies rather than approved cover replacements](previews/layout-gallery.jpg)
 
-The approved cover has no embedded author name, handle, URL, signature or watermark. Keep origin credit in accompanying text and asset metadata, preserving the image's visual balance.
+The compact landscape, square and portrait recompose the eye and type for their available space. Every study preserves the full chosen wording. Their text and artwork are separate, so future spacing and copy changes can be made precisely.
 
-Creator: Ben O�Hanlon. Public destination: [The Ecosystem Operator](https://ecosystemoperator.substack.com/). The README already carries the project's creator and publication links.
+**Prototype status:** these layouts and the clean eye are production studies. The approved cover remains v1.2.
 
-## Canonical cover copy
+| Layout | Dimensions | Preview | Editable source |
+| --- | --- | --- | --- |
+| Full cover | 1280 × 640 | [JPEG](previews/cover-editable.jpg) | [SVG](templates/cover-editable.svg) |
+| Compact landscape | 960 × 720 | [JPEG](previews/compact-landscape.jpg) | [SVG](templates/compact-landscape.svg) |
+| Square | 1080 × 1080 | [JPEG](previews/square.jpg) | [SVG](templates/square.svg) |
+| Portrait | 1080 × 1350 | [JPEG](previews/portrait.jpg) | [SVG](templates/portrait.svg) |
 
-Product name:
+[Editing and rendering](templates/README.md) explains the linked source files and the reproducible exports. Compare candidates at their actual display size before selecting a new benchmark.
 
-```text
-SOVEREIGN OODA HARNESS
-```
+## Make related artwork
 
-Pupil statement, five lines:
+Start with the approved cover, the [guidelines](GUIDELINES.md) and the [reusable prompts](PROMPTS.md). State the destination, exact copy and deliberate changes. Preserve the eye's oblique crop, the green-and-gold balance, the dark pupil and the hierarchy of the message.
 
-```text
-THERE'S
-SOMETHING
-IN YOU
-THAT THE WORLD
-NEEDS
-```
+For text or spacing changes, use an editable layout. For photographic changes, use the approved image as the reference and keep new candidates separate until selected. Do not add watermarks, generic HUD graphics, unrelated symbols or other organisations' logos.
 
-Strategic labels:
+## Sources and maintenance
 
-```text
-COUNTER-REVOLUTIONARY
-MANOEUVRE WARFARE
-```
+Created by **Ben O’Hanlon**, author of [The Ecosystem Operator](https://ecosystemoperator.substack.com/). The eye direction draws on the reflected-world imagery of Blade Runner; Nous/Hermes and Metalabel informed earlier print and typographic exploration. The approved OODA artwork is the production reference.
 
-Footer:
+[Manifest and checksums](manifest.json) · [Design tokens](tokens.json) · [Exact clean-eye edit prompt](prompts/clean-eye-prototype-v1.3.txt).
 
-```text
-COGNITIVE SUPERIORITY
-WITHIN THE DISTRIBUTED MIND
-```
-
-Retain the hyphen in COUNTER-REVOLUTIONARY and the British spelling MANOEUVRE: M A N O E U V R E. The final pupil line is NEEDS, with no full stop. Preserve the full statement and footer. New campaign wording should be an explicit brief choice.
-
-## Composition and formats
-
-The approved cover is 2:1. The eye image reaches the canvas edges; title, rules and lower text sit within approximately 4% horizontal margins. The photographic band occupies roughly 60% of the height. These are matching guides, not a substitute for the actual artwork.
-
-The title sits above a thin gold rule. The eye fills the middle. Gold strategic labels sit beneath it, followed by a second gold rule and a two-line bone footer. The pupil is left of the canvas centre and contains the personal statement.
-
-| Asset | Dimensions | Use |
-| --- | --- | --- |
-| Approved master PNG | 1774 � 887 | Preserve at native resolution as the benchmark. |
-| GitHub JPEG | 1280 � 640 | README cover and repository social preview. |
-| Future 2:1 master | Brief-specific; retain 2:1 | Produce new detail only when a larger source is needed. |
-| Square or portrait adaptation | Set for its destination | Recompose the hierarchy and image crop; keep natural anatomy and complete chosen copy. |
-
-Resize proportionally. Do not stretch the eye or crop away text to make a different ratio. A future larger export from this master is an upscale, not additional source detail.
-
-GitHub recommends 1280 � 640 and a file below 1 MB for repository social previews. This is separate from README display sizing. Our JPEG is 495,146 bytes. [GitHub guidance](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview).
-
-## Making coherent new artwork
-
-1. Open the approved cover and this guide before drafting the brief.
-2. State the asset's purpose, destination, ratio and exact copy.
-3. Attach the approved cover as the main image reference. State the one or two deliberate changes.
-4. Keep the palette, eye treatment, type contrast and hierarchy consistent. Let the reflected environment vary when the brief calls for it.
-5. Compare the candidate beside the benchmark at full size and at its intended display size.
-6. Check every word, the pupil's contrast, natural anatomy and safe margins. Record what changed.
-7. Save candidates separately. Promote a new benchmark only after Ben selects it; retain previous approved versions.
-
-Do not introduce generic HUD overlays, unrelated symbols, additional eyes, other organisations' logos or a new dominant palette. Keep the human message central.
-
-## Approval check
-
-- The image belongs to the same green, gold and dark visual family.
-- The crop, iris scale and diagonal geometry preserve the moment of noticing.
-- Reflected lights add atmosphere without obscuring the personal statement.
-- The personal statement is the first clear textual read.
-- Every chosen line is correct and legible at the intended output size.
-- The image is proportionate, with no stretched anatomy or clipped wording.
-- The brief's deliberate changes are clear; the benchmark has not silently drifted.
-
-## Files and versioning
-
-Version 1.1 freezes the approved cinematic eye cover. The manifest records dimensions, byte counts and SHA-256 checksums for the packaged assets. The ZIP contains this guide, design tokens, reusable prompts, generation/edit prompts, the master and the GitHub export.
-
-The current master is assets/sovereign-ooda-cover-master.png. The README uses ../assets/sovereign-ooda-cover.jpg. Git history preserves earlier published versions; Notion retains approvals and exploration history.
-
-GitHub carries the portable guide, tokens, reusable prompts, manifest, master and cover export. Notion retains the maintained approval record and exploration history. On a new accepted revision, update the portable files and record the accepted commit in Notion. Publication is separate from any runtime deployment.
+GitHub holds this portable kit. The maintained approval and exploration record is in Notion. Git history preserves earlier published versions. Kit v1.3 improves presentation and reuse; it preserves the approved v1.2 cover.
