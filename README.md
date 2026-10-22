@@ -1,5 +1,7 @@
 # Sovereign OODA Harness
 
+![Sovereign OODA Harness. A green eye reflects gold city lights. There's something in you that the world needs. Counter-revolutionary manoeuvre warfare. Cognitive superiority within the distributed mind.](assets/sovereign-ooda-cover.jpg)
+
 **Private alpha.** No public installation release date is confirmed.
 
 Start with [current status and setup](#3-current-state-and-getting-started). Read the [operating model](#4-operating-model) and [component map](#5-system-design-and-components).
