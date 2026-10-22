@@ -21,7 +21,7 @@ Produce the requested communication while preserving the intended meaning, evide
 
 Use this shared standard alongside a specialist writing or production skill when the task needs one. Keep specialist steps in that workflow rather than repeating them here. Resolve that workflow's canonical evidence, accepted examples and acceptance criteria from the assigned role, task brief or private setup; report missing routes or access. The assigned role remains accountable for the result.
 
-An independent reviewer can use the same standard to assess the actual artifact against its brief and accepted basis. A review method such as the proposed Sense of Taste skill can coordinate that review when available; it is not required to load or use this skill.
+An independent reviewer can use the same standard to assess the actual artifact against its brief and accepted basis. [Sense of Taste](../sense-of-taste/SKILL.md) supplies a shared method for that review; it is not required to load or use Writing and Editing.
 
 ## Completion
 
