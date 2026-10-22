@@ -142,7 +142,7 @@ The team coordinates around a small set of system-wide units of account, drawing
 
 ### Two agents within each role
 
-Each enduring role has one contract and outward accountability, with two agents operating around it. Both begin with the same relevant specification, guidance, context and available capabilities. They adopt complementary relational roles, or polarities: doer/giver and observer/active receiver. These positions may reverse without changing the enduring role or contract. Each has a complete OODA. Both can investigate, interpret, challenge and revise the other's understanding while work proceeds.
+Each enduring role is an atomic operating unit comprising two agents and one shared contract, including its role description. We call this arrangement a cognitive dipole, also known as the Twins, with one outward accountability. Both begin with the same relevant specification, guidance, context and available capabilities. They adopt opposite, complementary relational roles, or polarities: doer/giver and observer/active receiver. These positions may reverse without changing the enduring role or contract. Each has a complete OODA. Both can investigate, interpret, challenge and revise the other's understanding while work proceeds.
 
 ```mermaid
 flowchart TB
