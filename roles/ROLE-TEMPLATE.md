@@ -110,4 +110,3 @@ Exercise both participants using the common [Runtime acceptance](../docs/operati
 Check meaningful reciprocal reconsideration, accepted human steering, preserved sound work, authority, one action owner, participant replacement and exact recovery. Show that the role's OODA contribution changes an observable decision, action or handoff. Repeating the instructions or naming OODA is insufficient.
 
 State loading/access limits and retain actual results. Publication, installation, loading, execution and useful outcomes remain separate statuses. The [synthetic research assignment](../examples/research-assignment.md) illustrates the method; it does not establish runtime acceptance.
-

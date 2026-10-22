@@ -130,4 +130,3 @@ The OODA application draws on [John Boyd's *The Essence of Winning and Losing*](
 Ben adapts the giver/active-receiver lens from [Iain McGilchrist’s discussion of Ruth E. Kastner’s *The Quantum Master and its Classical Emissary*](https://iainmcgilchrist.substack.com/p/quantum-physics-taoism-and-the-hemispheres). The relational polarities and reversible positions defined here are his harness design, not an empirical finding about AI pairs.
 
 Use the [role template](../roles/ROLE-TEMPLATE.md) for domain responsibilities and the [synthetic research assignment](../examples/research-assignment.md) to see this contract applied. The existing private change record retains source provenance and acceptance history; understanding the portable method does not require access to it.
-

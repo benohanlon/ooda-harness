@@ -80,4 +80,3 @@ Improve source selection or method within the existing brief through single-loop
 Save each accepted lesson with its maintained owner and retrieval trigger. Check that a fresh analogous assignment finds, applies and tests it. A saved lesson alone does not demonstrate improvement.
 
 Initial operational acceptance requires a real bounded commission that exercises both participants: relevant originals, reciprocal reconsideration, useful discovery, disposition of disagreement, one action owner and restoration from a checkpoint. Confirm the recipient can use the result, then inspect later evidence before claiming improved outcomes. The [synthetic assignment](../examples/research-assignment.md) illustrates the method; it does not establish deployment. The harness's first runtime path remains Chief of Staff and Head of Talent with Engineering support.
-

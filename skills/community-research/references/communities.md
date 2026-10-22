@@ -49,4 +49,3 @@ Follow the [Agent Memory Repo introduction](https://cognition.com/agent-memory-r
 ## Maintaining this directory
 
 Retain a route when it answers a recurring question or opens a useful line of inquiry. Record changed locations, unavailable access or superseded methods with the relevant evidence. Keep source reading separate from adopted operating policy. Broader GTM, career and open-research trails remain with the assigned domain's source owner until a reusable route is deliberately selected for this package.
-

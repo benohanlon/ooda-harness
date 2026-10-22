@@ -50,4 +50,3 @@ Use the [seven-section template](roles/ROLE-TEMPLATE.md). It specialises the com
 Each role reviews its work and retains useful learning. Head of Harness Engineering adds independent scrutiny of the wider system; existing task and change owners retain their decisions.
 
 Before treating a role as operational, exercise both participants: retrieve and apply the accepted guidance and original sources, exchange consequential findings during work, reconcile new human steering, complete useful authorised work and restore both perspectives after interruption. Verify that uncertain effects are checked before retrying and that one coherent handover reaches its owner. Use the [runtime acceptance conditions](docs/operating-contract.md#runtime-acceptance). An agreed role type, two named agents or a saved document alone does not establish that capability.
-
