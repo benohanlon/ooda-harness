@@ -84,9 +84,11 @@ No public installation release date is confirmed. Releasing selected elements or
 
 ### Installation and configuration
 
-The intended onboarding experience is as close to one-click installation as possible, followed by configuration of the sovereign's context and connections. This package is not yet a one-click installer.
+The intended onboarding experience is one-click installation, with a short first-run step to connect the sovereign's context. This package is not yet a one-click installer.
 
 Use [Getting started](docs/getting-started.md) to select the accepted package, adapt a private profile, supply relevant methods and commission useful work. Put confirmed routine answers in the private bundle rather than requiring another service to supply them. Configure loading through the runtime's supported mechanisms and add live connections when the assignment needs them. Private credentials and the creator's setup history are not prerequisites for understanding the guidance.
+
+Finish each install, reinstall or refresh with the [private profile connection step](docs/getting-started.md#finish-installation-connect-your-private-profile). Reuse a working connection. If its location is unknown or access needs repair, ask the user and save their choice in that installation's private configuration.
 
 ### First useful interaction
 

@@ -14,7 +14,7 @@ Build it from authorised existing records and conversation. These prompts are op
 - **Maintenance owner:** [Person or authorised role]
 - **Last reconciled:** [Date and relevant sources]
 
-Configure the profile's private retrieval route in the assignment or deployment. At the start of an assignment, read its short context and working preferences, then retrieve only the details needed for the task. In a paired role, supply the relevant basis to both participants. Give temporary workers only the context their assignment needs.
+Complete the [private profile connection step](getting-started.md#finish-installation-connect-your-private-profile) when installing, reinstalling or refreshing the harness. Preserve the configured route privately; reuse it when it works and ask the user when it needs resolution. Configure the profile's private retrieval route in the assignment or deployment. At the start of an assignment, read its short context and working preferences, then retrieve only the details needed for the task. In a paired role, supply the relevant basis to both participants. Give temporary workers only the context their assignment needs.
 
 Before asking the sovereign a recurring question, consult the profile and its relevant source owner. Reuse a confirmed answer when its scope matches the actual question. Ask only about a material gap, conflict, changed circumstance or different meaning. If access fails, explain what could not be retrieved rather than claiming the answer was never supplied. Continue useful work that does not depend on it.
 

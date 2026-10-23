@@ -14,6 +14,17 @@ Create or adapt the [Sovereign Profile template](sovereign-profile-template.md) 
 
 Keep credentials outside the profile. Exact submitted documents, correspondence and changing case facts remain with their case owners. Supply those inputs when an assignment needs them, with applicable authority and the current checkpoint. An external service is optional until the work depends on its live records.
 
+## Finish installation: connect your private profile
+
+Make this the final configuration step on every installation, reinstallation or refresh. Check the connection for the selected user and runtime, preserving it through shared-package updates.
+
+1. **Reuse a known connection.** Read the existing private configuration or setup record, then open the profile entrypoint and relevant internal files. Preserve its location and personal content. If it works, report that it was retained without asking again. Use a supplied location; do not guess from an account name or default to the creator's profile.
+2. **Ask when needed.** If the location is unknown, ask: "Where is your Sovereign Profile, for example sovereign.md? You can connect an existing file or private repository, create a small profile, or continue without one." If a known location is inaccessible, retain it, explain the access problem and ask for the missing access or an alternative.
+3. **Save the choice privately.** Record the source location, entrypoint and runtime loading route in the existing installation configuration or setup record, outside the shared package. Preserve an explicit choice to continue without a profile on refresh. Revisit it only when the user requests setup or an assignment needs missing personal context.
+4. **Connect subsequent sessions.** Configure supported startup guidance to supply compact essentials and instruct retrieval of relevant detail. Verify the saved route and actual access before reporting it connected. If unresolved, report the connection as pending and continue work supported by the available context.
+
+For [Hermes](https://hermes-agent.nousresearch.com/docs/user-guide/which-file-does-what), use the selected profile's native `USER.md` for compact essentials and the private route. For [Codex](https://learn.chatgpt.com/docs/agent-configuration/agents-md), preserve existing user guidance and add the route to the applicable user-level `AGENTS.md`. The fuller bundle stays outside the startup summary. These instructions do not implement an automated installer.
+
 ## Begin useful authorised work
 
 Give the agent a concrete outcome, relevant sources, authority and destination. Existing [Perception Check](../skills/perception-check/SKILL.md) guidance can help establish what needs attention, using sources actually available. Partial context is compatible with useful work; report a material gap and continue unaffected work.
