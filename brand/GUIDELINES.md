@@ -150,6 +150,6 @@ Use [README.md](README.md) for previews and downloads. [PROMPTS.md](PROMPTS.md) 
 
 The current approved master is [assets/sovereign-ooda-cover-master.png](assets/sovereign-ooda-cover-master.png). The repository README uses [../assets/sovereign-ooda-cover.jpg](../assets/sovereign-ooda-cover.jpg). Neither is replaced by a template export. The [download ZIP](downloads/sovereign-ooda-brand-kit-v1.3.zip) includes the complete brand directory and that JPEG, preserving their relative paths.
 
-Git history preserves previous published versions. Notion retains approvals and exploration history. On an accepted kit revision, update the portable files and record the accepted commit in the existing Notion owner. Publication is separate from runtime deployment.
+Git history preserves previous published versions. The project's chosen approval record retains approvals and exploration history. On an accepted kit revision, update the portable files and record the accepted commit with that owner. Ben's existing history is in Notion; the kit does not require that service for another project. Publication is separate from runtime deployment.
 
 The clean eye is an AI-edited derivative prepared with the built-in image tool to remove flattened lettering and rules. Its [exact edit prompt](prompts/clean-eye-prototype-v1.3.txt) is included. It is a prototype source, not a pixel-identical restoration of the approved photograph. The original approved cover remains unchanged.

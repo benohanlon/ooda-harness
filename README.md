@@ -4,7 +4,13 @@
 
 **Private alpha.** No public installation release date is confirmed.
 
-Start with [current status and setup](#3-current-state-and-getting-started). Read the [operating model](#4-operating-model) and [component map](#5-system-design-and-components).
+## Start here: the harness at a glance
+
+1. **Purpose.** A personal operating system and second brain connecting knowledge, specialist capabilities and follow-through in service of agency, freedom of action and expression. [Purpose](#1-purpose).
+2. **Method.** Continuing observation, orientation, decision and action, shaped by evidence and responses from the world. [Operating model](#4-operating-model).
+3. **People and agents.** You set direction and retain consequential decision authority. Enduring roles combine two complementary agents and one shared contract. [Roles and accountability](ROLES.md).
+4. **Portable guidance and private context.** The package carries shared methods; your private profile carries established answers and preferences. Live services and records are supplied for the work that needs them. [Component map](#5-system-design-and-components).
+5. **Getting started.** Use the [included setup guide](docs/getting-started.md), select an accepted revision and supply your private context. Begin useful authorised work. [Current status](#3-current-state-and-getting-started).
 
 [SOUL](SOUL.md) · [Ecology of mind](docs/ecology-of-mind.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md) · [Lists](LISTS.md) · [Brand guide](brand/README.md)
 
@@ -62,39 +68,35 @@ Maintained briefs hold the current objectives, targets, responsibilities, timefr
 
 ### Current implementation
 
-Here, “operating system” means the connected arrangement of working practices, roles, knowledge and AI capabilities around you. Much of the existing harness lives in Notion as a multi-nodal knowledge network: cross-referenced pages that are not necessarily hierarchical.
+Here, “operating system” means the connected arrangement of working practices, roles, knowledge and AI capabilities around you. The harness began as a multi-nodal knowledge network in Notion. Its accepted reusable definitions now live in this package, with relative routes to their methods and references.
 
-We are reconsidering the system design and rebuilding reusable components in GitHub for Hermes, preserving useful knowledge and relationships while making the harness portable and shareable. GitHub versions accepted definitions and methods. Hermes provides the runtime for deployed guidance, models and tools. The portable design keeps private working records in stores chosen by the sovereign. The existing arrangement still depends on access to Ben’s private Notion workspace.
+GitHub versions accepted definitions and methods. The intended Hermes deployment supplies the runtime, models and tools. The reusable package and configured private profile should carry the guidance needed for ordinary work without requiring access to the creator's private workspace. Live CRM, correspondence and project records remain in stores chosen by the sovereign and become dependencies of the assignments that need them. Some of Ben's existing workflows still use Notion; that is an installation binding, not a requirement for another sovereign's harness.
 
-The first recorded private alpha snapshot is [v0.1.0-alpha.1](https://github.com/benohanlon/ooda-harness/releases/tag/v0.1.0-alpha.1). This README records the design; changes on a draft branch remain proposals until accepted. The setup guide remains a private working draft; independent installation of this package has not been demonstrated.
+The first recorded private alpha snapshot is [v0.1.0-alpha.1](https://github.com/benohanlon/ooda-harness/releases/tag/v0.1.0-alpha.1). Draft-branch changes remain proposals until accepted. The [included setup guide](docs/getting-started.md) describes the minimum file and assignment boundaries. Independent installation has not been demonstrated.
 
 ### Current status
 
-The Hermes rebuild is in private alpha development and has not yet demonstrated a working MVP. The immediate target is a small number of working roles completing useful assignments, with results and next actions saved so work can resume.
+The reviewed [common operating contract](docs/operating-contract.md), [role template](roles/ROLE-TEMPLATE.md), [ecology of mind](docs/ecology-of-mind.md) and [Sovereign Profile template](docs/sovereign-profile-template.md) are merged. Individual role implementation, connected workflows and supported interfaces remain under development. The Hermes rebuild has not yet demonstrated a working MVP. The immediate target is a small number of roles completing useful assignments with recoverable results and next actions.
+
+Hermes setup checks on 2026-10-14 covered repository access and instruction loading for earlier definitions. They do not verify the current accepted package or useful paired work. The private setup history retains those checks; it is not needed to understand the portable method. Installation, loading and useful paired operation remain separate states.
 
 No public installation release date is confirmed. Releasing selected elements or open-sourcing the wider harness remains a choice.
 
-Recorded Hermes setup checks on 2026-10-14 covered repository access and instruction loading for earlier definitions. They do not verify the current alpha snapshot or useful end-to-end work. The [common operating contract](docs/operating-contract.md), [role template](roles/ROLE-TEMPLATE.md) and [Research Lead contract](roles/research-lead.md) provide definitions for review and manual testing. Other role contracts, connected workflows and supported interfaces remain under development. Installation, loading and useful paired work remain unverified. The private Hermes Cloud setup guide retains the setup instructions, dated checks and remaining verification.
-
 ### Installation and configuration
 
-The intended onboarding experience is as close to one-click installation as possible, followed by configuration of the sovereign’s own context and connections. Feedback from early adopters will help improve that experience.
+The intended onboarding experience is as close to one-click installation as possible, followed by configuration of the sovereign's context and connections. This package is not yet a one-click installer.
 
-Review your goals, role boundaries and communication preferences. Use the [Sovereign Profile template](docs/sovereign-profile-template.md) to gather established personal context and answer routes in your chosen private store, adapting existing records where available. Configure its retrieval route for the intended runtime. Choose a durable home for working records. Establish which interfaces and connections the harness will use.
-
-The private Hermes Cloud setup draft covers repository access, accepted SOUL deployment, project context, checks, updates and rollback. It is not included in this package. Independent clean onboarding remains untested.
+Use [Getting started](docs/getting-started.md) to select the accepted package, adapt a private profile, supply relevant methods and commission useful work. Put confirmed routine answers in the private bundle rather than requiring another service to supply them. Configure loading through the runtime's supported mechanisms and add live connections when the assignment needs them. Private credentials and the creator's setup history are not prerequisites for understanding the guidance.
 
 ### First useful interaction
 
-Perception Check is the first diagnostic interaction. The first paired-role test starts with one bounded Chief of Staff assignment using Perception Check, then takes a bounded career assignment through Chief of Staff and Head of Talent.
+Perception Check is the intended first diagnostic interaction. The first paired-role implementation starts with one bounded Chief of Staff assignment using Perception Check, then a bounded career assignment through Chief of Staff and Head of Talent.
 
 **First intended task: [Perception Check](skills/perception-check/SKILL.md).** Ask, for example: “Run a Perception Check for the past 72 hours. What needs my attention?”
 
-The intended check establishes its horizon, the limits of perception, and its field of vision, the sources currently accessible. Its report distinguishes what it can access from what it actually observed. It brings useful findings, unfinished work and decisions into view, alongside material coverage gaps.
+Establish the horizon and sources actually accessible. Distinguish access from observation. Bring useful findings, unfinished work and decisions into view, with material coverage gaps. The check should remain useful with partial connections; deliberately excluded private accounts remain boundaries to respect.
 
-The check should remain useful with partial connections. It can identify where additional sources would improve perception, so you can decide what to connect. Deliberately excluded private accounts remain boundaries to respect.
-
-An MVP method is prepared for manual testing. Live loading, source access and useful execution remain unverified. Retain the report, decisions and next action. Then verify that a fresh session can resume the work from those records.
+The method is prepared; live loading, source access and useful execution remain unverified. Retain the report, decisions and next action so later work can resume. Judge usefulness through the actual assignment.
 
 ## 4. Operating model
 
@@ -255,9 +257,9 @@ Deployment follows [Hermes’s file and loading conventions](https://hermes-agen
 
 For Writing and Editing, deployment must make the complete skill package available to the intended Hermes profile and install its accepted SOUL. Current Hermes supports preloading the method through [`skills.auto_load`](https://hermes-agent.nousresearch.com/docs/user-guide/configuration#auto-loading-skills-every-session). Verify support in the installed version, loading in a fresh session, retrieval of the detailed standard and use in the actual output. Delegated workers need explicit guidance in their assignment. Installation, loading and live use of this editorial package remain unverified.
 
-**CRM responsibilities.** Notion CRM holds registered companies and hiring sources, exact roles, qualification evidence, application history and career decisions. HubSpot holds the commercial CRM, contact history, outreach and follow-up, retaining the existing two-offer pipeline.
+**CRM responsibilities.** Configure the sovereign's career and commercial record owners explicitly. In Ben's existing installation, Notion CRM holds companies, hiring sources, exact roles, qualification evidence, application history and career decisions; HubSpot holds commercial CRM, contact history, outreach and follow-up. This example preserves the existing two-offer pipeline without prescribing these services for another installation.
 
-Relevant records can be linked while preserving their respective owners. This division does not establish automatic synchronisation or deployed email sending. The maintained boundary and implementation checkpoints remain in the private “HubSpot — Two offers, one pipeline: plan & resources” working record.
+Relevant records can be linked while preserving their respective owners. This division does not establish automatic synchronisation or deployed email sending. Each assignment needs its applicable record boundary and current checkpoint; it does not need the creator's private planning history.
 
 **Perception Check.** Perception Check is the first skill prepared for manual testing. Chief of Staff coordinates a review of available evidence, completed results and unfinished work. The review brings useful findings, outstanding decisions and coverage gaps into view. Its live usefulness remains unverified. No recurring Perception Check task is deployed. The detailed MVP workflow is maintained in [Perception Check](skills/perception-check/SKILL.md).
 
@@ -334,7 +336,7 @@ The [common operating contract](docs/operating-contract.md) carries the reusable
 
 ### Versioning and releases
 
-Notion is our working design and review space. GitHub versions accepted reusable definitions. Promotion requires explicit agreement. Runtime deployment is a separate step.
+Upstream development uses Notion for working design and review. GitHub versions accepted reusable definitions. Installed or forked use follows its accepted package and the sovereign's chosen records; it does not require the upstream design workspace. Promotion requires explicit agreement. Runtime deployment is a separate step.
 
 On accepting a change, record the source and Git revision of each promoted definition. Update its existing private owner with a publication pointer while preserving design history and private operating instructions. The common contract, role template, Research Lead, skill methods and selected collections have explicit portable homes in this package. This does not transfer all Notion authority to GitHub. Existing assignments retain their accepted revision until deliberately updated; reconcile new steering from the sovereign wherever it affects the work.
 

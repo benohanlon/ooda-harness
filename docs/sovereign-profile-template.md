@@ -2,7 +2,7 @@
 
 **Blank reusable template.** Create or adapt the completed profile in the sovereign's private Notion, Google Drive, a separate private Git repository or another chosen data store. Keep personal answers, private source links and deployment bindings outside the reusable repository. A private personal repository can hold selected profile text and source routes without duplicating the harness. Git retains previous revisions, so keep credentials outside it and choose carefully which personal details to version. See [GitHub's removal guidance](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository).
 
-This profile helps the AI thinking partner serve a particular person. [SOUL](../SOUL.md) defines the shared identity and relationship; the [editorial standard](../skills/writing-and-editing/references/EDITORIAL-STANDARDS.md) defines writing practice. This profile supplies personal context, preferences, examples and routes to established answers.
+This profile helps the AI thinking partner serve a particular person. [SOUL](../SOUL.md) defines the shared identity and relationship; the [editorial standard](../skills/writing-and-editing/references/EDITORIAL-STANDARDS.md) defines writing practice. This profile supplies personal context, preferences, useful examples and established answers. Keep the content needed for ordinary work available within the configured private bundle. External links can retain provenance and deeper history without becoming a required lookup for an answer already established.
 
 This profile helps the AI thinking partner understand the sovereign's orientation: what matters to them, how they make sense of a situation and how they weigh choices. It also helps the sovereign reflect on their own decision cycle. The profile is a partial, evolving record, revised through conversation, decisions and observed results. It supports shared orientation between the sovereign and the agents, while each retains their own OODA and decision rights. The [operating model](../README.md#4-operating-model) locates that relationship in the wider harness; the [common record-ownership rules](operating-contract.md#source-and-record-ownership) keep its evidence with maintained owners.
 
@@ -62,15 +62,17 @@ Record voice and delivery preferences:
 - **Writing on my behalf:** [The person's own voice, intended readers, preferred forms of expression and examples worth preserving. Link the relevant writing guidance and accepted examples.]
 - **When and where to communicate:** [Preferred channels, written or voice updates, useful timing and frequency, timezone or quiet periods, and what warrants an interruption. Record only established preferences. A preference does not create a schedule or notification mechanism.]
 
+Keep spoken-agent delivery preferences distinct from the person's own writing voice. Record an established reference or preferred delivery directly; documenting it does not select a voice or change runtime settings.
+
 Before drafting on the person's behalf, establish the channel, relationship stage and intended response. Retrieve their preferences for length, links, attachments, spelling and presentation, together with accepted examples matching that situation. For outreach, connect the recipient's relevant problem to the person's evidenced contribution and an appropriate next step. Let genuine interest support that case. Do not transfer a full email or cover-letter structure into a short social DM without checking the person's guidance.
 
 Use a few representative examples with a short explanation of what works. Record whether wording is an approved example, a working draft or a delivered artifact. A context-specific choice is not automatically a rule for every task. Keep detailed editorial methods and full examples with their existing owners.
 
 ## 5. Recurring questions and established answers
 
-Use or link an existing private FAQ, domain brief or answer bank. Keep each mutable answer in one maintained place. The profile can be a short index rather than another copy.
+State useful confirmed answers directly in the profile or an internally linked FAQ or domain brief supplied with it. Keep each mutable answer in one maintained place. A short profile can route to that internal detail. When moving an answer from another service, reconcile the wording and update its previous owner with the new publication route. Live case state and exact historical submissions can remain in their chosen stores.
 
-The rows below are optional examples. Fill them from existing records, link the maintained answer or remove them when irrelevant.
+The rows below are optional examples. Fill them from existing records, use an internal route to the maintained answer, or remove them when irrelevant. Retain source and confirmation dates as provenance.
 
 | Question or topic | Confirmed answer or maintained source | Scope or conditions | Evidence and last confirmation |
 | --- | --- | --- | --- |
