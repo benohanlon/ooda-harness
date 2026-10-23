@@ -164,6 +164,8 @@ Agents act as emissaries, extending your field of view and ability to act beyond
 
 Orientation is the working understanding that guides what the team notices and does. It combines fresh evidence with your aims, values, experience, knowledge and assumptions. Research and drafting can develop and test that understanding against outside evidence and perspectives. Each role considers how its actions affect the wider system.
 
+The harness works with your OODA while each agent retains its own. The README, SOUL, role contract and current assignment help an agent establish its purpose, working context, methods and authority. Your private [Sovereign Profile](docs/sovereign-profile-template.md) helps the agents understand your aims, values, circumstances and ways of making sense of a situation. Together with current evidence and conversation, it can also help you examine your own assumptions and choices. Shared orientation develops through that interaction and is revised when evidence or your corrections change the picture. The profile records a partial, evolving understanding, checked against what you say, choose and experience.
+
 Observation and reorientation continue while work proceeds. Work can begin at any point in OODA and move back and forth as conditions change. A bounded assignment may cover only part of it. Roles use established methods while their conditions fit and adapt within their authority when those conditions change. Waiting can be a valid decision while observation continues.
 
 ### Operating across scales

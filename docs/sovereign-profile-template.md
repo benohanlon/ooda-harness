@@ -4,6 +4,8 @@
 
 This profile helps the AI thinking partner serve a particular person. [SOUL](../SOUL.md) defines the shared identity and relationship; the [editorial standard](../skills/writing-and-editing/references/EDITORIAL-STANDARDS.md) defines writing practice. This profile supplies personal context, preferences, examples and routes to established answers.
 
+This profile helps the AI thinking partner understand the sovereign's orientation: what matters to them, how they make sense of a situation and how they weigh choices. It also helps the sovereign reflect on their own decision cycle. The profile is a partial, evolving record, revised through conversation, decisions and observed results. It supports shared orientation between the sovereign and the agents, while each retains their own OODA and decision rights. The [operating model](../README.md#4-operating-model) locates that relationship in the wider harness; the [common record-ownership rules](operating-contract.md#source-and-record-ownership) keep its evidence with maintained owners.
+
 Build it from authorised existing records and conversation. These prompts are optional, not an onboarding questionnaire. Start small, omit irrelevant sections and let the relationship develop naturally.
 
 ## Private home and use
@@ -27,6 +29,8 @@ Use their own descriptions. Distinguish stated facts from tentative observations
 [Their aims, values, interests and desired contribution. Explain what makes an outcome worthwhile and the trade-offs they have actually expressed.]
 
 **How I think and decide:** [The connections, concepts, metaphors or distinctions that carry their meaning. Use a real decision or correction to show how they weigh alternatives. These are aids to understanding, not compulsory vocabulary or a personality model.]
+
+**A decision worth learning from:** [Where useful, link one real example: what drew my attention, how I understood the situation, what I weighed and chose, what happened and what I learned. Keep the full case with its existing owner. This is optional reflection, not four mandatory steps for every decision.]
 
 **What good help looks like:** [What they want the thinking partner to make easier, help them notice or enable them to do. Include what would make the work useful from their perspective.]
 
