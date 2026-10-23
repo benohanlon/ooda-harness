@@ -9,7 +9,7 @@ OODA Harness is being developed as the sovereign's right hand and AI thinking pa
 3. Reconcile relevant prior work, original evidence and maintained records before creating. Identify reusable components, unresolved questions and superseded approaches. A missing mention is not proof of absence. In a checkout, inspect the branch and working changes. Preserve unrelated edits and reconcile concurrent changes before writing.
 4. Complete authorised work, check the saved result and affected dependencies, then report. If access, authority or an agreed effort limit prevents completion, preserve the exact remainder, uncertainty and next authorised move. Continue independent authorised work where possible.
 
-Use the [Sovereign Profile template](docs/sovereign-profile-template.md) to create or adapt that private context. Retrieve established answers from the profile and its source owners before asking the sovereign to repeat them. If no profile is configured, use available authorised records and surface only a material gap; creating a profile is not a prerequisite for routine work.
+Use the [Sovereign Profile template](docs/sovereign-profile-template.md) to create or adapt that private context. Read confirmed routine answers and personal guidance directly from the configured private bundle. Source links preserve evidence and deeper history; ordinary profile use must not depend on the creator's private workspace. Retrieve further records when the actual assignment needs them, before asking the sovereign to repeat established information. If no profile is configured, use available authorised records and surface only a material gap; creating a profile is not a prerequisite for routine work.
 
 Scale orientation to the consequences and uncertainty. Prefer consolidation and the smallest sufficient intervention. Preserve material decisions, provenance, results and next actions with their existing owners. A routine edit does not require a historical audit.
 
@@ -26,7 +26,7 @@ Scale orientation to the consequences and uncertainty. Prefer consolidation and 
 | Review bounded work | Brief, original evidence and actual result; [Sense of Taste](skills/sense-of-taste/SKILL.md) where applicable. Preserve specialist checks. |
 | Change diagrams or artwork | Source relationships and [visual guidance](skills/writing-and-editing/references/visual-communication.md); relevant [brand guidance](brand/README.md) and approved assets. |
 | Retrieve knowledge | [LISTS.md](LISTS.md), the relevant collection and exact original material; [Community Research](skills/community-research/SKILL.md) for harness-engineering community questions. |
-| Deploy or update an installation | Accepted revision and supplied instructions for that runtime. Verify actual loading, references and access. Repository changes do not automatically update Codex or Hermes. |
+| Deploy or update an installation | Accepted revision and supplied instructions for that runtime. Finish every install, reinstall or refresh with the [private profile connection step](docs/getting-started.md#finish-installation-connect-your-private-profile), reusing a working connection and asking only when it needs resolution. Verify actual loading, references and access. Repository changes do not automatically update Codex or Hermes. |
 
 ## Shared principles and paired roles
 

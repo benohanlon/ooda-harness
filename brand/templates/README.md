@@ -35,4 +35,4 @@ To use an existing Chromium or Chrome executable, set `PLAYWRIGHT_CHROMIUM_EXECU
 
 Compare exports beside the approved cover at full size and at their intended display width. Check every word, natural anatomy, pupil contrast, margins and the eye's diagonal geometry. The compact layout enlarges the central message through recomposition; it does not create more detail by enlarging the source image.
 
-Keep these previews under `previews/`. A template becomes a new approved artwork only when Ben selects it and the guide, manifest and Notion approval record are updated together.
+Keep these previews under `previews/`. A template becomes a new approved artwork only when the sovereign selects it and the guide, manifest and project's chosen approval record are updated together.

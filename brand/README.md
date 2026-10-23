@@ -78,4 +78,4 @@ Created by **Ben O’Hanlon**, author of [The Ecosystem Operator](https://ecosys
 
 [Manifest and checksums](manifest.json) · [Design tokens](tokens.json) · [Exact clean-eye edit prompt](prompts/clean-eye-prototype-v1.3.txt).
 
-GitHub holds this portable kit. The maintained approval and exploration record is in Notion. Git history preserves earlier published versions. Kit v1.3 improves presentation and reuse; it preserves the approved v1.2 cover.
+GitHub holds this portable kit. The maintained approval and exploration record belongs to the project and its chosen store; Ben's existing record is in Notion. The kit's assets and guidance are included here. Git history preserves earlier published versions. Kit v1.3 improves presentation and reuse; it preserves the approved v1.2 cover.
