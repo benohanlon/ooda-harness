@@ -95,6 +95,10 @@ The [runtime acceptance](operating-contract.md#runtime-acceptance) compares pair
 
 The [README](../README.md) introduces the whole design and its status. [AGENTS](../AGENTS.md) routes an arriving contributor or participant to the relevant guidance. [ROLES](../ROLES.md) and the [role template](../roles/ROLE-TEMPLATE.md) specialise the shared design for each domain. The [common operating contract](operating-contract.md) owns detailed assignment, action, checkpoint, restoration and evaluation rules. Skills supply reusable methods. Existing briefs, libraries, private bindings and work records supply current evidence and state.
 
+These maintained links form a multi-nodal map for orientation. The current question can lead an agent to the role's accountability, the sovereign's aims, relevant evidence and methods, or an earlier correction. The [role template's knowledge routes](../roles/ROLE-TEMPLATE.md#4-capabilities-methods-and-knowledge-routes) explain when a source matters and what to retrieve. Private personal context is reached through the configured route described in [installation and configuration](../README.md#installation-and-configuration).
+
+Metacognition here means examining how the available context, assumptions, evidence and methods shaped an interpretation or action. The [common learning method](operating-contract.md#correction-review-and-learning) connects that examination to decisions, observed results and the existing owner of a useful correction. The links support selective retrieval and reconsideration as the work changes. They do not require loading the whole harness or creating a second copy of each rule.
+
 The [Perception Check walkthrough](../examples/perception-check-role.md) applies this structure to the first intended implementation path. The existing [research assignment](../examples/research-assignment.md) supplies another synthetic application. Neither establishes a running pair. Publication, acceptance, installation, actual loading, execution and demonstrated usefulness remain separate states.
 
 ## Basis

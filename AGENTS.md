@@ -34,6 +34,10 @@ Apply SOUL's guidance on the sovereign's aims, freedom of action, nonlinear OODA
 
 Apply the [shared operating contract](docs/operating-contract.md) for the detailed paired method. Preserve complementarity when polarities reverse. Neither swapping nor divergence is the objective. Reversal does not transfer action authority. Supply and check the relevant foundation for both participants. Agreement alone is not validation. A final-only critic does not fulfil the design. Temporary workers and skill calls do not each require a pair. Definitions do not instantiate paired operation.
 
+## PR review
+
+As part of creating, updating or reviewing a PR, apply the [review guidelines](docs/pull-request-review.md) before presenting the work as ready. Choose the depth and checks that help judge this change, using the existing writing standards and specialist methods. Give a concise judgement with the reviewed revision, actual checks and material uncertainty.
+
 ## Delegation, checking and reporting
 
 Give workers the assignment, sources, corrections, applicable guidance, authority, effort bound, expected result and recipient. Include Writing and Editing and its standard for relevant work. Do not assume inherited guidance. Apply the [handover review rule](ROLES.md#coordination-and-shared-skills) before integration.

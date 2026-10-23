@@ -227,6 +227,8 @@ The proposed access model gives the harness a dedicated email account and a defi
 | [README.md](README.md) | The introduction and map: purpose, operating model, components, current status and routes into detailed guidance. |
 | [SOUL.md](SOUL.md) | Shared identity, interaction, judgement and core communication principles. |
 | [AGENTS.md](AGENTS.md) | Assignment orientation, repository guidance and routes to governing definitions. |
+| [PR review guidelines](docs/pull-request-review.md) | Review changes in context, preserve intent, check useful connections and verify the result. AGENTS makes this part of finishing a PR. |
+| [Ecology of mind](docs/ecology-of-mind.md) | The atomic role, smaller cognitive contributions, reciprocal attention and wider feedback circuit. |
 | [Common operating contract](docs/operating-contract.md) | Shared paired-role method, decision rights, assignments, recovery and learning. |
 | [ROLES.md](ROLES.md) | A catalogue of agreed role types and available contracts, including Research Lead. |
 | [Role template](roles/ROLE-TEMPLATE.md) | The seven-section structure for defining a role's continuing responsibility. |
