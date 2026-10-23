@@ -6,6 +6,20 @@ OODA Harness extends the sovereign's ability to see, decide and act. Its roles, 
 
 The Twins form the atomic operating unit within that ecology. Their complementary perspectives, reciprocal engagement and feedback connect the smallest assignment to the wider purpose. The intended benefit includes less human effort spent supervising, correcting and recovering work. That benefit must be established through useful results.
 
+## Architecture overview
+
+![Architecture overview: the sovereign directs an ecology of roles. One role contains a shared contract and two agents, each with a complete OODA. Reciprocal challenge, maintained context, bounded contributions and responses from the world support reorientation.](../assets/sovereign-ooda-ecology-stack.png)
+
+[Open the full-size diagram](../assets/sovereign-ooda-ecology-stack.png).
+
+Read downward as a change of scale, from human purpose to bounded work. The dotted line zooms into one enduring role. Its two agents and shared contract form the atomic operating unit: a cognitive dipole, or the Twins. Each agent runs a complete OODA, with complementary, reversible polarities around a shared axis of system-wide units of account.
+
+The arrows show exchanges within and beyond the role. Evidence, challenge and correction help the agents reconcile intent and prior learning. Action meets the world and other people; their responses can revise the agents' orientation and the sovereign's direction. OODA remains active across these scales.
+
+Maintained context supplies guidance, prior learning and a private, revisable understanding of the sovereign. Crawlers provide temporary contributions; skills supply reusable methods, tools perform operations and records retain evidence. Models, runtimes, connectors, storage and compute enable the work.
+
+The sections below explain the relationships and boundaries compressed into the drawing. This is an architecture in development; the diagram does not establish that paired operation has been deployed or shown useful.
+
 ## The atomic operating unit
 
 Each enduring role comprises two agents and one shared contract, including the role description. This arrangement is a cognitive dipole, also called the Twins. It carries one purpose and outward accountability.
