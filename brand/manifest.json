@@ -180,9 +180,9 @@
     },
     {
       "file": "brand/README.md",
-      "bytes": 5239,
-      "sha256": "3283843849ba6e4a39311d99a7cf0da8a73c86bcb80db33a2e20bfe45197d2da",
-      "git_blob_sha": "20f75f95701517d02ba4bf07b75bbec19cbf1cb9"
+      "bytes": 6708,
+      "sha256": "549e7338faa20044c4b70ae59fc290eab7f1a9e55e1d4563a761bfcf09b6c3da",
+      "git_blob_sha": "9f1d5b1e92354e3a7e794413d1a10a379e7fa642"
     },
     {
       "file": "brand/templates/compact-landscape.svg",
@@ -241,7 +241,30 @@
       "bytes": 3941,
       "sha256": "41ceaa7bc5bde4c63e149357e8138519fe545079bd0669768b67a10cb1970e83",
       "git_blob_sha": "155888bff214682c83affb7aba498220bab67032"
+    },
+    {
+      "file": "brand/assets/sovereign-ooda-ecology-stack.png",
+      "bytes": 1620064,
+      "sha256": "8bbfd51f272dd57591fc0a873917e717306ebbfe13fb71453ca08d21c282b74f",
+      "git_blob_sha": "2e98ef5db0705649fa72b7dbe46db67bddfb9662",
+      "width": 1024,
+      "height": 1536,
+      "status": "illustrative study; non-canonical; may change; architecture in development",
+      "added_on": "2026-10-23",
+      "included_in_v1_3_zip": false
+    },
+    {
+      "file": "brand/assets/cognitive-dipole-v1.png",
+      "bytes": 1682798,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "b82e6b99993e66a3893f7ac2267f929cc501e84ca0ed3bf8905ee7cf4e242c57",
+      "git_blob_sha": "93fbc52f92d3c868c59b4e73bccbbb43541e9b83",
+      "status": "illustrative study; non-canonical; orbital metaphor; may change",
+      "added_on": "2026-10-23",
+      "included_in_v1_3_zip": false
     }
   ],
-  "checksum_scope": "Assets above exclude this manifest and the ZIP to avoid recursive hashes. Archive checksum is in brand/downloads/SHA256SUMS.txt."
+  "checksum_scope": "Assets above exclude this manifest and the ZIP to avoid recursive hashes. Archive checksum is in brand/downloads/SHA256SUMS.txt. Repository supplements added after 22 October 2026 are not included in the published v1.3 ZIP.",
+  "repository_supplements_updated_on": "2026-10-23"
 }

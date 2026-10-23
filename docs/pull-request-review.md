@@ -1,0 +1,15 @@
+# Pull request review guidelines
+
+Review a PR as part of finishing it, without waiting for another prompt. Aim for a useful improvement that preserves what works and fits the harness. Use these questions with judgement, scaling attention to the change, its consequences and uncertainty.
+
+- **Does it preserve the intent?** Start from the original request, accepted work and subsequent corrections. Keep meaning, nuance, evidence and ownership intact. Check material intentions against the proposal and material changes against their basis. Consistency between files alone does not establish fidelity.
+- **Does it fit the whole and stay simple?** Read the complete affected work in context. Reuse existing roles, methods and record owners. Consider connected definitions and related drafts where they matter, including whether their combined changes work. Make the smallest useful improvement.
+- **Can someone find their way and use it?** Follow relevant links from purpose and accountability to methods, sources, prior decisions and corrections. Make clear when a source matters and who maintains it. Repair affected routes and contradictions. A working link is only part of useful orientation.
+- **Does the actual result stand up to scrutiny?** Apply the writing standards to the whole affected prose. Use a cold read, a consequential counterexample or relevant technical checks where useful. Examine original evidence and the saved result. Fix defects and recheck their effects, while preserving sound work when criticism is mistaken. Use independent expertise when warranted.
+- **Can we return one coherent result and move forward?** Present the current proposal with a concise judgement, the reviewed revision, actual checks and material uncertainty. Distinguish document review from demonstrated runtime behaviour. Stop when the change is sound and useful, with no unresolved material defect found within the stated scope.
+
+These are review lenses, not compulsory stages, scores or report headings. A typo fix may need a careful read in context; a change to role architecture needs a view of the connected contracts and effects. Reuse applicable evidence and deepen the review where a real question could change the result. Separate defects from suggestions and matters of taste.
+
+Use the existing [Writing and Editing standard](../skills/writing-and-editing/references/EDITORIAL-STANDARDS.md) and [Sense of Taste](../skills/sense-of-taste/SKILL.md) for their detailed methods. Existing authority and specialist procedures continue to apply.
+
+This adapts Google's [review standard](https://google.github.io/eng-practices/review/reviewer/standard.html) and [review guidance](https://google.github.io/eng-practices/review/reviewer/looking-for.html): improve the health of the whole system, use evidence and proportionate checks, and keep progress moving without demanding perfection. The intent, navigation and correction emphasis comes from the harness's existing guidance and the sovereign's review practice.
