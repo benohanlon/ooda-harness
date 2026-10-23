@@ -1,6 +1,6 @@
 # Sovereign Profile Template
 
-**Blank reusable template.** Create or adapt the completed profile in the sovereign's private Notion, Google Drive, a separate private Git repository or another chosen data store. Keep personal answers, private source links and deployment bindings outside the reusable repository. A private personal repository can hold selected profile text and source routes without duplicating the harness. Git retains previous revisions, so keep credentials outside it and choose carefully which personal details to version.
+**Blank reusable template.** Create or adapt the completed profile in the sovereign's private Notion, Google Drive, a separate private Git repository or another chosen data store. Keep personal answers, private source links and deployment bindings outside the reusable repository. A private personal repository can hold selected profile text and source routes without duplicating the harness. Git retains previous revisions, so keep credentials outside it and choose carefully which personal details to version. See [GitHub's removal guidance](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository).
 
 This profile helps the AI thinking partner serve a particular person. [SOUL](../SOUL.md) defines the shared identity and relationship; the [editorial standard](../skills/writing-and-editing/references/EDITORIAL-STANDARDS.md) defines writing practice. This profile supplies personal context, preferences, examples and routes to established answers.
 
@@ -52,7 +52,7 @@ Link any standing delegation or approval agreement at its maintained owner. Pref
 
 ## 4. Communication and voice
 
-Keep these two uses distinct:
+Record voice and delivery preferences:
 
 - **Speaking with me:** [How the assistant should address, explain, challenge and support this person in its own voice. Include language, register, detail, warmth or humour where established.]
 - **Writing on my behalf:** [The person's own voice, intended readers, preferred forms of expression and examples worth preserving. Link the relevant writing guidance and accepted examples.]
