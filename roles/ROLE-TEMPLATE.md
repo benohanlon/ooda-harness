@@ -85,6 +85,7 @@ Name the authoritative task/run/case record, artifact and live data owners. Keep
 | --- | --- | --- |
 | [Assignment and checkpoint] | [Existing maintained owner] | Current basis, exact completed/pending items, uncertainty and next authorised move |
 | [Artifacts and live effects] | [Authoritative destination] | Result, revision and verification evidence |
+| [Private Sovereign Profile] | [Private maintenance owner and configured route] | Relevant personal context, working preferences and routes to established answers; use the [profile template](../docs/sovereign-profile-template.md) without copying personal data into this contract |
 | [Private source/runtime bindings] | [Private deployment owner] | Access and execution route; no credentials in this contract |
 
 Use the common checkpoint and restoration method. Preserve each participant's relevant evidence and provisional view alongside accepted decisions. Separate attempted, retrieved, assessed, prepared, delivered and verified states where relevant. Reconcile uncertain effects at the exact destination before retrying, preserve newer decisions by the sovereign or existing authorised decision owner and derive totals from saved records.

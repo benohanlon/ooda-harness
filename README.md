@@ -80,7 +80,7 @@ Recorded Hermes setup checks on 2026-10-14 covered repository access and instruc
 
 The intended onboarding experience is as close to one-click installation as possible, followed by configuration of the sovereign’s own context and connections. Feedback from early adopters will help improve that experience.
 
-Review your goals, role boundaries and communication preferences. Choose a durable home for private context and working records. Establish which interfaces and connections the harness will use.
+Review your goals, role boundaries and communication preferences. Use the [Sovereign Profile template](docs/sovereign-profile-template.md) to gather established personal context and answer routes in your chosen private store, adapting existing records where available. Configure its retrieval route for the intended runtime. Choose a durable home for working records. Establish which interfaces and connections the harness will use.
 
 The private Hermes Cloud setup draft covers repository access, accepted SOUL deployment, project context, checks, updates and rollback. It is not included in this package. Independent clean onboarding remains untested.
 
@@ -164,6 +164,8 @@ Agents act as emissaries, extending your field of view and ability to act beyond
 
 Orientation is the working understanding that guides what the team notices and does. It combines fresh evidence with your aims, values, experience, knowledge and assumptions. Research and drafting can develop and test that understanding against outside evidence and perspectives. Each role considers how its actions affect the wider system.
 
+The harness works with your OODA while each agent retains its own. The README, SOUL, role contract and current assignment help an agent establish its purpose, working context, methods and authority. Your private [Sovereign Profile](docs/sovereign-profile-template.md) helps the agents understand your aims, values, circumstances and ways of making sense of a situation. Together with current evidence and conversation, it can also help you examine your own assumptions and choices. Shared orientation develops through that interaction and is revised when evidence or your corrections change the picture. The profile records a partial, evolving understanding, checked against what you say, choose and experience.
+
 Observation and reorientation continue while work proceeds. Work can begin at any point in OODA and move back and forth as conditions change. A bounded assignment may cover only part of it. Roles use established methods while their conditions fit and adapt within their authority when those conditions change. Waiting can be a valid decision while observation continues.
 
 ### Operating across scales
@@ -226,6 +228,7 @@ The proposed access model gives the harness a dedicated email account and a defi
 | --- | --- |
 | [README.md](README.md) | The introduction and map: purpose, operating model, components, current status and routes into detailed guidance. |
 | [SOUL.md](SOUL.md) | Shared identity, interaction, judgement and core communication principles. |
+| [Sovereign Profile template](docs/sovereign-profile-template.md) | A reusable starting point for private personal context, working preferences and recurring answers. The completed profile lives in the sovereign's chosen private store. |
 | [AGENTS.md](AGENTS.md) | Assignment orientation, repository guidance and routes to governing definitions. |
 | [PR review guidelines](docs/pull-request-review.md) | Review changes in context, preserve intent, check useful connections and verify the result. AGENTS makes this part of finishing a PR. |
 | [Ecology of mind](docs/ecology-of-mind.md) | The atomic role, smaller cognitive contributions, reciprocal attention and wider feedback circuit. |
