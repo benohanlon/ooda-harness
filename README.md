@@ -80,7 +80,7 @@ Recorded Hermes setup checks on 2026-10-14 covered repository access and instruc
 
 The intended onboarding experience is as close to one-click installation as possible, followed by configuration of the sovereign’s own context and connections. Feedback from early adopters will help improve that experience.
 
-Review your goals, role boundaries and communication preferences. Choose a durable home for private context and working records. Establish which interfaces and connections the harness will use.
+Review your goals, role boundaries and communication preferences. Use the [Sovereign Profile template](docs/sovereign-profile-template.md) to gather established personal context and answer routes in your chosen private store, adapting existing records where available. Configure its retrieval route for the intended runtime. Choose a durable home for working records. Establish which interfaces and connections the harness will use.
 
 The private Hermes Cloud setup draft covers repository access, accepted SOUL deployment, project context, checks, updates and rollback. It is not included in this package. Independent clean onboarding remains untested.
 
@@ -226,6 +226,7 @@ The proposed access model gives the harness a dedicated email account and a defi
 | --- | --- |
 | [README.md](README.md) | The introduction and map: purpose, operating model, components, current status and routes into detailed guidance. |
 | [SOUL.md](SOUL.md) | Shared identity, interaction, judgement and core communication principles. |
+| [Sovereign Profile template](docs/sovereign-profile-template.md) | A reusable starting point for private personal context, working preferences and recurring answers. The completed profile lives in the sovereign's chosen private store. |
 | [AGENTS.md](AGENTS.md) | Assignment orientation, repository guidance and routes to governing definitions. |
 | [Common operating contract](docs/operating-contract.md) | Shared paired-role method, decision rights, assignments, recovery and learning. |
 | [ROLES.md](ROLES.md) | A catalogue of agreed role types and available contracts, including Research Lead. |
