@@ -1,10 +1,48 @@
-# Community routes for harness engineering
+# Community Hubs
+
+Places to find AI and harness-engineering practitioners, implementations and discussion. Browse the links, then consult the hub notes for the relevant question and recorded coverage.
+
+## Contents
+
+- [Browse hubs](#browse-hubs)
+- [Hub notes](#hub-notes)
+
+## Browse hubs
+
+### Nous Research and Hermes
+
+- [Nous Research](https://nousresearch.com/) - Research and the wider Nous ecosystem.
+- [Hermes documentation](https://hermes-agent.nousresearch.com/docs) - Official setup, features and developer guidance.
+- [Hermes on GitHub](https://github.com/NousResearch/hermes-agent) - Source code, issues and implementation discussion.
+- [Nous Discord](https://discord.com/invite/nousresearch) - Practitioner discussion, including plugins, skills and skins. Access requires joining the server.
+- [Skills Hub](https://hermes-agent.nousresearch.com/docs/skills) - Discover reusable Hermes skills.
+- [Plugin Catalog](https://hermes-agent.nousresearch.com/docs/plugins) - Discover Hermes plugins.
+
+### Hugging Face
+
+- [Hugging Face](https://huggingface.co/) - Models, datasets, Spaces and community contributions.
+- [Daily Papers](https://huggingface.co/papers) - Discover AI papers and follow their original sources.
+- [Community forum](https://discuss.huggingface.co/) - Practitioner questions and technical discussion.
+- [OpenEvals](https://huggingface.co/OpenEvals) - Evaluation resources and community benchmark work.
+- [Community Evals / EvalEval Coalition](https://huggingface.co/blog/eee-community-evals) - Evaluation provenance and community contributions.
+
+### Evaluation, harness engineering and memory
+
+- [Parlance Labs](https://parlance-labs.com/blog/posts/auto-evals/) - Evaluation methods and practitioner examples.
+- [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) - Practical exercises and source trails.
+- [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering) - Curated routes to harness-engineering resources.
+- [Agent Memory Repo](https://github.com/AgentMemoryRepo/agentmemoryrepo) - Implementation and contributor discussion around agent memory.
+- [Open Knowledge Format](https://github.com/GoogleCloudPlatform/open-knowledge-format/blob/main/SPEC.md) - Knowledge representation and provenance specification.
+
+General Hugging Face and Nous/Hermes entry points were checked on 23 October 2026. The recorded coverage below applies to the named sources and discussions, not every linked hub or private channel. For books, papers and document repositories, use [Research Resources](../../../lists/research-resources.md).
+
+## Hub notes
 
 **Maintained owner:** Research Lead. **Coverage basis:** source and discussion reviews recorded on 22 October 2026. These are selected routes, not an exhaustive directory or live coverage claim. Refresh the relevant route when using it for a current decision. Private channels require supplied access and remain outside the public record.
 
 Use the [Community Research method](../SKILL.md) to follow the routes. The entry describes where to look; it does not endorse the claims found there.
 
-## Nous Research and Hermes practitioners
+### Nous Research and Hermes practitioners
 
 **Use when:** deciding whether Hermes already supports a proposed method, investigating recurring runtime failures, or finding maintained skills and plugins.
 
@@ -14,7 +52,7 @@ The [Hermes configuration discussion](https://www.reddit.com/r/hermesagent/comme
 
 **Recorded coverage and limits:** official routes and the Reddit original with visible replies were inspected in the source review. Discord conversations were not inspected. Practitioner reliability claims were not reproduced. Public documentation or a catalogue entry does not prove installation or behaviour in this harness.
 
-## Hugging Face OpenEvals
+### Hugging Face OpenEvals
 
 **Use when:** investigating evaluation provenance, task-specific benchmarks, retained traces or executable checks.
 
@@ -22,7 +60,7 @@ Follow [OpenEvals](https://huggingface.co/OpenEvals) and [Community Evals / Eval
 
 **Recorded coverage and limits:** public primary-resource follow-up inspected these routes. Thinkingbox projects were not executed; framework availability and full scenario-data availability are separate. A paper listing or score does not establish transfer to our role assignments. Some resources or discussions may require an account or additional access.
 
-## Evaluation practitioners
+### Evaluation practitioners
 
 **Use when:** deciding what counts as a useful failure, calibrating semantic judgement against human examples, or checking whether a reviewer damages good work.
 
@@ -30,7 +68,7 @@ Use Antaripa Saha and Hamel Husain's [Parlance Labs article on automatic evaluat
 
 **Recorded coverage and limits:** the primary article and selected practitioner discussion were reviewed. This is methodological guidance, not a deployed evaluator or proof that one scoring scheme fits every task. Public article access does not imply access to paid teaching or private communities.
 
-## Walking Labs
+### Walking Labs
 
 **Use when:** finding practical harness-engineering exercises or source trails for continuity, verification and maker/checker patterns.
 
@@ -38,7 +76,7 @@ Use [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engi
 
 **Recorded coverage and limits:** overview, relevant methods and source-selection routes were inspected. Projects were not executed. This material synthesises other authors and is not independent replication. No Discord invitation was verified.
 
-## Agent Memory Repo and Open Knowledge Format contributors
+### Agent Memory Repo and Open Knowledge Format contributors
 
 **Use when:** investigating source attribution, freshness, generated versus verified knowledge, or correction and lifecycle design.
 
@@ -46,6 +84,6 @@ Follow the [Agent Memory Repo introduction](https://cognition.com/agent-memory-r
 
 **Recorded coverage and limits:** release material, the issue and downstream specifications were inspected in the source review. The interoperability proposal was not established as an accepted integration. Hermes compatibility and runtime quality were not tested. A useful provenance idea does not require adopting another authoritative memory store.
 
-## Maintaining this directory
+### Maintaining this directory
 
 Retain a route when it answers a recurring question or opens a useful line of inquiry. Record changed locations, unavailable access or superseded methods with the relevant evidence. Keep source reading separate from adopted operating policy. Broader GTM, career and open-research trails remain with the assigned domain's source owner until a reusable route is deliberately selected for this package.
