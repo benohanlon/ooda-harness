@@ -58,6 +58,8 @@ Record voice and delivery preferences:
 - **Writing on my behalf:** [The person's own voice, intended readers, preferred forms of expression and examples worth preserving. Link the relevant writing guidance and accepted examples.]
 - **When and where to communicate:** [Preferred channels, written or voice updates, useful timing and frequency, timezone or quiet periods, and what warrants an interruption. Record only established preferences. A preference does not create a schedule or notification mechanism.]
 
+Before drafting on the person's behalf, establish the channel, relationship stage and intended response. Retrieve their preferences for length, links, attachments, spelling and presentation, together with accepted examples matching that situation. For outreach, connect the recipient's relevant problem to the person's evidenced contribution and an appropriate next step. Let genuine interest support that case. Do not transfer a full email or cover-letter structure into a short social DM without checking the person's guidance.
+
 Use a few representative examples with a short explanation of what works. Record whether wording is an approved example, a working draft or a delivered artifact. A context-specific choice is not automatically a rule for every task. Keep detailed editorial methods and full examples with their existing owners.
 
 ## 5. Recurring questions and established answers
