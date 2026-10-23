@@ -1,6 +1,6 @@
 # Sovereign Profile Template
 
-**Blank reusable template.** Create or adapt the completed profile in the sovereign's private Notion, Google Drive or chosen data store. Keep personal answers, private source links and deployment bindings outside the reusable repository.
+**Blank reusable template.** Create or adapt the completed profile in the sovereign's private Notion, Google Drive, a separate private Git repository or another chosen data store. Keep personal answers, private source links and deployment bindings outside the reusable repository. A private personal repository can hold selected profile text and source routes without duplicating the harness. Git retains previous revisions, so keep credentials outside it and choose carefully which personal details to version.
 
 This profile helps the AI thinking partner serve a particular person. [SOUL](../SOUL.md) defines the shared identity and relationship; the [editorial standard](../skills/writing-and-editing/references/EDITORIAL-STANDARDS.md) defines writing practice. This profile supplies personal context, preferences, examples and routes to established answers.
 
@@ -25,6 +25,10 @@ Use their own descriptions. Distinguish stated facts from tentative observations
 ## 2. What matters to me
 
 [Their aims, values, interests and desired contribution. Explain what makes an outcome worthwhile and the trade-offs they have actually expressed.]
+
+**How I think and decide:** [The connections, concepts, metaphors or distinctions that carry their meaning. Use a real decision or correction to show how they weigh alternatives. These are aids to understanding, not compulsory vocabulary or a personality model.]
+
+**What good help looks like:** [What they want the thinking partner to make easier, help them notice or enable them to do. Include what would make the work useful from their perspective.]
 
 Link the current priorities or project brief rather than copying a changing task queue. Distinguish a preference from a firm constraint and a one-off exception from a standing change. Retain context and time horizon where they affect the choice. Use simple relative priorities grounded in the sovereign's guidance, without inventing scores or extra exclusions.
 
@@ -52,8 +56,7 @@ Keep these two uses distinct:
 
 - **Speaking with me:** [How the assistant should address, explain, challenge and support this person in its own voice. Include language, register, detail, warmth or humour where established.]
 - **Writing on my behalf:** [The person's own voice, intended readers, preferred forms of expression and examples worth preserving. Link the relevant writing guidance and accepted examples.]
-
-[Where useful, describe how they reason: the connections, concepts, metaphors or distinctions that carry their meaning. These are aids to understanding, not compulsory vocabulary or a personality model.]
+- **When and where to communicate:** [Preferred channels, written or voice updates, useful timing and frequency, timezone or quiet periods, and what warrants an interruption. Record only established preferences. A preference does not create a schedule or notification mechanism.]
 
 Use a few representative examples with a short explanation of what works. Record whether wording is an approved example, a working draft or a delivered artifact. A context-specific choice is not automatically a rule for every task. Keep detailed editorial methods and full examples with their existing owners.
 
@@ -61,11 +64,19 @@ Use a few representative examples with a short explanation of what works. Record
 
 Use or link an existing private FAQ, domain brief or answer bank. Keep each mutable answer in one maintained place. The profile can be a short index rather than another copy.
 
+The rows below are optional examples. Fill them from existing records, link the maintained answer or remove them when irrelevant.
+
 | Question or topic | Confirmed answer or maintained source | Scope or conditions | Evidence and last confirmation |
 | --- | --- | --- | --- |
-| [Recurring question, including alternative wording where useful] | [Answer, or exact source section] | [When this applies; relevant exceptions] | [Sovereign's statement or authoritative record; date if known] |
+| Where am I based? | [Country, city/region and timezone, or source] | [Level of detail appropriate to the task; legal address held separately if needed] | [Source; date if known] |
+| What salary or fee range am I seeking? | [Target range and any firm minimum, or source] | [Currency; base versus total compensation; employment versus contract rate; agreed exceptions] | [Source; date if known] |
+| Which working arrangements suit me? | [Remote, hybrid or office preferences, or source] | [Location, attendance, travel or relocation limits; preferences versus requirements] | [Source; date if known] |
+| When am I available? | [Notice period, possible start date or capacity, or source] | [Relevant engagement and current commitments] | [Source; date if known] |
+| What are my work-authorisation or sponsorship answers? | [Confirmed answers or exact source section] | [Jurisdiction and actual question; citizenship is a separate fact] | [Source; date if known] |
+| Which contact details and documents should be used? | [Private source for approved email, phone preference and current document versions] | [Purpose, permitted sharing and any required-field exception] | [Source; date if known] |
+| [Other recurring question, including alternative wording] | [Answer or maintained source] | [When this applies; relevant exceptions] | [Source; date if known] |
 
-Possible topics include location and timezone, contact preferences, availability, working arrangements and repeated domain questions. Add only what the person has supplied and the work needs.
+Add only what the person has supplied and the work needs. Detailed career evidence, application answers and current opportunity decisions retain their existing owners.
 
 Match meaning, not just similar wording. Work authorisation does not establish citizenship; a region does not establish a legal address. A saved answer supports reuse within its scope, while permission to disclose it or take an external action comes from the current assignment and applicable agreement.
 
