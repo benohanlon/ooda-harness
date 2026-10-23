@@ -22,15 +22,20 @@ The repository README already displays the approved JPEG. GitHub's repository so
 
 ## Architecture artwork
 
-The ecology stack is a brand overview asset for introductions and presentations. It shows the harness from human purpose to bounded work. The focused atomic-role view belongs with the [Ecology of Mind](../docs/ecology-of-mind.md) explanation.
+These are illustrative studies, not canonical architecture or operating instructions. They may change as the design develops. The written definitions in [Ecology of Mind](../docs/ecology-of-mind.md) and the [common operating contract](../docs/operating-contract.md) govern interpretation.
+
+The stack gives an overview for introductions and presentations. The cognitive dipole focuses on one role and is also shown in Ecology of Mind.
 
 <img src="assets/sovereign-ooda-ecology-stack.png" width="420" alt="Sovereign OODA Harness stack: sovereign, ecology, atomic role and Twins, maintained context, bounded contributions and enabling infrastructure.">
 
 | Asset | Dimensions | Use | Download |
 | --- | --- | --- | --- |
-| Ecology stack v3 | 1024 × 1536, PNG | Brand overview; architecture in development | [PNG](assets/sovereign-ooda-ecology-stack.png?raw=true) |
+| Ecology stack v3 | 1024 × 1536, PNG | Illustrative overview; non-canonical | [PNG](assets/sovereign-ooda-ecology-stack.png?raw=true) |
+| Cognitive dipole v1 | 1254 × 1254, PNG | Illustrative atomic role; non-canonical | [PNG](assets/cognitive-dipole-v1.png?raw=true) |
 
-Added to the repository kit on 23 October 2026. The published v1.3 ZIP remains the 22 October snapshot and does not include this supplementary asset. The stack does not replace the approved cover or establish deployed paired operation.
+![Illustrative cognitive dipole: a shared nucleus of role purpose, contract and units of account, two agents with complete OODAs, bounded crawlers below and feedback from the world.](assets/cognitive-dipole-v1.png)
+
+Added to the repository kit on 23 October 2026. The published v1.3 ZIP remains the 22 October snapshot and does not include these supplementary assets. Neither replaces the approved cover or establishes deployed paired operation.
 
 ## Colour
 

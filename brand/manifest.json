@@ -180,9 +180,9 @@
     },
     {
       "file": "brand/README.md",
-      "bytes": 6179,
-      "sha256": "bf96f219b1b4a996c754ab37487bc6462ea0a68f6759a78120ba5f4e7f853886",
-      "git_blob_sha": "2854ada047379a30a61c598f001c6c2c116885c5"
+      "bytes": 6708,
+      "sha256": "549e7338faa20044c4b70ae59fc290eab7f1a9e55e1d4563a761bfcf09b6c3da",
+      "git_blob_sha": "9f1d5b1e92354e3a7e794413d1a10a379e7fa642"
     },
     {
       "file": "brand/templates/compact-landscape.svg",
@@ -249,7 +249,18 @@
       "git_blob_sha": "2e98ef5db0705649fa72b7dbe46db67bddfb9662",
       "width": 1024,
       "height": 1536,
-      "status": "ecology stack v3; supplementary brand overview; architecture in development",
+      "status": "illustrative study; non-canonical; may change; architecture in development",
+      "added_on": "2026-10-23",
+      "included_in_v1_3_zip": false
+    },
+    {
+      "file": "brand/assets/cognitive-dipole-v1.png",
+      "bytes": 1682798,
+      "width": 1254,
+      "height": 1254,
+      "sha256": "b82e6b99993e66a3893f7ac2267f929cc501e84ca0ed3bf8905ee7cf4e242c57",
+      "git_blob_sha": "93fbc52f92d3c868c59b4e73bccbbb43541e9b83",
+      "status": "illustrative study; non-canonical; orbital metaphor; may change",
       "added_on": "2026-10-23",
       "included_in_v1_3_zip": false
     }

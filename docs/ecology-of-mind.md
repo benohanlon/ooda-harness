@@ -6,6 +6,14 @@ OODA Harness extends the sovereign's ability to see, decide and act. Its roles, 
 
 The Twins form the atomic operating unit within that ecology. Their complementary perspectives, reciprocal engagement and feedback connect the smallest assignment to the wider purpose. The intended benefit includes less human effort spent supervising, correcting and recovering work. That benefit must be established through useful results.
 
+## Illustrative view
+
+![Illustrative atomic role: two agents with complete OODAs engage around a shared nucleus of role purpose, contract and system-wide units of account. Temporary crawlers return evidence, and world responses feed back into the role.](../brand/assets/cognitive-dipole-v1.png)
+
+*Illustrative study, not a canonical specification. This image may change. The written definitions below and the [common operating contract](operating-contract.md) govern interpretation.*
+
+The nucleus represents the role's shared purpose, contract and units of account. Together with the two agents, it forms the atomic operating unit. Orbits depict complementary, reversible engagement; crawlers are temporary contributors outside the enduring pair. [Full-size image](../brand/assets/cognitive-dipole-v1.png) · [Brand asset catalogue](../brand/README.md#architecture-artwork).
+
 ## The atomic operating unit
 
 Each enduring role comprises two agents and one shared contract, including the role description. This arrangement is a cognitive dipole, also called the Twins. It carries one purpose and outward accountability.
