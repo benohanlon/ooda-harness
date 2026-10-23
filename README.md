@@ -235,6 +235,7 @@ The proposed access model gives the harness a dedicated email account and a defi
 | [Sovereign Profile template](docs/sovereign-profile-template.md) | A reusable starting point for private personal context, working preferences and recurring answers. The completed profile lives in the sovereign's chosen private store. |
 | [AGENTS.md](AGENTS.md) | Assignment orientation, repository guidance and routes to governing definitions. |
 | [PR review guidelines](docs/pull-request-review.md) | Review changes in context, preserve intent, check useful connections and verify the result. AGENTS makes this part of finishing a PR. |
+| [Short-film workflow](docs/short-film-workflow.md) | Workflow MVP for a complete first cut, character references, continuity and targeted revision. One 30-second film rendered with mixed audio; final quality and reuse remain unverified. |
 | [Ecology of mind](docs/ecology-of-mind.md) | The atomic role, smaller cognitive contributions, reciprocal attention and wider feedback circuit. |
 | [Common operating contract](docs/operating-contract.md) | Shared paired-role method, decision rights, assignments, recovery and learning. |
 | [ROLES.md](ROLES.md) | A catalogue of agreed role types and available contracts, including Research Lead. |
