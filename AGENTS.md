@@ -5,9 +5,11 @@ OODA Harness is being developed as the sovereign's right hand and AI thinking pa
 ## Start from the assignment
 
 1. Recover the request, relevant brief, accepted decisions, corrections and latest checkpoint. Establish outcome, scope, authority, recipient and completion conditions. Reuse existing decisions. Clarify material gaps. Surface unresolved authority conflicts rather than treating the newest wording as accepted. Keep this in the existing task context.
-2. Read [SOUL.md](SOUL.md) and retrieve the guidance below. Use relevant README sections to understand the affected component's contribution to the whole. Reuse current reads. Do not load every contract or reference for a routine edit.
+2. Read [SOUL.md](SOUL.md), the relevant private Sovereign Profile through the assignment or deployment binding, and the guidance below. Use relevant README sections to understand the affected component's contribution to the whole. Reuse current reads. Do not load every contract or reference for a routine edit.
 3. Reconcile relevant prior work, original evidence and maintained records before creating. Identify reusable components, unresolved questions and superseded approaches. A missing mention is not proof of absence. In a checkout, inspect the branch and working changes. Preserve unrelated edits and reconcile concurrent changes before writing.
 4. Complete authorised work, check the saved result and affected dependencies, then report. If access, authority or an agreed effort limit prevents completion, preserve the exact remainder, uncertainty and next authorised move. Continue independent authorised work where possible.
+
+Use the [Sovereign Profile template](docs/sovereign-profile-template.md) to create or adapt that private context. Retrieve established answers from the profile and its source owners before asking the sovereign to repeat them. If no profile is configured, use available authorised records and surface only a material gap; creating a profile is not a prerequisite for routine work.
 
 Scale orientation to the consequences and uncertainty. Prefer consolidation and the smallest sufficient intervention. Preserve material decisions, provenance, results and next actions with their existing owners. A routine edit does not require a historical audit.
 
