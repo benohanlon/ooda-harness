@@ -41,6 +41,16 @@ For a visually led film, review the complete cut without narration first. Check 
 
 An isolated motion study can precede the animatic when it answers a specific feasibility question. Record that sequence honestly, then build the whole edit before committing to the remaining shots.
 
+### Direct one connected scene
+
+Translate a scene's purpose into **trigger → action → response → changed situation**. Record what each character wants or notices and how their behaviour changes. A campaign message can inform that action, but a caption cannot demonstrate a character performance.
+
+For adjacent shots, record positions, travel direction, eyelines, lighting and key props. Specify the outgoing action and incoming state so the cut continues an event. A tiny location sketch and a few start/end poses are enough. Keep camera movement motivated by what the viewer needs to see.
+
+Use rough ambience and action sounds during this scene test. Audio can begin before the corresponding image or continue into the next shot. Refine it later instead of postponing all sound to the final export.
+
+Before producing the remaining film, test one connected scene using two or three short takes. The viewer should follow what happened and why without a new explanatory title at each cut. Check recognisable performances, stable props, consistent space and sound spanning the cuts. A smooth pan or a set of attractive independent clips does not establish that result.
+
 ## 4. Test a bounded shot
 
 Choose the most consequential uncertainty, such as a character turn, two-person interaction or foreground concealment. Inspect a full-size starting frame against the selected references before animating it.
@@ -52,6 +62,7 @@ Keep a compact shot brief:
 | Story and action | What happens, what the viewer gets, framing and duration |
 | Inputs | Exact files or stable asset IDs and each input's role |
 | Revision boundary | Requested change and protected composition, cast, scenery, wardrobe and copy |
+| Continuity | Character positions, screen direction, eyelines, prop state, outgoing action and next shot's incoming state |
 | Layers and output | Existing separation, intended dimensions and viewing size |
 | Acceptance | Visible traits and action that decide whether the shot works |
 
@@ -71,7 +82,7 @@ Distinguish four conclusions: a tool produced a file; the file passed named chec
 
 ## 6. Finish, deliver and leave a restart point
 
-Replace remaining placeholders, refine typography and add sound that supports the action and cuts. Inspect the entire exported film at its intended size. Check duration, image quality, audio, copy, destination and any release conditions that actually apply.
+Replace remaining placeholders, refine typography and finish the provisional sound that supports the action and cuts. Inspect the entire exported film at its intended size. Check duration, image quality, audio, copy, destination and any release conditions that actually apply.
 
 Retain the editable timeline, exact selected media, source references and final export. A new context should be able to locate them without reconstructing the chat.
 
@@ -97,13 +108,8 @@ Keep the record proportional to the shot. It can be a few readable files. Reuse 
 
 These are proposed checks for useful reuse. They are not claims that this workflow has passed all three or that it produces viral reach.
 
-## Practice adapted from existing work
+## Resources and reading route
 
-- [Blender Studio's Project Gold storyboarding](https://studio.blender.org/blog/project-gold-storyboarding-in-blender/) and [editorial guidance](https://studio.blender.org/tools/pipeline-overview/pre-production/editorial): thumbnails to an animatic, then progressive replacement inside the edit.
-- [3Blue1Brown's production instructions](https://github.com/3b1b/videos/blob/306a1346a356c7a7b097875ceb51c5cd67d0a56c/CLAUDE.md): reusable characters/components and previewing. Creator-local scripts and external media paths are not a portable pipeline.
-- [Official Comfy workflow templates](https://github.com/Comfy-Org/workflow_templates/blob/main/README.md): retain recipes, dependencies and previews. Adapt the record-keeping to the tool actually used.
-- [Baoyu's comic method](https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-comic/SKILL.md): separate identity and style references, retain prompts and revise selected pages or shots. Session reuse is not a proven identity lock; precise text stays editable.
-- [Penpot's contribution guidance](https://github.com/penpot/penpot-files/blob/be9b1c33ff7546f2a5246b4c52a96f1183c2fe35/CONTRIBUTING.md): retain editable sources, provenance and explicit selection.
+Use [Short-Film Resources](../lists/short-film-resources.md) for story/performance, continuity, sound, editorial practice, generated motion and the original five repository examples. Its grouped links retain reading scope, retrieval triggers, adaptations and limits. Read the relevant material before the associated production step rather than relying on a list of names.
 
-These are adapted practices, not imported toolchains. The production that informed this draft retains the private evidence, source-access limits and actual results with its own checkpoint.
-
+The production that informed this draft retains the private evidence and actual results with its own checkpoint.
