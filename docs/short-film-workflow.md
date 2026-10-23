@@ -1,6 +1,6 @@
 # Short-film workflow
 
-**Draft workflow MVP.** Use this method to develop a short film from a brief, a coherent cast and a small set of shots. The method has been exercised through an initial motion test and a timed rough edit in one production. Consistent finished shots, sound, release and reuse on a second film remain to be demonstrated. Saving this document does not install a skill or update a runtime.
+**Workflow MVP.** Use this method to develop a complete short film from an agreed brief, storyboard and character references. One production progressed from a motion test and timed rough edit to a rendered 30-second film with mixed audio. Generated animation was assembled and mixed locally when hosted finishing stalled. Final visual and sound quality, release and reuse on a second film remain to be demonstrated. Saving this document does not install a skill or update a runtime.
 
 ## Scope and ownership
 
@@ -33,13 +33,15 @@ Plan only the layers the shot needs: scenery, cast, foreground occlusion, shadow
 
 ## 3. Make the whole film visible early
 
-Give each shot an identifier, story job, framing, action and proposed duration. Assemble a rough edit, also called an animatic, from thumbnails, stills and any useful existing motion. Label placeholders clearly.
+Start with the accepted storyboard and the selected tool's current capabilities. When it can generate and assemble a complete sequence, commission a complete first cut from the existing brief and exact references, within the assignment's spending authority. Review the whole film, then target its material gaps. An accepted storyboard need not be rebuilt before production.
+
+When a complete-cut route is unavailable or a rough timing review would resolve a material uncertainty, assemble an animatic from thumbnails, stills and useful existing motion. Label placeholders clearly. Keep shot identifiers, story jobs, framing, actions and proposed durations in the available timeline or project record.
 
 Keep one master timeline. Vary shot lengths according to action and reading time. Trim a generated take to the edit rather than letting the generator's duration decide the film's rhythm. Give important closing copy, including any invitation, enough time to read at the intended viewing size.
 
-For a visually led film, review the complete cut without narration first. Check whether its intended action and payoff are understandable. For a campaign, also check the audience's useful role, offer and next step. Add scratch dialogue or sound early when the story depends on it. Revise missing or confusing beats. The rough cut is a timing proposal, not finished animation.
+For a visually led film, check whether the action and payoff are understandable without narration. For a campaign, also check the audience's useful role, offer and next step. Add dialogue or sound early when the story depends on it. Revise missing or confusing beats. Distinguish a timing animatic from a rendered first cut and a reviewed final export.
 
-An isolated motion study can precede the animatic when it answers a specific feasibility question. Record that sequence honestly, then build the whole edit before committing to the remaining shots.
+Use an isolated motion study when it answers a consequential feasibility question. Record what it establishes and judge the retained result within the whole edit. A successful isolated shot does not establish the complete film's quality.
 
 ### Direct one connected scene
 
@@ -47,13 +49,13 @@ Translate a scene's purpose into **trigger → action → response → changed s
 
 For adjacent shots, record positions, travel direction, eyelines, lighting and key props. Specify the outgoing action and incoming state so the cut continues an event. A tiny location sketch and a few start/end poses are enough. Keep camera movement motivated by what the viewer needs to see.
 
-Use rough ambience and action sounds during this scene test. Audio can begin before the corresponding image or continue into the next shot. Refine it later instead of postponing all sound to the final export.
+Use provisional ambience and action sounds when developing the scene. Audio can begin before the corresponding image or continue into the next shot. Refine it later instead of postponing all sound to the final export.
 
-Before producing the remaining film, test one connected scene using two or three short takes. The viewer should follow what happened and why without a new explanatory title at each cut. Check recognisable performances, stable props, consistent space and sound spanning the cuts. A smooth pan or a set of attractive independent clips does not establish that result.
+Use a separate connected-scene trial when a specific uncertainty about performance, space or sound warrants it. Otherwise, assess those qualities in the complete first cut. The viewer should follow what happened and why without a new explanatory title at each cut. Check recognisable performances, stable props, consistent space and sound spanning the cuts. A smooth pan or a set of attractive independent clips does not establish that result.
 
-## 4. Test a bounded shot
+## 4. Resolve consequential shot uncertainty
 
-Choose the most consequential uncertainty, such as a character turn, two-person interaction or foreground concealment. Inspect a full-size starting frame against the selected references before animating it.
+Where a separate test is justified, choose the most consequential uncertainty, such as a character turn, two-person interaction or foreground concealment. Inspect a full-size starting frame against the selected references when the chosen workflow uses one.
 
 Keep a compact shot brief:
 
@@ -70,9 +72,9 @@ For each retained attempt, save the starting frame, exact prompt, exposed model/
 
 Inspect the movement across the clip, especially faces during turns, hands, fur or hair, clothing, logos, camera drift, occlusion and the final frame. Audition sound separately. A visual review cannot establish that the audio works.
 
-## 5. Replace placeholders and revise locally
+## 5. Refine the complete cut
 
-Insert useful takes into the master timeline and review their effect on the whole film. Preserve screen direction, action continuity and the established visual treatment.
+Insert or replace useful takes in the master timeline and review their effect on the whole film. Preserve screen direction, action continuity and the established visual treatment.
 
 Change the failed shot or part while retaining sound work. Keep previous selected versions recoverable. Compare a bounded revision with its declared protected elements at both detail size and delivery size.
 
@@ -82,7 +84,7 @@ Distinguish four conclusions: a tool produced a file; the file passed named chec
 
 ## 6. Finish, deliver and leave a restart point
 
-Replace remaining placeholders, refine typography and finish the provisional sound that supports the action and cuts. Inspect the entire exported film at its intended size. Check duration, image quality, audio, copy, destination and any release conditions that actually apply.
+Replace remaining placeholders, refine typography and finish the provisional sound that supports the action and cuts. Inspect the entire exported film at its intended size. Check duration, image quality, copy, destination and any release conditions that actually apply. Audition the exported sound; an audio track or technical measurement alone does not establish that the mix works.
 
 Retain the editable timeline, exact selected media, source references and final export. A new context should be able to locate them without reconstructing the chat.
 
@@ -100,13 +102,15 @@ Use existing project folders rather than creating a competing library. A small p
 
 Keep the record proportional to the shot. It can be a few readable files. Reuse a working editor or assembly tool before building a new pipeline.
 
-## Checks for the next MVP exercise
+## Review during useful production
+
+Use the following checks where they inform the current production or its next commissioned reuse.
 
 1. **Resume and rebuild:** a fresh context locates the selected inputs, identifies unfinished placeholders and reconstructs the rough edit using declared dependencies and authorised access. Record any missing input or private dependency.
 2. **Revise without regression:** change one expression or action and compare the output with the specified protected elements. Retain failed attempts and the actual visual judgement.
-3. **Understand the complete film:** a reviewer without the brief watches at the intended size and describes what they understood and felt. Use a muted cut for a visual story, or scratch audio when sound carries meaning. Compare with the brief's intended understanding, feeling or action. For a participation campaign, check the viewer's useful role, offer and next step. Record confusion before generating further shots.
+3. **Understand the complete film:** a reviewer without the brief watches at the intended size and describes what they understood and felt. Use a muted cut for a visual story, or scratch audio when sound carries meaning. Compare with the brief's intended understanding, feeling or action. For a participation campaign, check the viewer's useful role, offer and next step. Use observed confusion to direct the next revision.
 
-These are proposed checks for useful reuse. They are not claims that this workflow has passed all three or that it produces viral reach.
+Apply review to the actual deliverable and preserve the demonstrated limits. The first production does not establish successful reuse or viral reach.
 
 ## Resources and reading route
 
