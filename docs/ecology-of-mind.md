@@ -1,6 +1,6 @@
 # Ecology of mind
 
-**Status:** proposed shared architecture for review. This explains the design and its intended relationships. Paired operation and its benefits remain to be demonstrated.
+**Status:** accepted shared architecture. This explains the design and its intended relationships. Paired operation and its benefits remain to be demonstrated.
 
 OODA Harness extends the sovereign's ability to see, decide and act. Its roles, agents, methods, records and relationships form an ecology of mind: connected participants and resources through which understanding develops and useful action becomes possible. Its strategic ambition is better orientation and effective action that secure resources and strengthen sovereignty in service of freedom of action and expression. The [README](../README.md#1-purpose) sets out that purpose, including manoeuvre warfare and contextual cooperation, negotiation and competition.
 
