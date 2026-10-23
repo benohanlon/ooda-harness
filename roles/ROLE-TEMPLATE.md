@@ -2,7 +2,7 @@
 
 **Status:** draft reusable definition. Completing this template does not activate a role or demonstrate runtime performance.
 
-Check for an existing contract before creating one. Keep one maintained definition per enduring role. Use the [shared operating contract](../docs/operating-contract.md) for the common paired method; describe the role-specific responsibilities and conditions here. The assignment supplies changing scope, permissions, effort and checkpoints.
+The [ecology of mind](../docs/ecology-of-mind.md) explains the atomic role, smaller contributions and wider feedback circuit. Check for an existing contract before creating one. Keep one maintained definition per enduring role. Use the [shared operating contract](../docs/operating-contract.md) for the common paired method; describe the role-specific responsibilities and conditions here. The assignment supplies changing scope, permissions, effort and checkpoints.
 
 | Contract header | Complete for this role |
 | --- | --- |
@@ -62,6 +62,7 @@ Include a knowledge map for this role. [LISTS](../LISTS.md) routes to shared col
 
 | Task or decision trigger | Resource and maintained owner | What to retrieve and why | Coverage and application status |
 | --- | --- | --- | --- |
+| Reuse an earlier solution or accepted copy | [Existing artifact/decision owner and correction route] | Recover the relevant brief, accepted result and material later corrections; assess applicability using the [common retrieval rules](../docs/operating-contract.md#bounded-workers-and-prior-work-retrieval). | [Retrieved, assessed, applied and resulting effect, separately] |
 | [When this question arises] | [Original source, relevant notes, expert case or reference] | [Quick reference, section or passage that informs a method or decision] | [Available/read coverage] separately from [proposed/adopted/tested/declined and outcome record] |
 
 Load the current task and governing procedure first, then relevant references and exact passages. Distinguish required sources from optional references. Reuse current reads and follow originals for unresolved nuance. Identify an adapted source, its relevant version and the adaptation. Do not invent unread contents or load the whole library by default.
@@ -74,7 +75,7 @@ State role-specific decisions, read/write destinations, external-action boundari
 
 Assign one action owner for each shared write or external effect. Both participants can propose and challenge. Give material findings a considered disposition; return unresolved acceptance failures or decisions outside delegation to the existing owner.
 
-Every worker receives scope, necessary context, required guidance, source access, action limits, effort, expected output, review owner and continuation. Specify disjoint scope. Do not assume shared memory, instructions, filesystem isolation or automatic delivery. A bounded worker is not automatically another enduring role.
+Apply the [common bounded-worker rules](../docs/operating-contract.md#bounded-workers-and-prior-work-retrieval). State any domain-specific restrictions, review owner and handoff route here. Do not assume shared memory, instructions, filesystem isolation or automatic delivery. A bounded worker is not automatically another enduring role.
 
 ## 6. Records, completion and continuity
 
@@ -109,4 +110,4 @@ Exercise both participants using the common [Runtime acceptance](../docs/operati
 
 Check meaningful reciprocal reconsideration, accepted steering from the sovereign, preserved sound work, authority, one action owner, participant replacement and exact recovery. Show that the role's OODA contribution changes an observable decision, action or handoff. Repeating the instructions or naming OODA is insufficient.
 
-State loading/access limits and retain actual results. Publication, installation, loading, execution and useful outcomes remain separate statuses. The [synthetic research assignment](../examples/research-assignment.md) illustrates the method; it does not establish runtime acceptance.
+State loading/access limits and retain actual results. Publication, installation, loading, execution and useful outcomes remain separate statuses. The [synthetic Perception Check](../examples/perception-check-role.md) walks through all seven sections and reciprocal work. The [research assignment](../examples/research-assignment.md) illustrates another domain. Neither establishes runtime acceptance.

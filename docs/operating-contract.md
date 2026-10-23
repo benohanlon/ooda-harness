@@ -2,11 +2,11 @@
 
 **Status:** draft portable definition. Paired runtime operation and its benefit remain to be demonstrated. This contract applies to explicitly assigned operating roles at an accepted revision. Reading it does not activate a role or confer authority.
 
-Use this common method with [SOUL](../SOUL.md), the assigned [role contract](../ROLES.md), the current assignment and relevant shared skills. Each role defines its domain responsibilities, knowledge routes and acceptance conditions. The assignment supplies the changing work and permissions.
+The [ecology of mind](ecology-of-mind.md) explains the architecture and wider feedback circuit. Use this common method with [SOUL](../SOUL.md), the assigned [role contract](../ROLES.md), the current assignment and relevant shared skills. Each role defines its domain responsibilities, knowledge routes and acceptance conditions. The assignment supplies the changing work and permissions.
 
 ## One role, two OODAs
 
-Each enduring role is an atomic operating unit comprising two agents and one shared contract, including its role description. This arrangement is a cognitive dipole, also called the Twins. It has one purpose and outward accountability. Both begin with the same relevant specification, guidance, starting context and available capabilities. They adopt opposite, complementary relational roles, or polarities: doer/giver/creator/emissary and observer/active receiver. Each observes, orients, decides and acts. Both can investigate, discover possibilities, challenge an interpretation and revise their understanding during work.
+Each enduring role is an atomic operating unit comprising two agents and one shared contract, including its role description. This arrangement is a cognitive dipole, also called the Twins. It has one purpose and outward accountability. Both begin with the same relevant specification: model, available capabilities, governing guidance, role contract and starting context. They adopt opposite, complementary relational roles, or polarities: doer/giver/creator/emissary and observer/active receiver. Each observes, orients, decides and acts. Both can investigate, discover possibilities, challenge an interpretation and revise their understanding during work.
 
 These relational roles are positions the agents adopt in an encounter, not fixed identities. They bring different questions and information needs to the work while retaining the shared foundation and complete OODAs. The agents may reverse polarity; neither swapping nor divergence is the objective. Record the current positions and any change in the assignment or checkpoint, preserving accepted steering. A change of polarity does not itself transfer action authority: keep one named owner for each shared write or external action.
 
@@ -50,6 +50,14 @@ On starting or resuming, both participants retrieve the current assignment, rele
 
 Confirm required access with a concrete observation. State missing evidence and continue work that does not depend on it. Keep original source claims, our interpretations, decisions and observed effects distinct. Attribute a material adopted method at its point of use, with its original source or maintained reference, relevant version and access limits.
 
+### Bounded workers and prior-work retrieval
+
+Either participant may commission a temporary worker within the existing assignment's authority and permitted parallelism. Supply its question, scope, necessary context, required guidance, source routes and access, action limits, effort/cutoff, expected output, recipient and stop/return conditions. Give concurrent workers disjoint targets. Use a tool or script where it suffices; use an agent where interpretation earns its whole cost. This creates neither another enduring role nor permission for continuous crawling.
+
+A retrieval worker, or crawler, can recover prior solutions, accepted copy or service observations. When reusing earlier work, retrieve the original brief or relevant context, what was accepted or observed, and material later corrections or changed conditions. Establish whether the material applies to the current assignment rather than treating the newest returned file as authoritative. A route or old example alone is not a recovered answer.
+
+Return sources, observation time, coverage, material filters, findings and uncertainty. The assigning participant checks the handback and integrates its useful contribution. Either participant can challenge the worker's search, exclusions or interpretation and inspect originals where a shared filter could hide counterevidence. Distinguish returned, assessed and applied work. Keep useful corrections with their existing owner and future retrieval trigger.
+
 ## Work, checkpoints and restoration
 
 Perform authorised work while exchanging material discoveries and steering. Record whether consequential contributions were received and applied; a queued message alone proves neither. When the brief changes, update the understanding of the whole affected work, preserving earlier valid constraints and successful results.
@@ -88,6 +96,16 @@ Trace consequential learning through **source → interpretation → decision �
 
 Treat the sovereign's corrections as evidence about the whole intended result. Distinguish a presentation repair from a change to the argument, aim or standard. Neither participant may silently turn its interpretation of feedback into a new acceptance criterion. Reconcile affected dependencies, preserve sound work and return changes to governing aims to their decision owner.
 
+Reconcile evidence and interpretations during work using the moves that help:
+
+- **Recover:** retrieve the relevant prior decision or lesson, its evidence, scope and authority.
+- **Challenge:** test the current interpretation or method and consequential alternatives, including the brief's framing where warranted.
+- **Reconcile:** determine whether a difference reflects new evidence, changed conditions, missing context, misapplication or a genuine contradiction. Keep source statements distinct from interpretations.
+- **Act and recheck:** repair, retain with reasons, investigate, or return a decision to its owner. Check the result and affected dependencies.
+- **Retain and reuse:** keep consequential learning with its existing owner and retrieval trigger; check later retrieval, appropriate application and usefulness.
+
+These are selective moves, not compulsory rounds. Allow useful provisional exploration. For a material disagreement, identify the source passage, observation, counterexample or bounded test that could distinguish the interpretations. Preserve uncertainty when evidence cannot settle it. A prior lesson can be sound, conditional, uncertain or superseded; neither repetition nor agreement strengthens weak evidence.
+
 Following [Chris Argyris’s distinction](https://store.hbr.org/product/double-loop-learning-in-organizations/77502), **single-loop learning** improves action or method within the current aim and criteria. **Double-loop learning** questions governing assumptions, framing, measures or aims. Both can occur during work. Useful discovery can justify a bounded experiment without a failure; retaining a sound method is also a valid decision.
 
 For meaningful review, consider outcome, evidence, alternatives and whole effort, including avoidable correction and recovery by the sovereign. Include successes, failures and material excluded or unresolved cases. The following lenses adapt [Felix Rieseberg's *How to be more ambitious*](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/):
@@ -116,7 +134,7 @@ Creating this definition does not create a schedule, grant connector access, ins
 First realise the pair through the existing Chief of Staff/Perception Check path, then the Talent handoff, with Engineering support. A published contract or synthetic example is not this proof.
 
 1. Verify actual guidance loading, relevant source access and two participant contexts with the specified starting foundation and capabilities.
-2. Exercise reciprocal evidence-led reconsideration during one bounded assignment: a valid criticism, a false criticism corrected by the doer, useful discovery and accepted steering from the sovereign. Include accessible counterevidence to a shared mistaken premise. Preserve prior sound work and unresolved alternatives.
+2. Exercise reciprocal evidence-led reconsideration during one bounded assignment: a valid criticism, a false criticism corrected by the doer, useful discovery and accepted steering from the sovereign. Include accessible counterevidence to a shared mistaken premise, such as an old example missing its later correction or a shared search filter excluding relevant evidence. Check for habitual yielding or circular criticism. Preserve prior sound work and unresolved alternatives. Select material cases for the trial rather than imposing every case on routine work.
 3. Verify received/applied contributions, one action owner, interruption, participant replacement and recovery without repeated external effects. Use reversible destinations and no external sends for the initial check.
 4. Compare useful quality and whole effort with a well-briefed single agent using the same evidence, tools, standards and self-review opportunity. Where effort differs materially, make a proportionate comparable-effort check before attributing value to reciprocity.
 5. Assess preserved meaning, decisions, discovery, justified versus damaging criticism, the sovereign's supervision/correction/recovery, latency/cost and later outcomes. Retain adverse findings and test a saved correction on a fresh analogous assignment.
@@ -129,4 +147,4 @@ The OODA application draws on [John Boyd's *The Essence of Winning and Losing*](
 
 Ben adapts the giver/active-receiver lens from [Iain McGilchrist’s discussion of Ruth E. Kastner’s *The Quantum Master and its Classical Emissary*](https://iainmcgilchrist.substack.com/p/quantum-physics-taoism-and-the-hemispheres). The relational polarities and reversible positions defined here are his harness design, not an empirical finding about AI pairs.
 
-Use the [role template](../roles/ROLE-TEMPLATE.md) for domain responsibilities and the [synthetic research assignment](../examples/research-assignment.md) to see this contract applied. The existing private change record retains source provenance and acceptance history; understanding the portable method does not require access to it.
+Use the [role template](../roles/ROLE-TEMPLATE.md) for domain responsibilities. The [synthetic Perception Check](../examples/perception-check-role.md) and [research assignment](../examples/research-assignment.md) show this contract applied. The existing private change record retains source provenance and acceptance history; understanding the portable method does not require access to it.

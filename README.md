@@ -6,7 +6,7 @@
 
 Start with [current status and setup](#3-current-state-and-getting-started). Read the [operating model](#4-operating-model) and [component map](#5-system-design-and-components).
 
-[SOUL](SOUL.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md) · [Lists](LISTS.md) · [Brand guide](brand/README.md)
+[SOUL](SOUL.md) · [Ecology of mind](docs/ecology-of-mind.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md) · [Lists](LISTS.md) · [Brand guide](brand/README.md)
 
 Welcome to the real OODA Harness. OODA stands for Observe, Orient, Decide and Act. [John Boyd](https://slightlyeastofnew.com/wp-content/uploads/2010/03/essence_of_winning_losing.pdf) described its role in enabling us to “comprehend, shape, adapt to and in turn be shaped by an unfolding evolving reality that is uncertain, everchanging, and unpredictable.” OODA is a non-linear process of continuing reorientation and feedback, rather than a fixed sequence of four steps.
 
@@ -156,7 +156,7 @@ flowchart TB
 
 The shared basis keeps the work coherent while each agent's provisional interpretation remains distinguishable. One named participant owns each shared write or external action. Their exchanges inform the work and can reveal a need to reconsider its framing or standard. Changes to agreed aims or criteria follow the existing decision authority. A final-only critic or an unused second agent does not fulfil this design. Temporary workers, tools and skill calls do not each require another enduring pair.
 
-The [common operating contract](docs/operating-contract.md) defines decision rights, checkpoints, correction, recovery and feedback. [Sense of Taste](skills/sense-of-taste/SKILL.md) provides a judgement method within the pair. Specialist acceptance and whole-system review retain their distinct jobs. The [synthetic research assignment](examples/research-assignment.md) shows the method, including disagreement and interrupted work; it is not evidence of a running pair.
+The [ecology of mind](docs/ecology-of-mind.md) explains this atomic arrangement, smaller cognitive contributions, useful retrieval and the wider feedback circuit through the sovereign and environment. The [common operating contract](docs/operating-contract.md) defines decision rights, checkpoints, correction, recovery and feedback. [Sense of Taste](skills/sense-of-taste/SKILL.md) provides a judgement method within the pair. Specialist acceptance and whole-system review retain their distinct jobs. The [synthetic CoS/Perception Check](examples/perception-check-role.md) walks through the role template and reciprocal work. The [research assignment](examples/research-assignment.md) shows another application, including disagreement and interrupted work. These are document walkthroughs, not evidence of a running pair.
 
 ### Work in the field
 

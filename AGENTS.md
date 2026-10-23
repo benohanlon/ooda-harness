@@ -15,8 +15,8 @@ Scale orientation to the consequences and uncertainty. Prefer consolidation and 
 
 | Assignment | Read and apply |
 | --- | --- |
-| Change architecture | Relevant [README](README.md) sections, affected definitions and source brief. |
-| Create or revise an enduring role | [ROLES.md](ROLES.md), [role template](roles/ROLE-TEMPLATE.md), [shared operating contract](docs/operating-contract.md), affected contracts and adjacent-role boundaries. Preserve the paired-agent requirements below. |
+| Change architecture | Relevant [README](README.md) sections, [ecology of mind](docs/ecology-of-mind.md), affected definitions and source brief. |
+| Create or revise an enduring role | [ROLES.md](ROLES.md), [ecology of mind](docs/ecology-of-mind.md), [role template](roles/ROLE-TEMPLATE.md), [shared operating contract](docs/operating-contract.md), affected contracts and adjacent-role boundaries. Preserve the paired-agent requirements below. |
 | Perform an explicitly assigned enduring role | Its individual contract, shared contract and current brief, including steering, methods, evidence and private bindings. |
 | Create or revise a workflow | Existing role responsibility, relevant workflow and maintained records. Map dependencies and minimum interfaces; implement the next useful part. Workflow stages do not automatically become separate skills. |
 | Create or revise a skill | [SKILLS.md](SKILLS.md), its `SKILL.md`, references and role usage. Preserve specialist execution rules and declare dependencies. |
@@ -54,6 +54,6 @@ Use existing checks and documented commands. Do not invent commands or impose un
 
 ## Maintained layout and promotion
 
-`docs/` holds the shared operating contract; `roles/` holds the template and available individual contracts; `skills/` holds reusable methods and their references; `lists/` holds selected resource collections; `examples/` holds bounded synthetic illustrations. `brand/` and `assets/` hold the visual guidance and approved project assets. The separately usable `modules/hidden-job-market/` remains planned; a listed role, skill or directory is not evidence of deployment.
+`docs/` holds the ecology architecture and shared operating contract; `roles/` holds the template and available individual contracts; `skills/` holds reusable methods and their references; `lists/` holds selected resource collections; `examples/` holds bounded synthetic illustrations. `brand/` and `assets/` hold the visual guidance and approved project assets. The separately usable `modules/hidden-job-market/` remains planned; a listed role, skill or directory is not evidence of deployment.
 
 For upstream development, the private Notion design brief retains unpromoted decisions. For each explicitly promoted portable definition, record its source, accepted Git revision and publication pointer with its existing private owner. Draft-branch content is a proposal. Acceptance of named definitions does not replace unrelated private procedures or domain records. Installed or forked use follows its accepted definitions and local briefs; access to the creator's private workspace is not assumed. Domain services retain live records and checkpoints. Use authorised source references supplied with the assignment and report missing access rather than inventing their contents.
