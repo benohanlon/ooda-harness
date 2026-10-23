@@ -1,6 +1,6 @@
 # Role contract template
 
-**Status:** draft reusable definition. Completing this template does not activate a role or demonstrate runtime performance.
+**Status:** accepted reusable definition. Completing this template does not activate a role or demonstrate runtime performance.
 
 The [ecology of mind](../docs/ecology-of-mind.md) explains the atomic role, smaller contributions and wider feedback circuit. Check for an existing contract before creating one. Keep one maintained definition per enduring role. Use the [shared operating contract](../docs/operating-contract.md) for the common paired method; describe the role-specific responsibilities and conditions here. The assignment supplies changing scope, permissions, effort and checkpoints.
 

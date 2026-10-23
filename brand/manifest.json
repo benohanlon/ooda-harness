@@ -88,9 +88,9 @@
     },
     {
       "file": "brand/GUIDELINES.md",
-      "bytes": 10749,
-      "sha256": "50fc4761886105f8d33cc3da101ef1f8bf0a9420e9a9b3cdeea173a4aa456c3c",
-      "git_blob_sha": "0745e9843c26313ef8cdf9b583954cc270a2f38d"
+      "bytes": 10862,
+      "sha256": "42b303b1111c147bb203f0fec969db26c0592097348ae4cfd8ffb05cd4bd893f",
+      "git_blob_sha": "c22236409b2ce0c003e08532c2fe7d17449e672e"
     },
     {
       "file": "brand/previews/colour-system.png",
@@ -180,9 +180,9 @@
     },
     {
       "file": "brand/README.md",
-      "bytes": 6708,
-      "sha256": "549e7338faa20044c4b70ae59fc290eab7f1a9e55e1d4563a761bfcf09b6c3da",
-      "git_blob_sha": "9f1d5b1e92354e3a7e794413d1a10a379e7fa642"
+      "bytes": 6824,
+      "sha256": "603169c31229a72edf47ead884363a00000728fa468faed1f76dabdb6607980d",
+      "git_blob_sha": "cee78fe7ced5d740bd07176878f440dec5e401c5"
     },
     {
       "file": "brand/templates/compact-landscape.svg",
@@ -219,9 +219,9 @@
     },
     {
       "file": "brand/templates/README.md",
-      "bytes": 2690,
-      "sha256": "13f90787f158e84e5dcd074c984745335397ec41ade35192d28cc4b19d68e3aa",
-      "git_blob_sha": "06318909c442c6caa505011b0655945b33aa317d"
+      "bytes": 2710,
+      "sha256": "2447e3ca702f735dca09634e8445d46523ff7333f8eba42f3ebadeb2d86197e7",
+      "git_blob_sha": "f9c00cc1f2715ca82adafa715cc2b66d5ece918d"
     },
     {
       "file": "brand/templates/render.mjs",

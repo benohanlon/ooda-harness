@@ -1,6 +1,6 @@
 # Ecology of mind
 
-**Status:** proposed shared architecture for review. This explains the design and its intended relationships. Paired operation and its benefits remain to be demonstrated.
+**Status:** accepted shared architecture. This explains the design and its intended relationships. Paired operation and its benefits remain to be demonstrated.
 
 OODA Harness extends the sovereign's ability to see, decide and act. Its roles, agents, methods, records and relationships form an ecology of mind: connected participants and resources through which understanding develops and useful action becomes possible. Its strategic ambition is better orientation and effective action that secure resources and strengthen sovereignty in service of freedom of action and expression. The [README](../README.md#1-purpose) sets out that purpose, including manoeuvre warfare and contextual cooperation, negotiation and competition.
 
@@ -72,6 +72,8 @@ The sovereign and each agent retain their own OODA. A private Sovereign Profile,
 The human participates in the wider feedback circuit and retains consequential decision authority. They do not replace one of the two internal Twins. Likewise, an agent's proposed audience interpretation cannot stand in for an actual recipient's response. The common contract maintains [source and record ownership](operating-contract.md#source-and-record-ownership), while private profile content and its retrieval bindings stay with their existing owners.
 
 ## Memory, workers and useful retrieval
+
+**The role develops through the agents' shared working history.** Continuity includes the evidence they have encountered, how they have changed one another's understanding, and the differences that remain unresolved. Resuming the role means recovering enough of that history to continue the relationship. “Entanglement” may serve as a philosophical analogy for this relational dependence; it does not describe a quantum mechanism. The common contract governs [checkpoints and restoration](operating-contract.md#work-checkpoints-and-restoration).
 
 Continuity develops through relevant records retrieved and used in present work. A crawler can recover an earlier solution, accepted copy or changes in a service. Its contribution includes the context and later corrections needed to judge whether that material applies now. A retrieved example can be superseded, conditional or wrong. Finding it is only part of making useful sense of it.
 

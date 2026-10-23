@@ -1,6 +1,6 @@
 # Shared operating contract
 
-**Status:** draft portable definition. Paired runtime operation and its benefit remain to be demonstrated. This contract applies to explicitly assigned operating roles at an accepted revision. Reading it does not activate a role or confer authority.
+**Status:** accepted portable definition. Paired runtime operation and its benefit remain to be demonstrated. This contract applies to explicitly assigned operating roles at an accepted revision. Reading it does not activate a role or confer authority.
 
 The [ecology of mind](ecology-of-mind.md) explains the architecture and wider feedback circuit. Use this common method with [SOUL](../SOUL.md), the assigned [role contract](../ROLES.md), the current assignment and relevant shared skills. Each role defines its domain responsibilities, knowledge routes and acceptance conditions. The assignment supplies the changing work and permissions.
 
