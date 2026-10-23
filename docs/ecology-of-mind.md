@@ -73,6 +73,8 @@ The human participates in the wider feedback circuit and retains consequential d
 
 ## Memory, workers and useful retrieval
 
+**The role develops through the agents' shared working history.** Continuity includes the evidence they have encountered, how they have changed one another's understanding, and the differences that remain unresolved. Resuming the role means recovering enough of that history to continue the relationship. “Entanglement” may serve as a philosophical analogy for this relational dependence; it does not describe a quantum mechanism. The common contract governs [checkpoints and restoration](operating-contract.md#work-checkpoints-and-restoration).
+
 Continuity develops through relevant records retrieved and used in present work. A crawler can recover an earlier solution, accepted copy or changes in a service. Its contribution includes the context and later corrections needed to judge whether that material applies now. A retrieved example can be superseded, conditional or wrong. Finding it is only part of making useful sense of it.
 
 Either participant can commission a temporary worker within the assignment's authority. A tool or script may suffice; an agent earns its place through the interpretation it contributes. This does not imply continuous crawling or recursive pairs. The [bounded-worker and prior-work retrieval rules](operating-contract.md#bounded-workers-and-prior-work-retrieval) govern those assignments and their handbacks.
