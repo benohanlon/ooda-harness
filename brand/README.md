@@ -4,7 +4,7 @@
 
 **Kit v1.3 · Approved cover v1.2 · 22 October 2026**
 
-[Download complete kit](downloads/sovereign-ooda-brand-kit-v1.3.zip?raw=true) · [Design guidelines](GUIDELINES.md) · [Editable layouts](templates/README.md) · [Artwork prompts](PROMPTS.md)
+[Download published kit v1.3](downloads/sovereign-ooda-brand-kit-v1.3.zip?raw=true) · [Design guidelines](GUIDELINES.md) · [Editable layouts](templates/README.md) · [Artwork prompts](PROMPTS.md)
 
 An intimate human eye caught in a moment of noticing. Dark forest green, an emerald iris, gold reflected light and a warm-bone statement inside the pupil. The human message leads; counter-revolutionary manoeuvre warfare and cognitive superiority within the distributed mind provide the strategic frame.
 
@@ -16,9 +16,21 @@ Use this cover unchanged when you need the established identity. It has no embed
 | --- | --- | --- | --- |
 | Approved cover v1.2 | 1280 × 640, JPEG, 495 KB | Repository README; suitable dimensions for a social preview | [JPEG](../assets/sovereign-ooda-cover.jpg?raw=true) |
 | Approved master v1.2 | 1774 × 887, PNG | Visual benchmark and source archive | [PNG](assets/sovereign-ooda-cover-master.png?raw=true) |
-| Complete kit v1.3 | ZIP | Artwork, sources, fonts, guides and prototypes | [ZIP](downloads/sovereign-ooda-brand-kit-v1.3.zip?raw=true) |
+| Published kit v1.3 | ZIP | Artwork, sources, fonts, guides and prototypes | [ZIP](downloads/sovereign-ooda-brand-kit-v1.3.zip?raw=true) |
 
 The repository README already displays the approved JPEG. GitHub's repository social-preview setting is separate. The JPEG meets its recommended 1280 × 640 dimensions and under-1-MB file size. See [GitHub's guidance](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview).
+
+## Architecture artwork
+
+The ecology stack is a brand overview asset for introductions and presentations. It shows the harness from human purpose to bounded work. The focused atomic-role view belongs with the [Ecology of Mind](../docs/ecology-of-mind.md) explanation.
+
+<img src="assets/sovereign-ooda-ecology-stack.png" width="420" alt="Sovereign OODA Harness stack: sovereign, ecology, atomic role and Twins, maintained context, bounded contributions and enabling infrastructure.">
+
+| Asset | Dimensions | Use | Download |
+| --- | --- | --- | --- |
+| Ecology stack v3 | 1024 × 1536, PNG | Brand overview; architecture in development | [PNG](assets/sovereign-ooda-ecology-stack.png?raw=true) |
+
+Added to the repository kit on 23 October 2026. The published v1.3 ZIP remains the 22 October snapshot and does not include this supplementary asset. The stack does not replace the approved cover or establish deployed paired operation.
 
 ## Colour
 

@@ -4,7 +4,7 @@
 
 **Private alpha.** No public installation release date is confirmed.
 
-Start with [current status and setup](#3-current-state-and-getting-started). See the [architecture overview](docs/ecology-of-mind.md#architecture-overview), then read the [operating model](#4-operating-model) and [component map](#5-system-design-and-components).
+Start with [current status and setup](#3-current-state-and-getting-started). Read the [operating model](#4-operating-model) and [component map](#5-system-design-and-components).
 
 [SOUL](SOUL.md) · [Ecology of mind](docs/ecology-of-mind.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md) · [Lists](LISTS.md) · [Brand guide](brand/README.md)
 
