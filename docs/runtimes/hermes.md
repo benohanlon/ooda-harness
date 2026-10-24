@@ -38,9 +38,9 @@ hermes -p role-a chat
 hermes -p role-b chat
 ```
 
-Supply both with the same [assignment and source routes](../operating-contract.md#bounded-assignment), individual contract, common contract, applicable methods and relevant private context. Identify the actual participants and their initial polarities in the existing private record. Have both retrieve the governing basis and begin useful work.
+Supply both with the same [assignment and source routes](../operating-contract.md#bounded-assignment), individual contract, common contract, applicable methods and relevant private context. Identify the actual participants and their initial polarities in the existing private record. Have both retrieve the governing basis.
 
-Use supported, authorised messaging, or an operator/existing coordinator to transfer labelled contributions between the sessions as described in [role assembly step 5](../../roles/ROLE-TEMPLATE.md#assemble-this-role). Preserve the checkpoint so replacement sessions can recover both perspectives. If the selected surface cannot provide that exchange, record the missing connection and leave paired operation pending. This recipe has not been exercised as a role run.
+Before paired work begins, initialise or reuse their assignment record and verify that both can retrieve it. Use supported, authorised messaging, or an operator/existing coordinator to transfer labelled contributions between the sessions as described in [role assembly step 5](../../roles/ROLE-TEMPLATE.md#assemble-this-role). Preserve the checkpoint so replacement sessions can recover both perspectives. If the selected surface cannot provide that exchange, record the missing connection and leave paired operation pending. This recipe has not been exercised as a role run.
 
 Use the shared [update](../getting-started.md#update-an-existing-installation) and [recovery](../getting-started.md#recover-a-working-installation) paths. Updating Hermes itself and updating the OODA package are separate changes.
 

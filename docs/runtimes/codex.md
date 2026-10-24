@@ -20,9 +20,9 @@ Install the selected folders with their references and other declared dependenci
 
 When a role pair is commissioned, open two new Codex tasks in the selected project or two CLI sessions in that working directory. Set the same relevant model and available capabilities. Record the actual task/session identities in the private assignment record.
 
-Give each the same accepted [assignment and source routes](../operating-contract.md#bounded-assignment), individual contract, common contract, SOUL, applicable methods and relevant private context. Identify each participant and its initial polarity within that brief. Have both retrieve the governing material and begin their contribution to the assignment; do not rely on inherited instructions or a displayed role name.
+Give each the same accepted [assignment and source routes](../operating-contract.md#bounded-assignment), individual contract, common contract, SOUL, applicable methods and relevant private context. Identify each participant and its initial polarity within that brief. Have both retrieve the governing material; do not rely on inherited instructions or a displayed role name.
 
-Connect the contexts using [role assembly step 5](../../roles/ROLE-TEMPLATE.md#assemble-this-role). The operator or an existing authorised coordinator can transfer contributions between the two tasks when direct messaging is unavailable. Preserve each contribution's source, recipient and disposition in the existing checkpoint. If neither route is available, record exchange as unconfigured and leave paired operation pending.
+Before paired work begins, connect the contexts and initialise or reuse their assignment record using [role assembly step 5](../../roles/ROLE-TEMPLATE.md#assemble-this-role). Verify that both can retrieve the record. The operator or an existing authorised coordinator can transfer contributions between the two tasks when direct messaging is unavailable. Preserve each contribution's source, recipient and disposition in the existing checkpoint. If neither route is available, record exchange as unconfigured and leave paired operation pending.
 
 This is a manual setup recipe, not an automated launcher or a demonstrated role run. Continue with the commissioned assignment and [runtime acceptance](../operating-contract.md#runtime-acceptance).
 
