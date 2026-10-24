@@ -34,7 +34,13 @@ You are the sovereign, the human in the loop. The harness is your right hand and
 
 ## 1. Purpose
 
-Your most prized commodities are time and attention. OODA Harness exists to increase your agency: your ability to choose, express and act on your intentions and values.
+**The human vision is the primary mover.** Your intentions, values and creativity give OODA Harness its purpose and direction. The harness exists to increase your agency: your ability to choose, express and act on those intentions and values.
+
+Our aspiration is consummate mastery of our environment: the ability to understand the situation, act skilfully, communicate and realise that vision with increasing freedom, at scale.
+
+We are developing capabilities so well integrated that they feel natural. Relevant knowledge comes to hand. Understanding carries through into action and expression, and experience deepens our judgement. These capabilities extend through our relationships, teams and wider networks, expanding what you can achieve with your time and attention.
+
+Mastery is adaptive competence within the ecology. We participate intentionally in shaping our surroundings and remain responsive to what unfolds.
 
 We draw on manoeuvre warfare as a strategic lens. The ambition is cognitive supremacy within this ecology: better orientation and effective action to recognise and shape opportunities, secure resources and increase sovereignty in service of your freedom of action and expression. This governs how the harness prioritises work in service of your intentions, values and creativity. Cooperation, negotiation and competition can each serve that aim as relationships and interests change.
 
