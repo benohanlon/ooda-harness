@@ -45,7 +45,7 @@ Each contract specifies the results the role is accountable for delivering withi
 
 The contract also names responsibilities, adjacent-role boundaries, relevant methods and knowledge, authority, record owners, reporting and handoffs, completion conditions, continuity and review. Link shared rules and methods rather than copying them into every contract. Each assignment supplies its concrete scope, permitted actions, effort and checkpoint.
 
-Use the [seven-section template](roles/ROLE-TEMPLATE.md). It specialises the common contract for the role and connects its work to maintained evidence and feedback. Current account bindings, numerical targets and working records stay in the deployment's private briefs. The [synthetic CoS/Perception Check](examples/perception-check-role.md) walks through the template and reciprocal work without appointing or deploying the role.
+Follow the [role assembly path](roles/ROLE-TEMPLATE.md#assemble-this-role), then maintain the resulting contract in its seven sections. The path connects purpose, nucleus and shared measures to two actual participants, relevant methods and records, useful first work and continuation. Current account bindings, numerical targets and working records stay in the deployment's private briefs. The [synthetic CoS/Perception Check](examples/perception-check-role.md) walks through the template and reciprocal work without appointing or deploying the role.
 
 Each role reviews its work and retains useful learning. Head of Harness Engineering adds independent scrutiny of the wider system; existing task and change owners retain their decisions.
 

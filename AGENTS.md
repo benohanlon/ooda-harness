@@ -18,7 +18,7 @@ Scale orientation to the consequences and uncertainty. Prefer consolidation and 
 | Assignment | Read and apply |
 | --- | --- |
 | Change architecture | Relevant [README](README.md) sections, [ecology of mind](docs/ecology-of-mind.md), affected definitions and source brief. |
-| Create or revise an enduring role | [ROLES.md](ROLES.md), [ecology of mind](docs/ecology-of-mind.md), [role template](roles/ROLE-TEMPLATE.md), [shared operating contract](docs/operating-contract.md), affected contracts and adjacent-role boundaries. Preserve the paired-agent requirements below. |
+| Create or revise an enduring role | Follow the [role assembly path](roles/ROLE-TEMPLATE.md#assemble-this-role), with [ROLES.md](ROLES.md), [ecology of mind](docs/ecology-of-mind.md), [shared operating contract](docs/operating-contract.md), affected contracts and adjacent-role boundaries. Preserve the paired-agent requirements below. |
 | Perform an explicitly assigned enduring role | Its individual contract, shared contract and current brief, including steering, methods, evidence and private bindings. |
 | Create or revise a workflow | Existing role responsibility, relevant workflow and maintained records. Map dependencies and minimum interfaces; implement the next useful part. Workflow stages do not automatically become separate skills. |
 | Create or revise a skill | [SKILLS.md](SKILLS.md), its `SKILL.md`, references and role usage. Preserve specialist execution rules and declare dependencies. |
@@ -26,7 +26,7 @@ Scale orientation to the consequences and uncertainty. Prefer consolidation and 
 | Review bounded work | Brief, original evidence and actual result; [Sense of Taste](skills/sense-of-taste/SKILL.md) where applicable. Preserve specialist checks. |
 | Change diagrams or artwork | Source relationships and [visual guidance](skills/writing-and-editing/references/visual-communication.md); relevant [brand guidance](brand/README.md) and approved assets. |
 | Retrieve knowledge | [LISTS.md](LISTS.md), the relevant collection and exact original material; [Community Research](skills/community-research/SKILL.md) for harness-engineering community questions. |
-| Deploy or update an installation | Accepted revision and supplied instructions for that runtime. Finish every install, reinstall or refresh with the [private profile connection step](docs/getting-started.md#finish-installation-connect-your-private-profile), reusing a working connection and asking only when it needs resolution. Verify actual loading, references and access. Repository changes do not automatically update Codex or Hermes. |
+| Deploy or update an installation | Follow [Getting started](docs/getting-started.md), choosing its first-install, update or recovery path and the selected runtime notes. Finish configuration with the [private profile connection step](docs/getting-started.md#finish-installation-connect-your-private-profile), reusing a working connection and asking only when it needs resolution. Verify actual loading, references and access. Repository changes do not automatically update Codex or Hermes. |
 
 ## Shared principles and paired roles
 
