@@ -8,7 +8,7 @@
 
 1. **Purpose.** A personal operating system and second brain connecting knowledge, specialist capabilities and follow-through in service of agency, freedom of action and expression. [Purpose](#1-purpose).
 2. **Method.** Continuing observation, orientation, decision and action, shaped by evidence and responses from the world. [Operating model](#4-operating-model).
-3. **People and agents.** You set direction and retain consequential decision authority. Enduring roles combine two complementary agents and one shared contract. [Roles and accountability](ROLES.md).
+3. **People and agents.** You set direction and retain consequential decision authority. Enduring roles combine two complementary agents working under one role contract. [Roles and accountability](ROLES.md).
 4. **Shared machinery and your private harness.** Use the shared methods through your own private configuration, chosen roles and connected experience. Sovereign sleeves help develop and protect your distinctive edge. [Shared and private harnesses](#shared-and-private-harnesses).
 5. **Getting started.** Use the [included setup guide](docs/getting-started.md), select an accepted revision and supply your private context. Begin useful authorised work. [Current status](#3-current-state-and-getting-started).
 
@@ -58,6 +58,10 @@ The **shared OODA Harness** provides reusable principles, common contracts, role
 Your **private sovereign harness** is the personal implementation you maintain around a chosen shared revision: your profile, chosen team, customised responsibilities, private bindings and connections to projects and experience. It can reference shared definitions while retaining your own adaptations. The runtime hosts the actual agents; the repositories and other chosen stores preserve their guidance and continuity.
 
 **Sovereign sleeves** are separately maintained configurations, knowledge or accumulated experience that you connect through your private harness to develop and protect your distinctive edge. A meaningful boundary of purpose, stewardship, access or lifecycle makes separate connection, maintenance or reuse useful. A customised role and its accumulated experience can have different lifecycles. One sleeve can connect several existing records; each file or case need not become a sleeve. Access, use and selective sharing remain subject to their actual owners' control.
+
+Shared roles are reusable scaffolding for your own team. The [role template](roles/ROLE-TEMPLATE.md#assemble-this-role) provides the assembly path and contract form for every enduring role. A shared reference contract, where available, supplies a starting definition of a particular role's responsibilities and operating method. Your selected private contract specialises that basis for you, recording its shared revision and deliberate adaptations. Sovereign sleeves connect the role to your particular aims and cause, judgement, knowledge, relationships, projects and accumulated memory and experience.
+
+Both Twins work from one coherent governing basis: the selected role contract, its referenced common rules and the current brief, with the relevant authorised sleeves. The contract can be a sleeve in its own right; other sleeves can supply knowledge or experience. The current brief holds the changing assignment, priorities and measures. This relationship applies to every enduring role. [ROLES](ROLES.md) records reference-contract availability. CoS currently has a catalogue remit and synthetic example; its dedicated shared reference contract remains under development.
 
 Keep the shared commons, sovereign configuration, independent projects and accumulated experience distinguishable for ownership and portability. A project can serve several roles and retain its own assets, history and client handoff arrangements. These boundaries differ from the overlapping Self, 1:1, Few and Many relationships described below. Neither requires rigid cognitive tiers or one repository per layer.
 
@@ -166,7 +170,7 @@ The team coordinates around a small set of system-wide units of account, drawing
 
 ### Two agents within each role
 
-Each enduring role is an atomic operating unit comprising two agents and one shared contract, including its role description. We call this arrangement a cognitive dipole, also known as the Twins. It has one outward accountability. Both begin with the same relevant specification, guidance, context and available capabilities. They adopt opposite, complementary relational roles, or polarities: doer/giver and observer/active receiver. These positions may reverse without changing the enduring role or contract. Each has a complete OODA. Both can investigate, interpret, challenge and revise the other's understanding while work proceeds.
+Each enduring role is an atomic operating unit comprising two agents working under one role contract, including its role description. We call this arrangement a cognitive dipole, also known as the Twins. It has one outward accountability. Both begin with the same relevant specification, guidance, context and available capabilities. They adopt opposite, complementary relational roles, or polarities: doer/giver and observer/active receiver. These positions may reverse without changing the enduring role or contract. Each has a complete OODA. Both can investigate, interpret, challenge and revise the other's understanding while work proceeds.
 
 ```mermaid
 flowchart TB
@@ -259,7 +263,7 @@ The proposed access model gives the harness a dedicated email account and a defi
 | [Ecology of mind](docs/ecology-of-mind.md) | The atomic role, smaller cognitive contributions, reciprocal attention and wider feedback circuit. |
 | [Common operating contract](docs/operating-contract.md) | Shared paired-role method, decision rights, assignments, recovery and learning. |
 | [ROLES.md](ROLES.md) | A catalogue of agreed role types and available contracts, including Research Lead. |
-| [Role template](roles/ROLE-TEMPLATE.md) | The seven-section structure for defining a role's continuing responsibility. |
+| [Role template](roles/ROLE-TEMPLATE.md) | The assembly path and seven-section form for shared reference contracts and private role specialisations. |
 | [SKILLS.md](SKILLS.md) | A catalogue of reusable skills linking to their instructions. |
 | [LISTS.md](LISTS.md) | Routes into maintained collections, their purpose and when to retrieve them. |
 | Each skill’s [SKILL.md](skills/perception-check/SKILL.md) | The method or knowledge for that skill, with supporting references, scripts or templates where needed. |
