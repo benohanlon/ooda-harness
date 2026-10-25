@@ -31,7 +31,14 @@ hermes profile create role-a
 hermes profile create role-b
 ```
 
-These are example names; choose unused names or inspect suitable existing profiles instead. Configure each through the steps above, using the same relevant model, capabilities and accepted OODA basis. Preserve each profile's independent writable state and finish each configuration with the private-profile connection step. Then launch each in its own terminal, in the relevant project directory:
+These are example names; choose unused names or inspect suitable existing profiles instead. For each new profile, configure provider/model access before applying the OODA files:
+
+```sh
+hermes -p role-a setup
+hermes -p role-b setup
+```
+
+Select and verify the intended model and relevant tools/access for each participant. A suitable existing profile needs inspection rather than unnecessary setup. Then configure each through the steps above, using the same relevant model, capabilities and accepted OODA basis. Preserve independent writable state and finish each configuration with the private-profile connection step. Launch each in its own terminal, in the relevant project directory:
 
 ```sh
 hermes -p role-a chat

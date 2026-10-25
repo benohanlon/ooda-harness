@@ -10,7 +10,9 @@ Each enduring role is an atomic operating unit comprising two agents and one sha
 
 These relational roles are positions the agents adopt in an encounter, not fixed identities. They bring different questions and information needs to the work while retaining the shared foundation and complete OODAs. The agents may reverse polarity; neither swapping nor divergence is the objective. Record the current positions and any change in the assignment or checkpoint, preserving accepted steering. A change of polarity does not itself transfer action authority: keep one named owner for each shared write or external action.
 
-The shared basis contains the sovereign's purpose and delegation, accepted role and brief revisions, current steering, standards, evidence routes and work state. Keep each participant's material observations, provisional interpretations and unresolved alternatives distinguishable from that accepted basis. Equivalent available capabilities do not give both permission to write to the same target.
+A completed bounded batch, artifact handoff or consequential reconsideration can be a useful cue for reversal. Preserve complementary positions, complete OODAs and active participation during work. Reversal does not make either participant an independent reviewer of work it helped shape.
+
+Both participants use the same relevant shared and authorised private basis: the sovereign's purpose and delegation, accepted role and brief revisions, current steering, standards, evidence routes and work state. Keep each participant's material observations, provisional interpretations and unresolved alternatives distinguishable from that accepted basis. Equivalent available capabilities do not give both permission to write to the same target.
 
 OODA is nonlinear. Orientation guides observation and action; new evidence and other people's responses can change the next move at any point. A receiver can expose an omission, and the doer can correct a mistaken criticism. Agreement alone does not confirm either view. The internal active receiver also cannot substitute for feedback from actual people, whose interpretations and responses remain their own.
 

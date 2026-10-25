@@ -1,6 +1,6 @@
 # Getting started
 
-Use this assembly path to install the shared guidance, put it into use, or update an existing installation. A human or an agent can follow it. The result should be a known revision, working instruction and skill routes, a resolved private-profile choice and a recoverable next assignment.
+Use this assembly path to install the shared guidance, put it into use, or update an existing installation. A human or an agent can follow it. The result should be a known revision, working instruction and skill routes, a small private working home where chosen, a resolved private-profile connection and a recoverable next assignment.
 
 **Private alpha:** this is a manual guide, not a one-click installer or evidence of independent installation. Creating an enduring role follows the [role assembly path](../roles/ROLE-TEMPLATE.md#assemble-this-role); installing the package alone does not start its participants.
 
@@ -43,6 +43,19 @@ Keep the accepted source intact. If installed skill copies move away from their 
 
 **Expected result:** the intended runtime can find its shared guidance, selected skill packages and their dependencies. If an override, duplicate skill or moved reference selects different content, reconcile that route before relying on it. A repository update does not update an installation automatically.
 
+## Create or connect your private harness
+
+For personalised use, connect the shared package to a private working home you maintain. The [shared/private explanation](../README.md#shared-and-private-harnesses) defines that arrangement and meaningful sovereign sleeves. Reuse an existing private repository, folder or chosen store and its maintained owners. A profile bundle can be the starting home; it need not contain every connected project or record.
+
+1. **Recover the existing arrangement.** Inspect its entrypoint, chosen roles, private bindings and relevant records. Retain working locations and access boundaries. Resolve an unknown profile location through the final connection step below rather than asking twice. An explicit choice to continue with limited personal context remains valid.
+2. **Make a small map.** Use the private README or existing entrypoint to explain whom the harness serves, the selected shared revision, chosen team and routes needed for its first useful work. Keep `sovereign.md` as the canonical personal portrait when that convention is used. Reuse the installation record for loading routes, managed adaptations and recovery.
+3. **Connect the first commissioned role.** Keep its customised contract at a named private owner, referencing the shared template, common contract and methods. Connect current briefs, relevant projects, prior cases and their later corrections. Independent projects keep their own assets, permissions and lifecycle. Give both participants the relevant shared and authorised private basis through [role assembly](../roles/ROLE-TEMPLATE.md#assemble-this-role); this step alone does not start them.
+4. **Retain experience where it is useful.** Use existing task, case and project records. When a case merits future reuse, add a concise route from the role's knowledge map or existing index. Retain its task/method and source revision, consequential choices and corrections, observed or pending outcome, failures/limitations, permission and future retrieval cue. A curated index can point to originals without copying them. Do not promote every assignment or load the whole archive.
+
+For example, an existing `README.md` can route to `sovereign.md`, a first private role contract and its current work. Add a separate experience index only when useful cases warrant it. Keep runtime identifiers and access bindings in private configuration, and credentials outside tracked content. No fixed directory tree, separate repository per sleeve or new memory service is required.
+
+**Expected result:** a participant can find the personal context, accepted shared basis, role contract and relevant project/experience owners for the assignment. Verify those routes and applicable access. Missing optional detail can develop during useful work. Finish configuration with the profile-connection procedure below, preserving its resolved choice.
+
 ## Supply private personal context
 
 Reuse a supplied private profile. If the user chooses to create one, adapt the [Sovereign Profile template](sovereign-profile-template.md) in a chosen private home outside the reusable package. Put established personal answers and communication preferences directly in that profile or its internally linked detail. Give the working context access to the relevant files. A choice to continue without a profile is resolved in the connection step below. Ordinary profile use should not require access to the creator's Notion workspace.
@@ -78,7 +91,7 @@ Use this path for shared-package changes, reinstalls and refreshes. A private-pr
 
 1. **Recover the current installation record.** Identify its accepted revision, managed files, active contexts and profile connection. Compare current files with that record to find later local edits. Preserve uncertain or newer work before replacing anything.
 2. **Stage the selected revision separately.** Read the relevant changes, keep complete packages together and check affected references and runtime compatibility. Reconcile local customisation with the new source. Return a material unresolved choice to its owner while continuing independent preparation.
-3. **Activate the reconciled change.** Back up the affected managed files and configuration, then replace only the agreed scope. Record the new source revision, installed adaptations and previous working state. Preserve unrelated skills, permissions, project records and private experience.
+3. **Activate the reconciled change.** Back up the affected managed files and configuration, then replace only the agreed scope. Record the new source revision, installed adaptations and previous working state. Preserve the [private-home map and sleeve connections](#create-or-connect-your-private-harness), unrelated skills, permissions, project records and private experience.
 4. **Finish configuration with the [private-profile connection step](#finish-installation-connect-your-private-profile).** Retain a working connection or an explicit choice to continue without one. Reconcile local profile corrections with its private canonical source before refreshing that bundle.
 5. **Verify the affected surface.** Refresh the relevant context and check its active routes, references and required access. Use the next authorised work to assess changed behaviour; repeat a broader runtime check only where the change warrants it. Record exact completed and pending items, including the state of existing role participants.
 
