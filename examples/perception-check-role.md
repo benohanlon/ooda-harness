@@ -1,6 +1,6 @@
 # Synthetic role walkthrough: Chief of Staff / Perception Check
 
-**Synthetic document walkthrough.** Every source card, participant, event and result below is invented to exercise the proposed structure. This is a bounded example of the seven-section template, not a complete Chief of Staff contract, an appointment, an actual run, a saved checkpoint or an observed outcome. The first real role contract and runtime check remain to be completed.
+**Synthetic document walkthrough.** Every source card, participant, event and result below is invented to exercise the proposed structure. This is a bounded example of the seven-section template, not a complete Chief of Staff contract, an appointment, an actual run, a saved checkpoint or an observed outcome. The [accepted reusable CoS reference](../roles/chief-of-staff.md) supplies the role contract for private specialisation. This walkthrough establishes no runtime evidence; assess actual commissioned operation separately.
 
 Read the [ecology of mind](../docs/ecology-of-mind.md), [common operating contract](../docs/operating-contract.md), [role template](../roles/ROLE-TEMPLATE.md) and [Perception Check method](../skills/perception-check/SKILL.md) as the maintained definitions. The example supplies only the domain and assignment particulars.
 
