@@ -9,7 +9,7 @@
 1. **Purpose.** A personal operating system and second brain connecting knowledge, specialist capabilities and follow-through in service of agency, freedom of action and expression. [Purpose](#1-purpose).
 2. **Method.** Continuing observation, orientation, decision and action, shaped by evidence and responses from the world. [Operating model](#4-operating-model).
 3. **People and agents.** You set direction and retain consequential decision authority. Enduring roles combine two complementary agents and one shared contract. [Roles and accountability](ROLES.md).
-4. **Portable guidance and private context.** The package carries shared methods; your private profile carries established answers and preferences. Live services and records are supplied for the work that needs them. [Component map](#5-system-design-and-components).
+4. **Shared machinery and your private harness.** Use the shared methods through your own private configuration, chosen roles and connected experience. Sovereign sleeves help develop and protect your distinctive edge. [Shared and private harnesses](#shared-and-private-harnesses).
 5. **Getting started.** Use the [included setup guide](docs/getting-started.md), select an accepted revision and supply your private context. Begin useful authorised work. [Current status](#3-current-state-and-getting-started).
 
 [SOUL](SOUL.md) · [Ecology of mind](docs/ecology-of-mind.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md) · [Lists](LISTS.md) · [Brand guide](brand/README.md)
@@ -34,7 +34,13 @@ You are the sovereign, the human in the loop. The harness is your right hand and
 
 ## 1. Purpose
 
-Your most prized commodities are time and attention. OODA Harness exists to increase your agency: your ability to choose, express and act on your intentions and values.
+**The human vision is the primary mover.** Your intentions, values and creativity give OODA Harness its purpose and direction. The harness exists to increase your agency: your ability to choose, express and act on those intentions and values.
+
+Our aspiration is consummate mastery of our environment: the ability to understand the situation, act skilfully, communicate and realise that vision with increasing freedom, at scale.
+
+We are developing capabilities so well integrated that they feel natural. Relevant knowledge comes to hand. Understanding carries through into action and expression, and experience deepens our judgement. These capabilities extend through our relationships, teams and wider networks, expanding what you can achieve with your time and attention.
+
+Mastery is adaptive competence within the ecology. We participate intentionally in shaping our surroundings and remain responsive to what unfolds.
 
 We draw on manoeuvre warfare as a strategic lens. The ambition is cognitive supremacy within this ecology: better orientation and effective action to recognise and shape opportunities, secure resources and increase sovereignty in service of your freedom of action and expression. This governs how the harness prioritises work in service of your intentions, values and creativity. Cooperation, negotiation and competition can each serve that aim as relationships and interests change.
 
@@ -44,6 +50,20 @@ We draw on manoeuvre warfare as a strategic lens. The ambition is cognitive supr
 4. **Give you freedom to express yourself.** Provide multimodal interfaces for speech, writing and images through which you can express your intentions, values and creativity in the way that suits you in the moment. Capture your meaning and context without interrupting your flow or making you fit a prescribed process.
 5. **Give you sovereignty over your intelligence stack.** Preserve your freedom to switch models and control where your data sits and which services you trust. Keep those choices adaptable as circumstances change, without losing your working history or continuity.
 6. **Build a coherent, accountable team of specialists.** Each role has a defined job and is accountable for results measured using the harness’s shared units of account.
+
+### Shared and private harnesses
+
+The **shared OODA Harness** provides reusable principles, common contracts, role templates, reference roles, skills and assembly guidance. It is the intended commons, currently a private alpha. Public release and licence selection remain separate decisions.
+
+Your **private sovereign harness** is the personal implementation you maintain around a chosen shared revision: your profile, chosen team, customised responsibilities, private bindings and connections to projects and experience. It can reference shared definitions while retaining your own adaptations. The runtime hosts the actual agents; the repositories and other chosen stores preserve their guidance and continuity.
+
+**Sovereign sleeves** are separately maintained configurations, knowledge or accumulated experience that you connect through your private harness to develop and protect your distinctive edge. A meaningful boundary of purpose, stewardship, access or lifecycle makes separate connection, maintenance or reuse useful. A customised role and its accumulated experience can have different lifecycles. One sleeve can connect several existing records; each file or case need not become a sleeve. Access, use and selective sharing remain subject to their actual owners' control.
+
+Keep the shared commons, sovereign configuration, independent projects and accumulated experience distinguishable for ownership and portability. A project can serve several roles and retain its own assets, history and client handoff arrangements. These boundaries differ from the overlapping Self, 1:1, Few and Many relationships described below. Neither requires rigid cognitive tiers or one repository per layer.
+
+The reinforcing relationship is deliberate: adopt selected shared capabilities, use them in private work, retain useful results and corrections, then choose suitable general improvements to propose back. A contribution can be a method, configuration, defect report or permitted example. Check its evidence, dependencies and permission to share before the [existing review process](docs/pull-request-review.md). Accepted improvements become available for other sovereigns to adopt through the [update path](docs/getting-started.md#update-an-existing-installation), preserving their own customisations and experience. This is the intended meaning of **“Share the machinery, own the experience.”** Collective benefit remains to be demonstrated through use.
+
+Use [private-harness assembly](docs/getting-started.md#create-or-connect-your-private-harness) to create or connect a small private home. Experience earns its value when relevant records and later corrections reach both participants and improve their work. Contribution and adoption do not imply automatic private-data export or repository synchronisation.
 
 ## 2. Work and intended outcomes
 
@@ -72,7 +92,7 @@ Here, “operating system” means the connected arrangement of working practice
 
 GitHub versions accepted definitions and methods. The intended Hermes deployment supplies the runtime, models and tools. The reusable package and configured private profile should carry the guidance needed for ordinary work without requiring access to the creator's private workspace. Live CRM, correspondence and project records remain in stores chosen by the sovereign and become dependencies of the assignments that need them. Some of Ben's existing workflows still use Notion; that is an installation binding, not a requirement for another sovereign's harness.
 
-The first recorded private alpha snapshot is [v0.1.0-alpha.1](https://github.com/benohanlon/ooda-harness/releases/tag/v0.1.0-alpha.1). Draft-branch changes remain proposals until accepted. The [included setup guide](docs/getting-started.md) describes the minimum file and assignment boundaries. Independent installation has not been demonstrated.
+The first recorded private alpha snapshot is [v0.1.0-alpha.1](https://github.com/benohanlon/ooda-harness/releases/tag/v0.1.0-alpha.1). Draft-branch changes remain proposals until accepted. The [included setup guide](docs/getting-started.md) connects manual installation, first use, updates and recovery. Independent installation has not been demonstrated.
 
 ### Current status
 
@@ -86,7 +106,7 @@ No public installation release date is confirmed. Releasing selected elements or
 
 The intended onboarding experience is one-click installation, with a short first-run step to connect the sovereign's context. This package is not yet a one-click installer.
 
-Use [Getting started](docs/getting-started.md) to select the accepted package, adapt a private profile, supply relevant methods and commission useful work. Put confirmed routine answers in the private bundle rather than requiring another service to supply them. Configure loading through the runtime's supported mechanisms and add live connections when the assignment needs them. Private credentials and the creator's setup history are not prerequisites for understanding the guidance.
+Use [Getting started](docs/getting-started.md) for the first-install, update or recovery path, with [Codex](docs/runtimes/codex.md) or [Hermes](docs/runtimes/hermes.md) setup notes. Create or connect your [private harness](docs/getting-started.md#create-or-connect-your-private-harness), then use the [role assembly path](roles/ROLE-TEMPLATE.md#assemble-this-role) when commissioning an enduring role. Put confirmed routine answers in the private bundle rather than requiring another service to supply them. Add live connections when the assignment needs them. The creator's setup history is not a prerequisite for following the guide.
 
 Finish each install, reinstall or refresh with the [private profile connection step](docs/getting-started.md#finish-installation-connect-your-private-profile). Reuse a working connection. If its location is unknown or access needs repair, ask the user and save their choice in that installation's private configuration.
 
@@ -323,7 +343,7 @@ Ask for a Schedule Check to establish what is due, what actually ran and what ne
 
 Develop the harness through bounded changes grounded in real work. Start from a useful outcome or observed problem. Preserve working behaviour. Compare the change with the current approach. Check results and total human effort before deciding what to keep, revise or revert.
 
-Use the [role template](roles/ROLE-TEMPLATE.md) and [common operating contract](docs/operating-contract.md) to define a role. The wider construction guide, “How to build a harness”, remains a private working document. Under the operating model in Section 4, Head of Harness Engineering maintains the shared construction method and reviews whole-system alignment. Each role contract names its drafting and maintenance owner. Chief of Staff identifies capability gaps and reviews how roles fit together. The private “Build and prove the Harness Improvement loop” brief retains its wider development remit. Most individual contracts and portable deployment remain under development.
+Use the [role template's assembly path](roles/ROLE-TEMPLATE.md#assemble-this-role) and [common operating contract](docs/operating-contract.md) to define and initialise a role within its commission. The wider construction guide, “How to build a harness”, remains a private working document. Under the operating model in Section 4, Head of Harness Engineering maintains the shared construction method and reviews whole-system alignment. Each role contract names its drafting and maintenance owner. Chief of Staff identifies capability gaps and reviews how roles fit together. The private “Build and prove the Harness Improvement loop” brief retains its wider development remit. Most individual contracts and portable deployment remain under development.
 
 The next runtime milestone is to realise one pair in Hermes, starting with Chief of Staff and Perception Check, then a Talent handoff. Verify both agents' guidance and source use, reciprocal correction, accepted steering, action ownership and recovery. Compare useful results and total effort with a well-briefed single agent using the same evidence and standards. Retain adverse findings and test whether a saved correction improves a later assignment. See [runtime acceptance](docs/operating-contract.md#runtime-acceptance). Publishing these definitions does not complete that milestone.
 
@@ -348,6 +368,8 @@ Keep filenames stable. Git commits identify exact revisions. Release tags identi
 Before publication, compare the candidate files with the approved draft. Afterwards, verify the published files. Retain the commit reference. Record the draft, published and deployed revisions separately. Verify runtime loading and useful execution separately before claiming either has succeeded.
 
 ### Sharing
+
+The [shared/private contribution loop](#shared-and-private-harnesses) connects improvements from private work to this shared package. Review the selected contribution and its dependencies rather than exporting a private repository wholesale. Preserve the original project and experience owners.
 
 Keep private personalisation, contacts, client records, credentials and runtime state outside reusable packages. Review selected files, history and dependencies before public release. Public packages must include accessible guidance and reusable dependencies without requiring access to the creator’s private workspace.
 
