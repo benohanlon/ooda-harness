@@ -1,18 +1,18 @@
 # Roles
 
-Roles carry continuing responsibility for outcomes. This directory summarises the ten agreed role types in OODA Harness. The [common operating contract](docs/operating-contract.md), [role template](roles/ROLE-TEMPLATE.md) and [Research Lead contract](roles/research-lead.md) are prepared for review and manual testing. Other individual contracts and all paired-role runtime loading and execution remain unverified or unfinished.
+Roles carry continuing responsibility for outcomes. This directory summarises the ten agreed role types in OODA Harness. The [common operating contract](docs/operating-contract.md), [role template](roles/ROLE-TEMPLATE.md), [Chief of Staff reference](roles/chief-of-staff.md) and [Research Lead contract](roles/research-lead.md) are prepared for review and manual testing. CoS is a draft reusable reference for private specialisation. Other individual contracts and all paired-role runtime loading and execution remain unverified or unfinished.
 
 The [README](README.md) introduces the wider operating model. The [ecology of mind](docs/ecology-of-mind.md) explains the atomic role, its constituent contributions and the wider feedback circuit. [SKILLS.md](SKILLS.md) maps shared methods and their implementation status.
 
 ## First implementation
 
-Start with a bounded Chief of Staff assignment using Perception Check, then a career assignment through Chief of Staff and Head of Talent. Head of Harness Engineering owns the build and its reliability. Add further roles when continuing work needs a distinct owner. The ten role types below do not imply ten deployed roles or twenty always-on agents.
+Assemble [Chief of Staff](roles/chief-of-staff.md) through the [role template](roles/ROLE-TEMPLATE.md#assemble-this-role). Start with a bounded assignment using [Perception Check](skills/perception-check/SKILL.md), then a career assignment through Chief of Staff and Head of Talent. Head of Harness Engineering owns the build and its reliability. Add further roles when continuing work needs a distinct owner. The ten role types below do not imply ten deployed roles or twenty always-on agents.
 
 ## Agreed responsibilities
 
 | Role | Responsibility |
 | --- | --- |
-| **Chief of Staff** | Maintain the whole picture: orientation, priorities, coordination, challenge and review. Coordinate the enduring team and temporary contributors within authority. Integrate specialist findings and bring you progress, recommendations and decisions that need your judgement. |
+| **[Chief of Staff](roles/chief-of-staff.md)** | Maintain the whole picture: orientation, priorities, coordination, challenge and review. Coordinate the enduring team and temporary contributors within authority. Integrate specialist findings and bring you progress, recommendations and decisions that need your judgement. |
 | **Head of Talent** | Own the career remit, including opportunities, recruiters, assessment, applications, interviews and progression. This combines the earlier Career Lead, Executive Recruiter and Executive Career Agent responsibilities. |
 | **Head of Business Development** | Win worthwhile fractional and client work, from understanding buyer problems and selecting an offer through qualification, proposals, terms and commercial follow-through. |
 | **Creative Director** | Own creative direction and quality across writing, graphics, memes, animation and video. Preserve argument, research fidelity, voice and meaning, while keeping each publication or project's brief, brand, evidence and assets distinct. |
