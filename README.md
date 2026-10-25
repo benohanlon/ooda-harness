@@ -7,7 +7,7 @@
 ## Start here: the harness at a glance
 
 1. **Purpose.** A personal operating system and second brain connecting knowledge, specialist capabilities and follow-through in service of agency, freedom of action and expression. [Purpose](#1-purpose).
-2. **Method.** Continuing observation, orientation, decision and action, shaped by evidence and responses from the world. [Operating model](#4-operating-model).
+2. **Method.** Recursive OODA: continuing observation, orientation, decision and action across connected participants and scales, shaped by evidence and responses from the world. [Recursive OODA](#recursive-ooda).
 3. **People and agents.** You set direction and retain consequential decision authority. Enduring roles combine two complementary agents working under one role contract. [Roles and accountability](ROLES.md).
 4. **Shared machinery and your private harness.** Use the shared methods through your own private configuration, chosen roles and connected experience. Sovereign sleeves help develop and protect your distinctive edge. [Shared and private harnesses](#shared-and-private-harnesses).
 5. **Getting started.** Use the [included setup guide](docs/getting-started.md), select an accepted revision and supply your private context. Begin useful authorised work. [Current status](#3-current-state-and-getting-started).
@@ -127,6 +127,14 @@ The method is prepared; live loading, source access and useful execution remain 
 ## 4. Operating model
 
 We are building a small agentic team around the work you need done. Each role has a clear purpose and a contract defining its responsibility and authority. We add roles when the work needs a distinct owner. OODA governs how the team works, connecting what agents encounter and do in the field with your evolving understanding and intended outcomes.
+
+### Recursive OODA
+
+OODA Harness deliberately uses a **recursive OODA pattern**. The sovereign and each agent retain their own complete OODA. Reciprocal engagement connects these OODAs within a role and across the team, the sovereign's activity and the wider environment. An observation, interpretation, decision or consequence at one scale can reorient work at another. The [ecology of mind](docs/ecology-of-mind.md#loops-within-loops-across-overlapping-relationships) explains these overlapping feedback relationships.
+
+Complementary vantage points help make this pattern useful. At role scale, two actual agents form a **cognitive dipole** around the nucleus of shared purpose, contract, accountability and system-wide units of account. Their complementary polarities can reverse while each retains a complete OODA. Smaller processes, temporary crawlers and wider relationships contribute without requiring a two-agent structure at every scale. See the [atomic operating unit](docs/ecology-of-mind.md#the-atomic-operating-unit).
+
+At harness scale, reusable shared methods and private knowledge, judgement and experience provide complementary resources around the sovereign's aims. Both Twins use the relevant shared and authorised private basis. The shared/private distinction does not assign one agent to each repository.
 
 ### Team and accountability
 
