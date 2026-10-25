@@ -1,12 +1,12 @@
 # Chief of Staff
 
-**Draft reusable reference contract.** Specialise this through the [role assembly path](ROLE-TEMPLATE.md#assemble-this-role) and the sovereign's [private harness](../README.md#shared-and-private-harnesses). Record the selected shared revision and deliberate private adaptations. This definition does not appoint a role or establish runtime operation.
+**Accepted reusable reference contract.** Specialise this through the [role assembly path](ROLE-TEMPLATE.md#assemble-this-role) and the sovereign's [private harness](../README.md#shared-and-private-harnesses). Record the selected shared revision and deliberate private adaptations. This definition does not appoint a role or establish runtime operation.
 
 | Contract header | Reference basis |
 | --- | --- |
 | Role name | Chief of Staff |
 | Drafting/maintenance owner | The authorised harness-build or definition-maintenance assignment. The sovereign accepts the selected source. |
-| Review status and revision | Draft. The commissioning assignment records the selected revision and acceptance. |
+| Review status and revision | Accepted for shared reference use on 25 October 2026. The commissioning assignment records its selected revision; runtime evidence remains separate. |
 | Reporting recipient | The sovereign, unless the current commission names another authorised recipient. |
 | Maintained definition | This shared reference. The private role instance has one authoritative selected contract. |
 | Intended loading route | Supply both actual participants the selected contract, referenced shared guidance, current brief and relevant authorised sleeves. Verify required access through role assembly. |
