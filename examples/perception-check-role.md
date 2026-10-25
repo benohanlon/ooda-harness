@@ -54,7 +54,7 @@ Both participants use the Perception Check method to establish horizon, actual c
 | Need to interpret the career case | Read F2 and current steering from F1, without turning a preference into a new filter | Talent case and sovereign decision owners |
 | Need to interpret apparent missed work | Compare F3 configuration, visible receipts and known coverage limits | Scheduler/run owners; inaccessible execution remains unknown |
 
-The crawler is a bounded retrieval contribution. It can be a tool rather than an agent. Its brief asks for the earlier report, original scope and linked later corrections, with source labels, coverage and omissions. It receives no write or send authority. The assigning participant checks the result and its filters. A returned link alone is insufficient.
+The crawler is a bounded retrieval contribution. It can be a tool rather than an agent. Its brief asks for the earlier report, original scope and linked later corrections, with source labels, coverage and omissions. It receives no write or send authority. B owns receipt and review of this return, including its filters; A owns integration into the report. If the retrieval does not return within the agreed effort, B reports the gap and the pair decides whether the evidence supports a narrower report or requires a decision from the sovereign. A returned link alone is insufficient.
 
 ## 5. Authority, delegation and handoffs
 
@@ -89,7 +89,7 @@ The task owner retains material findings and their dispositions. F5 stays with t
 3. **B makes a mistaken criticism.** It proposes excluding the hybrid case to maximise freedom of action. A recovers the actual wording in F2 and explains that preference affects priority without removing eligibility. B withdraws that criticism. The case remains in the report with its decision still pending.
 4. **They apply the contributions.** B drafts the corrected schedule passage and A checks it against the originals. A writes the coherent report. This local reversal of emphasis does not silently move write authority. The saved record would identify what each contribution changed and whether delivery was received.
 
-Both participants investigate and revise their orientation before the result is settled. The receiver contributes a useful next search; the doer corrects the receiver's interpretation. Neither must yield because of its hat. Their agreement still cannot establish F3's actual execution or supply F6's outside response.
+Both participants investigate and revise their orientation before the result is settled. While B awaits the retrieval, A can continue assessing the career decision against F1–F2. An early finding can redirect the remaining inquiry within the agreed scope and effort. The receiver contributes a useful next search; the doer corrects the receiver's interpretation. Neither must yield because of its hat. Their agreement still cannot establish F3's actual execution or supply F6's outside response.
 
 ### Resulting report excerpt
 

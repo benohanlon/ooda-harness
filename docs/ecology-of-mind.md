@@ -81,6 +81,8 @@ Either participant can commission a temporary worker within the assignment's aut
 
 The pair can question a worker's search, filters and interpretation, including a shared filter that excluded consequential evidence. Shared retrieval can save effort while independent examination can expose a shared mistake. A returned batch is not automatically relevant, correct or applied. Retrieval, appropriate application and useful effect remain separate observations.
 
+Coordinating enduring roles and temporary contributors can extend observation and distributed orientation across this ecology. Both Twins remain active as findings arrive: a changed interpretation can redirect the next question before every worker returns. [Operational fleet management](../ROLES.md#coordination-and-shared-skills) connects those contributions to their decisions and existing owners. It is one CoS responsibility across the team, with specialist coordination inside each remit and technical support from Engineering.
+
 ## Reciprocal work, convergence and learning
 
 Both participants work from the accepted basis and relevant original evidence. They engage while the work can still change. The receiver's discovery can change what the doer investigates, and the doer's evidence can overturn a mistaken criticism. Useful provisional exploration need not receive immediate criticism of every tentative thought.

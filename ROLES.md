@@ -1,18 +1,18 @@
 # Roles
 
-Roles carry continuing responsibility for outcomes. This directory summarises the ten agreed role types in OODA Harness. The [common operating contract](docs/operating-contract.md), [role template](roles/ROLE-TEMPLATE.md) and [Research Lead contract](roles/research-lead.md) are prepared for review and manual testing. Other individual contracts and all paired-role runtime loading and execution remain unverified or unfinished.
+Roles carry continuing responsibility for outcomes. This directory summarises the ten agreed role types in OODA Harness. The [common operating contract](docs/operating-contract.md), [role template](roles/ROLE-TEMPLATE.md), [Chief of Staff reference](roles/chief-of-staff.md) and [Research Lead contract](roles/research-lead.md) are prepared for use and manual testing. CoS is an accepted reusable reference for private specialisation. Other individual contracts and all paired-role runtime loading and execution remain unverified or unfinished.
 
 The [README](README.md) introduces the wider operating model. The [ecology of mind](docs/ecology-of-mind.md) explains the atomic role, its constituent contributions and the wider feedback circuit. [SKILLS.md](SKILLS.md) maps shared methods and their implementation status.
 
 ## First implementation
 
-Start with a bounded Chief of Staff assignment using Perception Check, then a career assignment through Chief of Staff and Head of Talent. Head of Harness Engineering owns the build and its reliability. Add further roles when continuing work needs a distinct owner. The ten role types below do not imply ten deployed roles or twenty always-on agents.
+Assemble [Chief of Staff](roles/chief-of-staff.md) through the [role template](roles/ROLE-TEMPLATE.md#assemble-this-role). Start with a bounded assignment using [Perception Check](skills/perception-check/SKILL.md), then a career assignment through Chief of Staff and Head of Talent. Head of Harness Engineering owns the build and its reliability. Add further roles when continuing work needs a distinct owner. The ten role types below do not imply ten deployed roles or twenty always-on agents.
 
 ## Agreed responsibilities
 
 | Role | Responsibility |
 | --- | --- |
-| **Chief of Staff** | Maintain the whole picture: orientation, priorities, coordination, challenge and review. Integrate specialist findings and bring you progress, recommendations and decisions that need your judgement. |
+| **[Chief of Staff](roles/chief-of-staff.md)** | Maintain the whole picture: orientation, priorities, coordination, challenge and review. Coordinate the enduring team and temporary contributors within authority. Integrate specialist findings and bring you progress, recommendations and decisions that need your judgement. |
 | **Head of Talent** | Own the career remit, including opportunities, recruiters, assessment, applications, interviews and progression. This combines the earlier Career Lead, Executive Recruiter and Executive Career Agent responsibilities. |
 | **Head of Business Development** | Win worthwhile fractional and client work, from understanding buyer problems and selecting an offer through qualification, proposals, terms and commercial follow-through. |
 | **Creative Director** | Own creative direction and quality across writing, graphics, memes, animation and video. Preserve argument, research fidelity, voice and meaning, while keeping each publication or project's brief, brand, evidence and assets distinct. |
@@ -30,6 +30,8 @@ Head of Business Development wins client mandates; Project Leads deliver the agr
 Each enduring role is an atomic operating unit, a cognitive dipole (the Twins): two agents around one shared contract, including its role description, and one outward accountability. Both start from the same relevant specification, guidance, context and available capabilities, then adopt opposite, complementary relational roles, or polarities: doer/giver and observer/active receiver. These positions may reverse within the same enduring role and contract. Each has a complete OODA and can change the other's understanding during work. The [common operating contract](docs/operating-contract.md) owns their decision rights, one action owner per work unit, checkpoints and recovery. Research Lead has its own pair and is not the other roles' observer.
 
 Chief of Staff is your default point of contact. Specialist leads normally report material outcomes, blockers, unfinished work and decisions to CoS; bounded workers report to their assigning lead. The assigning lead reviews delegated workers’ handovers against the assignment, evidence and applicable standard before accepting or integrating their work. You can commission a specialist directly. CoS coordinates the wider picture without becoming a routine approval gate.
+
+**Operational fleet management** is coordination of the enduring team and temporary contributors: selecting useful questions, commissioning within authority, tracking material returns, redirecting inquiry and connecting findings to decisions and follow-through. CoS carries this responsibility across the team; specialists coordinate within their remits. It can extend observation and distributed orientation while supporting each role's complete OODA. Harness Engineering supplies the technical machinery for context creation, transport, permissions, host operation and recovery. This does not require a separate fleet-manager role, permanent crawlers or a particular fleet size.
 
 A role defines responsibility; an agent performs assigned work; a skill supplies a reusable method. Research, network intelligence, ATS collection, review and media production can serve several roles. Other leads can use production skills directly within their assignments; Creative Director is not a compulsory approval gate for every asset. Perception Check is a CoS-coordinated workflow, not another role.
 

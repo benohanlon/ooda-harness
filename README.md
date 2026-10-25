@@ -7,8 +7,8 @@
 ## Start here: the harness at a glance
 
 1. **Purpose.** A personal operating system and second brain connecting knowledge, specialist capabilities and follow-through in service of agency, freedom of action and expression. [Purpose](#1-purpose).
-2. **Method.** Continuing observation, orientation, decision and action, shaped by evidence and responses from the world. [Operating model](#4-operating-model).
-3. **People and agents.** You set direction and retain consequential decision authority. Enduring roles combine two complementary agents and one shared contract. [Roles and accountability](ROLES.md).
+2. **Method.** Recursive OODA: continuing observation, orientation, decision and action across connected participants and scales, shaped by evidence and responses from the world. [Recursive OODA](#recursive-ooda).
+3. **People and agents.** You set direction and retain consequential decision authority. Enduring roles combine two complementary agents working under one role contract. [Roles and accountability](ROLES.md).
 4. **Shared machinery and your private harness.** Use the shared methods through your own private configuration, chosen roles and connected experience. Sovereign sleeves help develop and protect your distinctive edge. [Shared and private harnesses](#shared-and-private-harnesses).
 5. **Getting started.** Use the [included setup guide](docs/getting-started.md), select an accepted revision and supply your private context. Begin useful authorised work. [Current status](#3-current-state-and-getting-started).
 
@@ -58,6 +58,10 @@ The **shared OODA Harness** provides reusable principles, common contracts, role
 Your **private sovereign harness** is the personal implementation you maintain around a chosen shared revision: your profile, chosen team, customised responsibilities, private bindings and connections to projects and experience. It can reference shared definitions while retaining your own adaptations. The runtime hosts the actual agents; the repositories and other chosen stores preserve their guidance and continuity.
 
 **Sovereign sleeves** are separately maintained configurations, knowledge or accumulated experience that you connect through your private harness to develop and protect your distinctive edge. A meaningful boundary of purpose, stewardship, access or lifecycle makes separate connection, maintenance or reuse useful. A customised role and its accumulated experience can have different lifecycles. One sleeve can connect several existing records; each file or case need not become a sleeve. Access, use and selective sharing remain subject to their actual owners' control.
+
+Shared roles are reusable scaffolding for your own team. The [role template](roles/ROLE-TEMPLATE.md#assemble-this-role) provides the assembly path and contract form for every enduring role. A shared reference contract, where available, supplies a starting definition of a particular role's responsibilities and operating method. Your selected private contract specialises that basis for you, recording its shared revision and deliberate adaptations. Sovereign sleeves connect the role to your particular aims and cause, judgement, knowledge, relationships, projects and accumulated memory and experience.
+
+Both Twins work from one coherent governing basis: the selected role contract, its referenced common rules and the current brief, with the relevant authorised sleeves. The contract can be a sleeve in its own right; other sleeves can supply knowledge or experience. The current brief holds the changing assignment, priorities and measures. This relationship applies to every enduring role. [ROLES](ROLES.md) records reference-contract availability. The [Chief of Staff reference](roles/chief-of-staff.md) is a reusable starting definition for private specialisation; its [synthetic example](examples/perception-check-role.md) illustrates the method without establishing operation.
 
 Keep the shared commons, sovereign configuration, independent projects and accumulated experience distinguishable for ownership and portability. A project can serve several roles and retain its own assets, history and client handoff arrangements. These boundaries differ from the overlapping Self, 1:1, Few and Many relationships described below. Neither requires rigid cognitive tiers or one repository per layer.
 
@@ -124,9 +128,17 @@ The method is prepared; live loading, source access and useful execution remain 
 
 We are building a small agentic team around the work you need done. Each role has a clear purpose and a contract defining its responsibility and authority. We add roles when the work needs a distinct owner. OODA governs how the team works, connecting what agents encounter and do in the field with your evolving understanding and intended outcomes.
 
+### Recursive OODA
+
+OODA Harness deliberately uses a **recursive OODA pattern**. The sovereign and each agent retain their own complete OODA. Reciprocal engagement connects these OODAs within a role and across the team, the sovereign's activity and the wider environment. An observation, interpretation, decision or consequence at one scale can reorient work at another. The [ecology of mind](docs/ecology-of-mind.md#loops-within-loops-across-overlapping-relationships) explains these overlapping feedback relationships.
+
+Complementary vantage points help make this pattern useful. At role scale, two actual agents form a **cognitive dipole** around the nucleus of shared purpose, contract, accountability and system-wide units of account. Their complementary polarities can reverse while each retains a complete OODA. Smaller processes, temporary crawlers and wider relationships contribute without requiring a two-agent structure at every scale. See the [atomic operating unit](docs/ecology-of-mind.md#the-atomic-operating-unit).
+
+At harness scale, reusable shared methods and private knowledge, judgement and experience provide complementary resources around the sovereign's aims. Both Twins use the relevant shared and authorised private basis. The shared/private distinction does not assign one agent to each repository.
+
 ### Team and accountability
 
-You set the aims and values and retain authority over consequential commitments. Chief of Staff is your principal adviser and default point of contact. It maintains the wider orientation and coordinates specialist contributions. Specialist leads own their work and may delegate bounded assignments to agents, who report to their assigning lead. You can work directly with any role. Roles exercise initiative within their authority, bringing decisions that need your judgement to you.
+You set the aims and values and retain authority over consequential commitments. [Chief of Staff](roles/chief-of-staff.md) is your principal adviser and default point of contact. It maintains the wider orientation and coordinates specialist contributions. Specialist leads own their work and may delegate bounded assignments to agents, who report to their assigning lead. You can work directly with any role. Roles exercise initiative within their authority, bringing decisions that need your judgement to you.
 
 **Agreed team structure**
 
@@ -166,7 +178,7 @@ The team coordinates around a small set of system-wide units of account, drawing
 
 ### Two agents within each role
 
-Each enduring role is an atomic operating unit comprising two agents and one shared contract, including its role description. We call this arrangement a cognitive dipole, also known as the Twins. It has one outward accountability. Both begin with the same relevant specification, guidance, context and available capabilities. They adopt opposite, complementary relational roles, or polarities: doer/giver and observer/active receiver. These positions may reverse without changing the enduring role or contract. Each has a complete OODA. Both can investigate, interpret, challenge and revise the other's understanding while work proceeds.
+Each enduring role is an atomic operating unit comprising two agents working under one role contract, including its role description. We call this arrangement a cognitive dipole, also known as the Twins. It has one outward accountability. Both begin with the same relevant specification, guidance, context and available capabilities. They adopt opposite, complementary relational roles, or polarities: doer/giver and observer/active receiver. These positions may reverse without changing the enduring role or contract. Each has a complete OODA. Both can investigate, interpret, challenge and revise the other's understanding while work proceeds.
 
 ```mermaid
 flowchart TB
@@ -242,7 +254,7 @@ A knowledge link explains a relationship. An execution dependency determines whi
 
 ### Selected structure and current state
 
-**Runtime and access.** Hermes is the selected deployment target. For each supported combination of interface, model and tools, we need to verify the routes for loading instructions, retrieving context and saving results. The common contract and Research Lead definition are prepared; their runtime loading and paired execution remain unverified.
+**Runtime and access.** Hermes is the selected deployment target. For each supported combination of interface, model and tools, we need to verify the routes for loading instructions, retrieving context and saving results. The common contract, CoS reference and Research Lead definition are prepared; their runtime loading and paired execution remain unverified.
 
 The proposed access model gives the harness a dedicated email account and a defined working environment, with personal accounts outside that scope unless explicitly connected. A separate role, chat or directory does not by itself establish isolation. Account details and credentials belong in private configuration.
 
@@ -258,8 +270,8 @@ The proposed access model gives the harness a dedicated email account and a defi
 | [Short-film workflow](docs/short-film-workflow.md) | Workflow MVP for a complete first cut, character references, continuity and targeted revision. One 30-second film rendered with mixed audio; final quality and reuse remain unverified. |
 | [Ecology of mind](docs/ecology-of-mind.md) | The atomic role, smaller cognitive contributions, reciprocal attention and wider feedback circuit. |
 | [Common operating contract](docs/operating-contract.md) | Shared paired-role method, decision rights, assignments, recovery and learning. |
-| [ROLES.md](ROLES.md) | A catalogue of agreed role types and available contracts, including Research Lead. |
-| [Role template](roles/ROLE-TEMPLATE.md) | The seven-section structure for defining a role's continuing responsibility. |
+| [ROLES.md](ROLES.md) | A catalogue of agreed role types and available contracts, including Chief of Staff and Research Lead. |
+| [Role template](roles/ROLE-TEMPLATE.md) | The assembly path and seven-section form for shared reference contracts and private role specialisations. |
 | [SKILLS.md](SKILLS.md) | A catalogue of reusable skills linking to their instructions. |
 | [LISTS.md](LISTS.md) | Routes into maintained collections, their purpose and when to retrieve them. |
 | Each skill’s [SKILL.md](skills/perception-check/SKILL.md) | The method or knowledge for that skill, with supporting references, scripts or templates where needed. |
@@ -272,7 +284,7 @@ A role defines continuing responsibility. Its contract establishes accountabilit
 
 SOUL retains the core communication principles. Use [Writing and Editing](skills/writing-and-editing/SKILL.md) for drafting, editing, reviewing prose and giving advisory replies. The skill applies [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md), which has one maintained home inside its package. Read that standard before the relevant work, reusing a current read during the task. Specialist workflows retain their production and execution steps. When delegating this work, pass the brief, accepted corrections and the skill and standard to the worker; [ROLES.md](ROLES.md#coordination-and-shared-skills) defines handover review.
 
-Section 4 shows the agreed team structure. [ROLES.md](ROLES.md) records responsibilities, reporting and contract availability. Research Lead has a prepared contract. The other individual contracts remain under development.
+Section 4 shows the agreed team structure. [ROLES.md](ROLES.md) records responsibilities, reporting and contract availability. [Chief of Staff](roles/chief-of-staff.md) has an accepted reusable reference and [Research Lead](roles/research-lead.md) has a prepared contract. The other individual contracts remain under development.
 
 The [common operating contract](docs/operating-contract.md) owns the shared rules for evidence, authority, truthful completion and continuity. Catalogues provide routes to maintained definitions. [LISTS.md](LISTS.md) links the packaged community directory, selected research resources and existing editorial references. Role contracts explain when those methods and resources are useful. Private reading and ideas queues retain their existing owners.
 
