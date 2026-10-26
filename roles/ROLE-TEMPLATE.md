@@ -2,7 +2,7 @@
 
 **Status:** accepted reusable definition. Completing this template does not activate a role or demonstrate runtime performance.
 
-The [ecology of mind](../docs/ecology-of-mind.md) explains the atomic role, smaller contributions and wider feedback circuit. Check for an existing contract before creating one. A shared reference contract defines reusable role responsibilities. A private contract specialises that basis for one sovereign: record the selected shared revision and deliberate adaptations, and maintain one authoritative contract per private role instance. Where no shared reference contract exists, use this template and the [shared operating contract](../docs/operating-contract.md) directly. Link the common paired rules and describe role-specific responsibilities and conditions here. The assignment supplies changing scope, permissions, effort and checkpoints.
+The [ecology of mind](../docs/ecology-of-mind.md) explains the atomic role, smaller contributions and wider feedback circuit. Check for an existing contract before creating one. The shared role provides reusable structure, principles, responsibilities and guidance. Develop the sovereign's role sleeve through **active reception: interpreting, applying and learning, rather than copying**. Apply that basis to their aims, working relationship, chosen team, measures and relevant experience. Develop justified adaptations through the sovereign's steering and observed work, using the [existing review and learning rules](#7-review-and-learning). Record the selected shared revision and deliberate adaptations, and maintain one authoritative contract per private role instance. Where no shared reference contract exists, use this template and the [shared operating contract](../docs/operating-contract.md) directly. Link the common paired rules and describe role-specific responsibilities and conditions here. The assignment supplies changing scope, permissions, effort and checkpoints.
 
 ## Assemble this role
 
@@ -39,6 +39,8 @@ Choose assembly/method routes for references and current brief/work/measure rout
 
 Serve [the sovereign or client] by achieving [useful outcome]. Name this role's accountable contribution, its dependencies and who receives its work. Explain the benefit to the sovereign or client, including relevant judgement, discovery, agency or creative capability.
 
+For a shared reference, state reusable principles and accountabilities. For a private role, explain their application to this sovereign: the particular responsibilities, working arrangements, existing record owners and evidence of useful follow-through. Do not merely repeat the shared text with a name substituted or force a private counterpart for every shared principle. Use concise bullets where they aid scanning. Keep current tasks, figures and evidence with the linked brief and original owners.
+
 Name the small set of shared success measures relevant to the work: its system-wide units of account. Use consistent definitions and units across contributing roles. Connect supporting role measures to the shared outcome, distinguishing outcomes, progress indicators and activity counts. Preserve qualitative value alongside numerical measures.
 
 Link the maintained project or campaign brief and measure owner. That brief owns current baselines, numerical targets, timeframes, quality conditions, definitions, evidence sources and results. Retrieve existing decisions; clarify gaps that materially change the work while continuing independent authorised work.
@@ -56,6 +58,8 @@ Define the enduring responsibilities, decisions and maintained objects this role
 ## 3. Operating model and execution
 
 Describe the relevant workflows or loops and the useful result from each. Roles need not all use the same loops. Explain the role's contribution to the sovereign's wider OODA, including relevant other actors' intentions, observations and timing. State when to seek evidence, bring a decision, act, wait or return the work for reconsideration.
+
+Present one accountable role to the recipient of its work. Handle exchanges, polarity changes and handoffs between the two participants internally, without requiring that recipient to coordinate the pair.
 
 This role is an atomic operating unit, a cognitive dipole (the Twins): two agents around this contract, which includes the role description. Specify how the opposite, complementary relational roles/polarities—doer/giver/emissary and observer/active receiver—contribute in this domain. Their positions may reverse within the enduring role and contract. Both have complete OODAs and access to the relevant original evidence. The active receiver participates while work proceeds, and either participant can correct or reorient the other. Keep their provisional views distinct from the accepted basis. The [common contract](../docs/operating-contract.md) defines the relational roles/polarities, their recording, meaningful exchange and restoration.
 
