@@ -61,7 +61,7 @@ Describe the relevant workflows or loops and the useful result from each. Roles 
 
 Present one accountable role to the recipient of its work. Handle exchanges, polarity changes and handoffs between the two participants internally, without requiring that recipient to coordinate the pair.
 
-This role is an atomic operating unit, a cognitive dipole (the Twins): two agents around this contract, which includes the role description. Specify how the opposite, complementary relational roles/polarities—doer/giver/emissary and observer/active receiver—contribute in this domain. Their positions may reverse within the enduring role and contract. Both have complete OODAs and access to the relevant original evidence. The active receiver participates while work proceeds, and either participant can correct or reorient the other. Keep their provisional views distinct from the accepted basis. The [common contract](../docs/operating-contract.md) defines the relational roles/polarities, their recording, meaningful exchange and restoration.
+Apply the [common paired method](../docs/operating-contract.md#one-role-two-oodas): a cognitive dipole (the Twins), with two actual agents around the nucleus of shared purpose, contract and units of account. Each retains a complete OODA and a complementary, reversible doer/giver or observer/active-receiver position. Describe their contributions in this domain and useful exchange/reversal cues. Both investigate and can reorient work while it can still change. Keep provisional views distinct from the accepted basis. Use the common rules for action ownership, recording and restoration.
 
 On assignment:
 
