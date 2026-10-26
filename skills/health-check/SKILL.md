@@ -19,6 +19,8 @@ Keep the assignment's authority. An explicitly advisory review stays advisory; a
 
 Follow useful paths from purpose and accountability through instructions, evidence, action, results and later reuse. Compare the maintained design with the actual reviewed source or runtime. Reuse valid earlier findings and inspect changed or unresolved parts. Look for missing handoffs, conflicting definitions, stale routes, orphans and duplicated policy or state where these affect use. Distinguish a faulty component from a reason to redesign the architecture.
 
+For a questioned component, identify its distinct job, necessary context, state owner and live consumers. Check what happens if it is wrong, stale or unavailable and whether its form still suits actual use. Compare keeping it with simplifying, merging, making it on-demand or retiring it, accounting for affected consumers and migration cost. For a suspected regression, compare accepted earlier behaviour with what now fails; a missing baseline leaves the claim unproved.
+
 Examine the guidance and the review process as well as the producer:
 
 - **Correction scope.** For a suspect rule, recover its triggering situation and intended scope where possible. Has a local correction become a global prohibition or an exploratory idea become a requirement? What useful behaviour must remain possible? Preserve deliberate authority boundaries, factual fidelity and accepted design invariants. Missing provenance warrants uncertainty, not automatic deletion.
