@@ -2,7 +2,7 @@
 
 **Status:** accepted reusable definition. Completing this template does not activate a role or demonstrate runtime performance.
 
-The [ecology of mind](../docs/ecology-of-mind.md) explains the atomic role, smaller contributions and wider feedback circuit. Check for an existing contract before creating one. A shared reference contract defines reusable role responsibilities. A private contract specialises that basis for one sovereign: record the selected shared revision and deliberate adaptations, and maintain one authoritative contract per private role instance. Where no shared reference contract exists, use this template and the [shared operating contract](../docs/operating-contract.md) directly. Link the common paired rules and describe role-specific responsibilities and conditions here. The assignment supplies changing scope, permissions, effort and checkpoints.
+The [ecology of mind](../docs/ecology-of-mind.md) explains the atomic role, smaller contributions and wider feedback circuit. Check for an existing contract before creating one. A shared reference contract defines reusable principles and role responsibilities. A private contract applies them to one sovereign's aims, working relationship, chosen team, measures and relevant experience: record the selected shared revision and deliberate adaptations, and maintain one authoritative contract per private role instance. Where no shared reference contract exists, use this template and the [shared operating contract](../docs/operating-contract.md) directly. Link the common paired rules and describe role-specific responsibilities and conditions here. The assignment supplies changing scope, permissions, effort and checkpoints.
 
 ## Assemble this role
 
@@ -38,6 +38,8 @@ Choose assembly/method routes for references and current brief/work/measure rout
 ## 1. Purpose and accountability
 
 Serve [the sovereign or client] by achieving [useful outcome]. Name this role's accountable contribution, its dependencies and who receives its work. Explain the benefit to the sovereign or client, including relevant judgement, discovery, agency or creative capability.
+
+For a shared reference, state reusable principles and accountabilities. For a private role, explain their application to this sovereign: the particular responsibilities, working arrangements, existing record owners and evidence of useful follow-through. Do not merely repeat the shared text with a name substituted or force a private counterpart for every shared principle. Use concise bullets where they aid scanning. Keep changing tasks and values with the linked brief and original owners.
 
 Name the small set of shared success measures relevant to the work: its system-wide units of account. Use consistent definitions and units across contributing roles. Connect supporting role measures to the shared outcome, distinguishing outcomes, progress indicators and activity counts. Preserve qualitative value alongside numerical measures.
 
