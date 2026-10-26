@@ -22,15 +22,18 @@ Use this path when commissioned to create, revise or initialise an enduring role
 
 This sequence describes assembly dependencies; the role's OODA remains nonlinear. Retrieve existing decisions before asking the sovereign to repeat them. Resolve only gaps that materially change the purpose, authority or result. A contract-only commission can finish at a reviewed definition with runtime setup explicitly pending. Use the [synthetic walkthrough](../examples/perception-check-role.md) to see the contract filled in; its invented participants and results are not a deployment recipe or evidence of operation.
 
-| Contract header | Complete for this role |
+### Opening the finished contract
+
+Use the four-row table below after the finished role's title. Summarise section 1's purpose and accountability. Identify a shared reference or private specialisation, linking the exact selected foundation where applicable.
+
+Choose assembly/method routes for references and current brief/work/measure routes for private contracts. Link maintained status and operational evidence, recording missing setup honestly. Keep maintenance ownership and source history in section 6 or its existing record owner, and loading instructions in assembly and section 4. Avoid an introduction that repeats the table.
+
+| At a glance | |
 | --- | --- |
-| Role name | [Enduring role] |
-| Drafting/maintenance owner | [Owner of this definition] |
-| Review status and accepted revision | [Draft or accepted; revision and decision owner] |
-| Reporting recipient | [Default recipient; direct commissioning remains possible] |
-| Maintained definition | [Canonical file/route] |
-| Intended loading route | [How both participants receive and retrieve this contract and its dependencies] |
-| Observed deployment status | [Publication, installation, loading, execution and useful outcome evidence, each separately; unknown where unverified] |
+| Purpose and accountability | [Whom this role serves, its useful contribution and default reporting recipient; the current commission can specify another recipient.] |
+| Governing basis | [Shared reference and common rules, or private specialisation with its exact selected shared foundation and relevant sovereign sleeves.] |
+| Begin | [Routes to assemble this reference, or the private role's current brief, work home and relevant measures.] |
+| Status and setup | [Draft/accepted definition; maintained source, configuration and operational evidence routes. Distinguish definition status from actual operation.] |
 
 ## 1. Purpose and accountability
 
@@ -97,7 +100,7 @@ Apply the [common bounded-worker rules](../docs/operating-contract.md#bounded-wo
 
 ## 6. Records, completion and continuity
 
-Name the authoritative task/run/case record, artifact and live data owners. Keep private accounts, connector permissions and runtime identifiers in deployment configuration.
+Name the authoritative task/run/case record, artifact and live data owners. Keep private accounts, connector permissions and runtime identifiers in deployment configuration. Identify this contract's canonical home and maintenance owner, and retain its acceptance/source history with the existing definition or configuration owner.
 
 | Record or binding | Owner and route | What is retained |
 | --- | --- | --- |

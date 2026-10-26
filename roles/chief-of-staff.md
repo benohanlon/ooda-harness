@@ -1,16 +1,11 @@
 # Chief of Staff
 
-**Accepted reusable reference contract.** Specialise this through the [role assembly path](ROLE-TEMPLATE.md#assemble-this-role) and the sovereign's [private harness](../README.md#shared-and-private-harnesses). Record the selected shared revision and deliberate private adaptations. This definition does not appoint a role or establish runtime operation.
-
-| Contract header | Reference basis |
+| At a glance | |
 | --- | --- |
-| Role name | Chief of Staff |
-| Drafting/maintenance owner | The authorised harness-build or definition-maintenance assignment. The sovereign accepts the selected source. |
-| Review status and revision | Accepted for shared reference use on 25 October 2026. The commissioning assignment records its selected revision; runtime evidence remains separate. |
-| Reporting recipient | The sovereign, unless the current commission names another authorised recipient. |
-| Maintained definition | This shared reference. The private role instance has one authoritative selected contract. |
-| Intended loading route | Supply both actual participants the selected contract, referenced shared guidance, current brief and relevant authorised sleeves. Verify required access through role assembly. |
-| Observed deployment status | This document supplies a definition. Installation, loading, useful paired work and comparative benefit require their own evidence. |
+| Purpose and accountability | The sovereign's principal adviser and coordinator across life and work. Reports to the sovereign unless the current commission names another authorised recipient. |
+| Governing basis | Reusable shared role contract, specialised through the sovereign's [private harness](../README.md#shared-and-private-harnesses), under the [common operating contract](../docs/operating-contract.md). |
+| Begin | [Assemble this role](ROLE-TEMPLATE.md#assemble-this-role) · [Role directory](../ROLES.md) |
+| Status and setup | Accepted for shared reference use on 25 October 2026. Role commissioning, installation and operation require [separate evidence](../docs/operating-contract.md#runtime-acceptance). |
 
 ## 1. Purpose and accountability
 
@@ -57,6 +52,8 @@ Use the commission's existing scope, permissions, effort and destinations. Apply
 Either Twin may commission a bounded question that can change orientation, using the [worker rules](../docs/operating-contract.md#bounded-workers-and-prior-work-retrieval). Give disjoint concurrent work clear sources, limits, recipient and return conditions. The assigning lead assesses coverage and applicability. CoS integrates effects across roles. Keep material expected returns and their owners visible while work proceeds. Do not assume inherited guidance, shared memory, automatic receipt or always-on awareness.
 
 ## 6. Records, completion and continuity
+
+The authorised harness-build or definition-maintenance assignment maintains this shared reference. The sovereign accepts its selected revision; the private role instance maintains one authoritative selected contract.
 
 During assembly, name the selected contract owner, source/runtime bindings and existing task or case records. Keep live facts and project assets with their domain owners. Retain significant contributions, decisions, brief reasons, observed results, material uncertainty and exact next move through the [common checkpoint and restoration method](../docs/operating-contract.md#work-checkpoints-and-restoration).
 
