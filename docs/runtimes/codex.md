@@ -26,6 +26,14 @@ Before paired work begins, connect the contexts and initialise or reuse their as
 
 This is a manual setup recipe, not an automated launcher or a demonstrated role run. Continue with the commissioned assignment and [runtime acceptance](../operating-contract.md#runtime-acceptance).
 
+## Keep scheduled workers separate
+
+Apply the [common scheduling rule](../operating-contract.md#scheduled-work-and-private-bindings) to every role. A scheduled worker returns to its accountable role and maintained records while the sovereign's active conversation remains available.
+
+Current [scheduled-task documentation](https://learn.chatgpt.com/docs/automations) distinguishes tasks that return to an existing chat from standalone/background runs. [Subagents](https://learn.chatgpt.com/docs/agent-configuration/subagents) move delegated work into separate contexts. These are distinct choices: spawning a subagent after a foreground chat receives a scheduled wake does not establish isolation of that wake.
+
+Inspect the actual saved target before changing a schedule. Select an authorised background execution destination supported by the installed host, supply its role/source/record routes, and preserve cadence, prior decisions, existing permissions and paused states. Do not silently create replacement schedules or new user chats. If suitable targeting or result delivery is unavailable, retain the exact gap rather than claiming a prompt-only fix. Verify the scheduled route in ordinary use with an active human conversation and scoped browser/write targets; muting notifications alone is insufficient.
+
 ## Finish and use
 
 Keep the profile bundle and its binding outside the shared package. Make [profile connection](../getting-started.md#finish-installation-connect-your-private-profile) the final configuration step, then follow [first use](../getting-started.md#begin-useful-authorised-work). Supply relevant routes explicitly to any commissioned participant; automatic inheritance is not assumed.

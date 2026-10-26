@@ -129,7 +129,13 @@ Report what is complete, what remains and the next authorised move. The role can
 
 ## Scheduled work and private bindings
 
-Scheduled assignments use the same contract in their assigned execution context and result destination. The calendar shows planned work; the runner executes it. A saved calendar event does not prove a run occurred. Preserve isolation from active conversations and verify it in the runtime. Instructions alone do not enforce access or conversation boundaries.
+Every role runs scheduled assignments through a bounded subagent or separate worker agent reporting to that role. The worker receives the relevant accepted basis, sources, authority, effort, record owner and return condition under the [bounded assignment rules](#bounded-assignment). A scheduled worker is not automatically another enduring paired role.
+
+Keep the human-facing role available for the sovereign's ongoing conversation or work. A scheduled trigger or worker return must not take over that conversation, replace its objective, commandeer its active browser/tab or wait there for background work to finish. Save the result, failure or decision needed with its existing owner. The role reviews the return and integrates it at a suitable break or requested check, without interrupting the sovereign mid-work. Preserve unfinished work and actual coverage; quiet delivery must not conceal failure.
+
+Select and verify the trigger context, worker execution and reporting route separately. A heartbeat that first enters the foreground role chat can still interrupt it even if it then spawns a subagent. If the selected host cannot isolate that route, record the limitation and required routing change; do not claim the non-interruption requirement is met by prompt wording or muted notifications. Scope browser sessions and write targets so the worker cannot displace the sovereign's active work.
+
+Scheduled assignments retain their contract, permissions and result destination. The calendar shows planned work; the runner executes it. A saved calendar event does not prove a run occurred. Verify isolation during an actual scheduled use alongside ongoing conversation, as well as the saved result and owning role's access to it. Instructions alone do not enforce access or conversation boundaries.
 
 Creating this definition does not create a schedule, grant connector access, install skills or start agents. Record publication, installation, actual loading, execution and observed usefulness separately.
 
