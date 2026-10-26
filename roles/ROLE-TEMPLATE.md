@@ -39,7 +39,7 @@ Choose assembly/method routes for references and current brief/work/measure rout
 
 Serve [the sovereign or client] by achieving [useful outcome]. Name this role's accountable contribution, its dependencies and who receives its work. Explain the benefit to the sovereign or client, including relevant judgement, discovery, agency or creative capability.
 
-For a shared reference, state reusable principles and accountabilities. For a private role, explain their application to this sovereign: the particular responsibilities, working arrangements, existing record owners and evidence of useful follow-through. Do not merely repeat the shared text with a name substituted or force a private counterpart for every shared principle. Use concise bullets where they aid scanning. Keep changing tasks and values with the linked brief and original owners.
+For a shared reference, state reusable principles and accountabilities. For a private role, explain their application to this sovereign: the particular responsibilities, working arrangements, existing record owners and evidence of useful follow-through. Do not merely repeat the shared text with a name substituted or force a private counterpart for every shared principle. Use concise bullets where they aid scanning. Keep current tasks, figures and evidence with the linked brief and original owners.
 
 Name the small set of shared success measures relevant to the work: its system-wide units of account. Use consistent definitions and units across contributing roles. Connect supporting role measures to the shared outcome, distinguishing outcomes, progress indicators and activity counts. Preserve qualitative value alongside numerical measures.
 
