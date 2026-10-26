@@ -15,7 +15,7 @@ Produce the requested communication while preserving the intended meaning, evide
 
 **Write or edit in context.** Make the smallest useful intervention consistent with the request. If new drafting is requested, develop the needed argument from the supplied material. Read each changed passage with its neighbours and then as part of the whole. Use the standard's editorial priorities and relevant genre rules, preserving meaningful uncertainty and the distinction between the assistant's advice and writing in the author's voice.
 
-**Check the actual result.** Cold-read the complete deliverable as its intended recipient, then compare it with the sources, accepted version, corrections and applicable preferences and examples. Apply the editorial review and final cut in the standard. Stop when no material improvement remains. When saving is requested, read back the saved artifact and check that the accepted changes reached it before reporting completion.
+**Check the actual result.** Cold-read the complete deliverable as its intended recipient, checking that the words actually present establish the point, its significance and any intended response. Compare it with the sources, accepted version, corrections and applicable preferences and examples. Before handing over, ask: “Have I reconciled the material decisions and corrections? What can I remove without losing meaning, evidence, nuance or voice?” Apply the standard's editorial review and final cut to the complete draft, make the warranted improvements, then check that the cuts preserved the accepted meaning. Stop when no material improvement remains. When saving is requested, read back the saved artifact and check that the accepted changes reached it before reporting completion.
 
 ## Coordination
 

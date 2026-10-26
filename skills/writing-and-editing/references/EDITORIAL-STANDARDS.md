@@ -101,7 +101,11 @@ Natural contractions are permitted. Progressive and perfect tenses, “-ing” f
 
 ### Structure
 
-Use Barbara Minto underneath the writing. Keep the governing thought clear and make each part build on the whole. At paragraph and list handovers, identify the specific idea being developed, explained, qualified or demonstrated. Make that connection clear without adding empty transition sentences. Every example, source or quotation should perform a distinct job in the argument. Explain unfamiliar mechanisms before naming them, and refresh a reference when intervening material makes it unclear.
+Use [Barbara Minto's Pyramid Principle](https://www.barbaraminto.com/course) underneath the writing where it helps the reader. Identify the reader's question and the governing answer, group the reasons that support it, and make each part build on the whole. At paragraph and list handovers, identify the specific idea being developed, explained, qualified or demonstrated. Make that connection clear without adding empty transition sentences. Every example, source or quotation should perform a distinct job in the argument. Explain unfamiliar mechanisms before naming them, and refresh a reference when intervening material makes it unclear.
+
+Before shortening a case, distinguish the essential argument from supporting detail. Preserve what the recipient needs to understand the proposal, its significance, the supporting evidence and any decision or ask. Supply necessary context for an unfamiliar subject. Order the material for this reader rather than following the sequence of research or corrections. A request for fewer words does not make these connections expendable.
+
+For a short explanation, recommendation or spoken answer, consider **PREP: Point, Reason, Example, Point again**. State the point, explain why, support it with a relevant example or fact, then return to the point with its significance or next step. Match the close to the author's purpose, voice and relationship with the recipient. [Toastmasters' PREP guidance](https://toastmasters.org/magazine/magazine-issues/2021/june/ten-tips-from-ti) supplies the basic structure. Use these methods to organise the thought; the piece need not announce them or follow fixed headings. Retain a working structure when it already serves the reader.
 
 **Example of a handover:** After describing an accelerating cycle, “Such a cycle could begin with other forms of superhuman intelligence too” carries that idea into the next paragraph. “Machines designing better machines are not the only possibility” leaves the reader to work out which possibility matters.
 
@@ -242,7 +246,7 @@ When the sovereign says an earlier version was better, retrieve and compare its 
 
 An omission in compressed external writing is not evidence of absence. Do not infer a missing capability, qualification or activity because the piece cannot restate everything. Do not turn possible ambiguity into a factual concern, add caveats for merely hypothetical risks, or disturb deliberate evidence placement without a material reason.
 
-Clarify only a genuine contradiction, a changed factual claim or a credible risk of misleading the reader. Distinguish necessary repetition of facts and domain terms from generated repetition of distinctive phrases or sentence structures.
+Raise a concern about a presumed factual omission in compressed external copy only when a genuine contradiction, changed factual claim or credible risk of misleading the reader supports it. Retrieve existing answers first, then ask a focused question when missing information materially affects meaning, purpose, scope or the intended response. Distinguish necessary repetition of facts and domain terms from generated repetition of distinctive phrases or sentence structures.
 
 Respect what the recipient has already defined. Treat an explicit metric, responsibility, constraint or requirement as established. Build from it rather than proposing that the subject will introduce it.
 
@@ -266,9 +270,9 @@ Apply the relevant checks to the complete draft. Reuse current source reads, ski
 
 Run this on the complete draft before showing it, with effort proportional to the task.
 
-1. **Cold read.** Read as the intended recipient without relying on the drafting discussion to fill gaps. Is the point clear, does it answer the request, and is any important connection missing?
+1. **Cold read.** Read as the intended recipient without relying on the drafting discussion to fill gaps. Can this reader understand the point, why it matters and any intended response from the words actually present? Check necessary context and connections before judging the length.
 2. **Thorough read.** Check the draft against the request, relevant sources, latest accepted version and corrections using the checklist above. Look for material omissions, unsupported claims, incorrect numbers or scope, contradictions, obvious mistakes and regressions.
-3. **Improve before replying.** Ask whether the draft is ready or whether there are concrete improvements that would materially improve correctness, relevance, clarity or usefulness. Make those improvements within the authorised scope instead of returning avoidable defects or a list of fixes the sovereign must request.
+3. **Improve before replying.** Ground criticism in a specific passage or omission, its effect on the reader and a useful repair. Make warranted improvements within the authorised scope instead of returning avoidable defects or a list of fixes the sovereign must request. Retain sound wording when the criticism is unsupported. Naming a method or declaring compliance does not demonstrate that the draft works.
 4. **Recheck the whole.** After editing, repeat the cold and thorough read, checking especially that the fix has not lost accepted meaning, evidence or constraints.
 
 **Stop condition:** Stop as soon as a pass finds no material improvement. Do not churn synonyms, pursue cosmetic perfection or reopen settled choices. Default to no more than 3 review-and-revision passes; this is a ceiling, not a quota. If a material issue remains at that point, resolve any known factual error and state any genuine uncertainty or blocker rather than claiming the draft passed. New evidence or a changed brief can justify another bounded review.
@@ -278,7 +282,7 @@ Keep the review internal unless the sovereign requests an audit. Self-review doe
 ### Learning after a meaningful correction or outcome
 
 - **Observe:** Record what actually happened, keeping the sovereign’s correction separate from external feedback and interpretation.
-- **Diagnose:** Identify whether the cause was retrieval, evidence selection, factual drift, regression, voice or execution.
+- **Diagnose:** Distinguish missing retrieval from failures of recipient understanding, argument structure, evidence selection, factual fidelity, revision, voice or execution. When the relevant guidance was read, inspect how it was used before adding another loading instruction.
 - **Adjust:** Reuse the relevant existing record, approved example or instruction within the current authority. Update its existing owner; do not add a rule for every mistake or duplicate guidance. Follow the applicable change procedure for material system changes.
 - **Verify:** Test the adjustment on the next relevant task and retain the outcome in its existing record. Check whether sources and examples were retrieved without the sovereign repeating them, proof matched the problem, and revisions retained accepted corrections. A saved instruction or synthetic review does not establish better live results.
 

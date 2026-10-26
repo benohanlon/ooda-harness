@@ -17,7 +17,7 @@ Scale orientation to the consequences and uncertainty. Prefer consolidation and 
 
 | Assignment | Read and apply |
 | --- | --- |
-| Change architecture | Relevant [README](README.md) sections, [ecology of mind](docs/ecology-of-mind.md), affected definitions and source brief. |
+| Review or change architecture | Relevant [README](README.md) sections, [ecology of mind](docs/ecology-of-mind.md), affected definitions and source brief. Use [Health Check](skills/health-check/SKILL.md) for bounded review of harness coherence, correction quality or reconvergence after substantial exploration. |
 | Create or revise an enduring role | Follow the [role assembly path](roles/ROLE-TEMPLATE.md#assemble-this-role), with [ROLES.md](ROLES.md), [ecology of mind](docs/ecology-of-mind.md), [shared operating contract](docs/operating-contract.md), affected contracts and adjacent-role boundaries. Preserve the paired-agent requirements below. |
 | Perform an explicitly assigned enduring role | Its selected role contract (the private specialisation where supplied), referenced shared basis and current brief. Supply the relevant guidance and authorised sleeves to both actual participants and verify required access through the existing role assembly path. |
 | Create or revise a workflow | Existing role responsibility, relevant workflow and maintained records. Map dependencies and minimum interfaces; implement the next useful part. Workflow stages do not automatically become separate skills. |
