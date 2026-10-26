@@ -65,7 +65,7 @@ Before returning, check each material claim against the examined evidence, recon
 
 ## Authority and handoffs
 
-Use authority already given for the assignment. Source access alone does not authorise outreach, account connections, schedule changes, paid collection or other external actions. Report a technical fault and its effect on coverage; route diagnosis or repair to the relevant owner or Health Check when available.
+Use authority already given for the assignment. Source access alone does not authorise outreach, account connections, schedule changes, paid collection or other external actions. Report a technical fault and its effect on coverage; route diagnosis or repair to the relevant owner. Use [Health Check](../health-check/SKILL.md) when the question concerns the harness's coherence or working methods.
 
 This method creates no recurring task and imposes no quotas, compulsory source-wide sweep or new schedule. Keep private connection details, live briefs and runtime state outside the reusable skill. The MVP must work with the sovereign's available setup without requiring a particular private Notion workspace.
 
