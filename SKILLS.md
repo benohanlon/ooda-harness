@@ -8,12 +8,15 @@ This is the catalogue of OODA Harness's reusable skills, including methods being
 | [Writing and Editing](skills/writing-and-editing/SKILL.md) | Draft, edit and review prose, including advisory replies, while preserving meaning, evidence, argument and voice. | Shared across roles; the producing role remains accountable. | Method published. Hermes installation, loading and live use remain unverified. |
 | [Sense of Taste](skills/sense-of-taste/SKILL.md) | Judge bounded work against its brief, original evidence, wider purpose and standards. Preserve successful work and identify material gaps and useful possibilities. | Shared judgement method within an enduring role's pair; it can also serve an explicitly assigned review. | Packaged definition prepared for review and manual testing. Installation, loading and useful live execution remain unverified. |
 | [Community Research](skills/community-research/SKILL.md) | Investigate what relevant communities say about a harness-engineering question, following substantive discussion to original evidence and implementations. | Shared across roles; Research Lead maintains the method and community routes with Engineering's technical input. | Packaged definition prepared for review and manual testing. Installation, access to particular communities and useful live execution remain unverified. |
+| [Health Check](skills/health-check/SKILL.md) | Review harness coherence, drift, correction quality and consolidation after substantial exploration or change. | Engineering maintains the shared method; current assignments and change owners retain authority. | Draft method; source review and bounded manual assessment do not establish installation or useful runtime performance. |
 
 For example: “Run a Perception Check for the past 72 hours. What needs my attention?”
 
 For a schedule-only review, ask “Check the schedule”. The bounded [Schedule Check method](skills/perception-check/SKILL.md#schedule-check) is part of Perception Check. Its live manual test remains pending.
 
 The timeframe belongs to the request. This example sets no recurring schedule and assumes neither a previous check nor complete access to personal materials.
+
+For the harness itself, ask: "Run a Health Check on our shared/private guidance and the changes since the last review." Perception/360 establishes what needs attention; Health Check examines whether the harness still works coherently and whether corrections or reviews improved it. Use it for a material reconvergence when exploration has opened several strands, without adding a full audit to every task.
 
 Writing and Editing applies the maintained [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md). [SOUL.md](SOUL.md) requires their use; [AGENTS.md](AGENTS.md#retrieve-guidance-for-the-work) routes repository work and [ROLES.md](ROLES.md#coordination-and-shared-skills) covers delegation. Sense of Taste supplies a separate judgement method; Writing and Editing remains independently usable. The [common operating contract](docs/operating-contract.md) defines the pair, not either skill.
 
