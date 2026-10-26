@@ -246,7 +246,7 @@ When the sovereign says an earlier version was better, retrieve and compare its 
 
 An omission in compressed external writing is not evidence of absence. Do not infer a missing capability, qualification or activity because the piece cannot restate everything. Do not turn possible ambiguity into a factual concern, add caveats for merely hypothetical risks, or disturb deliberate evidence placement without a material reason.
 
-Clarify only a genuine contradiction, a changed factual claim or a credible risk of misleading the reader. Distinguish necessary repetition of facts and domain terms from generated repetition of distinctive phrases or sentence structures.
+Raise a concern about a presumed factual omission in compressed external copy only when a genuine contradiction, changed factual claim or credible risk of misleading the reader supports it. Retrieve existing answers first, then ask a focused question when missing information materially affects meaning, purpose, scope or the intended response. Distinguish necessary repetition of facts and domain terms from generated repetition of distinctive phrases or sentence structures.
 
 Respect what the recipient has already defined. Treat an explicit metric, responsibility, constraint or requirement as established. Build from it rather than proposing that the subject will introduce it.
 
