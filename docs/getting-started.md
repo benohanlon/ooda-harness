@@ -39,6 +39,8 @@ Start with [README](../README.md), [SOUL](../SOUL.md) and [AGENTS](../AGENTS.md)
 
 Follow the [Codex](runtimes/codex.md) or [Hermes](runtimes/hermes.md) notes. Use the selected runtime's supported mechanisms and check the installed version. Record where startup instructions and complete skill packages are loaded. Preserve personalisation, specialist procedures and project guidance.
 
+The setup owner records the actual working folder and its startup, profile and project routes to the accepted shared and private sources. The working folder can sit outside those snapshots. Reuse working bindings and configure missing routes explicitly; matching filenames and readable links do not establish loading. Verify actual loading in a fresh context using that folder, for both participants when a role pair is commissioned. Keep exact paths, revisions and verification evidence in the private installation record.
+
 Keep the accepted source intact. If installed skill copies move away from their original directory, check links that leave those packages and adapt the installed routes to the accepted source. Record those adaptations so a later refresh can preserve them. A visible skill name establishes discovery; inspect method and reference access when the work uses them.
 
 **Expected result:** the intended runtime can find its shared guidance, selected skill packages and their dependencies. If an override, duplicate skill or moved reference selects different content, reconcile that route before relying on it. A repository update does not update an installation automatically.
