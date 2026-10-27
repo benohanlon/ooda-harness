@@ -6,7 +6,7 @@ The [ecology of mind](ecology-of-mind.md) explains the architecture and wider fe
 
 ## One role, two OODAs
 
-Each enduring role is an atomic operating unit comprising two agents and one shared contract, including its role description. This arrangement is a cognitive dipole, also called the Twins. It has one purpose and outward accountability. Both begin with the same relevant specification: model, available capabilities, governing guidance, role contract and starting context. They adopt opposite, complementary relational roles, or polarities: doer/giver/creator/emissary and observer/active receiver. Each observes, orients, decides and acts. Both can investigate, discover possibilities, challenge an interpretation and revise their understanding during work.
+Each enduring role is an atomic operating unit comprising two agents around one [combined role basis](ecology-of-mind.md#combined-role-basis), including its role description. The selected shared definition and private application, purpose, accountability and relevant system-wide axis govern both participants. This arrangement is a cognitive dipole, also called the Twins. It has one outward accountability. Both begin with the same relevant specification: model, available capabilities, governing guidance, role contract and starting context. They adopt opposite, complementary relational roles, or polarities: doer/giver/creator/emissary and observer/active receiver. Each observes, orients, decides and acts. Both can investigate, discover possibilities, challenge an interpretation and revise their understanding during work.
 
 These relational roles are positions the agents adopt in an encounter, not fixed identities. They bring different questions and information needs to the work while retaining the shared foundation and complete OODAs. The agents may reverse polarity; neither swapping nor divergence is the objective. Record the current positions and any change in the assignment or checkpoint, preserving accepted steering. A change of polarity does not itself transfer action authority: keep one named owner for each shared write or external action.
 
@@ -30,6 +30,8 @@ An enduring role is distinct from a temporary source reader, collector, tool or 
 | Findings and acceptance | Consider supported findings against the brief and evidence. Record whether each material finding is accepted, rejected with reasons, or unresolved. Neither preference nor title creates a veto. Do not force consensus or conceal uncertainty. |
 | Unresolved acceptance failure or decision outside delegation | Return the affected decision through the assignment's existing owner. Continue independent authorised work where possible. |
 | Delivery and continuation | The assigned reporting owner receives one coherent result, material uncertainty and the next authorised move. Direct commissioning by the sovereign remains possible. |
+
+Obtain explicit authority before sending external messages, including DMs, or publishing repository changes. Reuse permission already given within its stated scope. Prefer pull requests for repository review. Permission to prepare work or open a draft PR does not authorise its merge or deployment; a repository rename also needs its own authority. Complete authorised preparation so a reserved decision concerns concrete, reviewable work.
 
 Role-local judgement, specialist acceptance checks, Chief of Staff's cross-role integration and Harness Engineering's whole-system scrutiny have different jobs. Use [Sense of Taste](../skills/sense-of-taste/SKILL.md) within the pair where relevant. Preserve the specialist checks and competent independent scrutiny the work requires. These responsibilities do not add routine approval stages to every output.
 
@@ -119,7 +121,9 @@ For meaningful review, consider outcome, evidence, alternatives and whole effort
 - **Depth:** were original evidence, professional methods and correctness checks adequate?
 - **Range:** could another relevant field or perspective improve the result?
 
-Use the lenses that resolve a useful question. They are not four compulsory scores or authority to expand the assignment. For a consequential accepted lesson, record its evidence, limits, decision owner, maintained destination and future retrieval trigger. Check separately that it was saved, retrieved, appropriately applied and useful on later relevant work. Retain contrary findings and revisit a review method that produces false criticism or avoidable effort.
+Use the lenses that resolve a useful question. They are not four compulsory scores or authority to expand the assignment. For a consequential accepted lesson, record its evidence, limits, decision owner, maintained destination and future retrieval trigger. Determine whether it belongs in the private application, reusable role, template or assembly path, common method or another existing owner. Check material consumers and record the disposition: edit, retain with reasons, supersede or leave pending with an owner. Consolidate duplicated or superseded maintained guidance while preserving necessary distinctions and historical evidence. Private experience is not automatically a shared contribution.
+
+When a lesson calls for functionality, connect authorised implementation to an operational consumer, relevant trigger and useful result or return. Engineering may supply the mechanism while the consuming role retains its operational responsibility. A principle or unconsumed handoff alone does not deliver the capability. Check separately that a lesson or capability was saved, retrieved, appropriately applied and useful on later relevant work. Retain contrary findings and revisit a review method that produces false criticism or avoidable effort.
 
 ## Feedback and completion
 
