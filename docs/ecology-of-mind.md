@@ -12,11 +12,11 @@ The Twins form the atomic operating unit within that ecology. Their complementar
 
 *Illustrative study, not a canonical specification. This image may change. The written definitions below and the [common operating contract](operating-contract.md) govern interpretation.*
 
-The nucleus represents the role's shared purpose, contract and units of account. Together with the two agents, it forms the atomic operating unit. Orbits depict complementary, reversible engagement; crawlers are temporary contributors outside the enduring pair. [Full-size image](../brand/assets/cognitive-dipole-v1.png) · [Brand asset catalogue](../brand/README.md#architecture-artwork).
+The nucleus represents the role's [combined governing basis](#combined-role-basis), including its purpose, contract and units of account. Together with the two agents, it forms the atomic operating unit. Orbits depict complementary, reversible engagement; crawlers are temporary contributors outside the enduring pair. [Full-size image](../brand/assets/cognitive-dipole-v1.png) · [Brand asset catalogue](../brand/README.md#architecture-artwork).
 
 ## The atomic operating unit
 
-Each enduring role comprises two agents and one shared contract, including the role description. This arrangement is a cognitive dipole, also called the Twins. It carries one purpose and outward accountability.
+Each enduring role comprises two agents around one combined governing basis, including its role description. This arrangement is a cognitive dipole, also called the Twins. It carries one purpose and outward accountability.
 
 Both agents begin from the same relevant specification: model, available capabilities, governing guidance, role contract and starting context. They adopt opposite, complementary relational polarities: doer / builder / giver / emissary and observer / active receiver / reviewer. Both retain complete OODAs. Their experience and interpretations may differ as they work.
 
@@ -26,7 +26,7 @@ Here, atomic names the enduring role's working and accountability arrangement. S
 
 | Component | Contribution and boundary |
 | --- | --- |
-| Enduring role | Continuing responsibility, one contract and two participating agents. |
+| Enduring role | Continuing responsibility, one combined governing basis and two participating agents. |
 | Agent | A participant that observes, orients, decides and acts within its assignment. A replacement context can restore its work and relationship. |
 | Model and context | The model supplies capabilities; the context holds the currently available guidance, evidence and work. Neither alone is the role's contract or durable continuity. |
 | Skill, tool or smaller process | A reusable method, access mechanism or contribution to work. It need not become a separate agent. |
@@ -34,6 +34,14 @@ Here, atomic names the enduring role's working and accountability arrangement. S
 | Brief, record and private binding | Current aims and decisions, retained work and evidence, or the configured route to a source or service, each with a maintained owner. |
 
 The [seven-section role template](../roles/ROLE-TEMPLATE.md) specifies the enduring domain responsibilities and interfaces. The task brief supplies changing work, permissions, effort and acceptance conditions. Shared operating rules belong in the common contract, methods in their skills, and live state in existing work records.
+
+## Combined role basis
+
+The role's nucleus combines its selected shared role definition and the sovereign's private application, together with its purpose, accountability and relevant system-wide units of account. The shared definition supplies reusable purpose, principles and responsibilities. The private contract interprets and applies that basis through the sovereign's aims, working relationship, chosen team, authorised context and accumulated experience. It connects memory, relationships and live work at their maintained owners.
+
+Both agents receive this whole governing basis and retrieve the relevant authorised records. Neither is assigned exclusively to one definition or repository. One accepted role contract can span these linked definitions; no third assembled contract file is needed. Record the selected shared revision and deliberate private adaptations. Reconcile material conflicts within existing authority rather than silently selecting the newest file.
+
+Reuse an existing shared role reference where suitable. Where none exists, the [role template](../roles/ROLE-TEMPLATE.md) and [common operating contract](operating-contract.md) supply the shared structure directly. A private application need not duplicate every shared principle or be published upstream. Its useful lessons can inform shared improvements through deliberate, permitted contribution and review.
 
 ## Complementary ways of attending
 
@@ -124,3 +132,4 @@ This is Ben's proposed harness architecture. Its conceptual inspirations, method
 - [Saha and Husain's *Do Automated Evals Work?*](https://parlance-labs.com/blog/posts/auto-evals/) and [Anthropic's agent-evaluation guidance](https://www.anthropic.com/research/demystifying-evals-for-ai-agents) inform retained cases, missed failures, false criticism, grader calibration and inspection of actual outcomes.
 
 Related precedents include [CAMEL](https://arxiv.org/html/2303.17760v2), [CAFE](https://arxiv.org/html/2608.24794v2) and [Lucas's *Evolving an Integral Ecology of Mind*](https://www.calresco.org/lucas/eiem.htm). Their agent arrangements, training mechanisms and evidential claims differ. They do not validate this exact design or establish its novelty. Its usefulness depends on what the implemented harness demonstrates.
+

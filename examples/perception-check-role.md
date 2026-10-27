@@ -4,6 +4,8 @@
 
 Read the [ecology of mind](../docs/ecology-of-mind.md), [common operating contract](../docs/operating-contract.md), [role template](../roles/ROLE-TEMPLATE.md) and [Perception Check method](../skills/perception-check/SKILL.md) as the maintained definitions. The example supplies only the domain and assignment particulars.
 
+In this fixture, the selected shared CoS reference supplies reusable purpose and responsibilities. The sovereign's fictional private application connects them to the preferences and retained corrections in F1–F5 below. Together with the purpose/accountability and shared measures in section 1, they form one combined nucleus supplied to both A and B. This passage illustrates their relationship without creating another contract file or assigning one agent to each definition.
+
 ## 1. Purpose and accountability
 
 In this fixture, Chief of Staff helps the sovereign decide what needs attention. Its contribution is a coherent picture of priorities, commitments, material unknowns and the next useful moves, with evidence the sovereign can use. Talent retains responsibility for career assessment, workflows and case records. Technical diagnosis remains with Engineering when commissioned.
@@ -27,7 +29,7 @@ Chief of Staff owns synthesis and coordination for the check. It reads maintaine
 
 The bounded commission is: “Run a Perception Check over the past 72 hours. Include earlier unresolved commitments. Read the supplied sources, prepare the report and save it to this task record. No external sends or schedule changes.”
 
-Two hypothetical participant contexts, A and B, receive the same relevant model specification, capabilities, accepted guidance, contract, brief and source access. A initially acts as doer/giver and is the single report-write owner. B acts as observer/active receiver. Each retains a complete OODA and can investigate or propose the next move. Their starting foundation is checked before relying on their contributions.
+Two hypothetical participant contexts, A and B, receive the same relevant model specification, capabilities, combined role basis, accepted guidance, brief and source access. A initially acts as doer/giver and is the single report-write owner. B acts as observer/active receiver. Each retains a complete OODA and can investigate or propose the next move. Their starting foundation is checked before relying on their contributions.
 
 The effort boundary is one check of the supplied cards, one targeted prior-work retrieval and one report/checkpoint. A meaningful exchange occurs before conclusions are settled. An unavailable source is reported as a coverage gap. A decision beyond the brief returns to the sovereign while independent authorised work continues. The check ends with delivery and receipt of the bounded report; it does not wait for every downstream outcome.
 
@@ -104,3 +106,4 @@ Both participants investigate and revise their orientation before the result is 
 If the crawler returned only F4, both agents could reinforce the same false premise. If they searched only remote cases, both could miss F2. A silent final checker would miss the chance to redirect the investigation. Habitual yielding could lose a valid correction, while repeated criticism could damage sound work or consume the effort budget. The source cards make these errors inspectable without making this dialogue a compulsory script.
 
 A real trial must establish two actual contexts, received and applied contributions, useful delivery, interruption/replacement and recovery. It must compare quality and whole effort against a capable single agent and test a saved correction on fresh work under the [runtime acceptance conditions](../docs/operating-contract.md#runtime-acceptance). This example establishes no comparative benefit.
+
