@@ -21,6 +21,12 @@ Mark an unresolved route **pending**, name what must be recovered and give the n
 
 These entries connect [shared machinery and sovereign sleeves](../README.md#shared-and-private-harnesses). Separate files or sleeves only where purpose, stewardship, access or lifecycle warrants it. Projects can remain independent. Private experience does not become a shared contribution automatically: select permitted material, remove private dependencies, review the proposed improvement, then adopt an accepted shared update deliberately.
 
+## Private AGENTS: orient an arriving agent
+
+Keep a short private `AGENTS.md` alongside the human-readable README. Route the agent to the selected accepted shared basis through the configuration owner, the sovereign profile, chosen-role directory and relevant role contracts. Reuse maintained guidance rather than copying shared repository contribution rules or whole policies. The role directory can remain `roles/README.md`; its filename need not match shared `ROLES.md`.
+
+The setup owner configures and verifies how the selected runtime receives this guidance through [instruction loading](getting-started.md#configure-instruction-and-skill-loading). Matching filenames do not establish automatic loading or inheritance. Preserve existing project instructions and the private-profile connection.
+
 ## Optional unfinished-work stub
 
 Use this where an agreed next piece needs a durable home before it is built. Use or update an existing ticket or task record rather than creating a second queue.
