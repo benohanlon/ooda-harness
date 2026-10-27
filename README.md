@@ -412,4 +412,3 @@ If you share or adapt the project, please credit Ben and link to the original pr
 [Original project](https://github.com/benohanlon/ooda-harness) · [Writing, resume and contact](https://linktr.ee/benohanlon)
 
 ---
-

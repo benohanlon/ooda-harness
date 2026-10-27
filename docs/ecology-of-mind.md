@@ -132,4 +132,3 @@ This is Ben's proposed harness architecture. Its conceptual inspirations, method
 - [Saha and Husain's *Do Automated Evals Work?*](https://parlance-labs.com/blog/posts/auto-evals/) and [Anthropic's agent-evaluation guidance](https://www.anthropic.com/research/demystifying-evals-for-ai-agents) inform retained cases, missed failures, false criticism, grader calibration and inspection of actual outcomes.
 
 Related precedents include [CAMEL](https://arxiv.org/html/2303.17760v2), [CAFE](https://arxiv.org/html/2608.24794v2) and [Lucas's *Evolving an Integral Ecology of Mind*](https://www.calresco.org/lucas/eiem.htm). Their agent arrangements, training mechanisms and evidential claims differ. They do not validate this exact design or establish its novelty. Its usefulness depends on what the implemented harness demonstrates.
-

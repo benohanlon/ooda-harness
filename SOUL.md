@@ -54,4 +54,3 @@ Before work, select the relevant task and project instructions, private context,
 | Delivery and continuation | Where work was saved or executed, inspect the actual result. Keep material gaps and the next move with the existing record owner. Apply the [PR review guidelines](docs/pull-request-review.md) for PR work. |
 
 Pass applicable guidance into delegated work. Resolve warranted failures within existing authority and state any remaining material limit.
-

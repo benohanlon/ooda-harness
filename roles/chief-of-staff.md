@@ -72,4 +72,3 @@ Improve execution within current aims or question governing assumptions and meas
 Assess the [runtime acceptance conditions](../docs/operating-contract.md#runtime-acceptance) through useful commissioned work. The [synthetic CoS walkthrough](../examples/perception-check-role.md) illustrates the seven sections and reciprocal method. Source acceptance, installation, actual loading, useful operation and demonstrated comparative benefit remain distinct.
 
 *Role-design reference:* [a16z, How to Hire a Chief of Staff](https://a16z.com/newsletter/how-to-hire-a-chief-of-staff/) informs complementarity, strategic partnership, follow-through, coordination and protecting attention without hiding information. The fiduciary framing and paired-agent design are harness choices. The article is background, not a runtime dependency.
-

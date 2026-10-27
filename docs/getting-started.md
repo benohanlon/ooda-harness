@@ -110,4 +110,3 @@ Finish configuration with the [private-profile connection step](#finish-installa
 This path applies the harness's existing version, private-context and recovery boundaries. Its goal-led sequence and expected results draw on [Diátaxis](https://diataxis.fr/how-to-guides/), [Google's procedure guidance](https://developers.google.com/style/procedures) and [HSE's user/task-centred guidance](https://www.hse.gov.uk/humanfactors/topics/procedures.htm). Runtime notes cite their own official sources. These references inform guide design; they do not establish operational performance of this harness.
 
 [Profile template](sovereign-profile-template.md) · [Roles](../ROLES.md) · [Skills](../SKILLS.md) · [README](../README.md)
-

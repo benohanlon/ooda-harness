@@ -106,4 +106,3 @@ Both participants investigate and revise their orientation before the result is 
 If the crawler returned only F4, both agents could reinforce the same false premise. If they searched only remote cases, both could miss F2. A silent final checker would miss the chance to redirect the investigation. Habitual yielding could lose a valid correction, while repeated criticism could damage sound work or consume the effort budget. The source cards make these errors inspectable without making this dialogue a compulsory script.
 
 A real trial must establish two actual contexts, received and applied contributions, useful delivery, interruption/replacement and recovery. It must compare quality and whole effort against a capable single agent and test a saved correction on fresh work under the [runtime acceptance conditions](../docs/operating-contract.md#runtime-acceptance). This example establishes no comparative benefit.
-

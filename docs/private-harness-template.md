@@ -37,4 +37,3 @@ Use this where an agreed next piece needs a durable home before it is built. Use
 A role assembly ticket should connect the selected shared basis and private application into [one governing nucleus](ecology-of-mind.md#combined-role-basis) with its purpose, accountability and relevant system-wide units of account. Supply both agents with that whole basis, relevant private relationship and experience, and the current bounded assignment. Use the existing assembly path for two actual contexts, reciprocal work, capabilities, records and recovery. Preparing a contract is distinct from commissioning participants or demonstrating useful operation. Installation can finish while that role work remains pending.
 
 [Return to private-harness setup](getting-started.md#create-or-connect-your-private-harness)
-

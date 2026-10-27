@@ -140,4 +140,3 @@ Exercise both participants using the common [Runtime acceptance](../docs/operati
 Check meaningful reciprocal reconsideration, accepted steering from the sovereign, preserved sound work, authority, one action owner, participant replacement and exact recovery. Show that the role's OODA contribution changes an observable decision, action or handoff. Repeating the instructions or naming OODA is insufficient.
 
 State loading/access limits and retain actual results. Publication, installation, loading, execution and useful outcomes remain separate statuses. The [synthetic Perception Check](../examples/perception-check-role.md) walks through all seven sections and reciprocal work. The [research assignment](../examples/research-assignment.md) illustrates another domain. Neither establishes runtime acceptance.
-
