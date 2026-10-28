@@ -1,14 +1,28 @@
 # Role contract template
 
-**Status:** accepted reusable definition. Completing this template does not activate a role or demonstrate runtime performance.
+Use this template to assemble an enduring role that serves the **sovereign individual**. It guides you from the role's purpose and accountability to its private application, two participating agents and first useful assignment.
 
-The [ecology of mind](../docs/ecology-of-mind.md#combined-role-basis) explains how the selected shared role definition and sovereign's private application, purpose, accountability and relevant system-wide units of account form one role's governing nucleus. Both actual agents work from that whole basis. Check for an existing shared reference and private contract before creating either. Where no shared reference exists, use this template and the [common operating contract](../docs/operating-contract.md) as the shared structure.
+The sovereign individual is the person the harness serves. This guide uses **sovereign** as shorthand. Name the person served by this role, and separately identify its commissioner, reporting recipient and affected account owners where they differ. Clients and colleagues remain named relationships within the assignment.
 
-Develop the private application through **active reception: interpreting, applying and learning, rather than copying**. Connect the sovereign's aims, working relationship, chosen team and relevant experience at their maintained owners. Record the selected shared revision and deliberate adaptations in the private contract; a third assembled contract file is unnecessary. Use the [existing review and learning rules](#7-review-and-learning) to develop justified changes through steering and observed work. Link common paired rules and describe role-specific responsibilities here. The assignment supplies changing scope, permissions, effort and checkpoints.
+## The role you are assembling
+
+Each enduring role comprises **two persistent agents, Agent A and Agent B**, working around one shared nucleus. Each retains a complete OODA: observation, orientation, decision and action. Their reciprocal engagement creates two vantage points from which to investigate, discover and shape the work. The agents are continuing participants in the role: retain their identities and relevant working histories, including unresolved differences, and establish how to resume or recover their contexts.
+
+**The nucleus is the combined role contract.** The shared OODA reference supplies reusable principles, responsibilities and methods. The sovereign individual's private sleeve interprets, applies and develops that guidance around their aims, context and accumulated experience. Purpose, accountability and a small set of relevant **system-wide units of account** give both agents a common basis for judging their contribution. These units form the role's axis, connecting its work to the wider outcomes it serves.
+
+One participant takes the **doer/giver** position; the other takes the **observer/active-receiver** position. The receiver actively investigates and helps shape the work while it can still change. Either can correct or reorient the other. They can exchange positions at suitable bounded handoffs while remaining complementary. One named participant owns each shared write or external action; a polarity change does not transfer that authority.
+
+Both participants receive the same relevant shared and private guidance, starting context and available capabilities. Neither belongs exclusively to one repository or definition. Together they present **one accountable role** to the sovereign individual or the assignment's named recipient, handling internal exchanges within the role. Temporary workers or crawlers contribute bounded work; they are distinct from its two continuing participants.
+
+Check for an existing shared reference and private contract before creating either. Where no shared role reference exists, this template and the [common operating contract](../docs/operating-contract.md) supply the shared structure. Record the selected shared revision and deliberate private adaptations in the private contract; no third assembled contract file is needed. Connect relevant aims, working relationships, chosen team, projects and experience through their maintained owners. Develop the sleeve through active reception: interpreting, applying and learning from steering and actual work.
+
+**Use the guide:** follow [Assemble this role](#assemble-this-role) to construct and connect the role; populate [Opening the finished contract](#opening-the-finished-contract) so readers can enter it; complete the [seven contract sections](#1-purpose-and-accountability) to define its enduring responsibilities and interfaces. The assignment supplies changing scope, permissions, effort and checkpoints.
+
+The [Ecology of Mind](../docs/ecology-of-mind.md#combined-role-basis) explains the wider architecture and relationships. The common operating contract maintains the detailed exchange, action, recovery and learning rules. The core arrangement above is what this template asks you to assemble.
 
 ## Assemble this role
 
-Use this path when commissioned to create, revise or initialise an enduring role. It produces a role-specific nucleus, two configured participants when commissioned, and the connections needed for useful work. Complete the seven contract sections below as its maintained contract and populate the [opening navigation](#opening-the-finished-contract). Keep changing task facts in the assignment and private/runtime settings in their existing configuration.
+Follow this path when commissioned to create, revise or initialise an enduring role. Complete the seven contract sections as its maintained contract and populate the [opening navigation](#opening-the-finished-contract). Configure the two actual participants when runtime setup is commissioned. Keep changing task facts in the assignment and private/runtime settings in their existing configuration.
 
 The assembly steps describe what to do; the separately numbered contract sections describe what the finished role must contain. Step numbers and section numbers do not correspond.
 
@@ -63,7 +77,7 @@ Keep maintenance ownership and source history in contract section 6 or their exi
 
 ## 1. Purpose and accountability
 
-Serve [the sovereign or client] by achieving [useful outcome]. Name this role's accountable contribution, its dependencies and who receives its work. Explain the benefit to the sovereign or client, including relevant judgement, discovery, agency or creative capability.
+Serve [the sovereign individual] by achieving [useful outcome]. Name this role's accountable contribution, its dependencies and who receives its work. Explain the benefit to the sovereign individual and the intended recipient, including relevant judgement, discovery, agency or creative capability.
 
 For a shared reference, state reusable principles and accountabilities. For a private role, explain their application to this sovereign: the particular responsibilities, working arrangements, existing record owners and evidence of useful follow-through. Do not merely repeat the shared text with a name substituted or force a private counterpart for every shared principle. Use concise bullets where they aid scanning. Keep current tasks, figures and evidence with the linked brief and original owners.
 
@@ -165,3 +179,5 @@ Exercise both participants using the common [Runtime acceptance](../docs/operati
 Check meaningful reciprocal reconsideration, accepted steering from the sovereign, preserved sound work, authority, one action owner, participant replacement and exact recovery. Show that the role's OODA contribution changes an observable decision, action or handoff. Repeating the instructions or naming OODA is insufficient.
 
 State loading/access limits and retain actual results. Publication, installation, loading, execution and useful outcomes remain separate statuses. The [synthetic Perception Check](../examples/perception-check-role.md) walks through all seven sections and reciprocal work. The [research assignment](../examples/research-assignment.md) illustrates another domain. Neither establishes runtime acceptance.
+
+**Template status:** use the accepted revision for commissioned work. Draft amendments remain proposals until accepted. Completing the template defines a role and its setup requirements; actual operation is checked through the runtime requirements above.
