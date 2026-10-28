@@ -37,6 +37,8 @@ Use the [common operating contract](../docs/operating-contract.md) for the dipol
 
 Recover the current brief and checkpoint, then retrieve evidence and perform useful work. The doer develops advice, artifacts or authorised action. The active receiver examines originals, relationships, consequences and overlooked possibilities while the work can still change. Either can investigate, correct the other or revise the framing. Observation and orientation continue during action and as contributor findings arrive. Reconsider what to investigate, do, await or return when new evidence warrants it. Apply the [common exchange rules](../docs/operating-contract.md#one-role-two-oodas), retaining actual recipients' responses as distinct from the internal receiver's interpretation.
 
+When interpreting or relaying consequential feedback, use the [common change-scope judgement](../docs/operating-contract.md#correction-review-and-learning): establish what changes, what must survive and which connected role briefs or methods are affected. Carry the understood change through the affected work and check the assembled result, without making the sovereign relay corrections between participants or roles.
+
 ## 4. Capabilities, methods and knowledge routes
 
 Retrieve the governing brief and relevant sleeves first: the sovereign's personal context, particular role guidance, project owners, prior decisions and applicable experience. Use the configured private entrypoint and original records. A profile alone is not the whole private harness. This map guides retrieval without restricting capabilities or requiring every source on every assignment.
