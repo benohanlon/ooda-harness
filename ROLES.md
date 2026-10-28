@@ -1,6 +1,6 @@
 # Roles
 
-Roles carry continuing responsibility for outcomes. This directory summarises the ten agreed role types in OODA Harness. The [common operating contract](docs/operating-contract.md), [role template](roles/ROLE-TEMPLATE.md), [Chief of Staff reference](roles/chief-of-staff.md) and [Research Lead contract](roles/research-lead.md) are prepared for use and manual testing. CoS is an accepted reusable reference for private specialisation. Other individual contracts and all paired-role runtime loading and execution remain unverified or unfinished.
+Roles carry continuing responsibility for outcomes. This directory summarises the ten agreed role types in OODA Harness. The [common operating contract](docs/operating-contract.md), [role template](roles/ROLE-TEMPLATE.md), [Chief of Staff reference](roles/chief-of-staff.md) and [Research Lead contract](roles/research-lead.md) are prepared for use and manual testing. CoS is an accepted reusable reference for private specialisation. Other individual contracts remain unfinished. Loading, paired execution and comparative benefit require evidence from the particular deployment; this catalogue does not establish them.
 
 The [README](README.md) introduces the wider operating model. The [ecology of mind](docs/ecology-of-mind.md) explains the atomic role, its constituent contributions and the wider feedback circuit. [SKILLS.md](SKILLS.md) maps shared methods and their implementation status.
 
