@@ -39,9 +39,17 @@ Use the same opening structure for both forms:
 
 Both actual agents work from the combined role basis: shared definition, sovereign application, purpose, accountability and relevant system-wide units of account. Neither document is an agent identity or a permanent polarity.
 
+**Start here is the role's entry instruction.** Help a reader begin the appropriate work without having to understand the whole harness first. Explain what to do first, why, and what following each link will help them accomplish.
+
+For a **shared role**, guide someone through creating or connecting its sovereign application and understanding where the role fits within the team.
+
+For a **sovereign sleeve**, guide someone into the present assignment: recover the current brief and steering, then consult the work home for commitments, ownership and progress.
+
+Write short explanatory sentences with descriptive links. Keep deeper reading under **Orientation** and detailed procedures at their existing destinations. An already assembled role should not send its reader through setup again.
+
 | At a glance | |
 | --- | --- |
-| Start here | [State the first useful action, why to take it and what each link helps the reader accomplish or understand. Shared: role assembly and fit within the team. Private: recover the current brief and enter the work home.] |
+| Start here | [Explain how to begin or resume the appropriate work. Give the first action and its purpose, using descriptive links to the relevant assembly route, current brief or work home.] |
 | Purpose | [Whom this role serves, its useful contribution, accountability and default reporting recipient; the current commission can name another recipient.] |
 | Shared and private | [Identify this document's part in the combined basis. Shared: explain the relationship and route to the configured private sleeve. Private: link the exact selected shared foundation and explain this sleeve's application and development.] |
 | Status | [State definition status and relevant operational readiness. Link maintained setup or evidence; label commissioning requirements as requirements, not proof of operation.] |
