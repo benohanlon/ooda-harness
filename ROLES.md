@@ -1,19 +1,19 @@
 # Roles
 
-Roles carry continuing responsibility for outcomes. This directory summarises the ten agreed role types in OODA Harness. The [common operating contract](docs/operating-contract.md), [role template](roles/ROLE-TEMPLATE.md), [Chief of Staff reference](roles/chief-of-staff.md) and [Research Lead contract](roles/research-lead.md) are prepared for use and manual testing. CoS is an accepted reusable reference for private specialisation. Other individual contracts and all paired-role runtime loading and execution remain unverified or unfinished.
+Roles carry continuing responsibility for outcomes. This directory summarises the ten agreed role types in OODA Harness. The [common operating contract](docs/operating-contract.md), [role template](roles/ROLE-TEMPLATE.md), [Chief of Staff reference](roles/chief-of-staff.md) and [Research Lead contract](roles/research-lead.md) are prepared for use and manual testing. CoS is an accepted reusable reference for private specialisation. The [Head of Talent reference](roles/head-of-talent.md) is a draft for candidate-side career work; its publication does not establish assembly or operation. Other individual contracts and all paired-role runtime loading and execution remain unverified or unfinished.
 
 The [README](README.md) introduces the wider operating model. The [ecology of mind](docs/ecology-of-mind.md) explains the atomic role, its constituent contributions and the wider feedback circuit. [SKILLS.md](SKILLS.md) maps shared methods and their implementation status.
 
 ## First implementation
 
-Assemble [Chief of Staff](roles/chief-of-staff.md) through the [role template](roles/ROLE-TEMPLATE.md#assemble-this-role). Start with a bounded assignment using [Perception Check](skills/perception-check/SKILL.md), then a career assignment through Chief of Staff and Head of Talent. Head of Harness Engineering owns the build and its reliability. Add further roles when continuing work needs a distinct owner. The ten role types below do not imply ten deployed roles or twenty always-on agents.
+Assemble [Chief of Staff](roles/chief-of-staff.md) through the [role template](roles/ROLE-TEMPLATE.md#assemble-this-role). Start with a bounded assignment using [Perception Check](skills/perception-check/SKILL.md), then a career assignment through Chief of Staff and [Head of Talent](roles/head-of-talent.md). Head of Harness Engineering owns the build and its reliability. Add further roles when continuing work needs a distinct owner. The ten role types below do not imply ten deployed roles or twenty always-on agents.
 
 ## Agreed responsibilities
 
 | Role | Responsibility |
 | --- | --- |
 | **[Chief of Staff](roles/chief-of-staff.md)** | Maintain the whole picture: orientation, priorities, coordination, challenge and review. Coordinate the enduring team and temporary contributors within authority. Integrate specialist findings and bring you progress, recommendations and decisions that need your judgement. |
-| **Head of Talent** | Own the career remit, including opportunities, recruiters, assessment, applications, interviews and progression. This combines the earlier Career Lead, Executive Recruiter and Executive Career Agent responsibilities. |
+| **[Head of Talent](roles/head-of-talent.md)** | Serve the sovereign on the candidate side of executive search: career direction, evidence, Closed/Open/Network Loops, qualification, recruiter and decision-maker access, applications, interviews, offers and learning. This combines the earlier Career Lead, Executive Recruiter and Executive Career Agent responsibilities. |
 | **Head of Business Development** | Win worthwhile fractional and client work, from understanding buyer problems and selecting an offer through qualification, proposals, terms and commercial follow-through. |
 | **Creative Director** | Own creative direction and quality across writing, graphics, memes, animation and video. Preserve argument, research fidelity, voice and meaning, while keeping each publication or project's brief, brand, evidence and assets distinct. |
 | **Project Lead — per project** | Own a project's agreed outcomes, scope, workplan, dependencies, stakeholders, delivery and results. Use the same role definition with a separate private brief and state for each project. |
@@ -52,3 +52,4 @@ Follow the [role assembly path](roles/ROLE-TEMPLATE.md#assemble-this-role), then
 Each role reviews its work and retains useful learning. Head of Harness Engineering adds independent scrutiny of the wider system; existing task and change owners retain their decisions.
 
 Before treating a role as operational, exercise both participants: retrieve and apply the accepted guidance and original sources, exchange consequential findings during work, reconcile new steering from the sovereign, complete useful authorised work and restore both perspectives after interruption. Verify that uncertain effects are checked before retrying and that one coherent handover reaches its owner. Use the [runtime acceptance conditions](docs/operating-contract.md#runtime-acceptance). An agreed role type, two named agents or a saved document alone does not establish that capability.
+
