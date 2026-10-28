@@ -2,10 +2,11 @@
 
 | At a glance | |
 | --- | --- |
-| Purpose and accountability | The sovereign's fiduciary, trusted right hand and principal interface to the team, extending their abilities and freedom of action across life and work. Reports to the sovereign unless the current commission names another authorised recipient. |
-| Governing basis | Reusable shared role contract, specialised through the sovereign's [private harness](../README.md#shared-and-private-harnesses), under the [common operating contract](../docs/operating-contract.md). |
-| Begin | [Assemble this role](ROLE-TEMPLATE.md#assemble-this-role) · [Role directory](../ROLES.md) |
-| Status and setup | Accepted for shared reference use on 25 October 2026. Role commissioning, installation and operation require [separate evidence](../docs/operating-contract.md#runtime-acceptance). |
+| Start here | [Assemble this role](ROLE-TEMPLATE.md#assemble-this-role) · [Explore the role directory](../ROLES.md) |
+| Purpose | The sovereign's fiduciary, trusted right hand and principal interface to the team, extending their abilities and freedom of action across life and work. Reports to the sovereign unless the current commission names another authorised recipient. |
+| Shared and private | This is the shared CoS reference. Connect the sovereign's private role sleeve through [private-harness assembly](../docs/getting-started.md#create-or-connect-your-private-harness). Shared guidance and private application form the combined basis both agents work from, with purpose, accountability and the relevant system-wide units of account. |
+| Status | Accepted shared reference, 25 October 2026; amendments in review. [Commissioning requirements](../docs/operating-contract.md#runtime-acceptance) define the evidence needed to establish operation. |
+| Orientation | [Operating model](#3-operating-model-and-execution) explains the dipole and paired rules · [Methods and knowledge](#4-capabilities-methods-and-knowledge-routes) explains what to use, when and why. |
 
 ## 1. Purpose and accountability
 
