@@ -4,6 +4,12 @@
 
 **Private alpha.** No public installation release date is confirmed.
 
+OODA Harness is a sovereign personal operating system and second brain designed to use AI to extend your capabilities and increase your freedom of action and expression. It builds on the knowledge, tools, relationships and experience you already have.
+
+**The [Chief of Staff](roles/chief-of-staff.md) is your principal interface to the agentic team.** It is how you enter and bring the harness's capabilities into play: express your intentions, orient with the team, commission and steer work, and receive coherent judgement and follow-through across its roles.
+
+A reusable shared foundation connects to your private Sovereign Harness, which retains your particular context, relationships, long-term memory and worked experience. You can adopt selected shared improvements while developing your own edge, with continuity as models and providers change.
+
 ## Start here: the harness at a glance
 
 1. **Purpose.** A personal operating system and second brain connecting knowledge, specialist capabilities and follow-through in service of agency, freedom of action and expression. [Purpose](#1-purpose).
@@ -14,9 +20,7 @@
 
 [SOUL](SOUL.md) · [Ecology of mind](docs/ecology-of-mind.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md) · [Lists](LISTS.md) · [Brand guide](brand/README.md)
 
-Welcome to the real OODA Harness. OODA stands for Observe, Orient, Decide and Act. [John Boyd](https://slightlyeastofnew.com/wp-content/uploads/2010/03/essence_of_winning_losing.pdf) described its role in enabling us to “comprehend, shape, adapt to and in turn be shaped by an unfolding evolving reality that is uncertain, everchanging, and unpredictable.” OODA is a non-linear process of continuing reorientation and feedback, rather than a fixed sequence of four steps.
-
-OODA Harness offers you a sovereign personal operating system and second brain that uses AI to extend your capabilities and strengthen your situational awareness. Sovereignty means owning your intelligence stack and using it on your terms. We are building a modular harness in which you retain what you have built while changing or augmenting the components that serve you. Its purpose is to give you control over your means of production, so your ability to be absurdly productive is not at the mercy of a single provider’s Trust & Safety decisions or the arbitrary consequences of geopolitics.
+OODA stands for Observe, Orient, Decide and Act. [John Boyd](https://slightlyeastofnew.com/wp-content/uploads/2010/03/essence_of_winning_losing.pdf) described its role in enabling us to “comprehend, shape, adapt to and in turn be shaped by an unfolding evolving reality that is uncertain, everchanging, and unpredictable.” OODA is a non-linear process of continuing reorientation and feedback, rather than a fixed sequence of four steps.
 
 Like a Celtic knot, the harness’s system design intends to connect and extend capabilities so that work on one part can improve results elsewhere and strengthen the whole. The aim is to multiply the effect of your investment of time and attention, so you get more done with less. Reinvesting the capacity saved on execution can create further value, allowing the gains to compound. This gives you greater freedom and focus to express yourself in the world.
 
@@ -35,6 +39,8 @@ You are the sovereign, the human in the loop. The harness is your right hand and
 ## 1. Purpose
 
 **The human vision is the primary mover.** Your intentions, values and creativity give OODA Harness its purpose and direction. The harness exists to increase your agency: your ability to choose, express and act on those intentions and values.
+
+Sovereignty means owning your intelligence stack and using it on your terms. We are building a modular harness in which you retain what you have built while changing or augmenting the components that serve you. Its purpose is to give you control over your means of production, so your ability to be absurdly productive is not at the mercy of a single provider’s Trust & Safety decisions or the arbitrary consequences of geopolitics.
 
 Our aspiration is consummate mastery of our environment: the ability to understand the situation, act skilfully, communicate and realise that vision with increasing freedom, at scale.
 
@@ -55,7 +61,7 @@ We draw on manoeuvre warfare as a strategic lens. The ambition is cognitive supr
 
 The **shared OODA Harness** provides reusable principles, common contracts, role templates, reference roles, skills and assembly guidance. It is the intended commons, currently a private alpha. Public release and licence selection remain separate decisions.
 
-Your **private sovereign harness** is the personal implementation you maintain around a chosen shared revision: your profile, chosen team, customised responsibilities, private bindings and connections to projects and experience. It can reference shared definitions while retaining your own adaptations. The runtime hosts the actual agents; the repositories and other chosen stores preserve their guidance and continuity.
+Your **private sovereign harness** is the personal implementation you maintain around a chosen shared revision: your profile, chosen team, customised responsibilities, private bindings and connections to projects and experience. It can reference shared definitions while retaining your own adaptations. The runtime hosts the actual agents; the repositories and other chosen stores preserve their guidance and continuity. Connect existing work through its maintained owners so the harness can extend what you already have.
 
 Use **OODA Harness** / `ooda-harness` for the shared foundation and `sovereign-<individual>-harness` for its private application. Use `sovereign-individual-harness` as the generic example and replace `individual` with the person's chosen identifier, for example `sovereign-alex-harness`. These names identify the harness; its private home can be a repository, folder or another chosen store. Adopting the convention in an existing installation requires reconciling its actual source routes and bindings through the [update path](docs/getting-started.md#update-an-existing-installation). A new name does not itself rename a repository or change an installed connection.
 
