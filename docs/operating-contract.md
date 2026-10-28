@@ -75,6 +75,8 @@ Use one accepted current basis and outward continuation. At a meaningful checkpo
 - Material evidence, each participant's relevant provisional view, unresolved disagreement and missing access.
 - Remaining effort, next authorised move, owner, result destination and condition for resuming or returning.
 
+Treat a summary as a selective representation, not the complete account. Preserve decision-relevant context, uncertainty and unresolved differences. When an omission could change the next move, recover the original evidence and reconcile later corrections and current steering.
+
 Derive totals from saved item records and state the counting unit. A timeout, disconnected session or busy interface does not establish completion. A saved artifact is not a delivered handover. Verify receipt or identify the agreed recipient check without implying an unscheduled follow-up will occur.
 
 If a participant becomes unavailable, save progress and state that paired operation is degraded. Continue only work whose authority and acceptance conditions still hold. Record what must wait, who can restore or replace the participant, and when to return to the assigning owner. Do not label solo continuation as a completed paired review.
