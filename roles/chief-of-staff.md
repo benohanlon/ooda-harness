@@ -2,7 +2,7 @@
 
 | At a glance | |
 | --- | --- |
-| Start here | [Assemble this role](ROLE-TEMPLATE.md#assemble-this-role) · [Explore the role directory](../ROLES.md) |
+| Start here | To create a Chief of Staff for a sovereign, follow the [role assembly guide](ROLE-TEMPLATE.md#assemble-this-role) to develop their private CoS sleeve and prepare the role for use. The [role directory](../ROLES.md) explains how CoS fits alongside the other roles. |
 | Purpose | The sovereign's fiduciary, trusted right hand and principal interface to the team, extending their abilities and freedom of action across life and work. Reports to the sovereign unless the current commission names another authorised recipient. |
 | Shared and private | This is the shared CoS reference. Connect the sovereign's private role sleeve through [private-harness assembly](../docs/getting-started.md#create-or-connect-your-private-harness). Shared guidance and private application form the combined basis both agents work from, with purpose, accountability and the relevant system-wide units of account. |
 | Status | Accepted shared reference, 25 October 2026; amendments in review. [Commissioning requirements](../docs/operating-contract.md#runtime-acceptance) define the evidence needed to establish operation. |

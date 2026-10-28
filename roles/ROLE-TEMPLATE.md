@@ -41,7 +41,7 @@ Both actual agents work from the combined role basis: shared definition, soverei
 
 | At a glance | |
 | --- | --- |
-| Start here | [Shared: link to this role's assembly route. Private: link to the current brief and work home. Name the useful next action.] |
+| Start here | [State the first useful action, why to take it and what each link helps the reader accomplish or understand. Shared: role assembly and fit within the team. Private: recover the current brief and enter the work home.] |
 | Purpose | [Whom this role serves, its useful contribution, accountability and default reporting recipient; the current commission can name another recipient.] |
 | Shared and private | [Identify this document's part in the combined basis. Shared: explain the relationship and route to the configured private sleeve. Private: link the exact selected shared foundation and explain this sleeve's application and development.] |
 | Status | [State definition status and relevant operational readiness. Link maintained setup or evidence; label commissioning requirements as requirements, not proof of operation.] |
