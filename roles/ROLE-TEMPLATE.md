@@ -8,7 +8,7 @@ Develop the private application through **active reception: interpreting, applyi
 
 ## Assemble this role
 
-Use this path when commissioned to create, revise or initialise an enduring role. It produces a role-specific nucleus, two configured participants when commissioned, and the connections needed for useful work. Complete the seven sections below as its maintained contract. Keep changing task facts in the assignment and private/runtime settings in their existing configuration.
+Use this path when commissioned to create, revise or initialise an enduring role. It produces a role-specific nucleus, two configured participants when commissioned, and the connections needed for useful work. Complete the seven sections below as its maintained contract and populate the [opening navigation](#opening-the-finished-contract). Keep changing task facts in the assignment and private/runtime settings in their existing configuration.
 
 1. **Establish the purpose and fit.** Recover the sovereign's vision and aims, intended recipient, useful outcome and adjacent-role responsibilities. Explain what this role enables the sovereign to understand, create, express or accomplish, and how that contributes to the [shared purpose](../README.md#1-purpose). Check whether an existing role already owns the work. Complete sections 1–2 with the agreed responsibility and boundaries. **Result:** the creator can explain why this role exists, whom it serves and what it owns.
 2. **Define the combined nucleus and axis.** Select the shared definition or template basis and identify its private application, purpose and accountability. In section 1, select the relevant system-wide units of account and connect the role's contribution to those outcomes. Reuse consistent definitions across contributing roles. Record the selected revisions and deliberate adaptations, resolving material conflicts within existing authority. Link the owner of current evidence, priorities, baselines and targets; retain qualitative value. **Result:** one combined governing basis ready for both participants, with unknown values identified rather than invented measures or weights.
@@ -26,16 +26,28 @@ This sequence describes assembly dependencies; the role's OODA remains nonlinear
 
 ### Opening the finished contract
 
-Use the four-row table below after the finished role's title. Summarise section 1's purpose and accountability. Identify a shared reference or private specialisation, linking the exact selected foundation where applicable.
+Every finished role begins with this five-row navigation immediately after its title. Assemble it as a compact role card: identify the role, connect its combined basis and give the reader a way in. Retain the row order, replace the placeholders and keep each entry concise. The seven sections below supply the full contract.
 
-Choose assembly/method routes for references and current brief/work/measure routes for private contracts. Link maintained status and operational evidence, recording missing setup honestly. Keep maintenance ownership and source history in section 6 or its existing record owner, and loading instructions in assembly and section 4. Avoid an introduction that repeats the table.
+Use the same opening structure for both forms:
+
+- **Shared role reference:** state reusable responsibilities and guidance, route to assembly and explain how to find the sovereign's private application through their configured harness. Do not hard-code the creator's private repository.
+- **Sovereign role sleeve:** interpret, apply and develop the shared guidance around the particular sovereign. Link the exact selected shared foundation, current brief and actual work home; connect relevant context and experience through their maintained owners. The sleeve actively receives and learns from the guidance rather than copying it.
+
+Both actual agents work from the combined role basis: shared definition, sovereign application, purpose, accountability and relevant system-wide units of account. Neither document is an agent identity or a permanent polarity.
 
 | At a glance | |
 | --- | --- |
-| Purpose and accountability | [Whom this role serves, its useful contribution and default reporting recipient; the current commission can specify another recipient.] |
-| Governing basis | [Shared reference and common rules, or private specialisation with its exact selected shared foundation and relevant sovereign sleeves.] |
-| Begin | [Routes to assemble this reference, or the private role's current brief, work home and relevant measures.] |
-| Status and setup | [Draft/accepted definition; maintained source, configuration and operational evidence routes. Distinguish definition status from actual operation.] |
+| Start here | [Shared: link to this role's assembly route. Private: link to the current brief and work home. Name the useful next action.] |
+| Purpose | [Whom this role serves, its useful contribution, accountability and default reporting recipient; the current commission can name another recipient.] |
+| Shared and private | [Identify this document's part in the combined basis. Shared: explain the relationship and route to the configured private sleeve. Private: link the exact selected shared foundation and explain this sleeve's application and development.] |
+| Status | [State definition status and relevant operational readiness. Link maintained setup or evidence; label commissioning requirements as requirements, not proof of operation.] |
+| Orientation | [Link the role's operating model and relevant methods or knowledge routes. Briefly explain what each helps the reader understand or do.] |
+
+Populate Orientation from the role's [operating model](#3-operating-model-and-execution) and [capabilities, methods and knowledge routes](#4-capabilities-methods-and-knowledge-routes). Keep detailed sources, triggers and applicability there rather than adding a second resource list or requiring the whole library on every assignment. The standing contract defines the role; its brief holds the changing assignment, and its work home holds coordination.
+
+Keep maintenance ownership and source history in section 6 or their existing record owner, and loading instructions in assembly and section 4. Record missing setup honestly. Avoid an introduction that repeats the table.
+
+**Assembly check:** follow the populated routes as a new reader. Can you identify the purpose, connect the shared and private basis, begin appropriate work and understand readiness? Each destination must do the job its label promises. Keep assembly instructions in the template; the finished role carries its populated table and full contract.
 
 ## 1. Purpose and accountability
 
