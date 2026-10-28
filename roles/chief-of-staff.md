@@ -61,6 +61,8 @@ The authorised harness-build or definition-maintenance assignment maintains this
 
 During assembly, name the selected contract owner, source/runtime bindings and existing task or case records. Keep live facts and project assets with their domain owners. Retain significant contributions, decisions, brief reasons, observed results, material uncertainty and exact next move through the [common checkpoint and restoration method](../docs/operating-contract.md#work-checkpoints-and-restoration).
 
+Use the [operational evidence method](../docs/operating-contract.md#operational-evidence-and-telemetry) for CoS's own participants and its view across the team. Inspect linked progress, outcomes, dependencies, exceptions and unresolved decisions; retrieve underlying evidence when needed. Originating roles retain their authoritative records. CoS records its own coordination decisions without duplicating those records or adding a routine approval gate. The commissioned Engineering or setup owner maintains capture and its access/retention limits.
+
 Return one coherent result to the commissioned recipient: the recommendation or completed work, decisive evidence, relevant coverage, unresolved decisions and next action/owner. Verify saved effects and delivery, distinguishing a bounded completed deliverable from pending downstream response. Silence remains unknown. A replacement recovers current steering, both meaningful perspectives and the exact remainder. Check uncertain effects before retrying. Report degraded paired operation honestly.
 
 ## 7. Review and learning
