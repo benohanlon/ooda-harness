@@ -14,6 +14,8 @@ When the user supplies a fork, treat that fork and its accepted commit as the sh
 
 ## Copy into chat
 
+If the harness is already installed and the assignment is to initialise or resume a role group, use [Bootstrap a role group](bootstrap-group.md). Reuse its installations and selected role foundations; group commissioning does not require another package installation.
+
 Replace the bracketed inputs. Use a full accepted commit SHA that contains this file so the instructions and installed package come from the same revision. Older releases without this entry point still use their own Getting started guide; do not mix a new bootstrap with an older pin silently.
 
 > Bootstrap OODA Harness using [accepted-revision link to docs/bootstrap.md in my shared repository or fork]. Target: [this environment or a named profile/workspace]; function: [interface, participant-a, participant-b or general]. Use my existing private-harness connection, or resolve it through the guide.
