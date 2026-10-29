@@ -6,6 +6,8 @@ Use this assembly path to install the shared guidance, put it into use, or updat
 
 ## Choose your path
 
+**Starting from a chat?** [Bootstrap OODA Harness](bootstrap.md) supplies the short entry instruction and routes back here for the appropriate installation path. Keep the source revision and destination explicit; the bootstrap is agent-driven, not an unattended installer.
+
 - **First installation:** follow the steps below, using the [Codex](runtimes/codex.md) or [Hermes](runtimes/hermes.md) notes for the selected runtime.
 - **Update, reinstall or refresh:** begin with [Update an existing installation](#update-an-existing-installation).
 - **Something no longer works:** use [Recover a working installation](#recover-a-working-installation).
