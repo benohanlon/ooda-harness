@@ -116,6 +116,8 @@ No public installation release date is confirmed. Releasing selected elements or
 
 ### Installation and configuration
 
+**Bootstrap from chat:** use the short copyable instruction in [Bootstrap OODA Harness](docs/bootstrap.md). It selects an accepted source revision and target, then routes the receiving agent through the maintained installation procedure. The [Hermes notes](docs/runtimes/hermes.md#interface-and-two-reusable-participants) describe the interface plus reusable A/B option and its pending runtime checks.
+
 The intended onboarding experience is one-click installation, with a short first-run step to connect the sovereign's context. This package is not yet a one-click installer.
 
 Use [Getting started](docs/getting-started.md) for the first-install, update or recovery path, with [Codex](docs/runtimes/codex.md) or [Hermes](docs/runtimes/hermes.md) setup notes. Create or connect your [private harness](docs/getting-started.md#create-or-connect-your-private-harness), then use the [role assembly path](roles/ROLE-TEMPLATE.md#assemble-this-role) when commissioning an enduring role. Put confirmed routine answers in the private bundle rather than requiring another service to supply them. Add live connections when the assignment needs them. The creator's setup history is not a prerequisite for following the guide.
