@@ -26,6 +26,8 @@ Hermes [delegation](https://hermes-agent.nousresearch.com/docs/user-guide/featur
 
 **Implementation candidate:** this maps the shared paired-role design to native Hermes groups. It does not replace the manual-session option below. End-to-end bootstrap, loading and useful room operation still require deployment-specific verification.
 
+For a short reusable commissioning entry, use [Bootstrap a role group](../bootstrap-group.md). The mapping below supplies the Hermes-specific profile, room and loading boundaries; the selected role contract and current assignment govern the work.
+
 For a single outward interface and reusable peers, use the following profile functions:
 
 | Function | Example profile | Scope |
@@ -78,3 +80,4 @@ Before paired work begins, initialise or reuse their assignment record and verif
 Use the shared [update](../getting-started.md#update-an-existing-installation) and [recovery](../getting-started.md#recover-a-working-installation) paths. Updating Hermes itself and updating the OODA package are separate changes.
 
 Official sources checked 24 October 2026; documented mechanisms are not evidence that this installation uses them. Current-package deployment, independent installation and useful paired operation remain to be demonstrated.
+
