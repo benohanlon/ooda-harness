@@ -16,6 +16,12 @@ Use the selected profile's `memories/USER.md` for compact personal essentials an
 
 Check the selected identity, project context, skill discovery and actual reference/profile access. If different instructions take precedence or a path is missing, repair that route and report the remaining gap. A file in the working directory alone does not establish identity loading.
 
+## Connect working sources and chat history
+
+Follow [Connection assembly](../connections.md) for application OAuth and cross-runtime chat visibility. Keep the source reader, secure connection and permission scope distinct. Prefer native and official options, then suitable community components, and verify the actual consuming profile. A broad recent-chat catalog can support orientation while transcript reads remain selective and permission-based.
+
+Record profile-specific connection results and updates with the existing private deployment owner. A working Codex connector is not evidence of Hermes access, and one profile's OAuth does not connect the other two. Do not add every available tool during package installation or claim two-way access from a one-direction test.
+
 ## Assemble a role deliberately
 
 Follow the [role assembly path](../../roles/ROLE-TEMPLATE.md#assemble-this-role). [Profiles](https://hermes-agent.nousresearch.com/docs/user-guide/profiles) distinguish persistent state from a running agent and warn against two processes writing the same profile home. Give both participants the relevant accepted basis while defining their state and write ownership explicitly.

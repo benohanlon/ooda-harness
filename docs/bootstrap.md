@@ -22,6 +22,8 @@ Replace the bracketed inputs. Use a full accepted commit SHA that contains this 
 
 If supplying a new private repository, add its location and accepted revision. Do not put credentials in the prompt. A private repository link is usable only after this assistant has authorised access. A fork can substitute its own repository and accepted revision.
 
+Optional application connections and two-way chat visibility follow [Connection assembly](connections.md). Configure only the commissioned destinations and permissions, retaining verification in the existing private deployment receipt. These connections are not silently installed by package bootstrap.
+
 The function is the target's place in the deployment, not an enduring operating role. `participant-a` and `participant-b` can wear different role hats. The agent verifies the actual runtime identity; a name or highlighted sidebar item is insufficient.
 
 ## Installation procedure for the receiving agent
