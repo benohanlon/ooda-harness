@@ -122,6 +122,8 @@ The intended onboarding experience is one-click installation, with a short first
 
 **Initialise an existing role group:** [Bootstrap a role group](docs/bootstrap-group.md) connects configured participants to their selected shared/private role basis, axis, current assignment and continuation. It is a reusable entry for commissioned roles, separate from installing the profiles or selecting a particular first task.
 
+**Evaluate useful group work:** [Evaluate a role group](docs/evaluating-role-groups.md) supplies human-led review questions, a fair solo baseline and a small case record. Use actual results and whole effort before claiming benefit.
+
 Use [Getting started](docs/getting-started.md) for the first-install, update or recovery path, with [Codex](docs/runtimes/codex.md) or [Hermes](docs/runtimes/hermes.md) setup notes. Create or connect your [private harness](docs/getting-started.md#create-or-connect-your-private-harness), then use the [role assembly path](roles/ROLE-TEMPLATE.md#assemble-this-role) when commissioning an enduring role. Put confirmed routine answers in the private bundle rather than requiring another service to supply them. Add live connections when the assignment needs them. The creator's setup history is not a prerequisite for following the guide.
 
 Finish each install, reinstall or refresh with the [private profile connection step](docs/getting-started.md#finish-installation-connect-your-private-profile). Reuse a working connection. If its location is unknown or access needs repair, ask the user and save their choice in that installation's private configuration.
