@@ -52,10 +52,12 @@ Use a bounded check on each commissioned direction:
 2. Confirm last-activity ordering and distinguish a title/preview from a transcript read.
 3. Read approved representative current and long chats, including relevant Unicode and a second page. Report truncation, unsupported records, media and hidden-data exclusions. A successful small fixture does not prove current-format compatibility.
 4. Verify the permission boundary and any exposed tool allowlist. Confirm that unapproved chats and write/resume/send operations are refused where serving-side enforcement is claimed.
-5. Test from the actual consuming profile through the selected connection. A local reader test or successful OAuth/tool discovery alone is insufficient.
+5. Test from the actual consuming profile through the selected connection, in a context that has actually loaded its tools. A local reader test or successful OAuth/tool discovery alone is insufficient. Verify any required native configuration refresh separately from protocol access.
 6. Observe a later update, continuation and the agreed restart/revocation behaviour before claiming those capabilities. Record whether the source host must remain awake and how a changed endpoint is recovered.
 
 Connection setup does not prove useful group cognition, automatic Master-to-room routing, unattended persistence or an improvement over one agent. Use [group bootstrap](bootstrap-group.md) and its actual useful-work/continuation checks for that separate result.
+
+Stored-history readers may expose only persisted messages or completed turns. Distinguish that coverage from streaming an unfinished turn. After a reader restart, follow its documented continuation-token recovery rather than combining stale partial pages with a new traversal.
 
 ## Keep the guide and deployment receipt current
 
