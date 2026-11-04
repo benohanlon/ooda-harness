@@ -52,6 +52,8 @@ Give one brief readiness statement with the selected basis, actual participants 
 
 Use outside evidence and results to test expectations, not only internal agreement. Retain the decision or action advanced, unresolved uncertainty, feedback owner/return condition and the whole effort, including human reconstruction or chasing. OODA continues during work; the numbered setup sections are dependencies, not a four-stage reasoning pipeline.
 
+Use [Evaluate a role group](evaluating-role-groups.md) to review the first result with the sovereign, retain consequential exchanges and develop a fair comparison. It applies the existing acceptance rules without making a benchmark programme a prerequisite for useful work.
+
 The next follow-up should recover the same continuing contexts and latest checkpoint through the native mechanism. Observe loading, consequential reciprocal exchange, coherent return and continuation separately. Apply broader [runtime acceptance](operating-contract.md#runtime-acceptance) before claiming recovery, unattended persistence or comparative advantage. Initial useful work need not wait for a benchmark programme.
 
 Re-running this entry resumes and reconciles; it does not duplicate contracts, participants or records. Shared source, private application, installed bindings and live task state retain their existing owners. Adoption or deployment of revised instructions remains deliberate.
