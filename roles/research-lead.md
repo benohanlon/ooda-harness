@@ -90,7 +90,7 @@ Deliver to the commissioning recipient and identify the decision or work the fin
 
 The authorised definition-maintenance assignment maintains this shared proposal. The sovereign accepts its selected revision; the private application records that basis, deliberate adaptations and actual source, library and work-record routes.
 
-Keep detailed evidence and live findings with the existing task, case or research owner. Retain original locations, relevant passages, publication dates, versions, access, query scope and reading coverage where consequential. Distinguish publication dates from save dates, source claims from interpretations, and reading from adoption or testing.
+Keep detailed evidence and live findings with the existing task, case or research owner. Retain authors or evidence producers, original locations, relevant passages, publication dates, versions, access, query scope and reading coverage where consequential. Distinguish publication dates from save dates, source claims from interpretations, and reading from adoption or testing.
 
 Use the [common checkpoint and restoration method](../docs/operating-contract.md#work-checkpoints-and-restoration) for both participants' material views, current steering, exact completed and pending work, uncertain effects and next authorised move. Recover original context and later corrections before reusing an old answer.
 
