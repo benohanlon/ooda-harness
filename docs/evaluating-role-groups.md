@@ -2,9 +2,11 @@
 
 **Working guide.** Use real cases to judge whether a group helps the sovereign understand, decide and act. Begin with human review and a few observable checks. Refine the criteria from examples before building a scoring system or evaluation skill.
 
+In the Hermes three-profile arrangement, the group contains three bots, each representing a configured profile. The main profile provides the user-facing interface. The other two provide the continuing role participants, A and B, called the Twins. Each bot has its own continuing conversation within that room. Profile instructions and memory can inform participation, but group membership does not automatically provide access to every project or chat in that profile. Evaluate the actual contexts, access and exchanges observed. See the [Hermes runtime mapping](runtimes/hermes.md#interface-and-two-reusable-participants) for setup and access boundaries.
+
 ## Place and ownership
 
-Use this alongside [group bootstrap](bootstrap-group.md), the selected role's [common operating rules](operating-contract.md#runtime-acceptance) and [Sense of Taste](../skills/sense-of-taste/SKILL.md). The selected shared/private role basis and current commission still govern the work. [Ecology of mind](ecology-of-mind.md#learning-to-need-less-supervision) explains the intended benefit and empirical questions.
+This guide applies the common operating contract's [correction, review and learning rules](operating-contract.md#correction-review-and-learning) and [runtime acceptance](operating-contract.md#runtime-acceptance) to role-group evaluation. It sits within the harness's [Review and learning](../README.md#review-and-learning) approach. Use it alongside [group bootstrap](bootstrap-group.md) and [Sense of Taste](../skills/sense-of-taste/SKILL.md). The selected shared/private role basis and current commission still govern the work. [Ecology of mind](ecology-of-mind.md#learning-to-need-less-supervision) explains the intended benefit and empirical questions.
 
 Harness Engineering maintains this reusable guide. The existing role/task owner retains private case evidence, human judgements, results and continuation. A fork uses its own sources and records. These evaluation questions examine how the group serves the role's purpose and relevant axis; they do not replace its units of account with a universal score.
 
