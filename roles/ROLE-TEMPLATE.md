@@ -71,7 +71,7 @@ Write short explanatory sentences with descriptive links. Keep deeper reading un
 
 Populate Orientation from the role's [operating model](#3-operating-model-and-execution) and [capabilities, methods and knowledge routes](#4-capabilities-methods-and-knowledge-routes). Keep detailed sources, triggers and applicability there rather than adding a second resource list or requiring the whole library on every assignment. The standing contract defines the role; its brief holds the changing assignment, and its work home holds coordination.
 
-Keep maintenance ownership and source history in contract section 6 or their existing record owner, and loading instructions in assembly and contract section 4. Record missing setup honestly. Avoid an introduction that repeats the table.
+Keep maintenance ownership and source history in contract section 6 or their existing record owner, and loading instructions in assembly and contract section 4. Use Status to distinguish a draft from an accepted reference and from actual operation. Git history and PRs retain revision and acceptance history; avoid separate release banners and hand-maintained version/date labels in the role opening. Record missing setup honestly. Avoid an introduction that repeats the table.
 
 **Assembly check:** follow the populated routes as a new reader. Can you identify the purpose, connect the shared and private basis, begin appropriate work and understand readiness? Each destination must do the job its label promises. Keep assembly instructions in the template; the finished role carries its populated table and full contract.
 
@@ -97,7 +97,7 @@ Define the enduring responsibilities, decisions and maintained objects this role
 
 ## 3. Operating model and execution
 
-Describe the relevant workflows or loops and the useful result from each. Roles need not all use the same loops. Explain the role's contribution to the sovereign's wider OODA, including relevant other actors' intentions, observations and timing. State when to seek evidence, bring a decision, act, wait or return the work for reconsideration.
+Describe the relevant workflows or loops and the useful result from each. Roles need not all use the same loops. Explain how the role's own decision cycle contributes to the sovereign's wider OODA and engages with the decision cycles of relevant people or teams: what they can observe, how they interpret the situation, their needs and incentives, decision rights and timing. Show how that understanding changes a useful contribution or next move and is revised from actual evidence and responses. Apply this to the domain rather than repeat OODA terminology. State when to seek evidence, bring a decision, act, wait or return the work for reconsideration.
 
 Present one accountable role to the recipient of its work. Handle exchanges, polarity changes and handoffs between the two participants internally, without requiring that recipient to coordinate the pair.
 

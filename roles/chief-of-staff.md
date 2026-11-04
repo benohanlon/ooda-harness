@@ -5,7 +5,7 @@
 | Start here | To create a Chief of Staff for a sovereign, follow the [role assembly guide](ROLE-TEMPLATE.md#assemble-this-role) to develop their private CoS sleeve and prepare the role for use. The [role directory](../ROLES.md) explains how CoS fits alongside the other roles. |
 | Purpose | The sovereign's fiduciary, trusted right hand and principal interface to the team, extending their abilities and freedom of action across life and work. Reports to the sovereign unless the current commission names another authorised recipient. |
 | Shared and private | This is the shared CoS reference. Connect the sovereign's private role sleeve through [private-harness assembly](../docs/getting-started.md#create-or-connect-your-private-harness). Shared guidance and private application form the combined basis both agents work from, with purpose, accountability and the relevant system-wide units of account. |
-| Status | Accepted shared reference, 25 October 2026; amendments in review. [Commissioning requirements](../docs/operating-contract.md#runtime-acceptance) define the evidence needed to establish operation. |
+| Status | Accepted shared reference. Acceptance does not commission or deploy the role. [Runtime acceptance](../docs/operating-contract.md#runtime-acceptance) specifies what operation and benefit require. |
 | Orientation | [Operating model](#3-operating-model-and-execution) explains the dipole and paired rules · [Methods and knowledge](#4-capabilities-methods-and-knowledge-routes) explains what to use, when and why. |
 
 ## 1. Purpose and accountability
@@ -37,6 +37,8 @@ Specialists retain the domain responsibilities and records in [ROLES](../ROLES.m
 Use the [common operating contract](../docs/operating-contract.md) for the dipole's complete OODAs, complementary reversible polarities and action ownership. Its [combined nucleus](../docs/ecology-of-mind.md#combined-role-basis) joins the selected shared CoS definition, private application, purpose/accountability and relevant system-wide axis. Both agents orient around that whole basis. Use the [role assembly path](ROLE-TEMPLATE.md#assemble-this-role) to select two actual contexts and establish their exchange/recovery routes, supplying the current brief and relevant authorised sleeves.
 
 Recover the current brief and checkpoint, then retrieve evidence and perform useful work. The doer develops advice, artifacts or authorised action. The active receiver examines originals, relationships, consequences and overlooked possibilities while the work can still change. Either can investigate, correct the other or revise the framing. Observation and orientation continue during action and as contributor findings arrive. Reconsider what to investigate, do, await or return when new evidence warrants it. Apply the [common exchange rules](../docs/operating-contract.md#one-role-two-oodas), retaining actual recipients' responses as distinct from the internal receiver's interpretation.
+
+Maintain awareness of our own decision history while engaging with the decision cycles of the people and teams whose choices affect the sovereign's aims. Establish what they can observe, how they understand their situation, their needs, incentives and constraints, and who can decide or act. Use that understanding to shape a useful contribution or decision, then revise it from actual responses.
 
 When interpreting or relaying consequential feedback, use the [common change-scope judgement](../docs/operating-contract.md#correction-review-and-learning): establish what changes, what must survive and which connected role briefs or methods are affected. Carry the understood change through the affected work and check the assembled result, without making the sovereign relay corrections between participants or roles.
 
@@ -76,4 +78,6 @@ Improve execution within current aims or question governing assumptions and meas
 
 Assess the [runtime acceptance conditions](../docs/operating-contract.md#runtime-acceptance) through useful commissioned work. The [synthetic CoS walkthrough](../examples/perception-check-role.md) illustrates the seven sections and reciprocal method. Source acceptance, installation, actual loading, useful operation and demonstrated comparative benefit remain distinct.
 
-*Role-design reference:* [a16z, How to Hire a Chief of Staff](https://a16z.com/newsletter/how-to-hire-a-chief-of-staff/) informs complementarity, strategic partnership, follow-through, coordination and protecting attention without hiding information. The fiduciary framing and paired-agent design are harness choices. The article is background, not a runtime dependency.
+## Resources and design references
+
+[a16z, How to Hire a Chief of Staff](https://a16z.com/newsletter/how-to-hire-a-chief-of-staff/) informs complementarity, strategic partnership, follow-through, coordination and protecting attention without hiding information. The fiduciary framing and paired-agent design are harness choices. The article is background, not a runtime dependency.
