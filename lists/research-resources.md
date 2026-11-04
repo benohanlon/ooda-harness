@@ -23,6 +23,23 @@ Places to find research and selected sources used in the harness. Browse the lin
 - [Internet Archive](https://archive.org/) - Digitised books, documents and archival collections.
 - [Open Library](https://openlibrary.org/) - Book catalogue with edition details and reading or borrowing routes.
 - [Scribd](https://www.scribd.com/) - Community-uploaded documents, including papers and manuals. Download access can require a subscription.
+- [Directory of Open Access Books (DOAB)](https://doabooks.org/) - Discover scholarly, peer-reviewed open-access books and their publishers.
+- [OAPEN Library](https://oapen.org/) - Search and read open-access scholarly books, with publisher and edition records.
+
+### Shadow libraries and preservation
+
+- [Anna's Archive](https://annas-archive.gl/) - Search books, papers and other documents across several collections. Its [FAQ](https://annas-archive.gl/faq) explains access, preservation and current domains.
+- [Library Genesis (LibGen): collection notes](https://annas-archive.gl/datasets/lgli) - Anna's Archive's account of the LibGen collection, its forks and original source routes.
+- [Z-Library: collection notes](https://annas-archive.gl/datasets/zlib) - Anna's Archive's account of the book collection, its provenance and preservation.
+- [Sci-Hub: collection notes](https://annas-archive.gl/datasets/scihub) - Academic-paper collection, source routes and coverage history. Check dates rather than assuming that every recent paper is included.
+- [SciDB](https://annas-archive.gl/scidb) - Anna's Archive's academic-paper lookup by DOI.
+
+The LibGen, Z-Library and Sci-Hub links open Anna's Archive's collection and source notes. Check current domains through maintained project routes. Collections overlap; verify the author, edition, format and original source of a useful result. Search availability and permission to reuse a work are separate questions.
+
+### Document privacy and handling
+
+- [Tor Browser best practices](https://support.torproject.org/tor-browser/security/using-tb-safely/) - Understand what Tor protects. Documents opened in external applications can make connections outside Tor.
+- [Dangerzone](https://dangerzone.rocks/) - Open-source document sanitisation from Freedom of the Press Foundation. It renders unfamiliar documents in an isolated environment and reconstructs PDFs.
 
 ### Curated directories
 
@@ -30,7 +47,7 @@ Places to find research and selected sources used in the harness. Browse the lin
 
 For AI papers, models, datasets and practitioner discussion, use the Hugging Face and Nous/Hermes links in [Community Hubs](../skills/community-research/references/communities.md#browse-hubs).
 
-Directory entries were checked on 23 October 2026. They are discovery routes, not claims that their contents have been read or adopted. Follow a useful result to its original author, version and relevant text.
+The original directory entries were checked on 23 October 2026. The added book-access and document-handling entries were checked on 4 November 2026 against service pages, collection notes and official guidance. They are discovery routes, not claims that their contents have been read or adopted. Follow a useful result to its original author, version and relevant text.
 
 ## Selected sources
 
