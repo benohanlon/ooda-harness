@@ -235,9 +235,20 @@ These scales overlap. Your own cycle continues throughout, and capabilities can 
 
 ### Review and learning
 
-Each role compares actual results with the intended outcome and expectations. A sent message and a useful reply are different results. Work can meet its acceptance conditions while its downstream effects remain pending. Keep observed effects separate from interpretations. Review the contribution to the whole, including effort and consequences elsewhere in the harness. Use [Evaluate a role group](docs/evaluating-role-groups.md) for a practical review of paired work, interface integration and whole effort.
+Each role compares actual results with the intended outcome and expectations. A sent message and a useful reply are different results. Work can meet its acceptance conditions while its downstream effects remain pending. Keep observed effects separate from interpretations. Review the contribution to the whole, including effort and consequences elsewhere in the harness.
 
 Proportionate independent review challenges consequential judgements and proposed improvements. Evidence can warrant changes to execution, methods, assumptions or success measures. Proposed changes to agreed aims return to their decision owner. Retain significant decisions, outcomes and useful learning in maintained records so subsequent work can build on them, including improvements to the harness itself.
+
+Available evaluation and review routes:
+
+| Route | What it provides |
+| --- | --- |
+| [Evaluate a role group](docs/evaluating-role-groups.md) | A working evaluation guide for actual group cases and comparison with a well-briefed solo agent. |
+| [Runtime acceptance](docs/operating-contract.md#runtime-acceptance) | Checks for guidance loading, reciprocal exchange, recovery and useful paired operation. |
+| [Sense of Taste](skills/sense-of-taste/SKILL.md) | A review method for bounded work against its brief, evidence and wider purpose. |
+| [Health Check](skills/health-check/SKILL.md) | A review method for harness coherence, drift and consolidation. |
+
+Evaluation resources are retained in the [group guide's research basis](docs/evaluating-role-groups.md#research-basis-and-limits) and the [Research Resources shelf](lists/research-resources.md#evaluation-and-coordination). These routes describe available methods and sources. They do not establish that an automated evaluation suite or runtime trial has been run.
 
 A hiring manager’s response may overturn our initial reading of a role. We revise the assessment and choose whether to apply, propose a different mandate or stop, retaining the evidence and decision for later work.
 
