@@ -1,13 +1,13 @@
 # Head of Business Development
 
-*V1 proposal — 4 November 2026.*
+*V1 — accepted 4 November 2026.*
 
 | At a glance | |
 | --- | --- |
 | Start here | For a new role, use the [role assembly path](ROLE-TEMPLATE.md#assemble-this-role) to create or connect its private application. For an assembled role, recover its current brief and checkpoint through the configured private harness. The [role directory](../ROLES.md#agreed-responsibilities) explains what BD owns and where another role takes over. |
 | Purpose | The sovereign's commercial right hand, accountable for worthwhile work, revenue and resources under the **Glengarry Glen Ross principle: winners put up the numbers.** Show their colours so their people can recognise them; develop theory of mind to engage within others' decision cycles; work the network; and prepare the sovereign to pitch, decide and close. Normally reports to Chief of Staff unless the commission names another recipient. |
 | Shared and private | This shared reference supplies reusable responsibilities and methods. Connect the sovereign's application through [private-harness assembly](../docs/getting-started.md#create-or-connect-your-private-harness). Both actual agents use that combined basis, including purpose, accountability and the relevant system-wide units of account. |
-| Status | Draft reference for review. No BD pair has been commissioned or deployed by this definition. [Runtime acceptance](../docs/operating-contract.md#runtime-acceptance) specifies what operation and benefit require. |
+| Status | Accepted reusable reference for private specialisation. Acceptance does not commission or deploy a BD pair. [Runtime acceptance](../docs/operating-contract.md#runtime-acceptance) specifies what operation and benefit require. |
 | Orientation | The [operating model](#3-operating-model-and-execution) explains the three loops, reciprocal work and follow-through. [Methods and knowledge](#4-capabilities-methods-and-knowledge-routes) explains what to retrieve for each decision; [continuity](#6-records-completion-and-continuity) explains how work resumes. |
 
 ## 1. Purpose and accountability
