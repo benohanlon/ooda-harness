@@ -165,7 +165,7 @@ First realise the pair through the existing Chief of Staff/Perception Check path
 4. Compare useful quality and whole effort with a well-briefed single agent using the same evidence, tools, standards and self-review opportunity. Where effort differs materially, make a proportionate comparable-effort check before attributing value to reciprocity.
 5. Assess preserved meaning, decisions, discovery, justified versus damaging criticism, the sovereign's supervision/correction/recovery, latency/cost and later outcomes. Retain adverse findings and test a saved correction on a fresh analogous assignment.
 
-Feasibility and comparative benefit are separate conclusions. Use supported runtime mechanisms first and add an adapter only for a demonstrated gap. No new controller, universal evaluator or memory store is implied.
+Feasibility and comparative benefit are separate conclusions. Use supported runtime mechanisms first and add an adapter only for a demonstrated gap. No new controller, universal evaluator or memory store is implied. [Evaluate a role group](evaluating-role-groups.md) applies these requirements through human-led case review, fair comparison and retained evidence.
 
 ## Basis and related definitions
 

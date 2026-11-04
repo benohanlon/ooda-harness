@@ -235,7 +235,7 @@ These scales overlap. Your own cycle continues throughout, and capabilities can 
 
 ### Review and learning
 
-Each role compares actual results with the intended outcome and expectations. A sent message and a useful reply are different results. Work can meet its acceptance conditions while its downstream effects remain pending. Keep observed effects separate from interpretations. Review the contribution to the whole, including effort and consequences elsewhere in the harness.
+Each role compares actual results with the intended outcome and expectations. A sent message and a useful reply are different results. Work can meet its acceptance conditions while its downstream effects remain pending. Keep observed effects separate from interpretations. Review the contribution to the whole, including effort and consequences elsewhere in the harness. Use [Evaluate a role group](docs/evaluating-role-groups.md) for a practical review of paired work, interface integration and whole effort.
 
 Proportionate independent review challenges consequential judgements and proposed improvements. Evidence can warrant changes to execution, methods, assumptions or success measures. Proposed changes to agreed aims return to their decision owner. Retain significant decisions, outcomes and useful learning in maintained records so subsequent work can build on them, including improvements to the harness itself.
 

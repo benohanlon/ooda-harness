@@ -30,9 +30,9 @@ Hermes [delegation](https://hermes-agent.nousresearch.com/docs/user-guide/featur
 
 ## Interface and two reusable participants
 
-**Implementation candidate:** this maps the shared paired-role design to native Hermes groups. It does not replace the manual-session option below. End-to-end bootstrap, loading and useful room operation still require deployment-specific verification.
+**Implementation candidate:** this maps the [shared paired-role design](../ecology-of-mind.md#the-atomic-operating-unit) to native Hermes groups. It does not replace the manual-session option below. End-to-end bootstrap, loading and useful room operation still require deployment-specific verification.
 
-For a short reusable commissioning entry, use [Bootstrap a role group](../bootstrap-group.md). The mapping below supplies the Hermes-specific profile, room and loading boundaries; the selected role contract and current assignment govern the work.
+For a short reusable commissioning entry, use [Bootstrap a role group](../bootstrap-group.md). The mapping below supplies the Hermes-specific profile, room and loading boundaries. The selected role contract and current assignment govern the work. Use [Evaluate a role group](../evaluating-role-groups.md) to review the resulting work and its whole effort.
 
 For a single outward interface and reusable peers, use the following profile functions:
 
