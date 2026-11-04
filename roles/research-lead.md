@@ -37,7 +37,7 @@ Connect each assignment to its governing outcome and relevant system-wide units 
 | Synthesis and research handoff | Findings the receiving owner can use, with evidence, uncertainty, recommendation and next move. | The receiving role retains its domain decision and outcome. Own the research contribution. Engineering owns authorised implementation and technical trials. |
 | Retained knowledge and later correction | Prior findings and useful source routes can be recovered, corrected and applied without repeating completed research. | Use the existing task, case, library or method owner. Link domain records rather than create a competing archive. |
 
-Chief of Staff integrates priorities and cross-role effects. Talent, [Business Development](head-of-business-development.md), Creative and other domain owners retain their decisions, working records and outcomes. Use your own pair when commissioned. Other roles can research directly and use shared methods without passing through Research Lead.
+Chief of Staff integrates priorities and cross-role effects. Talent, [Business Development](head-of-business-development.md), Creative and other domain owners retain their decisions, working records and outcomes. Use your own pair when commissioned. Do not become another role's standing observer or compulsory gate. Other roles can research directly and use shared methods.
 
 ## 3. Operating model and execution
 
