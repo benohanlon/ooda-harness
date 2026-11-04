@@ -157,7 +157,7 @@ Creating this definition does not create a schedule, grant connector access, ins
 
 ## Runtime acceptance
 
-First realise the pair through the existing Chief of Staff/Perception Check path, then the Talent handoff, with Engineering support. A published contract or synthetic example is not this proof.
+These checks apply to each commissioned enduring role. For the initial harness rollout, first realise the pair through the Chief of Staff/Perception Check path, then the Talent handoff, with Engineering support. Later roles begin with their own commissioned work. A published contract or synthetic example is not this proof.
 
 1. Verify actual guidance loading, relevant source access and two participant contexts with the specified starting foundation and capabilities.
 2. Exercise reciprocal evidence-led reconsideration during one bounded assignment: a valid criticism, a false criticism corrected by the doer, useful discovery and accepted steering from the sovereign. Include accessible counterevidence to a shared mistaken premise, such as an old example missing its later correction or a shared search filter excluding relevant evidence. Check for habitual yielding or circular criticism. Preserve prior sound work and unresolved alternatives. Select material cases for the trial rather than imposing every case on routine work.
