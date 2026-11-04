@@ -1,3 +1,5 @@
+![Blake in Glengarry Glen Ross, the selected cover for Head of Business Development. Original photo credit and film attribution are retained in the image.](../assets/roles/head-of-business-development-blake.png)
+
 # Head of Business Development
 
 | At a glance | |
