@@ -282,7 +282,7 @@ The proposed access model gives the harness a dedicated email account and a defi
 | [Short-film workflow](docs/short-film-workflow.md) | Workflow MVP for a complete first cut, character references, continuity and targeted revision. One 30-second film rendered with mixed audio; final quality and reuse remain unverified. |
 | [Ecology of mind](docs/ecology-of-mind.md) | The atomic role, smaller cognitive contributions, reciprocal attention and wider feedback circuit. |
 | [Common operating contract](docs/operating-contract.md) | Shared paired-role method, decision rights, assignments, recovery and learning. |
-| [ROLES.md](ROLES.md) | A catalogue of agreed role types and available contracts, including Chief of Staff and Research Lead. |
+| [ROLES.md](ROLES.md) | A catalogue of agreed role types and available contracts, including Chief of Staff, [Head of Business Development](roles/head-of-business-development.md) and Research Lead. |
 | [Role template](roles/ROLE-TEMPLATE.md) | The assembly path and seven-section form for shared reference contracts and private role specialisations. |
 | [SKILLS.md](SKILLS.md) | A catalogue of reusable skills linking to their instructions. |
 | [LISTS.md](LISTS.md) | Routes into maintained collections, their purpose and when to retrieve them. |
@@ -296,7 +296,7 @@ A role defines continuing responsibility. Its contract establishes accountabilit
 
 SOUL retains the core communication principles. Use [Writing and Editing](skills/writing-and-editing/SKILL.md) for drafting, editing, reviewing prose and giving advisory replies. The skill applies [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md), which has one maintained home inside its package. Read that standard before the relevant work, reusing a current read during the task. Specialist workflows retain their production and execution steps. When delegating this work, pass the brief, accepted corrections and the skill and standard to the worker; [ROLES.md](ROLES.md#coordination-and-shared-skills) defines handover review.
 
-Section 4 shows the agreed team structure. [ROLES.md](ROLES.md) records responsibilities, reporting and contract availability. [Chief of Staff](roles/chief-of-staff.md) has an accepted reusable reference and [Research Lead](roles/research-lead.md) has a prepared contract. The other individual contracts remain under development.
+Section 4 shows the agreed team structure. [ROLES.md](ROLES.md) records responsibilities, reporting and contract availability. [Chief of Staff](roles/chief-of-staff.md) and [Head of Business Development](roles/head-of-business-development.md) have accepted reusable references; [Research Lead](roles/research-lead.md) has a prepared contract. The other individual contracts remain under development.
 
 The [common operating contract](docs/operating-contract.md) owns the shared rules for evidence, authority, truthful completion and continuity. Catalogues provide routes to maintained definitions. [LISTS.md](LISTS.md) links the packaged community directory, selected research resources and existing editorial references. Role contracts explain when those methods and resources are useful. Private reading and ideas queues retain their existing owners.
 

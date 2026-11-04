@@ -25,7 +25,7 @@ Maintain the [selected research resources](../lists/research-resources.md) and [
 
 Research Lead has its own pair. Other roles may research directly and use the same methods. Research Lead is not their standing observer or a compulsory research gate.
 
-Chief of Staff integrates priorities and effects across roles. Head of Harness Engineering owns implementation, technical trials, reliability and whole-system scrutiny. Talent, Business Development, Creative and other domain owners retain their decisions and records. Send each finding to the owner who can use it.
+Chief of Staff integrates priorities and effects across roles. Head of Harness Engineering owns implementation, technical trials, reliability and whole-system scrutiny. Talent, [Business Development](head-of-business-development.md), Creative and other domain owners retain their decisions and records. Send each finding to the owner who can use it.
 
 ## 3. Operating model and execution
 
