@@ -6,7 +6,7 @@ Adapt this small map in your chosen private home. Reuse existing files and recor
 
 Explain whom this home serves, the work it supports and where to begin. Keep one canonical personal profile, retrieving relevant detail rather than loading every file.
 
-Name the shared harness `ooda-harness` and the private application `sovereign-harness-<username>`, for example `sovereign-harness-alex`. Its display name can be **Sovereign Harness — Alex**. These identify the harnesses without requiring GitHub storage, a new repository or a separate directory per role.
+Name the shared harness `ooda-harness` and the private application `sovereign-<individual>-harness`. The generic example is `sovereign-individual-harness`; replace `individual` with the person's chosen identifier, for example `sovereign-alex-harness`. Its display name can be **Sovereign Alex Harness**. These identify the harnesses without requiring GitHub storage, a new repository or a separate directory per role. Keep `sovereign.md` as the personal portrait when that convention is used. For an existing home, record its actual address separately from a proposed name and use the [update path](getting-started.md#update-an-existing-installation) before changing active bindings.
 
 | Need | Record the maintained route and status |
 | --- | --- |
