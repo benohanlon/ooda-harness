@@ -1,6 +1,6 @@
 # Odysseus Visual Resources
 
-References for the proposed [Harness Engineer](../roles/head-of-harness-engineering.md) cover. These are candidates, not approved assets. Return to [all lists](../LISTS.md) or [engineering resources](harness-engineering-resources.md).
+The [approved original cover](../assets/roles/head-of-harness-engineering-odysseus.png) for [Harness Engineer](../roles/head-of-harness-engineering.md) uses the visual direction below. Alternative references remain candidates. Return to [all lists](../LISTS.md) or [engineering resources](harness-engineering-resources.md).
 
 ## Literary bearings
 
@@ -17,10 +17,14 @@ References for the proposed [Harness Engineer](../roles/head-of-harness-engineer
 | [Ulysses, 1954, AFI catalogue](https://catalog.afi.com/Film/51709-ULYSSES) | A screen adaptation to inspect if a recognisable cinematic character is preferred. | Catalogue checked. No film sequence or production still was reviewed for this cover. |
 | [The Odyssey, 1997, in Konchalovsky's IFFR filmography](https://iffr.com/en/person/andrei-konchalovsky) | A second screen adaptation to inspect for voyage and crew treatments. | Filmography checked. No sequence or still selected or rights cleared. |
 
-## Proposed visual direction
+## Approved visual direction
 
 Odysseus remains the engineer's archetype. The Phaeacian vessel is the proposed image of the harness itself, carrying the sovereign's intent towards their chosen destination. This is our application of the literary passage. It does not make Odysseus the builder of the Phaeacians' ships or transfer their properties to his original fleet.
 
-An original horizontal illustration can use the supplied woodcut reference's rhythmic waves and strong ship silhouette, a visibly red-painted bow and a wine-dark sea. Keep the crew and rigging legible enough to suggest a working vessel. A distant bearing or opening in the weather gives the journey direction. This is a proposed composition, not a generated or accepted cover.
+An original horizontal illustration can use the supplied woodcut reference's rhythmic waves and strong ship silhouette, a visibly red-painted bow and a wine-dark sea. Keep the crew and rigging legible enough to suggest a working vessel. A distant bearing or opening in the weather gives the journey direction. The original generated composition was selected by the sovereign on 5 November 2026. The requested refinement adds a small thread of hearth-smoke above Ithaca. [Asset record](../assets/roles/head-of-harness-engineering-odysseus.md).
 
 The six user-supplied images were visually reviewed in conversation on 5 November 2026. The first is a graphic ship-and-sea reference. The second is an ornate illustrated vessel, with attribution not yet established. The fifth matches the Waterhouse composition. The sixth depicts a Norse-style longship and is a mood reference rather than evidence for a Homeric vessel. Do not guess attribution or publish an unidentified scan as a cleared asset.
+
+## Smoke over Ithaca
+
+Emily Wilson's Book 1 has Athena describe Odysseus longing for smoke from his homeland. The [checked text, PDF page 4](https://static.catapult.co/production/class_syllabus_files/872/original/Wilson_Odyssey_Book_1_1664923052.pdf#page=4) supports that motif. It does not specify his own hearth. The small dwelling and smoke in the cover interpret the passage visually. No quotation is embedded in the image.
