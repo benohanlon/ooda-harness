@@ -2,6 +2,8 @@
 
 Places to find AI and harness-engineering practitioners, implementations and discussion. Browse the links, then consult the hub notes for the relevant question and recorded coverage.
 
+Bundled copy of [the canonical Community Hubs](../../../lists/community-hubs.md), retained for standalone Community Research use. The harness's [Lists](../../../LISTS.md) is the complete shared catalogue. Research Lead maintains this collection. Harness Engineering checks technical routes and compatibility when using or changing them.
+
 ## Contents
 
 - [Browse hubs](#browse-hubs)
@@ -15,8 +17,14 @@ Places to find AI and harness-engineering practitioners, implementations and dis
 - [Hermes documentation](https://hermes-agent.nousresearch.com/docs) - Official setup, features and developer guidance.
 - [Hermes on GitHub](https://github.com/NousResearch/hermes-agent) - Source code, issues and implementation discussion.
 - [Nous Discord](https://discord.com/invite/nousresearch) - Practitioner discussion, including plugins, skills and skins. Access requires joining the server.
-- [Skills Hub](https://hermes-agent.nousresearch.com/docs/skills) - Discover reusable Hermes skills.
-- [Plugin Catalog](https://hermes-agent.nousresearch.com/docs/plugins) - Discover Hermes plugins.
+- [Skills Hub](https://hermes-agent.nousresearch.com/marketplace?kind=skills) - Discover reusable Hermes skills.
+- [Plugin Catalog](https://hermes-agent.nousresearch.com/marketplace?kind=plugins) - Discover Hermes plugins.
+
+### Codex, Claude and cross-runtime engineering
+
+- [Harness Engineering Resources](../../../lists/harness-engineering-resources.md) - Official documentation, source and extension routes for Hermes, Codex and Claude, plus reviewed implementations and professional waypoints.
+- [OpenAI plugin directory](https://developers.openai.com/plugins) - Discover published plugins and check supported products and surfaces.
+- [Claude Code documentation index](https://code.claude.com/docs/llms.txt) - Find current official references before making capability claims.
 
 ### Hugging Face
 
@@ -46,7 +54,7 @@ Use the [Community Research method](../SKILL.md) to follow the routes. The entry
 
 **Use when:** deciding whether Hermes already supports a proposed method, investigating recurring runtime failures, or finding maintained skills and plugins.
 
-Start with the [official contribution guide](https://hermes-agent.nousresearch.com/docs/developer-guide/contributing), [Skills Hub](https://hermes-agent.nousresearch.com/docs/skills) and [Plugin Catalog](https://hermes-agent.nousresearch.com/docs/plugins). Follow the relevant implementation and its version. The contribution guide points to [Nous Discord](https://discord.com/invite/nousresearch), including practitioner discussion of plugins, skills and skins. Retrieve relevant discussion only if access is available.
+Start with the [official contribution guide](https://hermes-agent.nousresearch.com/docs/developer-guide/contributing), [Skills Hub](https://hermes-agent.nousresearch.com/marketplace?kind=skills) and [Plugin Catalog](https://hermes-agent.nousresearch.com/marketplace?kind=plugins). Follow the relevant implementation and its version. The contribution guide points to [Nous Discord](https://discord.com/invite/nousresearch), including practitioner discussion of plugins, skills and skins. Retrieve relevant discussion only if access is available.
 
 The [Hermes configuration discussion](https://www.reddit.com/r/hermesagent/comments/1x24qfp/my_hermes_configuration_that_works_for_me/) is a retained practitioner trail. Read the proposed configuration and substantive replies about maintenance, regressions and built-in alternatives. Check current [Curator documentation](https://hermes-agent.nousresearch.com/docs/user-guide/features/curator) before proposing another maintenance mechanism.
 

@@ -140,3 +140,5 @@ Bateson is the primary archetype. Engel and Dwyer orient attention towards our o
 - **Dave Snowden, strong complementary reference.** Use the [official Cynefin overview](https://thecynefin.co/about-us/about-cynefin-framework/) for decision-making in context and [7 principles of intervention in complex systems](https://thecynefin.co/7-principles-of-intervention-in-complex-systems/) when considering safe-to-fail inquiry. Match the method and permitted effects to the situation.
 
 Their anthropology and ethnographic connections inform this role's attention to people in context. Their work does not establish the effectiveness of the harness's particular AI pair. Use the [group evaluation guide](../docs/evaluating-role-groups.md) to assess actual contributions and whole effort.
+
+[All lists](../LISTS.md) · [Collected role resources](../lists/role-resources.md#research-lead)

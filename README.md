@@ -182,11 +182,11 @@ flowchart LR
 
 The diagram shows the ten agreed role types and their default delegation and reporting relationships: assignments go out and field reports return. Chief of Staff receives material outcomes, blockers and decisions needed, without becoming a routine approval gate. Each enduring role is designed as a pair, described below. The chart does not imply ten deployed roles or twenty always-on agents. Most individual role contracts and all paired-role deployment remain under development.
 
-**First implementation.** Start with Chief of Staff and Head of Talent completing one useful assignment. Head of Harness Engineering is responsible for the build and its reliability. Introduce the remaining roles as their work and contracts are established.
+**First implementation.** Start with Chief of Staff and Head of Talent completing one useful assignment. [Head of Harness Engineering](roles/head-of-harness-engineering.md) is responsible for the build and its reliability. Its Odysseus reference is accepted for private specialisation. Introduce the remaining roles as their work and contracts are established.
 
 Head of Finance will own financial planning, including portfolio and risk analysis. Its contract will define the detailed remit and authority.
 
-The [Research Lead draft](roles/research-lead.md) proposes source discovery, commissioned inquiry, exploratory research and learning from others' experience. When commissioned it has its own pair; other roles retain their domain decisions and can research directly.
+The accepted [Research Lead reference](roles/research-lead.md) defines source discovery, commissioned inquiry, exploratory research and learning from others' experience. When commissioned it has its own pair; other roles retain their domain decisions and can research directly.
 
 The team coordinates around a small set of system-wide units of account, drawing on [Numbers come before strategy](https://ecosystemoperator.substack.com/p/numbers-come-before-strategy). These establish a shared axis around which strategies, tests, proposals and schools of thought can contend. Each role is accountable for its contribution against those shared measures. Its contract records the measures it is responsible for and defines the supporting metrics used to judge its work. Where recommendations compete, Chief of Staff brings the evidence and consequences for the whole together for the relevant decision owner to resolve.
 
@@ -279,7 +279,7 @@ A knowledge link explains a relationship. An execution dependency determines whi
 
 ### Selected structure and current state
 
-**Runtime and access.** Hermes is the selected deployment target. For each supported combination of interface, model and tools, we need to verify the routes for loading instructions, retrieving context and saving results. The common contract, CoS and Business Development references are accepted; Research Lead remains a draft for review. Their presence does not establish runtime loading, paired execution or benefit; retain evidence and limits for each deployment separately.
+**Runtime and access.** Hermes is the selected deployment target. For each supported combination of interface, model and tools, we need to verify the routes for loading instructions, retrieving context and saving results. The common contract, CoS, Business Development and Research Lead references are accepted. The Odysseus engineering reference is also accepted for private specialisation. Their presence does not establish runtime loading, paired execution or benefit; retain evidence and limits for each deployment separately.
 
 The proposed access model gives the harness a dedicated email account and a defined working environment, with personal accounts outside that scope unless explicitly connected. A separate role, chat or directory does not by itself establish isolation. Account details and credentials belong in private configuration.
 
@@ -309,7 +309,7 @@ A role defines continuing responsibility. Its contract establishes accountabilit
 
 SOUL retains the core communication principles. Use [Writing and Editing](skills/writing-and-editing/SKILL.md) for drafting, editing, reviewing prose and giving advisory replies. The skill applies [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md), which has one maintained home inside its package. Read that standard before the relevant work, reusing a current read during the task. Specialist workflows retain their production and execution steps. When delegating this work, pass the brief, accepted corrections and the skill and standard to the worker; [ROLES.md](ROLES.md#coordination-and-shared-skills) defines handover review.
 
-Section 4 shows the agreed team structure. [ROLES.md](ROLES.md) records responsibilities, reporting and contract availability. [Chief of Staff](roles/chief-of-staff.md) and [Head of Business Development](roles/head-of-business-development.md) have accepted reusable references; [Research Lead](roles/research-lead.md) has a draft contract for review. The other individual contracts remain under development.
+Section 4 shows the agreed team structure. [ROLES.md](ROLES.md) records responsibilities, reporting and contract availability. [Chief of Staff](roles/chief-of-staff.md) and [Head of Business Development](roles/head-of-business-development.md) have accepted reusable references; [Research Lead](roles/research-lead.md) is also an accepted reference. [Head of Harness Engineering](roles/head-of-harness-engineering.md) has an accepted reusable reference. The remaining individual contracts remain under development.
 
 The [common operating contract](docs/operating-contract.md) owns the shared rules for evidence, authority, truthful completion and continuity. Catalogues provide routes to maintained definitions. [LISTS.md](LISTS.md) links the packaged community directory, selected research resources and existing editorial references. Role contracts explain when those methods and resources are useful. Private reading and ideas queues retain their existing owners.
 
