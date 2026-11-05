@@ -11,7 +11,7 @@ Answer a bounded harness-engineering question using relevant practitioner discus
 
 Establish the question or exploratory field, intended recipient and use, relevant dates, available sources, effort limit and stopping condition. A role assignment supplies its governing contract, accepted steering and destinations. This skill does not activate a role, create its pair or grant additional authority.
 
-Read the relevant entries in [Community Hubs](references/communities.md). This reference travels with the package. For another domain, identify an appropriate source map and report the coverage gap; the current directory does not establish coverage of every community.
+Read the relevant entries in [Community Hubs](references/communities.md). This reference travels with the package as a bundled copy of the harness's `lists/community-hubs.md`. In a full harness, [Lists](../../LISTS.md) is the complete resource catalogue. Keep the bundled copy aligned when the canonical collection changes. For another domain, identify an appropriate source map and report the coverage gap; the current directory does not establish coverage of every community.
 
 ## Method
 

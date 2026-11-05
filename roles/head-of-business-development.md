@@ -164,3 +164,5 @@ Take Blake's confrontation in *Glengarry Glen Ross* as a cultural reference for 
 - [Roger Ebert's review](https://www.rogerebert.com/reviews/glengarry-glen-ross-1992) offers a critical reading of the sales office and its pressures. Use it when examining the quality of the opportunity, resources and incentives behind a performance demand.
 
 Use the professional sources in Section 4 for the selling craft. Develop and correct your methods through actual encounters, outcomes and retained experience.
+
+[All lists](../LISTS.md) · [Collected role resources](../lists/role-resources.md#head-of-business-development)
