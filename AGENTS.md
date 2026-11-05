@@ -26,7 +26,7 @@ Scale orientation to the consequences and uncertainty. Prefer consolidation and 
 | Review bounded work | Brief, original evidence and actual result; [Sense of Taste](skills/sense-of-taste/SKILL.md) where applicable. Preserve specialist checks. |
 | Change diagrams or artwork | Source relationships and [visual guidance](skills/writing-and-editing/references/visual-communication.md); relevant [brand guidance](brand/README.md) and approved assets. |
 | Retrieve knowledge | [LISTS.md](LISTS.md), the relevant collection and exact original material; [Community Research](skills/community-research/SKILL.md) for harness-engineering community questions. |
-| Deploy or update an installation | Follow [Getting started](docs/getting-started.md), choosing its first-install, update or recovery path and the selected runtime notes. Finish configuration with the [private profile connection step](docs/getting-started.md#finish-installation-connect-your-private-profile), reusing a working connection and asking only when it needs resolution. Verify actual loading, references and access. Repository changes do not automatically update Codex or Hermes. |
+| Deploy or update an installation | Use [Deploy Harness](skills/deploy-harness/SKILL.md) and its [Bootstrap procedure](docs/bootstrap.md), with [Getting started](docs/getting-started.md) and the selected runtime notes. Finish configuration with the [private profile connection step](docs/getting-started.md#finish-installation-connect-your-private-profile), reusing a working connection and asking only when it needs resolution. Verify actual loading, references and access. Repository changes do not automatically update Codex or Hermes. |
 
 ## Shared principles and paired roles
 

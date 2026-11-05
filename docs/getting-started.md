@@ -41,6 +41,8 @@ Start with [README](../README.md), [SOUL](../SOUL.md) and [AGENTS](../AGENTS.md)
 
 Follow the [Codex](runtimes/codex.md) or [Hermes](runtimes/hermes.md) notes. Use the selected runtime's supported mechanisms and check the installed version. Record where startup instructions and complete skill packages are loaded. Preserve personalisation, specialist procedures and project guidance.
 
+Hermes can install this shared repository as a native profile distribution. The [distribution guide](runtimes/hermes-distribution.md) covers new named profiles, in-place updates and the boundary around existing default profiles. [Deploy Harness](../skills/deploy-harness/SKILL.md) follows [Bootstrap](bootstrap.md) to coordinate that shared package with the recipient's own private source. No private source is included in the distribution.
+
 The setup owner records the actual working folder and its startup, profile and project routes to the accepted shared and private sources. The working folder can sit outside those snapshots. Reuse working bindings and configure missing routes explicitly; matching filenames and readable links do not establish loading. Verify actual loading in a fresh context using that folder, for both participants when a role pair is commissioned. Keep exact paths, revisions and verification evidence in the private installation record.
 
 Keep the accepted source intact. If installed skill copies move away from their original directory, check links that leave those packages and adapt the installed routes to the accepted source. Record those adaptations so a later refresh can preserve them. A visible skill name establishes discovery; inspect method and reference access when the work uses them.

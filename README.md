@@ -118,7 +118,9 @@ No public installation release date is confirmed. Releasing selected elements or
 
 **Bootstrap from chat:** use the short copyable instruction in [Bootstrap OODA Harness](docs/bootstrap.md). It selects an accepted source revision and target, then routes the receiving agent through the maintained installation procedure. The [Hermes notes](docs/runtimes/hermes.md#interface-and-two-reusable-participants) describe the interface plus reusable A/B option and its pending runtime checks.
 
-The intended onboarding experience is one-click installation, with a short first-run step to connect the sovereign's context. This package is not yet a one-click installer.
+**Native Hermes package:** [Install and update the Hermes foundation](docs/runtimes/hermes-distribution.md) uses the root `distribution.yaml` with Hermes's native profile installer. [Deploy Harness](skills/deploy-harness/SKILL.md) coordinates shared and private updates through Bootstrap. New named profiles can use that path. Existing default and non-distribution profiles retain their established loading routes until deliberately migrated. Native install/update has been exercised in isolated profiles, preserving synthetic personal state. Private connection, model-backed loading and useful group work remain separate deployment checks.
+
+The intended onboarding experience is one-click installation with a short first-run step to connect the sovereign's context. The current package supplies native shared installation and guided private connection and group setup. It is not an unattended installation of the whole personal system.
 
 **Initialise an existing role group:** [Bootstrap a role group](docs/bootstrap-group.md) connects configured participants to their selected shared/private role basis, axis, current assignment and continuation. It is a reusable entry for commissioned roles, separate from installing the profiles or selecting a particular first task.
 

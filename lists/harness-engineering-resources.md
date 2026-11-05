@@ -13,6 +13,8 @@ Use these routes to understand a runtime, find an existing capability and compar
 
 Routes were checked on 5 November 2026. Documentation and marketplaces change. Match current guidance to the installed version, host and permissions before selecting a solution. A reachable route is not a tested integration.
 
+For profile packaging, use Hermes's [native distributions](https://hermes-agent.nousresearch.com/docs/user-guide/profile-distributions) and [profile commands](https://hermes-agent.nousresearch.com/docs/reference/profile-commands). The [OODA distribution guide](../docs/runtimes/hermes-distribution.md) records our selected source, ownership and update method. Native installer functions have been exercised in isolated local profiles. That does not verify the CLI launcher, remote deployment, provider setup or useful role-group operation. Check source selection and preservation behaviour in the actual version rather than treating a manifest version as an exact Git pin.
+
 ## Professional waypoints
 
 - **Gergely Orosz, The Software Engineer's Guidebook.** Use its treatment of shipping, technical debt, documentation, effective tooling, reliability, architecture and business context to develop practical judgement. The sovereign supplies an authorised reading edition and retained notes. Focused sections informed this contract, not a complete-book reading. Keep licensed full text and private annotations out of the shared package.

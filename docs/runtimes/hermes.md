@@ -2,6 +2,8 @@
 
 Use these notes within [Getting started](../getting-started.md). They map the portable guidance to a selected Hermes installation. Check its version and actual profile paths before changing files; no existing Hermes deployment is updated by this document.
 
+For new named profiles, [native distribution setup](hermes-distribution.md) installs the shared package and supports later in-place updates. Existing default or non-distribution profiles keep the loading path below until a deliberate migration. [Deploy Harness](../../skills/deploy-harness/SKILL.md) coordinates the accepted shared and private sources for either path.
+
 ## Choose and configure the destination
 
 1. Identify the intended profile and working project. Inspect their instructions, skills and retained state. Use an existing suitable profile or create one through the installed runtime's supported profile controls.
@@ -43,6 +45,8 @@ For a single outward interface and reusable peers, use the following profile fun
 | `participant-b` | `agents-b` | Independent participant B, adopting the same role from the same relevant basis. |
 
 The same complete accepted foundation serves all three. A/B each receive the selected shared role definition, private application, purpose, relevant system-wide units of account and current brief. They retain complete OODAs and complementary positions that can reverse; neither is permanently the doer or final-only critic. The interface is an outward coordination function, not a substitute for either Twin or a new approval gate.
+
+This is one useful topology, not a three-profile limit. Add other profiles when commissioned work needs them. Private sleeves specialise roles rather than duplicating the same application for every profile. Each participating context retrieves the relevant sleeve while retaining independent writable state.
 
 1. **Map actual identities.** Reuse suitable existing profiles and create only missing ones through supported Hermes controls when authorised. Verify profile homes and intended model/capability access. Record the actual profile-to-function mapping in the existing private deployment binding or its linked receipt; no particular configuration filename or native Hermes field is implied. Do not infer ownership from the display name. Give each profile independent writable memory and state; readable shared source snapshots can be reused.
 

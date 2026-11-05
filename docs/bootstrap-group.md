@@ -2,6 +2,8 @@
 
 **Procedure for a configured harness.** Initialise or resume one commissioned role in an existing group. This connects actual participants to the accepted role basis and first useful work; it does not install Hermes, create profiles or prove continuing paired operation. Use [package bootstrap](bootstrap.md) only if an installation is missing or needs an authorised update.
 
+With a [Hermes distribution](runtimes/hermes-distribution.md), this is the guided step after profile installation and private connection. Reuse those profiles for different commissioned roles or add profiles when needed. One private sleeve specialises the role for the sovereign. Both participants receive that relevant basis without duplicating it into a separate sleeve per profile.
+
 ## Short entry instruction
 
 Supply an accessible link to this file at the accepted full commit in the user's shared repository or fork. Use an existing authorised repository connection or matching verified snapshot; an anonymous private-file 404 alone does not establish that the file is absent. Report exact missing access without exposing credentials or changing permissions.
