@@ -5,6 +5,10 @@
 credentials/
 secrets/
 private/
+auth.json
+auth.json.*
+mcp-tokens/
+.ssh/
 *.pem
 *.key
 
@@ -13,6 +17,12 @@ data/
 runtime/
 sessions/
 memory/
+memories/
+local/
+workspace/
+plans/
+state-snapshots/
+*.db-*
 logs/
 reviews/
 evidence/

@@ -55,6 +55,7 @@ Verify at the actual consumer. Check the changed behaviour and affected connecti
 
 | Method or source route | Use when |
 | --- | --- |
+| [Deploy Harness](../skills/deploy-harness/SKILL.md) | Installing, updating or recovering the shared foundation and the recipient's private connection. Use native packaging where supported and hand commissioned role groups to their separate bootstrap. |
 | [Health Check](../skills/health-check/SKILL.md) | Reviewing whole-harness coherence, drift, harmful corrections or consolidation after substantial exploration. |
 | [Community Research](../skills/community-research/SKILL.md) | A solution choice needs practitioner experience, credible alternatives or contrary evidence. |
 | [Getting started](../docs/getting-started.md) and [Bootstrap](../docs/bootstrap.md) | Installing, updating or recovering the selected shared and private foundations. Preserve deliberate role bindings and local corrections. |
