@@ -93,12 +93,24 @@ Apply proportionate review to the actual result and inspect saved changes when s
 
 **Expected result:** a useful bounded result and a continuation record, with installation, loading, access, execution and usefulness reported separately. If only configuration was commissioned, report the verified configuration and leave useful execution pending; do not start another assignment to fill the gap.
 
+## Check role bindings
+
+For the commissioned roles in the selected installation, follow the actual instruction routes from each working project or group to its shared role definition, private application and current brief. Use existing bindings and setup records. A role file being available, a project name or an IDEA description does not establish automatic role loading.
+
+Compare those selected revisions with the accepted update. Review the relevant changes and private adaptations before adopting a newer role basis. Preserve an intentional hold with its reason. When the current commission includes role alignment, carry a compatible accepted update through its managed instruction routes rather than leave an accidental old pin merely because it is explicit. Return a material conflict or unclear acceptance decision to its owner. Keep accepted source snapshots intact; use an authorised, recorded local adaptation and propose the corresponding canonical correction where needed.
+
+Keep project instructions concise. Route to the selected shared definition, private sleeve, current brief and existing work records instead of copying the full contracts. Preserve project content and the profile's general function. An uncommissioned role remains available but unconfigured until requested.
+
+Groups have their own continuing participant contexts. Updating a project does not update those contexts. Supply the same whole relevant role basis to the actual interface and both participants through supported room controls, retaining continuity and independent state. Do not give reusable participant profiles a permanent single-role identity, bypass room ownership or create a second writer for a busy profile. Follow [group bootstrap](bootstrap-group.md) when commissioning a new role room.
+
+Read back the managed routes and verify loading on the affected surface. Keep package installation, project instruction loading and group-member loading distinct in the existing private receipt. Record each as current, updated, deliberately held or pending with its reason and next action. A stale role binding need not block an independent package update, but it prevents claiming that role is fully refreshed. Use the next authorised work to assess behaviour.
+
 ## Update an existing installation
 
 Use this path for shared-package changes, reinstalls and refreshes. A private-profile revision or a runtime upgrade is a separate change: identify which source or configuration is changing.
 
 1. **Recover the current installation record.** Identify its accepted revision, managed files, active contexts and profile connection. Compare current files with that record to find later local edits. Preserve uncertain or newer work before replacing anything.
-2. **Stage the selected revision separately.** Read the relevant changes, keep complete packages together and check affected references and runtime compatibility. Reconcile local customisation with the new source. Return a material unresolved choice to its owner while continuing independent preparation.
+2. **Stage the selected revision separately.** Read the relevant changes, keep complete packages together and check affected references and runtime compatibility. Reconcile local customisation with the new source, including [role bindings](#check-role-bindings) for commissioned projects and groups in scope. Return a material unresolved choice to its owner while continuing independent preparation.
 3. **Activate the reconciled change.** Back up the affected managed files and configuration, then replace only the agreed scope. Record the new source revision, installed adaptations and previous working state. Preserve the [private-home map and sleeve connections](#create-or-connect-your-private-harness), unrelated skills, permissions, project records and private experience.
 4. **Finish configuration with the [private-profile connection step](#finish-installation-connect-your-private-profile).** Retain a working connection or an explicit choice to continue without one. Reconcile local profile corrections with its private canonical source before refreshing that bundle.
 5. **Verify the affected surface.** Refresh the relevant context and check its active routes, references and required access. Use the next authorised work to assess changed behaviour; repeat a broader runtime check only where the change warrants it. Record exact completed and pending items, including the state of existing role participants.

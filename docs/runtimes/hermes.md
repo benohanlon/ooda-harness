@@ -24,6 +24,12 @@ Follow [Connection assembly](../connections.md) for application OAuth and cross-
 
 Record profile-specific connection results and updates with the existing private deployment owner. A working Codex connector is not evidence of Hermes access, and one profile's OAuth does not connect the other two. Do not add every available tool during package installation or claim two-way access from a one-direction test.
 
+## Bind a working project to its role
+
+Use [Check role bindings](../getting-started.md#check-role-bindings) when setting up a commissioned role project or refreshing one. Inspect the installed Hermes version and its supported project instruction mechanism. Save a compact route to the selected shared role, private sleeve, brief and work records in that project scope. Keep IDEA.md as the project description and the profile SOUL as its general identity. Verify that a new or supported refreshed project chat receives the instructions; reading the role manually in an existing chat proves retrieval only.
+
+A native group is a separate working context. Its bots do not inherit the role from a project chat merely because they represent the same profiles. Reconcile existing rooms or commission a new one through [group bootstrap](../bootstrap-group.md), preserving its continuation and each member's complete relevant basis.
+
 ## Assemble a role deliberately
 
 Follow the [role assembly path](../../roles/ROLE-TEMPLATE.md#assemble-this-role). [Profiles](https://hermes-agent.nousresearch.com/docs/user-guide/profiles) distinguish persistent state from a running agent and warn against two processes writing the same profile home. Give both participants the relevant accepted basis while defining their state and write ownership explicitly.
