@@ -12,6 +12,16 @@ For new named profiles, [native distribution setup](hermes-distribution.md) inst
 
 Hermes's [file map](https://hermes-agent.nousresearch.com/docs/user-guide/which-file-does-what) distinguishes the profile SOUL, compact USER memory and project context. Its [skills guidance](https://hermes-agent.nousresearch.com/docs/user-guide/features/skills) describes local/external directories and discovery. External directories can be writable: record where adaptations or later skill edits occur rather than assuming a shared source is immutable.
 
+## Profile identity and renames
+
+The sovereign individual is the human the harness serves. Profile names identify software contexts. Keep the portable functions `interface`, `participant-a` and `participant-b` separate from personal names and role hats. Record a user's chosen names and their actual runtime mapping in the private harness. The example profile names below are configurable.
+
+Use the installed Hermes version's supported rename controls. Hermes treats renaming the built-in `default` profile as a display-name change, while renaming a named profile changes its canonical name and home. Do not assume the same Rename control has the same effect on both. Check the [official profile guidance](https://hermes-agent.nousresearch.com/docs/user-guide/profiles#managing-profiles) and read back the actual profile identity after the change.
+
+Preserve chats, role appointments, accepted source revisions, model choices and credentials. Reconcile active installation bindings, SOUL and private-context routes, project instructions, group targets, history permissions and any connector guards that use the old identity. Keep dated records intact and retain a recoverable before-copy. An old name in historical evidence is not a current routing instruction.
+
+If Hermes reports an incomplete identity migration, use its supported recovery procedure. Verify the existing group can still address each intended participant before declaring the rename complete. A working reader, saved model default or historical usage row alone does not establish the next room turn's effective identity or model. Record remaining limits with the existing private deployment owner.
+
 ## Connect personal context and begin work
 
 Use the selected profile's `memories/USER.md` for compact personal essentials and the route to the fuller private bundle. Preserve its existing entries and keep credentials separate. Finish configuration with [profile connection](../getting-started.md#finish-installation-connect-your-private-profile), then start a new session so it receives the changed SOUL, USER and project context. Follow [first use](../getting-started.md#begin-useful-authorised-work).
