@@ -12,15 +12,28 @@ For new named profiles, [native distribution setup](hermes-distribution.md) inst
 
 Hermes's [file map](https://hermes-agent.nousresearch.com/docs/user-guide/which-file-does-what) distinguishes the profile SOUL, compact USER memory and project context. Its [skills guidance](https://hermes-agent.nousresearch.com/docs/user-guide/features/skills) describes local/external directories and discovery. External directories can be writable: record where adaptations or later skill edits occur rather than assuming a shared source is immutable.
 
+## Profiles, projects and conversations
+
+A Hermes profile supplies persistent configuration, memory, source connections and writable state. It can serve several roles. The sovereign individual is the human it serves; personal profile names and role archetypes are distinct from the reusable functions `interface`, `participant-a` and `participant-b`.
+
+| Context | What it holds |
+| --- | --- |
+| Profile | General identity, model defaults, tools, memory and state. |
+| Project | A workspace and its role/task instruction routes. |
+| Ordinary chat, including a Master chat | Its own conversation history and selected model. |
+| Group participant | A separate continuing conversation for that profile in that room. |
+
+An interface profile can host several Master chats and participate separately in several role groups. Sharing a profile does not merge those histories. Group members need their own relevant role basis and retrieved context, as described [below](#interface-and-two-reusable-participants).
+
+A model selected in a Master chat does not itself change the group's participants. Profile defaults, a chat's selected model and an existing room session's effective runtime can differ. Scope changes to the commissioned targets and verify their effective model and provider. Use the owning gateway's supported session model-switch or reset controls when an existing session retains an earlier route. Keep personal model preferences in the private deployment record.
+
 ## Profile identity and renames
 
-The sovereign individual is the human the harness serves. Profile names identify software contexts. Keep the portable functions `interface`, `participant-a` and `participant-b` separate from personal names and role hats. Record a user's chosen names and their actual runtime mapping in the private harness. The example profile names below are configurable.
+Use the installed Hermes version's supported rename controls and read back the result. Renaming the built-in `default` profile changes its display name; renaming a named profile changes its canonical name and home. Check the [official profile guidance](https://hermes-agent.nousresearch.com/docs/user-guide/profiles#managing-profiles) for that version. The profile names used below are examples.
 
-Use the installed Hermes version's supported rename controls. Hermes treats renaming the built-in `default` profile as a display-name change, while renaming a named profile changes its canonical name and home. Do not assume the same Rename control has the same effect on both. Check the [official profile guidance](https://hermes-agent.nousresearch.com/docs/user-guide/profiles#managing-profiles) and read back the actual profile identity after the change.
+Preserve chats, accepted role and source selections, model choices and credentials. Reconcile affected stored paths, project and group targets and connector permissions or identity guards. Keep a recoverable before-copy and retain dated records as history. Use supported identity-migration recovery where needed, then verify actual participant resolution rather than inferring it from command success.
 
-Preserve chats, role appointments, accepted source revisions, model choices and credentials. Reconcile active installation bindings, SOUL and private-context routes, project instructions, group targets, history permissions and any connector guards that use the old identity. Keep dated records intact and retain a recoverable before-copy. An old name in historical evidence is not a current routing instruction.
-
-If Hermes reports an incomplete identity migration, use its supported recovery procedure. Verify the existing group can still address each intended participant before declaring the rename complete. A working reader, saved model default or historical usage row alone does not establish the next room turn's effective identity or model. Record remaining limits with the existing private deployment owner.
+Check the controls available for the actual room type. A profile rename does not guarantee that an existing room can rebind its members. When a replacement is commissioned, preserve the old history, carry the accepted role basis and continuation forward, and update the Master and reader routes. Record the outcome and any unresolved choice with the existing private deployment owner.
 
 ## Connect personal context and begin work
 
