@@ -38,7 +38,7 @@ The contract does not contain the whole orientation. The sovereign's correction,
 
 ## 3. Connect work, exchange and continuation
 
-Recover or initialise the current assignment using the [existing bounded-assignment fields](operating-contract.md#bounded-assignment). Reuse its record owner. Establish the outcome, current evidence, authority, effort, initial complementary positions, action owner for each shared effect, recipient and return condition. A polarity change does not transfer write or decision authority.
+When commissioning from a Master chat, use the [selective group-use guidance](runtimes/hermes.md#commission-work-selectively). Recover or initialise the current assignment using the [existing bounded-assignment fields](operating-contract.md#bounded-assignment). Reuse its record owner. Establish the outcome, current evidence, authority, effort, initial complementary positions, action owner for each shared effect, recipient and return condition. A polarity change does not transfer write or decision authority.
 
 Verify a supported exchange route between the actual contexts. Use native room handoffs, not imagined internal conversations. Both can investigate, offer alternatives and reorient work while it can change; assess material contributions against sources and current steering. Agreement, dissent and a set number of turns are not the objective. Work need not wait for every bounded worker to return before a consequential finding changes the approach. Missing exchange means paired operation is pending or degraded, not that a fluent solo answer counts as the pair.
 
