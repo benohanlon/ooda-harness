@@ -89,6 +89,12 @@ This is one useful topology, not a three-profile limit. Add other profiles when 
 
 Installation can finish before role commissioning. Do not create rooms or start role work solely to fill a configuration receipt. Shared guidance describes the intended relationship; actual speaking, routing, interruption and continuation depend on supported runtime controls and observed use. Keep exact identities, sources, adaptations and results in private installation/work records. Use native evidence before adding a telemetry collector or custom relay.
 
+### Commission work selectively
+
+Use the Master chat for direct collaboration with the sovereign and routine work within the accepted brief. Commission the role group when its complementary perspectives could materially improve understanding, a consequential choice or the result. Supply a focused assignment with the relevant current material, outcome, scope and return condition, then integrate its useful findings into one response.
+
+Once commissioned, both role participants exchange material contributions while they can still change the work, following the [common operating contract](../operating-contract.md#one-role-two-oodas). Match participation to the assignment rather than a fixed turn count. Judge group use by its useful contribution and whole effort, including tokens, latency and human supervision.
+
 ## Create the participant contexts
 
 For a commissioned manual pair, use two separate profile homes and sessions. For new profiles, the supported profile commands are:
