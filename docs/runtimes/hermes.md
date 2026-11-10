@@ -91,6 +91,8 @@ Installation can finish before role commissioning. Do not create rooms or start 
 
 ### Commission work selectively
 
+Apply the [common working-arrangement rules](../operating-contract.md#choose-the-working-arrangement); a configured group is available capability, not a requirement to invoke every participant on every turn.
+
 Use the Master chat for direct collaboration with the sovereign and routine work within the accepted brief. Commission the role group when its complementary perspectives could materially improve understanding, a consequential choice or the result. Supply a focused assignment with the relevant current material, outcome, scope and return condition, then integrate its useful findings into one response.
 
 Once commissioned, both role participants exchange material contributions while they can still change the work, following the [common operating contract](../operating-contract.md#one-role-two-oodas). Match participation to the assignment rather than a fixed turn count. Judge group use by its useful contribution and whole effort, including tokens, latency and human supervision.

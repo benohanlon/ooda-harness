@@ -7,7 +7,7 @@ description: Give a cold and adversarial review of bounded work against its brie
 
 Judge whether the actual work serves the sovereign's intention and its place in the whole. Taste includes substance, usefulness, coherence and worthwhile possibilities. It extends beyond stylistic polish or a score.
 
-Use this method within an enduring role's doer/giver and observer/active-receiver pair. Either participant can investigate, challenge and revise a judgement. The skill supplies the review method; it does not create the pair, appoint a role or grant action or approval authority. It can also support an explicitly assigned independent review.
+Use this method for direct self-review, an explicitly assigned independent review, or within a commissioned doer/giver and observer/active-receiver pair. Either participant can investigate, challenge and revise a judgement. The skill supplies the review method; it does not create the pair, appoint a role or grant action or approval authority. It can also support an explicitly assigned independent review.
 
 ## Inputs and dependencies
 

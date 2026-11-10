@@ -4,9 +4,21 @@
 
 The [ecology of mind](ecology-of-mind.md) explains the architecture and wider feedback circuit. Use this common method with [SOUL](../SOUL.md), the assigned [role contract](../ROLES.md), the current assignment and relevant shared skills. Each role defines its domain responsibilities, knowledge routes and acceptance conditions. The assignment supplies the changing work and permissions.
 
+## Choose the working arrangement
+
+An enduring role defines continuing responsibility and one outward accountability around its combined shared and private basis. It does not require two agents running on every assignment.
+
+Use one accountable agent or Master chat for ordinary conversation, retrieval, drafting and authorised execution. Commission two complementary agents when their different ways of attending are likely to improve evaluation, consequential judgement, difficult inquiry or other high-value work enough to justify the whole effort. Neither a role title nor an available group automatically commissions a pair.
+
+Give a pair a focused brief: the accepted artifact or baseline, the question to resolve, relevant evidence and corrections, permitted effects, useful outcome, effort and return condition. Supply both participants the relevant combined basis and source access; do not duplicate the Master's entire history by default. They engage while the work can still change, preserve distinct views and return findings for the accountable owner to integrate. Stop or return when the commissioned question is answered or further exchange is unlikely to improve the result. No fixed number of rounds is required.
+
+A one-off independent review is also useful when that is the question. It need not become reciprocal paired production. Label the actual arrangement: a final-only review does not demonstrate the Twins' reciprocal method, and a participant that helped shape an artifact is not independent of that work. Intentional single-agent work is not degraded paired operation. If a commissioned pair loses a participant, apply the recovery rules below and state the resulting limit.
+
+Choose models, reasoning effort and tools for the work and available budget. Record material configuration differences and their implications for access, quality and comparison. A Master chat and group participants can use different configurations; do not infer a member's effective model from the Master's setting. Whole effort includes all active participants, any interface agent inside the group, context rereads, tools, retries, integration, latency and the sovereign's supervision. Prefer the simpler arrangement when the extra contribution does not earn that cost. Agent agreement alone is not validation.
+
 ## One role, two OODAs
 
-Each enduring role is an atomic operating unit comprising two agents around one [combined role basis](ecology-of-mind.md#combined-role-basis), including its role description. The selected shared definition and private application, purpose, accountability and relevant system-wide axis govern both participants. This arrangement is a cognitive dipole, also called the Twins. It has one outward accountability. Both begin with the same relevant specification: model, available capabilities, governing guidance, role contract and starting context. They adopt opposite, complementary relational roles, or polarities: doer/giver/creator/emissary and observer/active receiver. Each observes, orients, decides and acts. Both can investigate, discover possibilities, challenge an interpretation and revise their understanding during work.
+When paired work is commissioned, two agents work around one [combined role basis](ecology-of-mind.md#combined-role-basis), including its role description. The selected shared definition and private application, purpose, accountability and relevant system-wide axis govern both participants. This arrangement is a cognitive dipole, also called the Twins. It has one outward accountability. Both begin with the same relevant specification: model, available capabilities, governing guidance, role contract and starting context. They adopt opposite, complementary relational roles, or polarities: doer/giver/creator/emissary and observer/active receiver. Each observes, orients, decides and acts. Both can investigate, discover possibilities, challenge an interpretation and revise their understanding during work.
 
 These relational roles are positions the agents adopt in an encounter, not fixed identities. Labels such as Agent A and Agent B identify the participants; neither polarity establishes rank or requires opposition. They bring different questions and information needs to the work while retaining the shared foundation and complete OODAs. The agents may reverse polarity; neither swapping nor divergence is the objective. Record the current positions and any change in the assignment or checkpoint, preserving accepted steering. A change of polarity does not itself transfer action authority: keep one named owner for each shared write or external action.
 
@@ -16,16 +28,16 @@ Both participants use the same relevant shared and authorised private basis: the
 
 OODA is nonlinear. Orientation guides observation and action; new evidence and other people's responses can change the next move at any point. A receiver can expose an omission, and the doer can correct a mistaken criticism. Agreement alone does not confirm either view. The internal active receiver also cannot substitute for feedback from actual people, whose interpretations and responses remain their own.
 
-Use meaningful exchanges during work, including changed steering, surprising evidence, consequential uncertainty and checkpoints. Where useful, each participant examines original evidence before the other's verdict. A final-only critic or an unused second context does not fulfil this role design. Match exchange effort to the assignment without a fixed turn count or a compulsory exchange for every routine action.
+Use meaningful exchanges during work, including changed steering, surprising evidence, consequential uncertainty and checkpoints. Where useful, each participant examines original evidence before the other's verdict. A final-only critic or an unused second context does not demonstrate reciprocal paired operation. Match exchange effort to the assignment without a fixed turn count or a compulsory exchange for every routine action.
 
-An enduring role is distinct from a temporary source reader, collector, tool or skill call. A pair can commission bounded workers without recursively pairing every worker. If another enduring role is explicitly assigned, its contract supplies its paired structure.
+An enduring role is distinct from a temporary source reader, collector, tool or skill call. A pair can commission bounded workers without recursively pairing every worker. If another enduring role is explicitly assigned, select its working arrangement against the actual assignment.
 
 ## Decision and action rights
 
 | Responsibility | Owner and rule |
 | --- | --- |
 | Purpose, delegation and consequential commitments | The sovereign or existing authorised decision owner. Accepted steering updates the work; a role title does not widen authority. |
-| Evidence, interpretation and proposals | Both participants. Each may challenge the work or its framing and revise its own view. |
+| Evidence, interpretation and proposals | The accountable agent and, when commissioned, both paired participants. Each may challenge the work or its framing and revise its own view. |
 | Each shared write or external action | One named action owner for that work unit. Assign disjoint targets explicitly when work runs in parallel. Verify the result before treating the effect as complete. |
 | Findings and acceptance | Consider supported findings against the brief and evidence. Record whether each material finding is accepted, rejected with reasons, or unresolved. Neither preference nor title creates a veto. Do not force consensus or conceal uncertainty. |
 | Unresolved acceptance failure or decision outside delegation | Return the affected decision through the assignment's existing owner. Continue independent authorised work where possible. |
@@ -41,7 +53,7 @@ Keep these fields in the existing task brief, without creating another queue or 
 
 | Field | What the assignment establishes |
 | --- | --- |
-| Role and owner | Enduring role, both participants' current relational roles/polarities, action owner, reporting recipient and follow-up owner. |
+| Role and owner | Enduring role, selected working arrangement, participants and paired polarities where applicable, action owner, reporting recipient and follow-up owner. |
 | Outcome and scope | Useful outcome, exact items or work boundary, exclusions, previous completed work and current remainder. |
 | Basis and access | Accepted brief/contract revisions, newer decisions, required source sections, applicable methods, available capabilities and missing access. |
 | Authority | Permitted reads, writes, external actions, destinations and commitments or decisions reserved to the sovereign or another person. |
@@ -50,15 +62,15 @@ Keep these fields in the existing task brief, without creating another queue or 
 
 Use the authority already supplied. Resolve a material ambiguity without repeatedly asking for settled permission. A model or provider change does not change the job specification.
 
-On starting or resuming, both participants retrieve the current assignment, relevant accepted guidance and required evidence. Include these routes explicitly in a delegated brief. Do not assume inherited SOUL, skills, shared memory, source access or automatic reporting. Reuse current reads where appropriate. A file's presence, a route to it or an assertion that it was loaded is insufficient evidence of application.
+On starting or resuming, each commissioned participant retrieves the current assignment, relevant accepted guidance and required evidence. Include these routes explicitly in a delegated brief. Do not assume inherited SOUL, skills, shared memory, source access or automatic reporting. Reuse current reads where appropriate. A file's presence, a route to it or an assertion that it was loaded is insufficient evidence of application.
 
 Confirm required access with a concrete observation. State missing evidence and continue work that does not depend on it. Keep original source claims, our interpretations, decisions and observed effects distinct. Attribute a material adopted method at its point of use, with its original source or maintained reference, relevant version and access limits.
 
 ### Bounded workers and prior-work retrieval
 
-Either participant may commission a temporary worker within the existing assignment's authority and permitted parallelism. Supply its question, scope, necessary context, required guidance, source routes and access, action limits, effort/cutoff, expected output, recipient and stop/return conditions. Give concurrent workers disjoint targets. Use a tool or script where it suffices; use an agent where interpretation earns its whole cost. This creates neither another enduring role nor permission for continuous crawling.
+The accountable agent or either paired participant may commission a temporary worker within the existing assignment's authority and permitted parallelism. Supply its question, scope, necessary context, required guidance, source routes and access, action limits, effort/cutoff, expected output, recipient and stop/return conditions. Give concurrent workers disjoint targets. Use a tool or script where it suffices; use an agent where interpretation earns its whole cost. This creates neither another enduring role nor permission for continuous crawling.
 
-Keep material expected returns, their owner and expected time or return condition in the existing assignment record. Both participants remain active while contributions arrive. A finding can change their understanding and redirect further inquiry before the whole batch returns. If a material return is missing, reconsider whether to continue, wait, redirect within authority or return the decision to its owner. No assignment requires parallel workers or a separate collection stage before orientation.
+Keep material expected returns, their owner and expected time or return condition in the existing assignment record. In paired work, both participants remain active while material contributions arrive. A finding can change their understanding and redirect further inquiry before the whole batch returns. If a material return is missing, reconsider whether to continue, wait, redirect within authority or return the decision to its owner. No assignment requires parallel workers or a separate collection stage before orientation.
 
 A retrieval worker, or crawler, can recover prior solutions, accepted copy or service observations. When reusing earlier work, retrieve the original brief or relevant context, what was accepted or observed, and material later corrections or changed conditions. Establish whether the material applies to the current assignment rather than treating the newest returned file as authoritative. A route or old example alone is not a recovered answer.
 
@@ -66,7 +78,7 @@ Return sources, observation time, coverage, material filters, findings and uncer
 
 ## Work, checkpoints and restoration
 
-Perform authorised work while exchanging material discoveries and steering. Record whether consequential contributions were received and applied; a queued message alone proves neither. When the brief changes, update the understanding of the whole affected work, preserving earlier valid constraints and successful results.
+Perform authorised work; in paired work, exchange material discoveries and steering while they can change the result. Record whether consequential contributions were received and applied; a queued message alone proves neither. When the brief changes, update the understanding of the whole affected work, preserving earlier valid constraints and successful results.
 
 Use one accepted current basis and outward continuation. At a meaningful checkpoint, preserve:
 
@@ -79,7 +91,7 @@ Treat a summary as a selective representation, not the complete account. Preserv
 
 Derive totals from saved item records and state the counting unit. A timeout, disconnected session or busy interface does not establish completion. A saved artifact is not a delivered handover. Verify receipt or identify the agreed recipient check without implying an unscheduled follow-up will occur.
 
-If a participant becomes unavailable, save progress and state that paired operation is degraded. Continue only work whose authority and acceptance conditions still hold. Record what must wait, who can restore or replace the participant, and when to return to the assigning owner. Do not label solo continuation as a completed paired review.
+If a commissioned pair loses a participant, save progress and state that paired operation is degraded. An assignment intentionally commissioned to one agent does not have this failure condition. Continue only work whose authority and acceptance conditions still hold. Record what must wait, who can restore or replace the participant, and when to return to the assigning owner. Do not label solo continuation as a completed paired review.
 
 A replacement retrieves the accepted basis, original evidence routes, relevant provisional perspectives and exact remainder. Check for newer decisions by the sovereign or existing authorised decision owner before acting. For any uncertain write or external effect, inspect the exact destination before retrying. If its outcome remains unknown, checkpoint it rather than repeating it. Restore the relationship and current steering, not merely the unfinished checklist.
 
@@ -102,7 +114,7 @@ Definition promotion is explicit. Record the accepted source/revision and depend
 
 Telemetry is observable runtime evidence of what ran, when, with which participants and what resulted. Reuse native session, tool and usage records where sufficient. Connect them to the existing assignment/run/case and selected contract/brief revisions, retaining participant attribution across contexts. At consequential handoffs, add only the missing role meaning: current positions, material contribution and evidence, the considered response, decision with brief reasons, action owner, result and next move. Missing events remain unknown until checked against native records.
 
-Configure the private capture/review route, owner, access and retention through role assembly. Verify evidence from both actual participants and any material worker returns; a setting or two nearby timestamps does not establish coverage or correlation. Record pending or partial capture honestly. One capture facility can serve several roles; separate services per role, a particular plugin and an external backend are not required. Technical capture does not confer access to another role's private records.
+Configure the private capture/review route, owner, access and retention through role assembly. Verify evidence from the actual commissioned participants and any material worker returns; a setting or two nearby timestamps does not establish coverage or correlation. Record pending or partial capture honestly. One capture facility can serve several roles; separate services per role, a particular plugin and an external backend are not required. Technical capture does not confer access to another role's private records.
 
 Each role retains its authoritative evidence with its task/case owner. Bounded workers return evidence to their commissioning assignment. CoS uses linked outcomes, dependencies, exceptions and decisions across roles and records its own coordination decisions, preserving domain ownership. Harness Engineering maintains capture, correlation, access and retention when commissioned; an unfilled Engineering role leaves that work with the existing setup owner.
 
@@ -157,7 +169,7 @@ Creating this definition does not create a schedule, grant connector access, ins
 
 ## Runtime acceptance
 
-These checks apply to each commissioned enduring role. For the initial harness rollout, first realise the pair through the Chief of Staff/Perception Check path, then the Talent handoff, with Engineering support. Later roles begin with their own commissioned work. A published contract or synthetic example is not this proof.
+For ordinary role use, verify the selected guidance, required access, authority, useful result and continuation. The additional checks below apply when establishing reciprocal paired operation or claiming its benefit. Use a suitable commissioned assignment, such as a Chief of Staff/Perception Check; no other role launch or held draft is a prerequisite. A published contract or synthetic example is not this proof.
 
 1. Verify actual guidance loading, relevant source access and two participant contexts with the specified starting foundation and capabilities.
 2. Exercise reciprocal evidence-led reconsideration during one bounded assignment: a valid criticism, a false criticism corrected by the doer, useful discovery and accepted steering from the sovereign. Include accessible counterevidence to a shared mistaken premise, such as an old example missing its later correction or a shared search filter excluding relevant evidence. Check for habitual yielding or circular criticism. Preserve prior sound work and unresolved alternatives. Select material cases for the trial rather than imposing every case on routine work.
