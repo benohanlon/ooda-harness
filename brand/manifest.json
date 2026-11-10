@@ -1,270 +1,384 @@
 {
   "brand": "Sovereign OODA Harness",
-  "kit_version": "1.3",
-  "approved_cover_version": "1.2",
-  "template_revision": "0.1",
-  "published_on": "2026-10-22",
-  "status": "Kit improvements authorised for publication; approved artwork remains cover v1.2; template layouts are prototypes",
+  "kit_version": "2.0",
+  "prepared_on": "2026-11-10",
+  "status": "Requested visual refresh; source publication and runtime deployment remain separate",
   "asset_paths_relative_to": "repository root",
-  "generation": {
-    "approved_cover": "Existing built-in image tool output, unchanged",
-    "clean_eye": "Built-in image tool removed typography and rules; source prompt in brand/prompts/clean-eye-prototype-v1.3.txt",
-    "template_exports": "Live SVG text, local bundled fonts and separate clean photographic layer, rendered with Playwright and Chromium"
-  },
-  "attribution": {
-    "author": "Ben O’Hanlon",
-    "public_url": "https://ecosystemoperator.substack.com/",
-    "placement": "Accompanying text and metadata; no embedded author, URL or watermark on artwork"
-  },
+  "selection": "Ben selected the mint/teal/orange character-card direction and requested the OODA kit and graphics be updated.",
+  "production": "Image-tool artwork layers; native SVG type/geometry; bundled local OFL fonts; checked Chromium exports.",
+  "numbering": "001 Baldwin, 002 Blake, 003 Harry; Research and Engineering unnumbered.",
+  "attribution": "Ben O’Hanlon; retained film/photo credits on character cards. No invented photographer or quoted role copy.",
+  "archive": "brand/downloads/sovereign-ooda-brand-kit-v2.0.zip",
+  "exclusions": "Manifest and ZIP exclude their own checksums; historical files/downloads and development dependencies are outside the current archive.",
   "assets": [
     {
+      "file": "assets/roles/chief-of-staff-baldwin.png",
+      "bytes": 2077569,
+      "sha256": "7f10fbff1cd170ae1b7c733371c1d06e729e6ceaad1e9fd66353a9d65c99b552",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "assets/roles/head-of-business-development-blake.png",
+      "bytes": 2325618,
+      "sha256": "76e511ffed70ab431763b1ca816aafd7116fa41848396422361018fe2eef20c8",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "assets/roles/head-of-harness-engineering-odysseus.md",
+      "bytes": 1818,
+      "sha256": "85444c861faf1ab97baf30249b73a78ec0169ce4299389855bfbbf54432efc15"
+    },
+    {
+      "file": "assets/roles/head-of-harness-engineering-odysseus.png",
+      "bytes": 2433053,
+      "sha256": "b3562da481882bbd8d7ea266686c97639ec9057c92acd816068223ef56204482",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "assets/roles/head-of-talent-harry.png",
+      "bytes": 1594786,
+      "sha256": "08f01a88f5a353f0be5d70ad99c86c27c18b7601b2862142cb7ca00a625081e1",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "assets/roles/research-lead-bateson.png",
+      "bytes": 2733544,
+      "sha256": "ab380ab5f90fdc6b2abd9a32db79951f66c5b5fe36be52adab4f2db6668c7600",
+      "width": 1536,
+      "height": 1024
+    },
+    {
       "file": "assets/sovereign-ooda-cover.jpg",
-      "bytes": 495146,
-      "sha256": "8a4bd8ed10a9d097c84a48055f85b8fa4768de218dc59ab60709710a10286f4d",
-      "git_blob_sha": "0ac2a6063a19fdd0ede8a36edcedd506e0daa545",
-      "width": 1280,
-      "height": 640,
-      "status": "approved cover v1.2; unchanged"
-    },
-    {
-      "file": "brand/assets/eye-clean-prototype.jpg",
-      "bytes": 421008,
-      "sha256": "e137a76233acd1caa02301009573a7f290ee807e76c410e57e223b3eb7d8e70b",
-      "git_blob_sha": "a05b67503d4c22f7e4158af1b715f885fe3fb6f6",
-      "width": 1280,
-      "height": 640,
-      "status": "prototype; not approved artwork"
-    },
-    {
-      "file": "brand/assets/sovereign-ooda-cover-master.png",
-      "bytes": 2535801,
-      "sha256": "ee1b5e82cbd3fa33028642cf6fce793deaa53786163bb1262054c39ea88947a2",
-      "git_blob_sha": "f95debf5f041bd8354b1a4cefb8a71203afe4d10",
-      "width": 1774,
-      "height": 887,
-      "status": "approved cover v1.2; unchanged"
-    },
-    {
-      "file": "brand/fonts/IBMPlexMono-Medium.ttf",
-      "bytes": 136704,
-      "sha256": "a9b4c49bb299e05b5f6c481e7fb5e78943d2793249a0c8874ab574a2d1ea6755",
-      "git_blob_sha": "33c546f68b6007a45a3f10e845523abb2db25399"
-    },
-    {
-      "file": "brand/fonts/IBMPlexMono-OFL.txt",
-      "bytes": 4456,
-      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
-      "git_blob_sha": "c35c4c618fab33da8695177b3a6cefe0810b7b28"
-    },
-    {
-      "file": "brand/fonts/IBMPlexMono-Regular.ttf",
-      "bytes": 135580,
-      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46",
-      "git_blob_sha": "0c9770d5183ba60dc4350d3e011b782a320761ae"
-    },
-    {
-      "file": "brand/fonts/Inter-Bold.ttf",
-      "bytes": 420428,
-      "sha256": "288316099b1e0a47a4716d159098005eef7c0066921f34e3200393dbdb01947f",
-      "git_blob_sha": "9fb9b751e5b2441054f6eef670da7b3f53a3505a"
-    },
-    {
-      "file": "brand/fonts/Inter-Bold.woff2",
-      "bytes": 114840,
-      "sha256": "fa888127b6da015b65569f0351f3b5c391ad928904951f1c20e9f8462a8d95ea",
-      "git_blob_sha": "b9e3cb3b1fde34010b001d0a069b6a5ce2a08d0f"
-    },
-    {
-      "file": "brand/fonts/Inter-LICENSE.txt",
-      "bytes": 4380,
-      "sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
-      "git_blob_sha": "9b2ca37b3ffc77391d8b2ebef4a974ef32bf46ea"
-    },
-    {
-      "file": "brand/fonts/README.md",
-      "bytes": 1557,
-      "sha256": "b8f3944caf44f318315ea300ccf06c6742646d70ae1080e2386398e52aee79cb",
-      "git_blob_sha": "7a4cf34812961fc3ea921b426bd218c5294c16b5"
+      "bytes": 312384,
+      "sha256": "87fe5e241f3648bac3db4f4d494d20998b3dbbab65843176e70918012d594a30"
     },
     {
       "file": "brand/GUIDELINES.md",
-      "bytes": 10862,
-      "sha256": "42b303b1111c147bb203f0fec969db26c0592097348ae4cfd8ffb05cd4bd893f",
-      "git_blob_sha": "c22236409b2ce0c003e08532c2fe7d17449e672e"
+      "bytes": 6882,
+      "sha256": "7f0d849108799702b9158b4a2388e840f532ac7ca4fe568a5650b2f95c380290"
     },
     {
-      "file": "brand/previews/colour-system.png",
-      "bytes": 47811,
-      "sha256": "42eb0ee54351e7d9e425fbf753776aaed0620105ee6bdbe64b410ece021d2069",
-      "git_blob_sha": "1f50256054d46f7666c66f154cb3371e13f22f39",
-      "width": 1280,
-      "height": 875
+      "file": "brand/PROMPTS.md",
+      "bytes": 2877,
+      "sha256": "0206394bb576b35bf7f2b8140474af87561a5138fa9bf93b7057c0a628146ab5"
     },
     {
-      "file": "brand/previews/colour-system.svg",
-      "bytes": 4294,
-      "sha256": "e9e081948ce2bd6ce3a5cf879d22d9244a6aafbaef6b41959059d7fe4a53e44a",
-      "git_blob_sha": "3c9fd26ed9728e448aea812bd11cb3f240fd31f0"
+      "file": "brand/README.md",
+      "bytes": 6289,
+      "sha256": "9052b02e37de3a441b73a5519e9f3c065298a8c732d28de4c672074d1d5bc4a1"
     },
     {
-      "file": "brand/previews/compact-landscape.jpg",
-      "bytes": 191575,
-      "sha256": "9ff6337caf2f4020d15e1b30d24946bf5f32d269b5e32dc2d608ec0c87ada2f1",
-      "git_blob_sha": "03421c1c45e311d82d6b79cacae1da99d778ee2a",
-      "width": 960,
-      "height": 720
+      "file": "brand/assets/character-sources/baldwin-source.png",
+      "bytes": 2616639,
+      "sha256": "2982faf84c892f813edb00145ed5ac7fa3578c49a460e060380e300a5e0ab4b7",
+      "width": 1536,
+      "height": 1024
     },
     {
-      "file": "brand/previews/cover-editable.jpg",
-      "bytes": 358479,
-      "sha256": "d972587eb5ebbd7552c52fac294ef10512e256a616c586ec2bc5776d093327f8",
-      "git_blob_sha": "8dd112cf6df33d8df2b234cf16783ede5e8ea510",
+      "file": "brand/assets/character-sources/bateson-woodland.png",
+      "bytes": 4709726,
+      "sha256": "bd402dfdd0ea62eec03f17073b8025bf2f254d43d726cc36688cd75a5c5d9f2e",
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "file": "brand/assets/character-sources/blake-source.png",
+      "bytes": 3116745,
+      "sha256": "2213d6209f44f54b498623122eaba8869f501f49e27c2fd0c01046504be02235",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "brand/assets/character-sources/harry-source.png",
+      "bytes": 2183506,
+      "sha256": "1f2d07a59138dd87e1c8af4ce6a20f2efb169fd6e32e34bdc5f0629f3fe4a93c",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "brand/assets/character-sources/odysseus-ship.png",
+      "bytes": 3773201,
+      "sha256": "5163870d77d6427c64b3f6400e832148fe7492c465dfed59977da8285142a072",
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "file": "brand/assets/cognitive-dipole-v1.png",
+      "bytes": 153563,
+      "sha256": "06957342354aebf159ef811adca0cf247e19463f625339644118d372e0ccede0",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "file": "brand/assets/eye-mint-source.png",
+      "bytes": 3089195,
+      "sha256": "82e5c75988a8cccc23abfa124d0c6a104341a98b6ea9de0216c880da76928c30",
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "file": "brand/assets/sovereign-ooda-cover-master.png",
+      "bytes": 1312344,
+      "sha256": "1f2bb76be3bf571c66f7100624f262e25eb2f1ef79a98e2cda1b02816c320420",
       "width": 1280,
       "height": 640
     },
     {
+      "file": "brand/assets/sovereign-ooda-ecology-stack.png",
+      "bytes": 121596,
+      "sha256": "70d2436f1606f276fd725757a32a096b550d2cdef608d0ed0747c6c242364e1a",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "file": "brand/fonts/BarlowCondensed-Black.ttf",
+      "bytes": 110828,
+      "sha256": "e74b750df582c608f35db467b711b2b60d2217618e85e60b72b42dfd00446cab"
+    },
+    {
+      "file": "brand/fonts/BarlowCondensed-Bold.ttf",
+      "bytes": 109912,
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65"
+    },
+    {
+      "file": "brand/fonts/BarlowCondensed-OFL.txt",
+      "bytes": 4377,
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+    },
+    {
+      "file": "brand/fonts/BarlowCondensed-Regular.ttf",
+      "bytes": 102480,
+      "sha256": "583cec5da3b84bc4dc7c9c72e2a565c94d34e431518b19d7e250b7830ad5f996"
+    },
+    {
+      "file": "brand/fonts/IBMPlexMono-Medium.ttf",
+      "bytes": 136704,
+      "sha256": "a9b4c49bb299e05b5f6c481e7fb5e78943d2793249a0c8874ab574a2d1ea6755"
+    },
+    {
+      "file": "brand/fonts/IBMPlexMono-OFL.txt",
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+    },
+    {
+      "file": "brand/fonts/IBMPlexMono-Regular.ttf",
+      "bytes": 135580,
+      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+    },
+    {
+      "file": "brand/fonts/Inter-Bold.ttf",
+      "bytes": 420428,
+      "sha256": "288316099b1e0a47a4716d159098005eef7c0066921f34e3200393dbdb01947f"
+    },
+    {
+      "file": "brand/fonts/Inter-Bold.woff2",
+      "bytes": 114840,
+      "sha256": "fa888127b6da015b65569f0351f3b5c391ad928904951f1c20e9f8462a8d95ea"
+    },
+    {
+      "file": "brand/fonts/Inter-LICENSE.txt",
+      "bytes": 4380,
+      "sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a"
+    },
+    {
+      "file": "brand/fonts/README.md",
+      "bytes": 1418,
+      "sha256": "84e3ecdc5d733cebb1f731c1d586a840f2ee4da647292fab359cb75d3731ac8f"
+    },
+    {
+      "file": "brand/previews/colour-system.png",
+      "bytes": 21241,
+      "sha256": "a28dd69ef2ebb9103e93637067416d780d219b4ee0a51d3aa8a26a3ad0937fa6",
+      "width": 1280,
+      "height": 530
+    },
+    {
+      "file": "brand/previews/colour-system.svg",
+      "bytes": 2498,
+      "sha256": "3a0071af963cad97dd78672fe7b1e287deb4369f8e21998f758bdaa04e5d701d",
+      "width": 1280,
+      "height": 530
+    },
+    {
+      "file": "brand/previews/compact-landscape.jpg",
+      "bytes": 199094,
+      "sha256": "187d154e8b728c70825217970e7d0bdff88b42e46d3aa87e87e607b70f5a4d32"
+    },
+    {
+      "file": "brand/previews/cover-editable.jpg",
+      "bytes": 312384,
+      "sha256": "87fe5e241f3648bac3db4f4d494d20998b3dbbab65843176e70918012d594a30"
+    },
+    {
       "file": "brand/previews/layout-gallery.jpg",
-      "bytes": 533573,
-      "sha256": "92ece80c273a70060e38523363d8b056b997be022bfa0e82655fc350b2724691",
-      "git_blob_sha": "e009dc12d7f104837f7c196f55fafedb91ac0114",
+      "bytes": 504094,
+      "sha256": "0a7264181721a113d93a1ecd0de16832052e2c0f49c382b3e8b821cfb11849d6"
+    },
+    {
+      "file": "brand/previews/layout-gallery.svg",
+      "bytes": 2577,
+      "sha256": "a8c5f97c75cea77f25a7840698c32b302f8e0143ef02f6925ef266062f4795ca",
       "width": 1600,
       "height": 1580
     },
     {
-      "file": "brand/previews/layout-gallery.svg",
-      "bytes": 2326,
-      "sha256": "3135dfacb175d520fb959574a6e94235cde7f2aaae69e5bd15c141389974688f",
-      "git_blob_sha": "0ab1e506da348e2650e6660737e602d5d16f5df9"
+      "file": "brand/previews/portrait.jpg",
+      "bytes": 316444,
+      "sha256": "1a36023765100ab9e197d9268d9d9788c0398fbc888ac0c69a04a1f4d2d99d4b"
     },
     {
-      "file": "brand/previews/portrait.jpg",
-      "bytes": 283984,
-      "sha256": "642b36950916dcc37a199e6f3c97e442d1c2d41ad47988e2783348ff9673e01a",
-      "git_blob_sha": "dcaca87b18d6ee9344ef57143c29e8a33164b9b6",
-      "width": 1080,
-      "height": 1350
+      "file": "brand/previews/profile-cards.png",
+      "bytes": 5942763,
+      "sha256": "dd97d88e2e6e57ee4894d30cb8cec8d6056eb6ea944a865071f4903b14489ceb",
+      "width": 2370,
+      "height": 2630
+    },
+    {
+      "file": "brand/previews/profile-cards.svg",
+      "bytes": 2583,
+      "sha256": "b76efc0b3d26665034fe3ad741ab1eb8af56fe4e0f650e788782cae637136940",
+      "width": 2370,
+      "height": 2630
     },
     {
       "file": "brand/previews/square.jpg",
-      "bytes": 269695,
-      "sha256": "6096baa429c43d22127038dab6dfc2013634519b1a8fd11953c9c5c92555e5cc",
-      "git_blob_sha": "dc3f498f6222aca7044e20e3d24e125b1d4ae878",
-      "width": 1080,
-      "height": 1080
+      "bytes": 289230,
+      "sha256": "d8aa748e05e247424c15c88f51c8c8ddb77e8d3be8579334a9a901554fbe3f08"
     },
     {
       "file": "brand/previews/typography.png",
-      "bytes": 65702,
-      "sha256": "43dd08e687539a02e7fbf40fcce9bf5306a126cc5d307d8f21f469653cbdf240",
-      "git_blob_sha": "bb69cba0f7e755cb082bf803ba23c7727f284f56",
-      "width": 1280,
-      "height": 875
+      "bytes": 60660,
+      "sha256": "ab0077a641e4a17ac480f2b853c0034a7a2d8ed4653930dafcedc2dbb950f02d",
+      "width": 1440,
+      "height": 720
     },
     {
       "file": "brand/previews/typography.svg",
-      "bytes": 2690,
-      "sha256": "206d8a135608a046536abe95a89c8babb4d90eda133e2d5c8655c8c15394b822",
-      "git_blob_sha": "81a6bd8ec224b60726ec4d3d47ede24ca9ea70aa"
+      "bytes": 2257,
+      "sha256": "6c1fdd8c9bd556e2929b2e12e3bd70e21dd02470421323171a2324a883f4c2b3",
+      "width": 1440,
+      "height": 720
     },
     {
-      "file": "brand/prompts/clean-eye-prototype-v1.3.txt",
-      "bytes": 1259,
-      "sha256": "efc8c2b850b60de64754e7c4ed16340c2b64aa430b35fc1c51599ec81ae55d41",
-      "git_blob_sha": "b9f91041f11b0a6d8188c30fd6dc84596cd650d7"
+      "file": "brand/profile-cards.json",
+      "bytes": 2615,
+      "sha256": "25cc3802ff89117188afb5539ffb22ff037606f884e7a56391706951f1458e8c"
     },
     {
-      "file": "brand/PROMPTS.md",
-      "bytes": 3989,
-      "sha256": "145a4d017691bf33724f7984d20febad59ccc833a00196d2e907bda42c0493c9",
-      "git_blob_sha": "c1eee3e464cde14b2e00e9bc840356662e17f942"
+      "file": "brand/templates/README.md",
+      "bytes": 3088,
+      "sha256": "827d5c26c335130b76a22af5499f00e7acc16c940c719ca8fc3a6808d0ccc666"
     },
     {
-      "file": "brand/README.md",
-      "bytes": 6824,
-      "sha256": "603169c31229a72edf47ead884363a00000728fa468faed1f76dabdb6607980d",
-      "git_blob_sha": "cee78fe7ced5d740bd07176878f440dec5e401c5"
+      "file": "brand/templates/build-source.py",
+      "bytes": 14651,
+      "sha256": "4d43643ed4d40e7951c23e3901dac58830aeecad2f0654a7520e909234ec6fa4"
+    },
+    {
+      "file": "brand/templates/cognitive-dipole.svg",
+      "bytes": 6327,
+      "sha256": "4a0db943d46040425638dac139b41cdee2ef1776f2fc6b5bf7d57dc9abbfb53f",
+      "width": 1254,
+      "height": 1254
     },
     {
       "file": "brand/templates/compact-landscape.svg",
-      "bytes": 2798,
-      "sha256": "5a05f2fa14fed207c93f90189f0f06f8bdeb65ac764c4c4406ffb3b6771a12f5",
-      "git_blob_sha": "bb6e2613e0989a01959a09f272e95fa9a9f4391d",
-      "status": "prototype; not approved artwork"
+      "bytes": 2790,
+      "sha256": "08c87399cd0ae271fdb4e7e6e8689fdc394aa5a1b6e69a6854f87bf745288099",
+      "width": 960,
+      "height": 720
     },
     {
       "file": "brand/templates/cover-editable.svg",
-      "bytes": 2614,
-      "sha256": "63eef551bf2e69400207d64efbd66c02cf29370822df003c0c3e0b13e853d247",
-      "git_blob_sha": "a32bc0ba651c66757029c05a16b0329dec759afa",
-      "status": "prototype; not approved artwork"
+      "bytes": 2606,
+      "sha256": "1cad989fa014d4b31e8676db4a01fde993ff27a826d2e2a9ce9a2367b2328a27",
+      "width": 1280,
+      "height": 640
+    },
+    {
+      "file": "brand/templates/ecology-stack.svg",
+      "bytes": 7722,
+      "sha256": "8a5722cd2cabf021bcd050cd08d30ae64fe5d6d7b4a0f3e04c327276b41daa16",
+      "width": 1024,
+      "height": 1536
     },
     {
       "file": "brand/templates/layouts.json",
-      "bytes": 956,
-      "sha256": "0510f47ac944352879feae7895c4a78376c8d4d41f7242199e1fc7775796a42f",
-      "git_blob_sha": "fe5c35217a113742008b386978a5f2fae46ffd7f"
+      "bytes": 2697,
+      "sha256": "36f8febacbfea5467b236d5242ea96bcbd9593fe90c1ce6fa0ad5c8d07fa01dd"
+    },
+    {
+      "file": "brand/templates/package-kit.py",
+      "bytes": 3099,
+      "sha256": "5d4bf9ab9bac860d40af33f791dfe2b6f0d373d6a8f1e6db9b21621f676b2e43"
     },
     {
       "file": "brand/templates/package.json",
       "bytes": 216,
-      "sha256": "153f1e59b6495eeedec14d2985ccdfe36761ffe0ea8a1c12056504a21e7b2ed2",
-      "git_blob_sha": "e844fd4aade061090af40807d4fb2e8f8ccff683"
+      "sha256": "f1bad06662b68b0e21e7f53d922fda59da1ce35ba79dd9bca8819468855b99d3"
     },
     {
       "file": "brand/templates/portrait.svg",
-      "bytes": 2806,
-      "sha256": "c01247fd8b0c760562ac4de54a6bacaa0fe092fc859cf518da86e731eb201382",
-      "git_blob_sha": "2bbddf895646fe9911bf8eedab851f5c96546e30",
-      "status": "prototype; not approved artwork"
+      "bytes": 2798,
+      "sha256": "911e242eadc6e24a43759600f26bbab9f0b5dc9396b6cf03c1af457a7a9a085a",
+      "width": 1080,
+      "height": 1350
     },
     {
-      "file": "brand/templates/README.md",
-      "bytes": 2710,
-      "sha256": "2447e3ca702f735dca09634e8445d46523ff7333f8eba42f3ebadeb2d86197e7",
-      "git_blob_sha": "f9c00cc1f2715ca82adafa715cc2b66d5ece918d"
+      "file": "brand/templates/profile-pack-001.svg",
+      "bytes": 4631,
+      "sha256": "5c878e8c2951f0a538c4bde6c26b95bd2901337e1c465b9b9a257af62ac6d811",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "brand/templates/profile-pack-002.svg",
+      "bytes": 3219,
+      "sha256": "4201f57cc2d6e71a08970b1389cb5447ec2a8f13d5f313e3818e894baabfc89e",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "brand/templates/profile-pack-003.svg",
+      "bytes": 3409,
+      "sha256": "5bc2c257a8426969f120b3e8365f99ae2510a680d8b5e1c3f4fa22b163069e03",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "brand/templates/profile-pack-engineering.svg",
+      "bytes": 3258,
+      "sha256": "22a0b13c1f32e2d521e275be04b34d411f09d3d92e5dc907b5bc1806ecadd4c7",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "brand/templates/profile-pack-research.svg",
+      "bytes": 3099,
+      "sha256": "6f470202d9d6897b7a7d9a8e57b9b589f9291ae0657e3f743aca0fe4cff34bd5",
+      "width": 1536,
+      "height": 1024
     },
     {
       "file": "brand/templates/render.mjs",
-      "bytes": 5901,
-      "sha256": "2cf52111166764ac46d5b54962973db36e65646c06a62c4e0a4d926f9f72c84e",
-      "git_blob_sha": "d3732626d99e031bc44a1d2230572bf262cacfdb"
+      "bytes": 6742,
+      "sha256": "de379c2a30f490864f285ed34a497742a9d9eb20e6c21614674e2d5c4cc29c5f"
     },
     {
       "file": "brand/templates/square.svg",
-      "bytes": 2799,
-      "sha256": "31b6eb7bfb2fe853a34decd7be54fce67cfb9637178a3f448369113306dceb6e",
-      "git_blob_sha": "5acc36336c5fc97d8de2996342fb3bf745df63b4",
-      "status": "prototype; not approved artwork"
+      "bytes": 2791,
+      "sha256": "50cfea104754f0918a3dc6c3f204c67544c40a1e571ab81c6c52db844100c788",
+      "width": 1080,
+      "height": 1080
     },
     {
       "file": "brand/tokens.json",
-      "bytes": 3941,
-      "sha256": "41ceaa7bc5bde4c63e149357e8138519fe545079bd0669768b67a10cb1970e83",
-      "git_blob_sha": "155888bff214682c83affb7aba498220bab67032"
-    },
-    {
-      "file": "brand/assets/sovereign-ooda-ecology-stack.png",
-      "bytes": 1620064,
-      "sha256": "8bbfd51f272dd57591fc0a873917e717306ebbfe13fb71453ca08d21c282b74f",
-      "git_blob_sha": "2e98ef5db0705649fa72b7dbe46db67bddfb9662",
-      "width": 1024,
-      "height": 1536,
-      "status": "illustrative study; non-canonical; may change; architecture in development",
-      "added_on": "2026-10-23",
-      "included_in_v1_3_zip": false
-    },
-    {
-      "file": "brand/assets/cognitive-dipole-v1.png",
-      "bytes": 1682798,
-      "width": 1254,
-      "height": 1254,
-      "sha256": "b82e6b99993e66a3893f7ac2267f929cc501e84ca0ed3bf8905ee7cf4e242c57",
-      "git_blob_sha": "93fbc52f92d3c868c59b4e73bccbbb43541e9b83",
-      "status": "illustrative study; non-canonical; orbital metaphor; may change",
-      "added_on": "2026-10-23",
-      "included_in_v1_3_zip": false
+      "bytes": 2338,
+      "sha256": "c8cf4832008fad38b5e928757d65c1b48a10c8e844d41215740af87511ce78c8"
     }
-  ],
-  "checksum_scope": "Assets above exclude this manifest and the ZIP to avoid recursive hashes. Archive checksum is in brand/downloads/SHA256SUMS.txt. Repository supplements added after 22 October 2026 are not included in the published v1.3 ZIP.",
-  "repository_supplements_updated_on": "2026-10-23"
+  ]
 }

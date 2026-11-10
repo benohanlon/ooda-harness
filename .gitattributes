@@ -1,0 +1,6 @@
+/brand/** text=auto eol=lf
+/brand/fonts/*-OFL.txt -text whitespace=-blank-at-eol
+/brand/fonts/Inter-LICENSE.txt -text
+/README.md -text whitespace=cr-at-eol
+/assets/roles/*.md text eol=lf
+/roles/head-of-talent.md text eol=lf

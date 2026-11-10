@@ -1,74 +1,31 @@
-# Sovereign OODA Harness — reusable artwork prompts
+# OODA artwork production briefs
 
-Use these with the approved v1.2 image attached. The image is the main visual authority. These templates do not promise identical results from text alone.
+Use [guidelines](GUIDELINES.md), [tokens](tokens.json) and the relevant current artwork as the brief. The photographic layer and live type are separate. Copy or spacing changes belong in SVG/data, not a full-card generation.
 
-For a full cover, preserve the softer warm-bone title and the complete pupil statement ending NEEDS without a full stop. Keep the cover free of added author names, handles, URLs, signatures and watermarks. Origin credit belongs in accompanying text and metadata. Keep the pupil statement brightest.
+## Photographic/illustrative layer
 
-## Adapt an existing asset
+Attach the exact existing subject as the edit target and the mint/teal character-card image as the style reference. Preserve composition, recognisable anatomy, expression and meaningful scene details. Use dark petrol teal #031C1D, mint #B8F4DC and muted teal midtones, with restrained #F17435 accents. Keep a finely controlled halftone/dither or original woodcut texture. Output a clean layer with no new lettering, logo, badge, border or footer. State any flattened text that must be removed. Do not invent credits.
 
-```text
-Use the attached Sovereign OODA Harness approved v1.2 cover as the edit target and visual benchmark.
+## Eye
 
-Task: [asset purpose and destination].
-Output: [width × height and aspect ratio].
-Change only: [specific requested changes].
-Exact copy: [complete text and intended line breaks].
+Preserve the existing close, oblique eye, iris/pupil geometry and city/fire reflections. Replace the dominant gold/emerald cast with mint/teal print treatment. Keep only tiny orange reflected glints. Preserve a clear dark pupil for the live personal statement. No additional eyes, frontal-eye substitute or generic HUD.
 
-Preserve the emerald iris, dark forest background, antique gold structure and reflections, bone text, intimate oblique crop, dominant iris and dark pupil. Keep the downward-right sweep of lids and lashes, the human moment of noticing and the contrast between monospaced identity/supporting type and bold sans pupil text.
+## Baldwin
 
-Retain the complete chosen pupil statement, upright inside the black pupil. Keep light and fire reflections out of the words. Match the approved visual hierarchy and natural anatomy. Recompose for a new ratio rather than stretching.
+Preserve the mask, eye expression, pointing gesture and chessboard. Remove flattened left-hand quotation text completely and restore natural dark halftone background before live re-typesetting. No residual letters or punctuation. Preserve source-film context.
 
-Do not introduce a frontal whole almond eye, generic HUD graphics, other logos, a blue/cream palette or additional text.
-```
+## Bateson
 
-## Create a related artwork
+Preserve branching trees, undergrowth, stream and connected woodland ecology. Remove the old central banner and restore the forest behind it. Treat the artwork in mint/teal, retaining botanical detail. Do not add a portrait or unrelated technology symbols.
 
-```text
-Create a new Sovereign OODA Harness artwork in the visual family of the attached approved v1.2 cover.
+## Odysseus
 
-Purpose and audience: [brief].
-Format and size: [brief].
-Exact copy: [verbatim].
-Deliberate variation: [environment reflected in eye, lighting or composition].
+Preserve the ancient Greek/Phaeacian ship, square sail, crew, stormy sea, distant Ithaca and small hearth-smoke. Keep the original woodcut lines and texture. Replace warm paper and oxblood colouring with mint/teal inks, with orange-red reserved for the ship's cheek. No Viking ship, modern yacht or archaeological-authenticity claim.
 
-Use the benchmark's dark forest ground, emerald/sage eye detail, antique gold rules/accents and bone typography. Preserve the intimate human eye, large iris, oblique diagonal lids/lashes and alert, vulnerable moment of noticing. Warm city-light/fire reflections belong across the iris and cornea; keep the pupil dark enough for the personal message.
+## Live-type card
 
-Use a monospaced uppercase identity/supporting system and a compact bold sans message. Keep the personal message and eye first in the hierarchy. Preserve believable proportions and tactile photographic detail.
+Edit [profile-cards.json](profile-cards.json). Rebuild with the shared template and bundled fonts. Keep the same canvas, column starts, divider, type sizes, frame, header and footer. Quote line breaks can change within the common area. Harry's first line is regular and second bold, same size. Verify exact wording, name, role, pack label and attribution. Do not change internal runtime profiles or claim installation from artwork numbering.
 
-Vary only what the brief calls for. Compare the result beside the benchmark before calling it complete.
-```
+## Architecture graphics
 
-## Cover copy block
-
-```text
-SOVEREIGN OODA HARNESS
-
-THERE'S
-SOMETHING
-IN YOU
-THAT THE WORLD
-NEEDS
-
-COUNTER-REVOLUTIONARY
-MANOEUVRE WARFARE
-
-COGNITIVE SUPERIORITY
-WITHIN THE DISTRIBUTED MIND
-```
-
-Check MANOEUVRE letter by letter: M A N O E U V R E. Keep the hyphen in COUNTER-REVOLUTIONARY.
-
-## Review instruction
-
-```text
-Compare this candidate with the attached approved cover. Check palette, eye scale/crop/angle, reflected light, type hierarchy, exact copy, output ratio and legibility. Identify any material drift and fix the smallest number of things needed. Keep the candidate separate from the approved benchmark until Ben selects it.
-```
-
-
-## Use the editable layouts
-
-Use [templates/README.md](templates/README.md) when the change concerns copy, spacing, type size or output format. Edit the live SVG text and explicit coordinates, then render with the bundled fonts. Reuse the clean photographic plate for these studies. Avoid generating typography again when an editable layout already serves the brief.
-
-The four v1.3 layouts are prototypes. The approved cover is v1.2. Do not substitute a template export into the repository README until Ben selects it. Keep all current chosen copy, including the five-line pupil statement and strategic footer, unless the brief explicitly changes it.
-
-For a new photographic edit, attach the approved cover and identify exactly what may change. The [clean-plate prompt](prompts/clean-eye-prototype-v1.3.txt) records the derivative used in these templates.
+Edit native SVG/source geometry rather than regenerate a raster diagram. Preserve direction, feedback, role accountability, combined shared/private basis, complete OODAs, temporary contributions and actual action ownership. Pairing is selective; ordinary work can use one accountable agent. Inspect every connector and label against the written contract.

@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="875" viewBox="0 0 1280 875" role="img" aria-labelledby="title desc">
-<title id="title">Sovereign OODA Harness editable typography</title><desc id="desc">IBM Plex Mono Medium for identity and support, Inter Bold for the pupil message. Prototype typesetting, not a change to the approved raster.</desc>
-<style>
-@font-face{font-family:OodaMono;src:url('../fonts/IBMPlexMono-Regular.ttf') format('truetype');font-weight:400}
-@font-face{font-family:OodaMono;src:url('../fonts/IBMPlexMono-Medium.ttf') format('truetype');font-weight:500}
-@font-face{font-family:OodaSans;src:url('../fonts/Inter-Bold.woff2') format('woff2');font-weight:700}
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="720" viewBox="0 0 1440 720" role="img" aria-labelledby="title"><title id="title">OODA shared live typography</title><style>
+@font-face{font-family:OodaMono;src:url('../fonts/IBMPlexMono-Regular.ttf');font-weight:400}
+@font-face{font-family:OodaMono;src:url('../fonts/IBMPlexMono-Medium.ttf');font-weight:500}
+@font-face{font-family:OodaSans;src:url('../fonts/Inter-Bold.woff2');font-weight:700}
+@font-face{font-family:OodaCondensed;src:url('../fonts/BarlowCondensed-Regular.ttf');font-weight:400}
+@font-face{font-family:OodaCondensed;src:url('../fonts/BarlowCondensed-Bold.ttf');font-weight:700}
+@font-face{font-family:OodaCondensed;src:url('../fonts/BarlowCondensed-Black.ttf');font-weight:900}
 text{font-kerning:normal;text-rendering:geometricPrecision}
-.mono{font-family:OodaMono,'IBM Plex Mono',monospace;font-weight:500}
-.small{font-family:OodaMono,'IBM Plex Mono',monospace;font-weight:400}
-.message{font-family:OodaSans,Inter,sans-serif;font-weight:700}
-</style><rect width="1280" height="875" fill="#07140F"/>
-<text class="mono" x="60" y="65" font-size="22" fill="#C9C5B5" text-anchor="start" letter-spacing="1.5">SOVEREIGN OODA HARNESS</text><text class="mono" x="60" y="145" font-size="48" fill="#F1EBD7" text-anchor="start" letter-spacing="0">EDITABLE TYPOGRAPHY</text><path d="M60 182H1220" fill="none" stroke="#C6A45D" stroke-width="2"/><text class="small" x="60" y="237" font-size="19" fill="#C6A45D" text-anchor="start" letter-spacing="0">IDENTITY / IBM PLEX MONO MEDIUM</text><text class="mono" x="60" y="314" font-size="40" fill="#C9C5B5" text-anchor="start" letter-spacing="2.5">SOVEREIGN OODA HARNESS</text><text class="small" x="60" y="402" font-size="19" fill="#C6A45D" text-anchor="start" letter-spacing="0">MESSAGE / INTER BOLD</text><text class="message" x="60" y="483" font-size="51" fill="#F1EBD7" text-anchor="start" letter-spacing="0">THERE&#x27;S SOMETHING IN YOU</text><text class="message" x="60" y="547" font-size="51" fill="#F1EBD7" text-anchor="start" letter-spacing="0">THAT THE WORLD NEEDS</text><text class="small" x="60" y="632" font-size="19" fill="#C6A45D" text-anchor="start" letter-spacing="0">SUPPORT / IBM PLEX MONO MEDIUM</text><text class="mono" x="60" y="689" font-size="34" fill="#C6A45D" text-anchor="start" letter-spacing="0">COUNTER-REVOLUTIONARY</text><text class="mono" x="60" y="738" font-size="34" fill="#C6A45D" text-anchor="start" letter-spacing="0">MANOEUVRE WARFARE</text><path d="M60 788H1220" fill="none" stroke="#C6A45D" stroke-width="2"/><text class="small" x="60" y="831" font-size="18" fill="#C9C5B5" text-anchor="start" letter-spacing="0">Prototype typesetting; the approved raster remains the visual benchmark</text>
-</svg>
+.mono,.small{font-family:OodaMono,monospace;font-weight:400}
+.mono{font-weight:500}.message,.sans{font-family:OodaSans,sans-serif;font-weight:700}
+.condensed{font-family:OodaCondensed,sans-serif;font-weight:700}
+</style><rect width="1440" height="720" fill="#031C1D"/><text x="50" y="70" font-size="30" fill="#B8F4DC" class="mono" text-anchor="start" >OODA / TYPE SYSTEM</text><text x="50" y="210" font-size="102" fill="#B8F4DC" class="condensed" text-anchor="start" font-weight="900" style="font-weight:900" >BALDWIN · BLAKE · HARRY</text><text x="50" y="285" font-size="22" fill="#F17435" class="mono" text-anchor="start" >BARLOW CONDENSED / NAMES AND ROLE TITLES</text><text x="50" y="365" font-size="45" fill="#F17435" class="condensed" text-anchor="start" font-weight="400" style="font-weight:400" >Right now I’m in first gear.</text><text x="50" y="423" font-size="45" fill="#F17435" class="condensed" text-anchor="start" font-weight="700" style="font-weight:700" >Would you like to see me shift to six?</text><text x="50" y="495" font-size="19" fill="#B8F4DC" class="mono" text-anchor="start" >ONE FAMILY / SAME SIZE / DELIBERATE WEIGHT CONTRAST</text><text x="50" y="580" font-size="25" fill="#B8F4DC" class="mono" text-anchor="start" >IBM Plex Mono / headers, pack IDs, metadata</text><text x="50" y="655" font-size="30" fill="#B8F4DC" class="sans" text-anchor="start" >Inter Bold / messages and diagram hierarchy</text></svg>

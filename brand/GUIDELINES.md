@@ -1,155 +1,81 @@
-# Sovereign OODA Harness — design guidelines
+# OODA design guidelines
 
-Kit v1.3, published 22 October 2026. The approved cover remains v1.2, selected by Ben on 22 October 2026. It has no added authorship line, a softer title and NEEDS without a full stop. New editable layouts are prototypes until selected by Ben.
+Kit 2.0 · 10 November 2026. This refresh applies Ben's selected character-card direction across the OODA kit. It supersedes the old green/gold/bone palette for current production; prior work remains in Git history and the v1.3 archive.
 
-## Start with the approved artwork
+## Purpose and visual identity
 
-![Approved cinematic eye cover](../assets/sovereign-ooda-cover.jpg)
+Use the [current cover](../assets/sovereign-ooda-cover.jpg) and [character collection](previews/profile-cards.png) together as references. The family combines dark petrol teal, luminous mint, restrained orange, tactile print detail and disciplined typography. Nous Research / Hermes is an influence, not a licence to add third-party marks or claim official brand specifications.
 
-[Master PNG](assets/sovereign-ooda-cover-master.png) · [GitHub JPEG](../assets/sovereign-ooda-cover.jpg) · [Reusable prompts](PROMPTS.md) · [Design tokens](tokens.json)
+Preserve each image's job and meaning. The eye carries human agency and the surrounding world. Baldwin counsels personal responsibility. Blake brings commercial accountability. Harry represents the sovereign's candidate interests. Bateson's woodland expresses ecology and relationships. Odysseus's ship, red cheek, distant Ithaca and hearth smoke express resourcefulness and homecoming. Architecture illustrations explain relationships governed by the written contracts.
 
-Use the approved image as the visual reference in every artwork brief. Reuse the existing asset whenever the task needs this cover. New generations are candidates until compared with it and accepted. The earlier blue, frontal-eye and pupil-position studies are exploration history.
+## Colour
 
-## Identity and intent
-
-Sovereign OODA Harness connects observation and orientation with human agency, sovereignty and the distributed mind. The artwork combines an intimate human eye with the pressure and complexity of the world reflected in it.
-
-The emotional centre is the message inside the pupil: there is something in you that the world needs. Counter-revolutionary, manoeuvre warfare and cognitive superiority supply the strategic framing. Preserve the user's language.
-
-The chosen look is cinematic, tactile, alert and human. Green carries the identity, gold carries structure and reflected light, and bone carries the message. Blade Runner's reflected-world eye informed the cinematic treatment; Nous/Hermes and Metalabel informed the earlier print and typographic research. The approved Sovereign OODA image is the reference for production.
-
-## The eye
-
-- Use a large emerald iris and dark pupil in an extreme close crop. Preserve natural anatomy and the intimate scale.
-- Carry a diagonal sweep through the eyelids and lashes, falling toward the viewer's right. The intended reading is a slightly low, oblique viewpoint and attention caught by something below-right.
-- Keep the eye as a fragment of a person in a moment of noticing. Preserve the tension, vulnerability and ambiguity of alertness or surprise.
-- Reflect tiny city lights and distant amber-gold fire across the iris and corneal highlights. They suggest the surrounding world; they must not cover the pupil's words.
-- Keep the pupil dark, the personal statement upright and complete, and the iris visually dominant.
-- Match the approved image's visible geometry. Do not replace it with a frontal whole almond eye or treat sideways pupil movement alone as the solution.
-
-The viewpoint is art direction and a perceptual reading. The benchmark itself resolves ambiguities more reliably than a verbal camera description.
-
-## Colour system
-
-These hex values are working targets for editable materials. The approved photograph contains a broad tonal range; they are not measurements of every generated pixel.
-
-| Colour | Target | Use |
+| Production value | Hex | Purpose |
 | --- | --- | --- |
-| Forest dark | #07140F | Main background and negative space. |
-| Emerald | #20784E | Eye and primary identity colour. |
-| Sage | #A2BA91 | Lighter photographic detail. |
-| Antique gold | #C6A45D | Rules, strategic labels and warm light accents. |
-| Bone | #F1EBD7 | Pupil statement and cognitive footer. |
-| Quiet bone | #C9C5B5 | Softer product title. |
+| Petrol dark | #031C1D | Flat background and negative space |
+| Mint | #B8F4DC | Primary type, rules and photographic highlights |
+| Muted teal | #5F8D85 | Supporting boundaries and photographic midtones |
+| Signal orange | #F17435 | Selected emphasis, action and restrained accents |
 
-Keep dark green dominant. Gold rules and labels are flat printed colour; gold reflections within the eye may glow naturally. Bone text stays clear against dark areas. Preserve the green-and-gold balance rather than shifting the whole image to orange, blue or cream.
+These values are authoritative for flat native text and geometry. Photographs retain tonal variation; different source lighting is not permission to change the ink palette. Do not reintroduce bone, antique gold, emerald or unrelated white into current labels. Keep sufficient contrast and use wording/geometry as well as colour to explain diagram relationships. Avoid glows and decorative gradients in the information layers.
 
-## Approved cover typography
+## Typography
 
-| Role | Editable specification | Treatment |
+| Function | Family | Weight |
 | --- | --- | --- |
-| Product title | Courier New Bold; Courier or monospace fallback | Uppercase quiet bone, left aligned, generous tracking. |
-| Pupil statement | Helvetica Bold; Arial Bold or sans-serif fallback | Uppercase, compact five-line block, centred in pupil. |
-| Strategic labels | Courier New Bold; Courier or monospace fallback | Uppercase gold, left and right beneath the image. |
-| Cognitive footer | Courier New Bold; Courier or monospace fallback | Uppercase bone, two centred lines. |
+| Headers and metadata | IBM Plex Mono | Regular 400 / Medium 500 |
+| Character names | Barlow Condensed | Black 900 |
+| Role titles | Barlow Condensed | Bold 700 |
+| Quotes | Barlow Condensed | Regular 400 and Bold 700 |
+| Human message and diagram hierarchy | Inter | Bold 700 |
 
-The approved raster approximates these letterforms and has no editable text or embedded fonts. These are production choices for future live typesetting.
+Use actual bundled fonts with live SVG type. Generated artwork's apparent letterforms are references, not reproducible font definitions. Keep text separate from the photographic layer. A copy edit must not regenerate faces or reinterpret the entire layout.
 
-Maintain this order of attention: personal statement and eye, product identity, strategic labels, cognitive footer. Check real display size; use live type when exact wording and spacing are critical.
+Harry's two quote lines use the same family and size: setup regular, challenge bold. Preserve Ben's exact wording: “Right now I'm in first gear. Would you like to see me shift to six?” Do not silently substitute “sixth”. Role copy written for Bateson and Odysseus is not a source quotation.
 
-## Editable template typography
+## Character-card geometry
 
-The v1.3 prototypes use **IBM Plex Mono Medium (500)** for identity and supporting lines, and **Inter Bold (700)** for the pupil statement. IBM Plex Mono Regular (400) is available for metadata in the kit. The font files and complete SIL Open Font License texts are in [fonts/](fonts/README.md). These are reproducible production choices for the prototypes. They do not assert the exact fonts of the generated v1.2 raster.
+The canvas is **1536 × 1024**, ratio 3:2. All dimensions are explicit in [tokens](tokens.json) and the [source builder](templates/build-source.py).
 
-The SVGs keep text and artwork separate. Font size, line spacing, alignment and coordinates are explicit. Use the [template instructions](templates/README.md) to render with bundled fonts. Check the resulting composition against the approved cover before proposing a new benchmark.
+- Header bottom rule: y58. Picture bounds: x24, y60, width1488, height744.
+- Information band starts at y804. Orange divider: x500. Title/quote column: x530.
+- Name type: 116px at weight900; title: 41px; quote: 29px, line height32px. These sizes are common to the set. Name length does not move the divider.
+- Attribution rule: y970. Metadata stays within the frame. Long character surnames can use the designated secondary line; long quotations wrap within the common quote area.
+- Keep the header, frame, rules, margins, metadata spacing and semantic colours constant. Essential text must remain legible at actual display size. Full attribution and a long source quotation may need full-size viewing.
 
-## Attribution
+001 is Baldwin, 002 Blake and 003 Harry. Further numbering remains unassigned until selected. The card number identifies artwork in this collection; it is not a deployment identity or installer selection.
 
-The approved cover has no embedded author name, handle, URL, signature or watermark. Keep origin credit in accompanying text and asset metadata, preserving the image's visual balance.
+## Cover composition and exact copy
 
-Creator: Ben O’Hanlon. Public destination: [The Ecosystem Operator](https://ecosystemoperator.substack.com/). The README already carries the project's creator and publication links.
+Keep the 2:1 cover's oblique eye, large iris, dark pupil and reflected-world detail. The iris remains the intimate fragment of a person in a moment of noticing. Avoid a frontal whole-eye substitute or arbitrary pupil movement. The mint/teal source is a new image-tool derivative, not a pixel-identical restoration.
 
-## Canonical cover copy
+The title sits above a thin orange rule. The eye is dominant, with the complete upright personal message inside the pupil. Strategic labels and the two-line cognitive footer remain subordinate. The current native cover export is 1280 ×640; the new photographic source is 1774 ×887. Do not imply an upscale creates new detail.
 
-Product name:
+Exact chosen copy:
 
-```text
-SOVEREIGN OODA HARNESS
-```
+- SOVEREIGN OODA HARNESS
+- THERE'S / SOMETHING / IN YOU / THAT THE WORLD / NEEDS
+- COUNTER-REVOLUTIONARY / MANOEUVRE WARFARE
+- COGNITIVE SUPERIORITY / WITHIN THE DISTRIBUTED MIND
 
-Pupil statement, five lines:
+Keep the British spelling MANOEUVRE, the hyphen and NEEDS without a full stop. Do not add an author name, URL, signature or watermark to the cover. Keep creator attribution in accompanying text and metadata.
 
-```text
-THERE'S
-SOMETHING
-IN YOU
-THAT THE WORLD
-NEEDS
-```
+Alternative cover layouts recompose the image and retain the entire wording. Do not stretch anatomy, crop text away or change the message for a different ratio.
 
-Strategic labels:
+## Illustration and diagram integrity
 
-```text
-COUNTER-REVOLUTIONARY
-MANOEUVRE WARFARE
-```
+Use image generation for photographic or poetic artwork changes. Preserve recognisable character and source-specific meaning. Keep credits and the difference between a source quote and role copy explicit. Do not invent a photographer or imply documentary accuracy for the generated ship illustration.
 
-Footer:
+Use native SVG for diagram text, nodes and connectors. Labels must describe the written system faithfully: one accountable agent can handle ordinary work; paired mode is selectively commissioned, with two complete OODAs and complementary, reversible positions. A diagram does not instantiate that mode. Arrowheads and boundaries carry meaning, so inspect them visually as well as checking label fit. Keep an illustrative, non-canonical status.
 
-```text
-COGNITIVE SUPERIORITY
-WITHIN THE DISTRIBUTED MIND
-```
+## Production and review
 
-Retain the hyphen in COUNTER-REVOLUTIONARY and the British spelling MANOEUVRE: M A N O E U V R E. The final pupil line is NEEDS, with no full stop. Preserve the full statement and footer. New campaign wording should be an explicit brief choice.
+1. Recover the current brief, exact copy and relevant source image.
+2. Reuse the palette, fonts, fixed layout and existing renderer.
+3. Save photographic edits as distinct sources; keep their prompts and provenance.
+4. Edit native type and data, build and render the affected exports.
+5. Compare at common size and at intended viewing size. Check text, credits, geometry, meaningful details and collection coherence.
+6. Repair the actual defect. A successful render or font-load check alone is not visual acceptance.
+7. Update the manifest and downloadable kit with the final assets and verify links. Retain previous accepted versions in Git history.
 
-## Composition and formats
-
-The approved cover is 2:1. The eye image reaches the canvas edges; title, rules and lower text sit within approximately 4% horizontal margins. The photographic band occupies roughly 60% of the height. These are matching guides, not a substitute for the actual artwork.
-
-The title sits above a thin gold rule. The eye fills the middle. Gold strategic labels sit beneath it, followed by a second gold rule and a two-line bone footer. The pupil is left of the canvas centre and contains the personal statement.
-
-| Asset | Dimensions | Use |
-| --- | --- | --- |
-| Approved master PNG | 1774 × 887 | Preserve at native resolution as the benchmark. |
-| GitHub JPEG | 1280 × 640 | README cover and repository social preview. |
-| Future 2:1 master | Brief-specific; retain 2:1 | Produce new detail only when a larger source is needed. |
-| Square or portrait adaptation | Set for its destination | Recompose the hierarchy and image crop; keep natural anatomy and complete chosen copy. |
-
-Resize proportionally. Do not stretch the eye or crop away text to make a different ratio. A future larger export from this master is an upscale, not additional source detail.
-
-GitHub recommends 1280 × 640 and a file below 1 MB for repository social previews. This is separate from README display sizing. Our JPEG is 495,146 bytes. [GitHub guidance](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview).
-
-## Making coherent new artwork
-
-1. Open the approved cover and this guide before drafting the brief.
-2. State the asset's purpose, destination, ratio and exact copy.
-3. Attach the approved cover as the main image reference. State the one or two deliberate changes.
-4. Keep the palette, eye treatment, type contrast and hierarchy consistent. Let the reflected environment vary when the brief calls for it.
-5. Compare the candidate beside the benchmark at full size and at its intended display size.
-6. Check every word, the pupil's contrast, natural anatomy and safe margins. Record what changed.
-7. Save candidates separately. Promote a new benchmark only after Ben selects it; retain previous approved versions.
-
-Do not introduce generic HUD overlays, unrelated symbols, additional eyes, other organisations' logos or a new dominant palette. Keep the human message central.
-
-## Approval check
-
-- The image belongs to the same green, gold and dark visual family.
-- The crop, iris scale and diagonal geometry preserve the moment of noticing.
-- Reflected lights add atmosphere without obscuring the personal statement.
-- The personal statement is the first clear textual read.
-- Every chosen line is correct and legible at the intended output size.
-- The image is proportionate, with no stretched anatomy or clipped wording.
-- The brief's deliberate changes are clear; the benchmark has not silently drifted.
-
-## Files and versioning
-
-Kit **v1.3** adds the visual overview, colour and typography specimens, four editable layout prototypes, bundled fonts, render instructions and a downloadable ZIP. Cover **v1.2** remains the sole approved artwork benchmark. Template revision **0.1** is a production study.
-
-Use [README.md](README.md) for previews and downloads. [PROMPTS.md](PROMPTS.md) holds reusable briefs; [tokens.json](tokens.json) holds design values; [manifest.json](manifest.json) records asset status, dimensions and checksums. Paths in the manifest are relative to the repository root.
-
-The current approved master is [assets/sovereign-ooda-cover-master.png](assets/sovereign-ooda-cover-master.png). The repository README uses [../assets/sovereign-ooda-cover.jpg](../assets/sovereign-ooda-cover.jpg). Neither is replaced by a template export. The [download ZIP](downloads/sovereign-ooda-brand-kit-v1.3.zip) includes the complete brand directory and that JPEG, preserving their relative paths.
-
-Git history preserves previous published versions. The project's chosen approval record retains approvals and exploration history. On an accepted kit revision, update the portable files and record the accepted commit with that owner. Ben's existing history is in Notion; the kit does not require that service for another project. Publication is separate from runtime deployment.
-
-The clean eye is an AI-edited derivative prepared with the built-in image tool to remove flattened lettering and rules. Its [exact edit prompt](prompts/clean-eye-prototype-v1.3.txt) is included. It is a prototype source, not a pixel-identical restoration of the approved photograph. The original approved cover remains unchanged.
+Publication, deployment and GitHub's social-preview setting remain separate effects. New artwork does not appoint roles or change profile IDs. The brand kit creates no permission for personal data disclosure or unrelated repository changes.

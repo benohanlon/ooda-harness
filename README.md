@@ -1,6 +1,6 @@
 # Sovereign OODA Harness
 
-![Sovereign OODA Harness. A green eye reflects gold city lights. There's something in you that the world needs. Counter-revolutionary manoeuvre warfare. Cognitive superiority within the distributed mind.](assets/sovereign-ooda-cover.jpg)
+![Sovereign OODA Harness. A mint and petrol-teal eye reflects the surrounding world. There's something in you that the world needs. Counter-revolutionary manoeuvre warfare. Cognitive superiority within the distributed mind.](assets/sovereign-ooda-cover.jpg)
 
 **Private alpha.** No public installation release date is confirmed.
 
