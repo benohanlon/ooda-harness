@@ -47,9 +47,12 @@ async function render(sourcePath, outputPath, requireCopy=false) {
     const slotOverflow=text.filter(b=>b.slot==='name'&&b.x+b.width>482||b.slot==='role'&&b.x+b.width>1060||b.slot==='quote'&&b.x+b.width>1070||b.slot==='qualities'&&b.x<1080);
     const all=text.map(x=>x.text).join(' ');
     const copyOk=!requireCopy||["SOVEREIGN OODA HARNESS","THERE'S SOMETHING IN YOU THAT THE WORLD NEEDS","COUNTER-REVOLUTIONARY","MANOEUVRE WARFARE","COGNITIVE SUPERIORITY","WITHIN THE DISTRIBUTED MIND"].every(s=>all.includes(s));
-    return {outside,slotOverflow,copyOk,type:text.filter(t=>t.slot),fonts:[...document.fonts].map(f=>({family:f.family,weight:f.weight,status:f.status}))};
+    const destination=text.filter(t=>t.slot==='destination');
+    const credit=text.find(t=>t.slot==='credit');
+    const destinationOk=destination.length===1&&destination[0].text==='sovereignharness.io'&&(!credit||credit.x+credit.width+24<destination[0].x);
+    return {outside,slotOverflow,copyOk,destinationOk,type:text.filter(t=>t.slot),fonts:[...document.fonts].map(f=>({family:f.family,weight:f.weight,status:f.status}))};
   },{width,height,requireCopy});
-  if(inspection.outside.length||inspection.slotOverflow.length||!inspection.copyOk||inspection.fonts.some(f=>f.status!=='loaded')) throw new Error(JSON.stringify({sourcePath,...inspection}));
+  if(inspection.outside.length||inspection.slotOverflow.length||!inspection.copyOk||!inspection.destinationOk||inspection.fonts.some(f=>f.status!=='loaded')) throw new Error(JSON.stringify({sourcePath,...inspection}));
   await mkdir(dirname(outputPath),{recursive:true});
   await page.locator('svg').screenshot({path:outputPath,animations:'disabled',...(extname(outputPath)==='.jpg'?{type:'jpeg',quality:92}:{})});
   reports.push({source:sourcePath.split(/[\\/]/).pop(),width,height,copy_checked:requireCopy,...inspection});
@@ -69,8 +72,9 @@ try {
     {id:'portrait',x:790,y:818,w:480,h:600,label:'PORTRAIT / 1080 × 1350',ly:1470}
   ];
   const style = (await readFile(resolve(brand,'previews/colour-system.svg'),'utf8')).match(/<style>([\s\S]*?)<\/style>/)[1];
-  const gallery=`<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1580" viewBox="0 0 1600 1580"><title>OODA editable layouts</title><style>${style}</style><rect width="1600" height="1580" fill="${colors.petrol_dark}"/><text class="mono" x="60" y="78" font-size="29" fill="${colors.mint}">SOVEREIGN OODA HARNESS</text><text class="mono" x="60" y="151" font-size="49" fill="${colors.mint}">EDITABLE LAYOUTS</text><text class="small" x="60" y="195" font-size="23" fill="${colors.signal_orange}">KIT 2.0 · SHARED COLOUR AND LIVE TYPE</text>${items.map(i=>`<rect x="${i.x-1}" y="${i.y-1}" width="${i.w+2}" height="${i.h+2}" fill="none" stroke="${colors.muted_teal}" stroke-opacity="0.5"/><image href="${i.id}.jpg" x="${i.x}" y="${i.y}" width="${i.w}" height="${i.h}"/><text class="small" x="${i.x}" y="${i.ly}" font-size="23" fill="${colors.mint}">${i.label}</text>`).join('')}<path d="M60 1510H1540" stroke="${colors.signal_orange}" stroke-width="2"/><text class="small" x="60" y="1552" font-size="22" fill="${colors.mint}">Same wording · Separate image and text · Bundled fonts</text></svg>`;
-  await writeFile(resolve(brand,'previews/layout-gallery.svg'),gallery+'\n','utf8');
+  const gallery=`<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1580" viewBox="0 0 1600 1580"><title>OODA editable layouts</title><style>${style}</style><rect width="1600" height="1580" fill="${colors.petrol_dark}"/><text class="mono" x="60" y="78" font-size="29" fill="${colors.mint}">SOVEREIGN OODA HARNESS</text><text class="mono" x="60" y="151" font-size="49" fill="${colors.mint}">EDITABLE LAYOUTS</text><text class="small" x="60" y="195" font-size="23" fill="${colors.signal_orange}">KIT 2.1 · SHARED COLOUR AND LIVE TYPE</text>${items.map(i=>`<rect x="${i.x-1}" y="${i.y-1}" width="${i.w+2}" height="${i.h+2}" fill="none" stroke="${colors.muted_teal}" stroke-opacity="0.5"/><image href="${i.id}.jpg" x="${i.x}" y="${i.y}" width="${i.w}" height="${i.h}"/><text class="small" x="${i.x}" y="${i.ly}" font-size="23" fill="${colors.mint}">${i.label}</text>`).join('')}<path d="M60 1510H1540" stroke="${colors.signal_orange}" stroke-width="2"/><text class="small" x="60" y="1552" font-size="22" fill="${colors.mint}">Same wording · Separate image and text · Bundled fonts</text></svg>`;
+  const stampedGallery=gallery.replace('</svg>','<text class="mono" x="1540" y="1572" font-size="20" fill="'+colors.mint+'" text-anchor="end" data-slot="destination">sovereignharness.io</text></svg>');
+  await writeFile(resolve(brand,'previews/layout-gallery.svg'),stampedGallery+'\n','utf8');
   await render(resolve(brand,'previews/layout-gallery.svg'),resolve(brand,'previews/layout-gallery.jpg'));
   if(process.env.OODA_RENDER_REPORT) await writeFile(process.env.OODA_RENDER_REPORT,JSON.stringify(reports,null,2)+'\n');
   console.log(JSON.stringify({rendered:reports.length,fontsLoaded:true,textWithinCanvas:true,canonicalCopyVerified:layouts.filter(l=>l.canonicalCopy!==false).length,profileCards:layouts.filter(l=>l.id.startsWith('profile-pack-')).length}));

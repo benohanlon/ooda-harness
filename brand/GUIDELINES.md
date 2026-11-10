@@ -1,6 +1,6 @@
 # OODA design guidelines
 
-Kit 2.0 · 10 November 2026. This refresh applies Ben's selected character-card direction across the OODA kit. It supersedes the old green/gold/bone palette for current production; prior work remains in Git history and the v1.3 archive.
+Kit 2.1 · 10 November 2026. This refresh applies Ben's selected character-card direction across the OODA kit. It supersedes the old green/gold/bone palette for current production; prior work remains in Git history and the v1.3 archive.
 
 ## Purpose and visual identity
 
@@ -40,6 +40,7 @@ The canvas is **1536 × 1024**, ratio 3:2. All dimensions are explicit in [token
 - Header bottom rule: y58. Picture bounds: x24, y60, width1488, height744.
 - Information band starts at y804. Orange divider: x500. Title/quote column: x530.
 - Name type: 116px at weight900; title: 41px; quote: 29px, line height32px. These sizes are common to the set. Name length does not move the divider.
+- Destination URL: bottom right, mint IBM Plex Mono 22px. Keep a minimum 24px gap from source credits.
 - Attribution rule: y970. Metadata stays within the frame. Long character surnames can use the designated secondary line; long quotations wrap within the common quote area.
 - Keep the header, frame, rules, margins, metadata spacing and semantic colours constant. Essential text must remain legible at actual display size. Full attribution and a long source quotation may need full-size viewing.
 
@@ -58,7 +59,7 @@ Exact chosen copy:
 - COUNTER-REVOLUTIONARY / MANOEUVRE WARFARE
 - COGNITIVE SUPERIORITY / WITHIN THE DISTRIBUTED MIND
 
-Keep the British spelling MANOEUVRE, the hyphen and NEEDS without a full stop. Do not add an author name, URL, signature or watermark to the cover. Keep creator attribution in accompanying text and metadata.
+Keep the British spelling MANOEUVRE, the hyphen and NEEDS without a full stop. Add **sovereignharness.io** as a visible destination footer, following Ben's 10 November correction. Use mint IBM Plex Mono at full opacity on dark negative space. Preserve the selected cover copy, composition and source credits. Do not add an author name or signature to the cover; keep creator attribution in accompanying text and metadata.
 
 Alternative cover layouts recompose the image and retain the entire wording. Do not stretch anatomy, crop text away or change the message for a different ratio.
 

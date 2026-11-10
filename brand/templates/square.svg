@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title desc">
-<title id="title">Sovereign OODA Harness — Square layout</title><desc id="desc">Editable with editable text. Sovereign OODA Harness. There&#x27;s something in you that the world needs. Counter-revolutionary manoeuvre warfare. Cognitive superiority within the distributed mind. No embedded attribution.</desc>
+<title id="title">Sovereign OODA Harness — Square layout</title><desc id="desc">Editable with editable text. Sovereign OODA Harness. There&#x27;s something in you that the world needs. Counter-revolutionary manoeuvre warfare. Cognitive superiority within the distributed mind. Visible destination URL; creator attribution in metadata.</desc>
 <style>
 @font-face{font-family:OodaMono;src:url('../fonts/IBMPlexMono-Regular.ttf') format('truetype');font-weight:400}
 @font-face{font-family:OodaMono;src:url('../fonts/IBMPlexMono-Medium.ttf') format('truetype');font-weight:500}
@@ -14,4 +14,4 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
 <text class="message" x="540" y="478" font-size="38" fill="#B8F4DC" text-anchor="middle" letter-spacing="0">IN YOU</text>
 <text class="message" x="540" y="520" font-size="38" fill="#B8F4DC" text-anchor="middle" letter-spacing="0">THAT THE WORLD</text>
 <text class="message" x="540" y="562" font-size="38" fill="#B8F4DC" text-anchor="middle" letter-spacing="0">NEEDS</text><text class="mono" x="540" y="825" font-size="29" fill="#F17435" text-anchor="middle" letter-spacing="0">COUNTER-REVOLUTIONARY</text><text class="mono" x="540" y="873" font-size="29" fill="#F17435" text-anchor="middle" letter-spacing="0">MANOEUVRE WARFARE</text><path d="M60 918H1020" fill="none" stroke="#F17435" stroke-width="2"/><text class="mono" x="540" y="975" font-size="27" fill="#B8F4DC" text-anchor="middle" letter-spacing="0">COGNITIVE SUPERIORITY</text><text class="mono" x="540" y="1014" font-size="27" fill="#B8F4DC" text-anchor="middle" letter-spacing="0">WITHIN THE DISTRIBUTED MIND</text>
-</svg>
+<text x="1038" y="1066" font-size="22" fill="#B8F4DC" class="mono" text-anchor="end" data-slot="destination">sovereignharness.io</text></svg>

@@ -1,6 +1,6 @@
 # Editable OODA artwork
 
-Kit 2.0 uses live SVG type and separate generated photographic layers. This makes copy, font weights, colours and spacing reproducible across the collection.
+Kit 2.1 uses live SVG type and separate generated photographic layers. This makes copy, font weights, colours and spacing reproducible across the collection.
 
 | Layout | Canvas | Source |
 | --- | --- | --- |
@@ -16,7 +16,7 @@ Kit 2.0 uses live SVG type and separate generated photographic layers. This make
 
 ## Edit and render
 
-Extract [kit 2.0](../downloads/sovereign-ooda-brand-kit-v2.0.zip), keeping the brand and assets directories together. Install bundled TTFs when editing in a desktop vector editor. The renderer embeds the fonts automatically and makes no remote font or image requests.
+Extract [kit 2.1](../downloads/sovereign-ooda-brand-kit-v2.1.zip), keeping the brand and assets directories together. Install bundled TTFs when editing in a desktop vector editor. The renderer embeds the fonts automatically and makes no remote font or image requests.
 
 Requirements: Python 3 (standard library only), Node.js and the pinned Playwright package. From this directory:
 

@@ -24,7 +24,7 @@ Preserve the ancient Greek/Phaeacian ship, square sail, crew, stormy sea, distan
 
 ## Live-type card
 
-Edit [profile-cards.json](profile-cards.json). Rebuild with the shared template and bundled fonts. Keep the same canvas, column starts, divider, type sizes, frame, header and footer. Quote line breaks can change within the common area. Harry's first line is regular and second bold, same size. Verify exact wording, name, role, pack label and attribution. Do not change internal runtime profiles or claim installation from artwork numbering.
+Edit [profile-cards.json](profile-cards.json). Rebuild with the shared template and bundled fonts. Keep the same canvas, column starts, divider, type sizes, frame, header and footer. Quote line breaks can change within the common area. Harry's first line is regular and second bold, same size. Add the sovereignharness.io destination as live footer type. Verify exact wording, name, role, pack label, destination and attribution. Keep the URL out of generated photographic layers. Do not change internal runtime profiles or claim installation from artwork numbering.
 
 ## Architecture graphics
 

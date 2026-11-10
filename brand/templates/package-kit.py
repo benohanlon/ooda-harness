@@ -38,18 +38,19 @@ for path in files:
     if dims:
         record.update(width=dims[0],height=dims[1])
     assets.append(record)
-manifest=dict(brand='Sovereign OODA Harness',kit_version='2.0',prepared_on='2026-11-10',
-    status='Requested visual refresh; source publication and runtime deployment remain separate',
+manifest=dict(brand='Sovereign OODA Harness',kit_version='2.1',prepared_on='2026-11-10',
+    status='Visible destination URL added; source publication and runtime deployment remain separate',
     asset_paths_relative_to='repository root',
     selection='Ben selected the mint/teal/orange character-card direction and requested the OODA kit and graphics be updated.',
     production='Image-tool artwork layers; native SVG type/geometry; bundled local OFL fonts; checked Chromium exports.',
+    destination='https://sovereignharness.io/; displayed as sovereignharness.io on current shareable artwork',
     numbering='001 Baldwin, 002 Blake, 003 Harry; Research and Engineering unnumbered.',
     attribution='Ben O’Hanlon; retained film/photo credits on character cards. No invented photographer or quoted role copy.',
-    archive='brand/downloads/sovereign-ooda-brand-kit-v2.0.zip',
+    archive='brand/downloads/sovereign-ooda-brand-kit-v2.1.zip',
     exclusions='Manifest and ZIP exclude their own checksums; historical files/downloads and development dependencies are outside the current archive.',
     assets=assets)
 (BRAND/'manifest.json').write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n',encoding='utf-8',newline='\n')
-archive=BRAND/'downloads/sovereign-ooda-brand-kit-v2.0.zip'
+archive=BRAND/'downloads/sovereign-ooda-brand-kit-v2.1.zip'
 archive.parent.mkdir(exist_ok=True)
 with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED,compresslevel=9) as output:
     for path in files+[BRAND/'manifest.json']:

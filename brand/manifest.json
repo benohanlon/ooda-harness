@@ -1,27 +1,28 @@
 {
   "brand": "Sovereign OODA Harness",
-  "kit_version": "2.0",
+  "kit_version": "2.1",
   "prepared_on": "2026-11-10",
-  "status": "Requested visual refresh; source publication and runtime deployment remain separate",
+  "status": "Visible destination URL added; source publication and runtime deployment remain separate",
   "asset_paths_relative_to": "repository root",
   "selection": "Ben selected the mint/teal/orange character-card direction and requested the OODA kit and graphics be updated.",
   "production": "Image-tool artwork layers; native SVG type/geometry; bundled local OFL fonts; checked Chromium exports.",
+  "destination": "https://sovereignharness.io/; displayed as sovereignharness.io on current shareable artwork",
   "numbering": "001 Baldwin, 002 Blake, 003 Harry; Research and Engineering unnumbered.",
   "attribution": "Ben O’Hanlon; retained film/photo credits on character cards. No invented photographer or quoted role copy.",
-  "archive": "brand/downloads/sovereign-ooda-brand-kit-v2.0.zip",
+  "archive": "brand/downloads/sovereign-ooda-brand-kit-v2.1.zip",
   "exclusions": "Manifest and ZIP exclude their own checksums; historical files/downloads and development dependencies are outside the current archive.",
   "assets": [
     {
       "file": "assets/roles/chief-of-staff-baldwin.png",
-      "bytes": 2077569,
-      "sha256": "7f10fbff1cd170ae1b7c733371c1d06e729e6ceaad1e9fd66353a9d65c99b552",
+      "bytes": 2081349,
+      "sha256": "90ee538b21942d7966f059f1c771e496dc9a5f2dbebd56b2750f58fdeb3b981f",
       "width": 1536,
       "height": 1024
     },
     {
       "file": "assets/roles/head-of-business-development-blake.png",
-      "bytes": 2325618,
-      "sha256": "76e511ffed70ab431763b1ca816aafd7116fa41848396422361018fe2eef20c8",
+      "bytes": 2329546,
+      "sha256": "3587b2201c40b49681b736e0eb7b1479d0cf21c39b8dc30f0ac858158e3d632f",
       "width": 1536,
       "height": 1024
     },
@@ -32,44 +33,44 @@
     },
     {
       "file": "assets/roles/head-of-harness-engineering-odysseus.png",
-      "bytes": 2433053,
-      "sha256": "b3562da481882bbd8d7ea266686c97639ec9057c92acd816068223ef56204482",
+      "bytes": 2437073,
+      "sha256": "79da26cac04610a5313f293fe9cf580138e86fa26bb3f3d4be8fe42ee706f08f",
       "width": 1536,
       "height": 1024
     },
     {
       "file": "assets/roles/head-of-talent-harry.png",
-      "bytes": 1594786,
-      "sha256": "08f01a88f5a353f0be5d70ad99c86c27c18b7601b2862142cb7ca00a625081e1",
+      "bytes": 1598508,
+      "sha256": "0eaf62ad7a929f3dd8bb7d821c46a918c0402a226d63151ebed877838b47c37c",
       "width": 1536,
       "height": 1024
     },
     {
       "file": "assets/roles/research-lead-bateson.png",
-      "bytes": 2733544,
-      "sha256": "ab380ab5f90fdc6b2abd9a32db79951f66c5b5fe36be52adab4f2db6668c7600",
+      "bytes": 2737812,
+      "sha256": "f58b9854c659ff5573dffb8f917292e72fcabb40ca0f1772549adf558a47f8fc",
       "width": 1536,
       "height": 1024
     },
     {
       "file": "assets/sovereign-ooda-cover.jpg",
-      "bytes": 312384,
-      "sha256": "87fe5e241f3648bac3db4f4d494d20998b3dbbab65843176e70918012d594a30"
+      "bytes": 315330,
+      "sha256": "ed96ab3af87777d2da958f56816861b1a1647e96de269d1f41eb9e8b9fed6999"
     },
     {
       "file": "brand/GUIDELINES.md",
-      "bytes": 6882,
-      "sha256": "7f0d849108799702b9158b4a2388e840f532ac7ca4fe568a5650b2f95c380290"
+      "bytes": 7199,
+      "sha256": "3188f4077ca645a7c1c4ad5e6fe79f6fd46c70c8faac56476bc5f02d43e585ac"
     },
     {
       "file": "brand/PROMPTS.md",
-      "bytes": 2877,
-      "sha256": "0206394bb576b35bf7f2b8140474af87561a5138fa9bf93b7057c0a628146ab5"
+      "bytes": 3002,
+      "sha256": "40ba754fff2fdd173894ebcba75df1c7f9d00e193c1ade8712800d53707ae26b"
     },
     {
       "file": "brand/README.md",
-      "bytes": 6289,
-      "sha256": "9052b02e37de3a441b73a5519e9f3c065298a8c732d28de4c672074d1d5bc4a1"
+      "bytes": 6663,
+      "sha256": "d1b89581ab5a09bb3742cd08a8230b91b2ce09cf73bde34bedb8bfd0296be51b"
     },
     {
       "file": "brand/assets/character-sources/baldwin-source.png",
@@ -108,8 +109,8 @@
     },
     {
       "file": "brand/assets/cognitive-dipole-v1.png",
-      "bytes": 153563,
-      "sha256": "06957342354aebf159ef811adca0cf247e19463f625339644118d372e0ccede0",
+      "bytes": 155573,
+      "sha256": "689365fcb39bf654ef43c34262c7be529018c598f5daea797198d3714a13a7ab",
       "width": 1254,
       "height": 1254
     },
@@ -122,15 +123,15 @@
     },
     {
       "file": "brand/assets/sovereign-ooda-cover-master.png",
-      "bytes": 1312344,
-      "sha256": "1f2bb76be3bf571c66f7100624f262e25eb2f1ef79a98e2cda1b02816c320420",
+      "bytes": 1315852,
+      "sha256": "33939260938824ea7f8a9ba81f5f05c2d9fe46e48bf16a361afec635bd98bd44",
       "width": 1280,
       "height": 640
     },
     {
       "file": "brand/assets/sovereign-ooda-ecology-stack.png",
-      "bytes": 121596,
-      "sha256": "70d2436f1606f276fd725757a32a096b550d2cdef608d0ed0747c6c242364e1a",
+      "bytes": 123591,
+      "sha256": "8a65eb4e154fc1547101f0a1dfe108d6739cb84a57d3cf1c9e29aa6677f38ccf",
       "width": 1024,
       "height": 1536
     },
@@ -191,75 +192,75 @@
     },
     {
       "file": "brand/previews/colour-system.png",
-      "bytes": 21241,
-      "sha256": "a28dd69ef2ebb9103e93637067416d780d219b4ee0a51d3aa8a26a3ad0937fa6",
+      "bytes": 23280,
+      "sha256": "84075d4a6a7425db3dd2e053544516da0babef6a1f31c1ac70b92ff124c3b0b8",
       "width": 1280,
       "height": 530
     },
     {
       "file": "brand/previews/colour-system.svg",
-      "bytes": 2498,
-      "sha256": "3a0071af963cad97dd78672fe7b1e287deb4369f8e21998f758bdaa04e5d701d",
+      "bytes": 2632,
+      "sha256": "239141d9f36e6a7113ca5dffb4fcdfc648fda23aeb559d9c91e7f9a4bd6ac717",
       "width": 1280,
       "height": 530
     },
     {
       "file": "brand/previews/compact-landscape.jpg",
-      "bytes": 199094,
-      "sha256": "187d154e8b728c70825217970e7d0bdff88b42e46d3aa87e87e607b70f5a4d32"
+      "bytes": 202117,
+      "sha256": "fb664a0ef9160c3bd4b210f8d39ef0e34c5b54e1f6f0a396fe0a23a204f61716"
     },
     {
       "file": "brand/previews/cover-editable.jpg",
-      "bytes": 312384,
-      "sha256": "87fe5e241f3648bac3db4f4d494d20998b3dbbab65843176e70918012d594a30"
+      "bytes": 315330,
+      "sha256": "ed96ab3af87777d2da958f56816861b1a1647e96de269d1f41eb9e8b9fed6999"
     },
     {
       "file": "brand/previews/layout-gallery.jpg",
-      "bytes": 504094,
-      "sha256": "0a7264181721a113d93a1ecd0de16832052e2c0f49c382b3e8b821cfb11849d6"
+      "bytes": 513597,
+      "sha256": "2ccb9e04905fd60f7259720a3ba1e9075b916534b548965344ec402924e23239"
     },
     {
       "file": "brand/previews/layout-gallery.svg",
-      "bytes": 2577,
-      "sha256": "a8c5f97c75cea77f25a7840698c32b302f8e0143ef02f6925ef266062f4795ca",
+      "bytes": 2712,
+      "sha256": "0ceb85142432fc95b2127a1cec553b00aca09e6d6ece380ae065c4c7481f275d",
       "width": 1600,
       "height": 1580
     },
     {
       "file": "brand/previews/portrait.jpg",
-      "bytes": 316444,
-      "sha256": "1a36023765100ab9e197d9268d9d9788c0398fbc888ac0c69a04a1f4d2d99d4b"
+      "bytes": 319917,
+      "sha256": "8141d5d2146f53b23b04c3a6700601744318b510ea12b8e93764d30f8d80d2d4"
     },
     {
       "file": "brand/previews/profile-cards.png",
-      "bytes": 5942763,
-      "sha256": "dd97d88e2e6e57ee4894d30cb8cec8d6056eb6ea944a865071f4903b14489ceb",
+      "bytes": 5955889,
+      "sha256": "3056ca7ba4a7e7365adcfcba3b4bba281bdb0c9619dc2280cfe807e7b8c39910",
       "width": 2370,
       "height": 2630
     },
     {
       "file": "brand/previews/profile-cards.svg",
-      "bytes": 2583,
-      "sha256": "b76efc0b3d26665034fe3ad741ab1eb8af56fe4e0f650e788782cae637136940",
+      "bytes": 2718,
+      "sha256": "16579810cca195a59466a3c81c2098364de8bcdda335b92ce515c855de73f562",
       "width": 2370,
       "height": 2630
     },
     {
       "file": "brand/previews/square.jpg",
-      "bytes": 289230,
-      "sha256": "d8aa748e05e247424c15c88f51c8c8ddb77e8d3be8579334a9a901554fbe3f08"
+      "bytes": 293696,
+      "sha256": "a157e74e936a7ccd00d655fa598d1321110f52b61fae5d4e1cbee8d3afdbded1"
     },
     {
       "file": "brand/previews/typography.png",
-      "bytes": 60660,
-      "sha256": "ab0077a641e4a17ac480f2b853c0034a7a2d8ed4653930dafcedc2dbb950f02d",
+      "bytes": 62707,
+      "sha256": "732e2182c5cb2c157a28bdab24ae493a0f74785c3f832f9d79caf81b2b002de3",
       "width": 1440,
       "height": 720
     },
     {
       "file": "brand/previews/typography.svg",
-      "bytes": 2257,
-      "sha256": "6c1fdd8c9bd556e2929b2e12e3bd70e21dd02470421323171a2324a883f4c2b3",
+      "bytes": 2391,
+      "sha256": "aedcf524f7a4c27c2f64362dbfb4071f935bfa5a100abc64d1089eef94cc3c1f",
       "width": 1440,
       "height": 720
     },
@@ -271,38 +272,38 @@
     {
       "file": "brand/templates/README.md",
       "bytes": 3088,
-      "sha256": "827d5c26c335130b76a22af5499f00e7acc16c940c719ca8fc3a6808d0ccc666"
+      "sha256": "168a7a1e706f697f497bd2dd4acca0a4169eaa7f6774af1de953dbce52b4ce0f"
     },
     {
       "file": "brand/templates/build-source.py",
-      "bytes": 14651,
-      "sha256": "4d43643ed4d40e7951c23e3901dac58830aeecad2f0654a7520e909234ec6fa4"
+      "bytes": 15420,
+      "sha256": "afb565e22302b3c279a74f4df4cc0f76acfc328c4ca4d0808115ca2ad5d2bb1b"
     },
     {
       "file": "brand/templates/cognitive-dipole.svg",
-      "bytes": 6327,
-      "sha256": "4a0db943d46040425638dac139b41cdee2ef1776f2fc6b5bf7d57dc9abbfb53f",
+      "bytes": 6462,
+      "sha256": "c338bfd9414c36b10ac6da4fc336d76121e226da719ea60e134316703d477f8a",
       "width": 1254,
       "height": 1254
     },
     {
       "file": "brand/templates/compact-landscape.svg",
-      "bytes": 2790,
-      "sha256": "08c87399cd0ae271fdb4e7e6e8689fdc394aa5a1b6e69a6854f87bf745288099",
+      "bytes": 2956,
+      "sha256": "0396807eacc67b55010d59f2b511718863fc7bead666cd814e447851870c6008",
       "width": 960,
       "height": 720
     },
     {
       "file": "brand/templates/cover-editable.svg",
-      "bytes": 2606,
-      "sha256": "1cad989fa014d4b31e8676db4a01fde993ff27a826d2e2a9ce9a2367b2328a27",
+      "bytes": 2773,
+      "sha256": "dd99d1b0205f5a0e0695a534cb8d2a68c6ad2a6002567c139154d28845dca595",
       "width": 1280,
       "height": 640
     },
     {
       "file": "brand/templates/ecology-stack.svg",
-      "bytes": 7722,
-      "sha256": "8a5722cd2cabf021bcd050cd08d30ae64fe5d6d7b4a0f3e04c327276b41daa16",
+      "bytes": 7856,
+      "sha256": "b14b09f8e54f37a32092bb4d3892d33431e205584d3ab8424c2556243d5e55e4",
       "width": 1024,
       "height": 1536
     },
@@ -313,8 +314,8 @@
     },
     {
       "file": "brand/templates/package-kit.py",
-      "bytes": 3099,
-      "sha256": "5d4bf9ab9bac860d40af33f791dfe2b6f0d373d6a8f1e6db9b21621f676b2e43"
+      "bytes": 3215,
+      "sha256": "3c71226d8b262ab434fcd83a60edf125f8d9762004f77fdc9252e0e75c15c0fb"
     },
     {
       "file": "brand/templates/package.json",
@@ -323,62 +324,62 @@
     },
     {
       "file": "brand/templates/portrait.svg",
-      "bytes": 2798,
-      "sha256": "911e242eadc6e24a43759600f26bbab9f0b5dc9396b6cf03c1af457a7a9a085a",
+      "bytes": 2966,
+      "sha256": "2b785845464d16872815a03f349fad87843fda23c4da421f197c65269dbdd9cb",
       "width": 1080,
       "height": 1350
     },
     {
       "file": "brand/templates/profile-pack-001.svg",
-      "bytes": 4631,
-      "sha256": "5c878e8c2951f0a538c4bde6c26b95bd2901337e1c465b9b9a257af62ac6d811",
+      "bytes": 4783,
+      "sha256": "1892bd96ccd151aff722cf41b5be123746f1fe49779eb62b6056df5dd4de87c1",
       "width": 1536,
       "height": 1024
     },
     {
       "file": "brand/templates/profile-pack-002.svg",
-      "bytes": 3219,
-      "sha256": "4201f57cc2d6e71a08970b1389cb5447ec2a8f13d5f313e3818e894baabfc89e",
+      "bytes": 3371,
+      "sha256": "1c56c8aef6363e91b903421dca2549f1c06cd9ea525d99536f0e275cfc523128",
       "width": 1536,
       "height": 1024
     },
     {
       "file": "brand/templates/profile-pack-003.svg",
-      "bytes": 3409,
-      "sha256": "5bc2c257a8426969f120b3e8365f99ae2510a680d8b5e1c3f4fa22b163069e03",
+      "bytes": 3561,
+      "sha256": "4682ffab96fd4ea2298ef47ccf243d3ce279dafb2f515dfa0e93112c89d42b05",
       "width": 1536,
       "height": 1024
     },
     {
       "file": "brand/templates/profile-pack-engineering.svg",
-      "bytes": 3258,
-      "sha256": "22a0b13c1f32e2d521e275be04b34d411f09d3d92e5dc907b5bc1806ecadd4c7",
+      "bytes": 3410,
+      "sha256": "d5de2cc8d71cd73603cb59df2087aa00f9c5dfb6940f6112da6b463691765b4e",
       "width": 1536,
       "height": 1024
     },
     {
       "file": "brand/templates/profile-pack-research.svg",
-      "bytes": 3099,
-      "sha256": "6f470202d9d6897b7a7d9a8e57b9b589f9291ae0657e3f743aca0fe4cff34bd5",
+      "bytes": 3251,
+      "sha256": "f0e7659ba9dd43b75a80bf76af24835ceb7a197c404449e9d882e0714b083b05",
       "width": 1536,
       "height": 1024
     },
     {
       "file": "brand/templates/render.mjs",
-      "bytes": 6742,
-      "sha256": "de379c2a30f490864f285ed34a497742a9d9eb20e6c21614674e2d5c4cc29c5f"
+      "bytes": 7251,
+      "sha256": "7508eceb4aa785fe3d836092bb6ddaf99ff9289132d33934096e3fce0add202a"
     },
     {
       "file": "brand/templates/square.svg",
-      "bytes": 2791,
-      "sha256": "50cfea104754f0918a3dc6c3f204c67544c40a1e571ab81c6c52db844100c788",
+      "bytes": 2959,
+      "sha256": "1975c56fcf725197cd53a7db3b91fd7b03a232904fcfb8620111316696afe828",
       "width": 1080,
       "height": 1080
     },
     {
       "file": "brand/tokens.json",
-      "bytes": 2338,
-      "sha256": "c8cf4832008fad38b5e928757d65c1b48a10c8e844d41215740af87511ce78c8"
+      "bytes": 2671,
+      "sha256": "a7223b128532b7782f309347bd2823f230b836071db182ca1c8c22a1a577255e"
     }
   ]
 }

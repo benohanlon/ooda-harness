@@ -2,9 +2,9 @@
 
 ![OODA cover: an oblique mint eye with the message There's something in you that the world needs](../assets/sovereign-ooda-cover.jpg)
 
-**Kit 2.0 · 10 November 2026**
+**Kit 2.1 · 10 November 2026**
 
-[Download kit 2.0](downloads/sovereign-ooda-brand-kit-v2.0.zip?raw=true) · [Design guidelines](GUIDELINES.md) · [Editable sources and rendering](templates/README.md) · [Artwork prompts](PROMPTS.md)
+[Download kit 2.1](downloads/sovereign-ooda-brand-kit-v2.1.zip?raw=true) · [Design guidelines](GUIDELINES.md) · [Editable sources and rendering](templates/README.md) · [Artwork prompts](PROMPTS.md)
 
 One visual language connects the harness cover, character cards and architecture illustrations: dark petrol teal, pale mint, restrained orange, fine print texture and clear type hierarchy. Ben selected this direction from the Blake card and requested the wider kit update. Nous Research / Hermes informed the visual direction; these are OODA production choices, not official third-party brand specifications.
 
@@ -17,11 +17,11 @@ The eye remains the human centre: there is something in you that the world needs
 | Repository cover | 1280 × 640 JPEG | [JPEG](../assets/sovereign-ooda-cover.jpg?raw=true) |
 | Lossless cover export | 1280 × 640 PNG | [PNG](assets/sovereign-ooda-cover-master.png?raw=true) |
 | Cover and alternative layouts | Live SVG, four formats | [Sources and previews](templates/README.md) |
-| Current kit | Sources, fonts, guides and exports | [ZIP](downloads/sovereign-ooda-brand-kit-v2.0.zip?raw=true) |
+| Current kit | Sources, fonts, guides and exports | [ZIP](downloads/sovereign-ooda-brand-kit-v2.1.zip?raw=true) |
 
 The full title, five-line pupil statement, strategic labels and cognitive footer are retained. Cover text is live in the SVG source. The clean eye is a separately generated, mint/teal photographic layer. Its print texture and geometry are reviewed visually; it is not a pixel-identical recolouring of the old image.
 
-The 22 October cover and kit remain in Git history and the retained [v1.3 download](downloads/sovereign-ooda-brand-kit-v1.3.zip?raw=true). The earlier clean-eye source and prompt have an explicit [history home](history/v1.3/README.md). They are historical, not the current palette. A source or branding update does not refresh any installed harness or GitHub repository-setting social preview.
+Kit 2.1 adds the destination URL at Ben's request. The [kit 2.0 archive](downloads/sovereign-ooda-brand-kit-v2.0.zip?raw=true) retains the preceding treatment. The 22 October cover and kit remain in Git history and the retained [v1.3 download](downloads/sovereign-ooda-brand-kit-v1.3.zip?raw=true). The earlier clean-eye source and prompt have an explicit [history home](history/v1.3/README.md). They are historical, not the current palette. A source or branding update does not refresh any installed harness or GitHub repository-setting social preview.
 
 ## Character cards
 
@@ -66,4 +66,4 @@ Edit the data and SVG sources, then rebuild and inspect the exports. Do not use 
 
 [Manifest and checksums](manifest.json) · [Reusable prompts](PROMPTS.md) · [Rendering instructions](templates/README.md).
 
-Created by Ben O’Hanlon, author of [The Ecosystem Operator](https://ecosystemoperator.substack.com/). Origin credit stays in metadata and accompanying text; the overall cover has no added author line or watermark.
+Created by Ben O’Hanlon, author of [The Ecosystem Operator](https://ecosystemoperator.substack.com/). Creator credit stays in metadata and accompanying text. A visible **sovereignharness.io** footer directs people to the project on all current shareable artwork, including the cover. Keep source-film/photo credits intact. [Public destination](https://sovereignharness.io/) is hosted separately from the private harness source.
