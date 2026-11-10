@@ -35,7 +35,12 @@ def text(x, y, value, size=28, color=MINT, cls='sans', anchor='start', weight=No
 def line(x1, y1, x2, y2, color=MINT, width=2, extra=''):
     return f'<path d="M{x1} {y1}L{x2} {y2}" fill="none" stroke="{color}" stroke-width="{width}" {extra}/>'
 
+def url_footer(w, h, size=20, inset=32, baseline=None):
+    return text(w-inset, h-14 if baseline is None else baseline, T['destination']['display'], size, cls='mono', anchor='end', extra='data-slot="destination"')
+
 def svg(w, h, title, body):
+    if 'data-slot="destination"' not in body:
+        body += url_footer(w, h)
     return f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-labelledby="title"><title id="title">{html.escape(title)}</title><style>{STYLE}</style><rect width="{w}" height="{h}" fill="{BG}"/>{body}</svg>\n'
 
 def write(path, content):
@@ -86,7 +91,8 @@ for card in cards:
         body += text(geometry['title_x'], 926 + i*geometry['quote_line_height'], value, geometry['quote_font_size'], ORANGE, 'condensed', weight=weight, extra='data-slot="quote"')
     for i, value in enumerate(card['qualities']):
         body += text(1500, 869 + i*31, value, 16, cls='small', anchor='end', extra='letter-spacing="1.6" data-slot="qualities"')
-    body += text(39, 995, card['credit'], 15, cls='small')
+    body += text(39, 995, card['credit'], 14, cls='small', extra='data-slot="credit"')
+    body += url_footer(w, h, 22, 37, 998)
     source = 'templates/profile-pack-' + card['id'] + '.svg'
     label = 'Profile Pack ' + card['id'] if card['id'].isdigit() else 'role card'
     write(source, svg(w, h, card['name'] + ' / ' + ' '.join(card['role_lines']) + ' / ' + label, body))
@@ -101,9 +107,14 @@ for name in ('cover-editable', 'compact-landscape', 'square', 'portrait'):
         s = s.replace(before, after)
     s = s.replace('../assets/eye-clean-prototype.jpg', '../assets/eye-mint-source.png')
     s = s.replace('prototype', 'layout').replace('Prototype', 'Editable')
-    p.write_text(s, encoding='utf-8', newline='\n')
     import re
     m = re.search(r'<svg[^>]*width="(\d+)" height="(\d+)"', s)
+    # Add a reproducible destination line without moving the accepted cover copy.
+    s = re.sub(r'<text[^>]*data-slot="destination"[^>]*>.*?</text>', '', s)
+    s = s.replace('No embedded attribution.', 'Visible destination URL; creator attribution in metadata.')
+    width, height = int(m[1]), int(m[2])
+    s = s.replace('</svg>', url_footer(width, height, 18 if height < 800 else 22, 42) + '</svg>')
+    p.write_text(s, encoding='utf-8', newline='\n')
     layouts.insert(0, dict(id=name,width=int(m[1]),height=int(m[2]),source='templates/'+name+'.svg',preview='previews/'+name+'.jpg',canonicalCopy=True,status='new-style editable layout'))
 
 def box(x,y,w,h,lines,accent=False):
