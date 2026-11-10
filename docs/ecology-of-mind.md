@@ -4,19 +4,21 @@
 
 OODA Harness extends the sovereign's ability to see, decide and act. Its roles, agents, methods, records and relationships form an ecology of mind: connected participants and resources through which understanding develops and useful action becomes possible. Its strategic ambition is better orientation and effective action that secure resources and strengthen sovereignty in service of freedom of action and expression. The [README](../README.md#1-purpose) sets out that purpose, including manoeuvre warfare and contextual cooperation, negotiation and competition.
 
-The Twins form the atomic operating unit within that ecology. Their complementary perspectives, reciprocal engagement and feedback connect the smallest assignment to the wider purpose. The intended benefit includes less human effort spent supervising, correcting and recovering work. That benefit must be established through useful results.
+The Twins provide a paired working arrangement within that ecology when complementary evaluation or high-value work warrants it. Their complementary perspectives, reciprocal engagement and feedback connect the smallest assignment to the wider purpose. The intended benefit includes less human effort spent supervising, correcting and recovering work. That benefit must be established through useful results.
 
 ## Illustrative view
 
-![Illustrative atomic role: two agents with complete OODAs engage around a shared nucleus of role purpose, contract and system-wide units of account. Temporary crawlers return evidence, and world responses feed back into the role.](../brand/assets/cognitive-dipole-v1.png)
+![Illustrative paired mode: two agents with complete OODAs engage around a shared nucleus of role purpose, contract and system-wide units of account. Temporary crawlers return evidence, and world responses feed back into the role.](../brand/assets/cognitive-dipole-v1.png)
 
 *Illustrative study, not a canonical specification. This image may change. The written definitions below and the [common operating contract](operating-contract.md) govern interpretation.*
 
-The nucleus represents the role's [combined governing basis](#combined-role-basis), including its purpose, contract and units of account. Together with the two agents, it forms the atomic operating unit. Orbits depict complementary, reversible engagement; crawlers are temporary contributors outside the enduring pair. [Full-size image](../brand/assets/cognitive-dipole-v1.png) · [Brand asset catalogue](../brand/README.md#architecture-artwork).
+The nucleus represents the role's [combined governing basis](#combined-role-basis), including its purpose, contract and units of account. Together with the two agents, it depicts the commissioned paired arrangement. Orbits depict complementary, reversible engagement; crawlers are temporary contributors outside the enduring pair. [Full-size image](../brand/assets/cognitive-dipole-v1.png) · [Brand asset catalogue](../brand/README.md#architecture-artwork).
 
 ## The atomic operating unit
 
-Each enduring role comprises two agents around one combined governing basis, including its role description. This arrangement is a cognitive dipole, also called the Twins. It carries one purpose and outward accountability.
+An enduring role is an accountability boundary with a combined shared and private basis. Its two-agent cognitive dipole is a selective working arrangement for evaluation and high-value work. Ordinary work can use one accountable agent. The [common operating contract](operating-contract.md#choose-the-working-arrangement) owns this choice; the paired architecture below applies when that mode is commissioned.
+
+In paired mode, two agents work around one combined governing basis, including the role description. This arrangement is a cognitive dipole, also called the Twins. It carries one purpose and outward accountability.
 
 Both agents begin from the same relevant specification: model, available capabilities, governing guidance, role contract and starting context. They adopt opposite, complementary relational polarities: doer / builder / giver / emissary and observer / active receiver / reviewer. Both retain complete OODAs. Their experience and interpretations may differ as they work.
 
@@ -26,7 +28,7 @@ Here, atomic names the enduring role's working and accountability arrangement. S
 
 | Component | Contribution and boundary |
 | --- | --- |
-| Enduring role | Continuing responsibility, one combined governing basis and two participating agents. |
+| Enduring role | Continuing responsibility and one combined governing basis; one agent for direct work, or two complementary participants for commissioned paired work. |
 | Agent | A participant that observes, orients, decides and acts within its assignment. A replacement context can restore its work and relationship. |
 | Model and context | The model supplies capabilities; the context holds the currently available guidance, evidence and work. Neither alone is the role's contract or durable continuity. |
 | Skill, tool or smaller process | A reusable method, access mechanism or contribution to work. It need not become a separate agent. |

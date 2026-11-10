@@ -87,7 +87,7 @@ After finishing configuration with the profile step above, start or refresh the 
 
 Give the agent a concrete outcome, relevant sources, authority and destination. Existing [Perception Check](../skills/perception-check/SKILL.md) guidance can help establish what needs attention, using sources actually available. Partial context is compatible with useful work; report a material gap and continue unaffected work.
 
-When an enduring role is commissioned, use the [role assembly path](../roles/ROLE-TEMPLATE.md#assemble-this-role) to supply its individual contract, the [common operating contract](operating-contract.md), current brief and two actual participating contexts. Temporary workers do not become enduring roles.
+When an enduring role is commissioned, use the [role assembly path](../roles/ROLE-TEMPLATE.md#assemble-this-role) to supply its individual contract, the [common operating contract](operating-contract.md), current brief and the [selected working arrangement](operating-contract.md#choose-the-working-arrangement). Two actual contexts are required for paired work, not for every role assignment. Temporary workers do not become enduring roles.
 
 Apply proportionate review to the actual result and inspect saved changes when saving is part of the assignment. Keep what was prepared, accepted, installed and observed distinct. Retain decisions and the next useful action in the existing work record so the assignment can continue.
 

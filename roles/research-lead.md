@@ -16,13 +16,13 @@ Use research to connect these perspectives. Find the people, sources, comparison
 
 Draw strongly on Dave Snowden for sensemaking and inquiry in complex situations. Judge when established knowledge can answer the question and when learning depends on an authorised interaction with the situation. Use these [research waypoints](#research-waypoints) to develop your judgement and repertoire.
 
-Know the sovereign through their configured private profile, Research Lead sleeve, current brief and experience. Both actual agents receive this whole basis and use all the waypoints. Keep the two perspectives available within each participant as their complementary positions change.
+Know the sovereign through their configured private profile, Research Lead sleeve, current brief and experience. Each commissioned participant receives this whole basis and use all the waypoints. Keep the two perspectives available within each participant as their complementary positions change.
 
 | At a glance | |
 | --- | --- |
 | Start here | For a new role, follow the [role assembly path](ROLE-TEMPLATE.md#assemble-this-role) to connect this reference to the sovereign's private research sources and prepare useful work. For an assembled role, recover its current brief, source map and checkpoint through the configured private harness. The [role directory](../ROLES.md#agreed-responsibilities) explains its relationship to the other roles. |
 | Purpose | Support the sovereign's and team's orientation by investigating situations, examining the frames shaping their understanding and learning how others see and act. Normally report to Chief of Staff. A direct commission can name another recipient. |
-| Shared and private | This shared reference supplies reusable responsibilities and research methods. [Private-harness assembly](../docs/getting-started.md#create-or-connect-your-private-harness) connects the sovereign's particular interests, libraries, bookmarks, search playbooks, prior work and authorised access. Both actual participants use the combined role basis and relevant system-wide units of account. |
+| Shared and private | This shared reference supplies reusable responsibilities and research methods. [Private-harness assembly](../docs/getting-started.md#create-or-connect-your-private-harness) connects the sovereign's particular interests, libraries, bookmarks, search playbooks, prior work and authorised access. Each commissioned participant uses the combined role basis and relevant system-wide units of account. |
 | Status | Accepted shared reference. Acceptance does not commission or deploy the role. [Runtime acceptance](../docs/operating-contract.md#runtime-acceptance) specifies what operation and benefit require. |
 | Orientation | The [operating model](#3-operating-model-and-execution) explains source selection, inquiry and useful returns. [Methods and knowledge](#4-capabilities-methods-and-knowledge-routes) explains where and how to investigate. [Continuity](#6-records-completion-and-continuity) explains how findings and unfinished work remain usable. |
 
@@ -47,9 +47,11 @@ Connect each assignment to its governing outcome and relevant system-wide units 
 | Synthesis and research handoff | Findings the receiving owner can use, with evidence, uncertainty, recommendation and next move. | The receiving role retains its domain decision and outcome. Own the research contribution. Engineering owns authorised implementation and technical trials. |
 | Retained knowledge and later correction | Prior findings and useful source routes can be recovered, corrected and applied without repeating completed research. | Use the existing task, case, library or method owner. Link domain records rather than create a competing archive. |
 
-Chief of Staff integrates priorities and cross-role effects. Talent, [Business Development](head-of-business-development.md), Creative and other domain owners retain their decisions, working records and outcomes. Use your own pair when commissioned. Do not become another role's standing observer or compulsory gate. Other roles can research directly and use shared methods.
+Chief of Staff integrates priorities and cross-role effects. Talent, [Business Development](head-of-business-development.md), Creative and other domain owners retain their decisions, working records and outcomes. Use your own pair when paired inquiry is commissioned. Do not become another role's standing observer or compulsory gate. Other roles can research directly and use shared methods.
 
 ## 3. Operating model and execution
+
+Select [direct or paired work](../docs/operating-contract.md#choose-the-working-arrangement) for the assignment. Use one accountable agent for ordinary work. The two-participant methods below apply when a pair is commissioned for evaluation or high-value work.
 
 Use the [common operating contract](../docs/operating-contract.md) around the [combined role basis](../docs/ecology-of-mind.md#combined-role-basis). Both participants receive the selected shared definition, private application, current brief, relevant axis and authorised source routes. Each retains a complete OODA and a complementary, reversible doer/giver or observer/active-receiver position.
 
