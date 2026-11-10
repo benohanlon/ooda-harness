@@ -4,6 +4,12 @@
 
 **Private alpha.** No public installation release date is confirmed.
 
+OODA Harness is a sovereign personal operating system and second brain designed to use AI to extend your capabilities and increase your freedom of action and expression. It builds on the knowledge, tools, relationships and experience you already have.
+
+**The [Chief of Staff](roles/chief-of-staff.md) is your principal interface to the agentic team.** It is how you enter and bring the harness's capabilities into play: express your intentions, orient with the team, commission and steer work, and receive coherent judgement and follow-through across its roles.
+
+A reusable shared foundation connects to your private Sovereign Harness, which retains your particular context, relationships, long-term memory and worked experience. You can adopt selected shared improvements while developing your own edge, with continuity as models and providers change.
+
 ## Start here: the harness at a glance
 
 1. **Purpose.** A personal operating system and second brain connecting knowledge, specialist capabilities and follow-through in service of agency, freedom of action and expression. [Purpose](#1-purpose).
@@ -14,9 +20,7 @@
 
 [SOUL](SOUL.md) · [Ecology of mind](docs/ecology-of-mind.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md) · [Lists](LISTS.md) · [Brand guide](brand/README.md)
 
-Welcome to the real OODA Harness. OODA stands for Observe, Orient, Decide and Act. [John Boyd](https://slightlyeastofnew.com/wp-content/uploads/2010/03/essence_of_winning_losing.pdf) described its role in enabling us to “comprehend, shape, adapt to and in turn be shaped by an unfolding evolving reality that is uncertain, everchanging, and unpredictable.” OODA is a non-linear process of continuing reorientation and feedback, rather than a fixed sequence of four steps.
-
-OODA Harness offers you a sovereign personal operating system and second brain that uses AI to extend your capabilities and strengthen your situational awareness. Sovereignty means owning your intelligence stack and using it on your terms. We are building a modular harness in which you retain what you have built while changing or augmenting the components that serve you. Its purpose is to give you control over your means of production, so your ability to be absurdly productive is not at the mercy of a single provider’s Trust & Safety decisions or the arbitrary consequences of geopolitics.
+OODA stands for Observe, Orient, Decide and Act. [John Boyd](https://slightlyeastofnew.com/wp-content/uploads/2010/03/essence_of_winning_losing.pdf) described its role in enabling us to “comprehend, shape, adapt to and in turn be shaped by an unfolding evolving reality that is uncertain, everchanging, and unpredictable.” OODA is a non-linear process of continuing reorientation and feedback, rather than a fixed sequence of four steps.
 
 Like a Celtic knot, the harness’s system design intends to connect and extend capabilities so that work on one part can improve results elsewhere and strengthen the whole. The aim is to multiply the effect of your investment of time and attention, so you get more done with less. Reinvesting the capacity saved on execution can create further value, allowing the gains to compound. This gives you greater freedom and focus to express yourself in the world.
 
@@ -30,11 +34,13 @@ We are developing the harness’s theory of mind and cognitive empathy with you,
 
 The harness gives you an interface through which to engage intentionally with other people’s decision cycles. It supports diagnosis and intervention by considering whose OODA you are enabling, at what scale, and who is giving or receiving. For observation, the approach depends on your intention. Improving your own observation may call for intelligence and ingestion. Informing others’ observation calls for understanding active receivers’ field of view and horizon, so distribution can bring relevant information into view. The real action is the reaction: the active receiver participates in shaping the encounter, and their response helps determine what happens next.
 
-You are the sovereign, the human in the loop. The harness is your right hand and AI thinking partner, extending your ability to see, decide and act. You are an active participant in the OODA harness. You review its interpretations and methods, retaining what proves useful so subsequent work can build on it. We establish the standard with your close involvement, and can reduce supervision of suitable work as the harness demonstrates reliable performance. Within the scope of your delegation, the harness carries your intentions and values into action and follows through on agreed work, including when you are away or asleep. Decisions that need your judgement are brought to you.
+You are the sovereign individual, the human in the loop. The harness is your right hand and AI thinking partner, extending your ability to see, decide and act. You are an active participant in the OODA harness. You review its interpretations and methods, retaining what proves useful so subsequent work can build on it. We establish the standard with your close involvement, and can reduce supervision of suitable work as the harness demonstrates reliable performance. Within the scope of your delegation, the harness carries your intentions and values into action and follows through on agreed work, including when you are away or asleep. Decisions that need your judgement are brought to you.
 
 ## 1. Purpose
 
 **The human vision is the primary mover.** Your intentions, values and creativity give OODA Harness its purpose and direction. The harness exists to increase your agency: your ability to choose, express and act on those intentions and values.
+
+Sovereignty means owning your intelligence stack and using it on your terms. We are building a modular harness in which you retain what you have built while changing or augmenting the components that serve you. Its purpose is to give you control over your means of production, so your ability to be absurdly productive is not at the mercy of a single provider’s Trust & Safety decisions or the arbitrary consequences of geopolitics.
 
 Our aspiration is consummate mastery of our environment: the ability to understand the situation, act skilfully, communicate and realise that vision with increasing freedom, at scale.
 
@@ -55,9 +61,9 @@ We draw on manoeuvre warfare as a strategic lens. The ambition is cognitive supr
 
 The **shared OODA Harness** provides reusable principles, common contracts, role templates, reference roles, skills and assembly guidance. It is the intended commons, currently a private alpha. Public release and licence selection remain separate decisions.
 
-Your **private sovereign harness** is the personal implementation you maintain around a chosen shared revision: your profile, chosen team, customised responsibilities, private bindings and connections to projects and experience. It can reference shared definitions while retaining your own adaptations. The runtime hosts the actual agents; the repositories and other chosen stores preserve their guidance and continuity.
+Your **private sovereign harness** is the personal implementation you maintain around a chosen shared revision: your profile, chosen team, customised responsibilities, private bindings and connections to projects and experience. It can reference shared definitions while retaining your own adaptations. The runtime hosts the actual agents; the repositories and other chosen stores preserve their guidance and continuity. Connect existing work through its maintained owners so the harness can extend what you already have.
 
-Use **OODA Harness** / `ooda-harness` for the shared foundation and **Sovereign Harness** / `sovereign-harness-<username>` for a personal implementation, for example `sovereign-harness-alex`. These names identify the harness; its private home can be a repository, folder or another chosen store. Adopting the convention in an existing installation requires reconciling its actual source routes and bindings through the [update path](docs/getting-started.md#update-an-existing-installation).
+Use **OODA Harness** / `ooda-harness` for the shared foundation and `sovereign-<individual>-harness` for its private application. Use `sovereign-individual-harness` as the generic example and replace `individual` with the person's chosen identifier, for example `sovereign-alex-harness`. These names identify the harness; its private home can be a repository, folder or another chosen store. Adopting the convention in an existing installation requires reconciling its actual source routes and bindings through the [update path](docs/getting-started.md#update-an-existing-installation). A new name does not itself rename a repository or change an installed connection.
 
 **Sovereign sleeves** are separately maintained configurations, knowledge or accumulated experience that you connect through your private harness to develop and protect your distinctive edge. A meaningful boundary of purpose, stewardship, access or lifecycle makes separate connection, maintenance or reuse useful. A customised role and its accumulated experience can have different lifecycles. One sleeve can connect several existing records; each file or case need not become a sleeve. Access, use and selective sharing remain subject to their actual owners' control.
 
@@ -110,7 +116,15 @@ No public installation release date is confirmed. Releasing selected elements or
 
 ### Installation and configuration
 
-The intended onboarding experience is one-click installation, with a short first-run step to connect the sovereign's context. This package is not yet a one-click installer.
+**Bootstrap from chat:** use the short copyable instruction in [Bootstrap OODA Harness](docs/bootstrap.md). It selects an accepted source revision and target, then routes the receiving agent through the maintained installation procedure. The [Hermes notes](docs/runtimes/hermes.md#interface-and-two-reusable-participants) describe the interface plus reusable A/B option and its pending runtime checks.
+
+**Native Hermes package:** [Install and update the Hermes foundation](docs/runtimes/hermes-distribution.md) uses the root `distribution.yaml` with Hermes's native profile installer. [Deploy Harness](skills/deploy-harness/SKILL.md) coordinates shared and private updates through Bootstrap. New named profiles can use that path. Existing default and non-distribution profiles retain their established loading routes until deliberately migrated. Native install/update has been exercised in isolated profiles, preserving synthetic personal state. Private connection, model-backed loading and useful group work remain separate deployment checks.
+
+The intended onboarding experience is one-click installation with a short first-run step to connect the sovereign's context. The current package supplies native shared installation and guided private connection and group setup. It is not an unattended installation of the whole personal system.
+
+**Initialise an existing role group:** [Bootstrap a role group](docs/bootstrap-group.md) connects configured participants to their selected shared/private role basis, axis, current assignment and continuation. It is a reusable entry for commissioned roles, separate from installing the profiles or selecting a particular first task.
+
+**Evaluate useful group work:** [Evaluate a role group](docs/evaluating-role-groups.md) supplies human-led review questions, a fair solo baseline and a small case record. Use actual results and whole effort before claiming benefit.
 
 Use [Getting started](docs/getting-started.md) for the first-install, update or recovery path, with [Codex](docs/runtimes/codex.md) or [Hermes](docs/runtimes/hermes.md) setup notes. Create or connect your [private harness](docs/getting-started.md#create-or-connect-your-private-harness), then use the [role assembly path](roles/ROLE-TEMPLATE.md#assemble-this-role) when commissioning an enduring role. Put confirmed routine answers in the private bundle rather than requiring another service to supply them. Add live connections when the assignment needs them. The creator's setup history is not a prerequisite for following the guide.
 
@@ -170,11 +184,11 @@ flowchart LR
 
 The diagram shows the ten agreed role types and their default delegation and reporting relationships: assignments go out and field reports return. Chief of Staff receives material outcomes, blockers and decisions needed, without becoming a routine approval gate. Each enduring role is designed as a pair, described below. The chart does not imply ten deployed roles or twenty always-on agents. Most individual role contracts and all paired-role deployment remain under development.
 
-**First implementation.** Start with Chief of Staff and Head of Talent completing one useful assignment. Head of Harness Engineering is responsible for the build and its reliability. Introduce the remaining roles as their work and contracts are established.
+**First implementation.** Start with Chief of Staff and Head of Talent completing one useful assignment. [Head of Harness Engineering](roles/head-of-harness-engineering.md) is responsible for the build and its reliability. Its Odysseus reference is accepted for private specialisation. Introduce the remaining roles as their work and contracts are established.
 
 Head of Finance will own financial planning, including portfolio and risk analysis. Its contract will define the detailed remit and authority.
 
-[Research Lead](roles/research-lead.md) owns commissioned inquiry, exploratory discovery and the organisation of useful research. It has its own pair; other roles retain their domain decisions and can conduct research themselves.
+The accepted [Research Lead reference](roles/research-lead.md) defines source discovery, commissioned inquiry, exploratory research and learning from others' experience. When commissioned it has its own pair; other roles retain their domain decisions and can research directly.
 
 The team coordinates around a small set of system-wide units of account, drawing on [Numbers come before strategy](https://ecosystemoperator.substack.com/p/numbers-come-before-strategy). These establish a shared axis around which strategies, tests, proposals and schools of thought can contend. Each role is accountable for its contribution against those shared measures. Its contract records the measures it is responsible for and defines the supporting metrics used to judge its work. Where recommendations compete, Chief of Staff brings the evidence and consequences for the whole together for the relevant decision owner to resolve.
 
@@ -227,6 +241,17 @@ Each role compares actual results with the intended outcome and expectations. A 
 
 Proportionate independent review challenges consequential judgements and proposed improvements. Evidence can warrant changes to execution, methods, assumptions or success measures. Proposed changes to agreed aims return to their decision owner. Retain significant decisions, outcomes and useful learning in maintained records so subsequent work can build on them, including improvements to the harness itself.
 
+Available evaluation and review routes:
+
+| Route | What it provides |
+| --- | --- |
+| [Evaluate a role group](docs/evaluating-role-groups.md) | A working evaluation guide for actual group cases and comparison with a well-briefed solo agent. |
+| [Runtime acceptance](docs/operating-contract.md#runtime-acceptance) | Checks for guidance loading, reciprocal exchange, recovery and useful paired operation. |
+| [Sense of Taste](skills/sense-of-taste/SKILL.md) | A review method for bounded work against its brief, evidence and wider purpose. |
+| [Health Check](skills/health-check/SKILL.md) | A review method for harness coherence, drift and consolidation. |
+
+Evaluation resources are retained in the [group guide's research basis](docs/evaluating-role-groups.md#research-basis-and-limits) and the [Research Resources shelf](lists/research-resources.md#evaluation-and-coordination). These routes describe available methods and sources. They do not establish that an automated evaluation suite or runtime trial has been run.
+
 A hiring manager’s response may overturn our initial reading of a role. We revise the assessment and choose whether to apply, propose a different mandate or stop, retaining the evidence and decision for later work.
 
 [AGENTS.md](AGENTS.md) provides repository guidance. The [common operating contract](docs/operating-contract.md) defines the shared method; [individual role contracts](ROLES.md) define continuing responsibility and task briefs define individual assignments. Direct requests, agreed projects, research and delivery can enter through the relevant role without passing through opportunity discovery. The three opportunity loops in Section 6 sustain particular work within this wider operating model. Section 7 explains triggers and schedules. Section 5 maps the supporting components and records.
@@ -256,7 +281,7 @@ A knowledge link explains a relationship. An execution dependency determines whi
 
 ### Selected structure and current state
 
-**Runtime and access.** Hermes is the selected deployment target. For each supported combination of interface, model and tools, we need to verify the routes for loading instructions, retrieving context and saving results. The common contract, CoS reference and Research Lead definition are prepared; their runtime loading and paired execution remain unverified.
+**Runtime and access.** Hermes is the selected deployment target. For each supported combination of interface, model and tools, we need to verify the routes for loading instructions, retrieving context and saving results. The common contract, CoS, Business Development and Research Lead references are accepted. The Odysseus engineering reference is also accepted for private specialisation. Their presence does not establish runtime loading, paired execution or benefit; retain evidence and limits for each deployment separately.
 
 The proposed access model gives the harness a dedicated email account and a defined working environment, with personal accounts outside that scope unless explicitly connected. A separate role, chat or directory does not by itself establish isolation. Account details and credentials belong in private configuration.
 
@@ -272,7 +297,7 @@ The proposed access model gives the harness a dedicated email account and a defi
 | [Short-film workflow](docs/short-film-workflow.md) | Workflow MVP for a complete first cut, character references, continuity and targeted revision. One 30-second film rendered with mixed audio; final quality and reuse remain unverified. |
 | [Ecology of mind](docs/ecology-of-mind.md) | The atomic role, smaller cognitive contributions, reciprocal attention and wider feedback circuit. |
 | [Common operating contract](docs/operating-contract.md) | Shared paired-role method, decision rights, assignments, recovery and learning. |
-| [ROLES.md](ROLES.md) | A catalogue of agreed role types and available contracts, including Chief of Staff and Research Lead. |
+| [ROLES.md](ROLES.md) | A catalogue of agreed role types and available contracts, including Chief of Staff, [Head of Business Development](roles/head-of-business-development.md) and Research Lead. |
 | [Role template](roles/ROLE-TEMPLATE.md) | The assembly path and seven-section form for shared reference contracts and private role specialisations. |
 | [SKILLS.md](SKILLS.md) | A catalogue of reusable skills linking to their instructions. |
 | [LISTS.md](LISTS.md) | Routes into maintained collections, their purpose and when to retrieve them. |
@@ -286,7 +311,7 @@ A role defines continuing responsibility. Its contract establishes accountabilit
 
 SOUL retains the core communication principles. Use [Writing and Editing](skills/writing-and-editing/SKILL.md) for drafting, editing, reviewing prose and giving advisory replies. The skill applies [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md), which has one maintained home inside its package. Read that standard before the relevant work, reusing a current read during the task. Specialist workflows retain their production and execution steps. When delegating this work, pass the brief, accepted corrections and the skill and standard to the worker; [ROLES.md](ROLES.md#coordination-and-shared-skills) defines handover review.
 
-Section 4 shows the agreed team structure. [ROLES.md](ROLES.md) records responsibilities, reporting and contract availability. [Chief of Staff](roles/chief-of-staff.md) has an accepted reusable reference and [Research Lead](roles/research-lead.md) has a prepared contract. The other individual contracts remain under development.
+Section 4 shows the agreed team structure. [ROLES.md](ROLES.md) records responsibilities, reporting and contract availability. [Chief of Staff](roles/chief-of-staff.md) and [Head of Business Development](roles/head-of-business-development.md) have accepted reusable references; [Research Lead](roles/research-lead.md) is also an accepted reference. [Head of Harness Engineering](roles/head-of-harness-engineering.md) has an accepted reusable reference. The remaining individual contracts remain under development.
 
 The [common operating contract](docs/operating-contract.md) owns the shared rules for evidence, authority, truthful completion and continuity. Catalogues provide routes to maintained definitions. [LISTS.md](LISTS.md) links the packaged community directory, selected research resources and existing editorial references. Role contracts explain when those methods and resources are useful. Private reading and ideas queues retain their existing owners.
 
@@ -412,3 +437,4 @@ If you share or adapt the project, please credit Ben and link to the original pr
 [Original project](https://github.com/benohanlon/ooda-harness) · [Writing, resume and contact](https://linktr.ee/benohanlon)
 
 ---
+

@@ -63,6 +63,8 @@ Preserve the exact claim, causality, modifier scope and certainty before improvi
 
 **Meaning check:** “Capture the means of cognition at a civilisational scale” describes the scale of capture. Moving the phrase to “pressure is building at a civilisational scale” attaches that scale to the pressure and changes the claim.
 
+**Function check:** Replacing “an interface for commissioning and steering work” with “a point of contact” removes the functions of commissioning and steering. When compressing a description, preserve the functions and relationships that support its claim.
+
 Keep the actual source, referent and classification. A LinkedIn post must not become a brief. The author’s interpretation must not become the recipient’s confirmed strategy. A fallback must not blur the primary case. Preserve each sentence’s function: claim, evidence, interpretation, calibration question, objection, gap or fallback.
 
 Stay at the lowest useful level of abstraction. Prefer LinkedIn post to brief, exchange to platform, trading product to solution, the client to the stakeholder, “what I think the opportunity is” to “inferred strategic thesis”, and “worked alongside” to “complemented the capability”. Use a category only when it compresses concrete facts without changing their meaning.

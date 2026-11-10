@@ -6,6 +6,8 @@ Use this assembly path to install the shared guidance, put it into use, or updat
 
 ## Choose your path
 
+**Starting from a chat?** [Bootstrap OODA Harness](bootstrap.md) supplies the short entry instruction and routes back here for the appropriate installation path. Keep the source revision and destination explicit; the bootstrap is agent-driven, not an unattended installer.
+
 - **First installation:** follow the steps below, using the [Codex](runtimes/codex.md) or [Hermes](runtimes/hermes.md) notes for the selected runtime.
 - **Update, reinstall or refresh:** begin with [Update an existing installation](#update-an-existing-installation).
 - **Something no longer works:** use [Recover a working installation](#recover-a-working-installation).
@@ -39,6 +41,8 @@ Start with [README](../README.md), [SOUL](../SOUL.md) and [AGENTS](../AGENTS.md)
 
 Follow the [Codex](runtimes/codex.md) or [Hermes](runtimes/hermes.md) notes. Use the selected runtime's supported mechanisms and check the installed version. Record where startup instructions and complete skill packages are loaded. Preserve personalisation, specialist procedures and project guidance.
 
+Hermes can install this shared repository as a native profile distribution. The [distribution guide](runtimes/hermes-distribution.md) covers new named profiles, in-place updates and the boundary around existing default profiles. [Deploy Harness](../skills/deploy-harness/SKILL.md) follows [Bootstrap](bootstrap.md) to coordinate that shared package with the recipient's own private source. No private source is included in the distribution.
+
 The setup owner records the actual working folder and its startup, profile and project routes to the accepted shared and private sources. The working folder can sit outside those snapshots. Reuse working bindings and configure missing routes explicitly; matching filenames and readable links do not establish loading. Verify actual loading in a fresh context using that folder, for both participants when a role pair is commissioned. Keep exact paths, revisions and verification evidence in the private installation record.
 
 Keep the accepted source intact. If installed skill copies move away from their original directory, check links that leave those packages and adapt the installed routes to the accepted source. Record those adaptations so a later refresh can preserve them. A visible skill name establishes discovery; inspect method and reference access when the work uses them.
@@ -49,7 +53,7 @@ Keep the accepted source intact. If installed skill copies move away from their 
 
 For personalised use, connect the shared package to a private working home you maintain. The [shared/private explanation](../README.md#shared-and-private-harnesses) defines that arrangement and meaningful sovereign sleeves. Reuse an existing private repository, folder or chosen store and its maintained owners. A profile bundle can be the starting home; it need not contain every connected project or record.
 
-Use `ooda-harness` for the shared harness and `sovereign-harness-<username>` for its private application, for example `sovereign-harness-alex`. A display name can use the person's name: **Sovereign Harness — Alex**. These names identify the harnesses; they require neither GitHub storage nor a new repository or directory for each role.
+Use `ooda-harness` for the shared harness and `sovereign-<individual>-harness` for its private application. The generic example is `sovereign-individual-harness`; replace `individual` with the person's chosen identifier, for example `sovereign-alex-harness`. A display name can be **Sovereign Alex Harness**. These names identify the harnesses; they require neither GitHub storage nor a new repository or directory for each role. For an existing installation, preserve working addresses until an authorised migration reconciles its [active routes and bindings](#update-an-existing-installation).
 
 1. **Recover the existing arrangement.** Inspect its entrypoint, chosen roles, private bindings and relevant records. Retain working locations and access boundaries. Resolve an unknown profile location through the final connection step below rather than asking twice. An explicit choice to continue with limited personal context remains valid.
 2. **Make a small map.** Use the private README as the human-readable map: whom the harness serves, the selected shared revision, chosen team and routes needed for its first useful work. Add or reuse a short private `AGENTS.md` for agent orientation and routing, following the [private-home template](private-harness-template.md#private-agents-orient-an-arriving-agent). Keep shared contribution rules at their shared owner. Keep `sovereign.md` as the canonical personal portrait when that convention is used. Reuse the installation record for loading routes, managed adaptations and recovery; the setup owner must explicitly configure and verify runtime loading. Matching filenames alone do not establish inheritance.
@@ -89,12 +93,24 @@ Apply proportionate review to the actual result and inspect saved changes when s
 
 **Expected result:** a useful bounded result and a continuation record, with installation, loading, access, execution and usefulness reported separately. If only configuration was commissioned, report the verified configuration and leave useful execution pending; do not start another assignment to fill the gap.
 
+## Check role bindings
+
+For the commissioned roles in the selected installation, follow the actual instruction routes from each working project or group to its shared role definition, private application and current brief. Use existing bindings and setup records. A role file being available, a project name or an IDEA description does not establish automatic role loading.
+
+Compare those selected revisions with the accepted update. Review the relevant changes and private adaptations before adopting a newer role basis. Preserve an intentional hold with its reason. When the current commission includes role alignment, carry a compatible accepted update through its managed instruction routes rather than leave an accidental old pin merely because it is explicit. Return a material conflict or unclear acceptance decision to its owner. Keep accepted source snapshots intact; use an authorised, recorded local adaptation and propose the corresponding canonical correction where needed.
+
+Keep project instructions concise. Route to the selected shared definition, private sleeve, current brief and existing work records instead of copying the full contracts. Preserve project content and the profile's general function. An uncommissioned role remains available but unconfigured until requested.
+
+Groups have their own continuing participant contexts. Updating a project does not update those contexts. Supply the same whole relevant role basis to the actual interface and both participants through supported room controls, retaining continuity and independent state. Do not give reusable participant profiles a permanent single-role identity, bypass room ownership or create a second writer for a busy profile. Follow [group bootstrap](bootstrap-group.md) when commissioning a new role room.
+
+Read back the managed routes and verify loading on the affected surface. Keep package installation, project instruction loading and group-member loading distinct in the existing private receipt. Record each as current, updated, deliberately held or pending with its reason and next action. A stale role binding need not block an independent package update, but it prevents claiming that role is fully refreshed. Use the next authorised work to assess behaviour.
+
 ## Update an existing installation
 
 Use this path for shared-package changes, reinstalls and refreshes. A private-profile revision or a runtime upgrade is a separate change: identify which source or configuration is changing.
 
 1. **Recover the current installation record.** Identify its accepted revision, managed files, active contexts and profile connection. Compare current files with that record to find later local edits. Preserve uncertain or newer work before replacing anything.
-2. **Stage the selected revision separately.** Read the relevant changes, keep complete packages together and check affected references and runtime compatibility. Reconcile local customisation with the new source. Return a material unresolved choice to its owner while continuing independent preparation.
+2. **Stage the selected revision separately.** Read the relevant changes, keep complete packages together and check affected references and runtime compatibility. Reconcile local customisation with the new source, including [role bindings](#check-role-bindings) for commissioned projects and groups in scope. Return a material unresolved choice to its owner while continuing independent preparation.
 3. **Activate the reconciled change.** Back up the affected managed files and configuration, then replace only the agreed scope. Record the new source revision, installed adaptations and previous working state. Preserve the [private-home map and sleeve connections](#create-or-connect-your-private-harness), unrelated skills, permissions, project records and private experience.
 4. **Finish configuration with the [private-profile connection step](#finish-installation-connect-your-private-profile).** Retain a working connection or an explicit choice to continue without one. Reconcile local profile corrections with its private canonical source before refreshing that bundle.
 5. **Verify the affected surface.** Refresh the relevant context and check its active routes, references and required access. Use the next authorised work to assess changed behaviour; repeat a broader runtime check only where the change warrants it. Record exact completed and pending items, including the state of existing role participants.
