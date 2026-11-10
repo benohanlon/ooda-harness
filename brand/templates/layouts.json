@@ -1,38 +1,101 @@
 [
   {
-    "id": "cover-editable",
-    "width": 1280,
-    "height": 640,
-    "status": "prototype; not the approved cover",
-    "purpose": "Full cover",
-    "source": "templates/cover-editable.svg",
-    "preview": "previews/cover-editable.jpg"
-  },
-  {
-    "id": "compact-landscape",
-    "width": 960,
-    "height": 720,
-    "status": "prototype; not the approved cover",
-    "purpose": "Compact landscape",
-    "source": "templates/compact-landscape.svg",
-    "preview": "previews/compact-landscape.jpg"
+    "id": "portrait",
+    "width": 1080,
+    "height": 1350,
+    "source": "templates/portrait.svg",
+    "preview": "previews/portrait.jpg",
+    "canonicalCopy": true,
+    "status": "new-style editable layout"
   },
   {
     "id": "square",
     "width": 1080,
     "height": 1080,
-    "status": "prototype; not the approved cover",
-    "purpose": "Square",
     "source": "templates/square.svg",
-    "preview": "previews/square.jpg"
+    "preview": "previews/square.jpg",
+    "canonicalCopy": true,
+    "status": "new-style editable layout"
   },
   {
-    "id": "portrait",
-    "width": 1080,
-    "height": 1350,
-    "status": "prototype; not the approved cover",
-    "purpose": "Portrait",
-    "source": "templates/portrait.svg",
-    "preview": "previews/portrait.jpg"
+    "id": "compact-landscape",
+    "width": 960,
+    "height": 720,
+    "source": "templates/compact-landscape.svg",
+    "preview": "previews/compact-landscape.jpg",
+    "canonicalCopy": true,
+    "status": "new-style editable layout"
+  },
+  {
+    "id": "cover-editable",
+    "width": 1280,
+    "height": 640,
+    "source": "templates/cover-editable.svg",
+    "preview": "previews/cover-editable.jpg",
+    "canonicalCopy": true,
+    "status": "new-style editable layout"
+  },
+  {
+    "id": "profile-pack-001",
+    "width": 1536,
+    "height": 1024,
+    "source": "templates/profile-pack-001.svg",
+    "preview": "../assets/roles/chief-of-staff-baldwin.png",
+    "canonicalCopy": false,
+    "status": "new-style artwork"
+  },
+  {
+    "id": "profile-pack-002",
+    "width": 1536,
+    "height": 1024,
+    "source": "templates/profile-pack-002.svg",
+    "preview": "../assets/roles/head-of-business-development-blake.png",
+    "canonicalCopy": false,
+    "status": "new-style artwork"
+  },
+  {
+    "id": "profile-pack-003",
+    "width": 1536,
+    "height": 1024,
+    "source": "templates/profile-pack-003.svg",
+    "preview": "../assets/roles/head-of-talent-harry.png",
+    "canonicalCopy": false,
+    "status": "new-style artwork"
+  },
+  {
+    "id": "profile-pack-research",
+    "width": 1536,
+    "height": 1024,
+    "source": "templates/profile-pack-research.svg",
+    "preview": "../assets/roles/research-lead-bateson.png",
+    "canonicalCopy": false,
+    "status": "new-style artwork"
+  },
+  {
+    "id": "profile-pack-engineering",
+    "width": 1536,
+    "height": 1024,
+    "source": "templates/profile-pack-engineering.svg",
+    "preview": "../assets/roles/head-of-harness-engineering-odysseus.png",
+    "canonicalCopy": false,
+    "status": "new-style artwork"
+  },
+  {
+    "id": "cognitive-dipole",
+    "width": 1254,
+    "height": 1254,
+    "source": "templates/cognitive-dipole.svg",
+    "preview": "assets/cognitive-dipole-v1.png",
+    "canonicalCopy": false,
+    "status": "illustrative paired mode"
+  },
+  {
+    "id": "ecology-stack",
+    "width": 1024,
+    "height": 1536,
+    "source": "templates/ecology-stack.svg",
+    "preview": "assets/sovereign-ooda-ecology-stack.png",
+    "canonicalCopy": false,
+    "status": "illustrative overview"
   }
 ]

@@ -1,81 +1,69 @@
 # Sovereign OODA Harness — brand kit
 
-![Approved v1.2 cover: an oblique emerald eye reflecting gold city lights, with the message There's something in you that the world needs](../assets/sovereign-ooda-cover.jpg)
+![OODA cover: an oblique mint eye with the message There's something in you that the world needs](../assets/sovereign-ooda-cover.jpg)
 
-**Kit v1.3 · Approved cover v1.2 · 22 October 2026**
+**Kit 2.0 · 10 November 2026**
 
-[Download published kit v1.3](downloads/sovereign-ooda-brand-kit-v1.3.zip?raw=true) · [Design guidelines](GUIDELINES.md) · [Editable layouts](templates/README.md) · [Artwork prompts](PROMPTS.md)
+[Download kit 2.0](downloads/sovereign-ooda-brand-kit-v2.0.zip?raw=true) · [Design guidelines](GUIDELINES.md) · [Editable sources and rendering](templates/README.md) · [Artwork prompts](PROMPTS.md)
 
-An intimate human eye caught in a moment of noticing. Dark forest green, an emerald iris, gold reflected light and a warm-bone statement inside the pupil. The human message leads; counter-revolutionary manoeuvre warfare and cognitive superiority within the distributed mind provide the strategic frame.
+One visual language connects the harness cover, character cards and architecture illustrations: dark petrol teal, pale mint, restrained orange, fine print texture and clear type hierarchy. Ben selected this direction from the Blake card and requested the wider kit update. Nous Research / Hermes informed the visual direction; these are OODA production choices, not official third-party brand specifications.
 
-## Approved artwork
+The eye remains the human centre: there is something in you that the world needs. Character cards express each role's temperament. Diagrams explain relationships. Their different purposes keep distinct layouts within the same family.
 
-Use this cover unchanged when you need the established identity. It has no embedded author name or URL. Keep origin credit in accompanying text and metadata.
+## Cover and layouts
 
-| Asset | Dimensions | Use | Download |
+| Asset | Format | Source or export |
+| --- | --- | --- |
+| Repository cover | 1280 × 640 JPEG | [JPEG](../assets/sovereign-ooda-cover.jpg?raw=true) |
+| Lossless cover export | 1280 × 640 PNG | [PNG](assets/sovereign-ooda-cover-master.png?raw=true) |
+| Cover and alternative layouts | Live SVG, four formats | [Sources and previews](templates/README.md) |
+| Current kit | Sources, fonts, guides and exports | [ZIP](downloads/sovereign-ooda-brand-kit-v2.0.zip?raw=true) |
+
+The full title, five-line pupil statement, strategic labels and cognitive footer are retained. Cover text is live in the SVG source. The clean eye is a separately generated, mint/teal photographic layer. Its print texture and geometry are reviewed visually; it is not a pixel-identical recolouring of the old image.
+
+The 22 October cover and kit remain in Git history and the retained [v1.3 download](downloads/sovereign-ooda-brand-kit-v1.3.zip?raw=true). The earlier clean-eye source and prompt have an explicit [history home](history/v1.3/README.md). They are historical, not the current palette. A source or branding update does not refresh any installed harness or GitHub repository-setting social preview.
+
+## Character cards
+
+![The coordinated character-card collection](previews/profile-cards.png)
+
+All cards use one 1536 × 1024 frame, fixed columns and real bundled fonts. [Card content](profile-cards.json) separates names, role titles, quotations, attribution and output paths from [shared tokens](tokens.json).
+
+| Character | Role | Artwork | Numbering |
 | --- | --- | --- | --- |
-| Approved cover v1.2 | 1280 × 640, JPEG, 495 KB | Repository README; suitable dimensions for a social preview | [JPEG](../assets/sovereign-ooda-cover.jpg?raw=true) |
-| Approved master v1.2 | 1774 × 887, PNG | Visual benchmark and source archive | [PNG](assets/sovereign-ooda-cover-master.png?raw=true) |
-| Published kit v1.3 | ZIP | Artwork, sources, fonts, guides and prototypes | [ZIP](downloads/sovereign-ooda-brand-kit-v1.3.zip?raw=true) |
+| Baldwin | Chief of Staff | [PNG](../assets/roles/chief-of-staff-baldwin.png) · [SVG](templates/profile-pack-001.svg) | Profile Pack 001 |
+| Blake | Head of Business Development | [PNG](../assets/roles/head-of-business-development-blake.png) · [SVG](templates/profile-pack-002.svg) | Profile Pack 002 |
+| Harry Da Souza | Head of Talent | [PNG](../assets/roles/head-of-talent-harry.png) · [SVG](templates/profile-pack-003.svg) | Profile Pack 003 |
+| Bateson | Research Lead | [PNG](../assets/roles/research-lead-bateson.png) · [SVG](templates/profile-pack-research.svg) | Role label; pack number unassigned |
+| Odysseus | Head of Harness Engineering | [PNG](../assets/roles/head-of-harness-engineering-odysseus.png) · [SVG](templates/profile-pack-engineering.svg) | Role label; pack number unassigned |
 
-The repository README already displays the approved JPEG. GitHub's repository social-preview setting is separate. The JPEG meets its recommended 1280 × 640 dimensions and under-1-MB file size. See [GitHub's guidance](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview).
+Baldwin and Blake's numbers were specified by Ben; Harry follows his next-card request. Artwork numbering is a display convention, not an installer manifest, profile ID or proof of deployment. Research and Engineering remain deliberately unnumbered.
+
+Harry's quote retains Ben's wording, including **six**. Its setup is regular weight and the second line bold, at the same font size. The Bateson and Odysseus short lines are role copy, not attributed historical quotations. Existing film/photo credits remain with their images; missing photographer details are not invented. Character inspiration does not change authority or professional standards.
 
 ## Architecture artwork
 
-These are illustrative studies, not canonical architecture or operating instructions. They may change as the design develops. The written definitions in [Ecology of Mind](../docs/ecology-of-mind.md) and the [common operating contract](../docs/operating-contract.md) govern interpretation.
+These are illustrations, not canonical architecture or operating instructions. [Ecology of Mind](https://github.com/benohanlon/ooda-harness/blob/main/docs/ecology-of-mind.md) and the [common operating contract](https://github.com/benohanlon/ooda-harness/blob/main/docs/operating-contract.md) govern their meaning. These repository references are outside the standalone artwork download.
 
-The stack gives an overview for introductions and presentations. The cognitive dipole focuses on one role and is also shown in Ecology of Mind.
+| Illustration | Export | Editable source |
+| --- | --- | --- |
+| Ecology overview | [PNG](assets/sovereign-ooda-ecology-stack.png?raw=true) | [SVG](templates/ecology-stack.svg) |
+| Selectively commissioned cognitive dipole | [PNG](assets/cognitive-dipole-v1.png?raw=true) | [SVG](templates/cognitive-dipole.svg) |
 
-<img src="assets/sovereign-ooda-ecology-stack.png" width="420" alt="Sovereign OODA Harness stack: sovereign, ecology, atomic role and Twins, maintained context, bounded contributions and enabling infrastructure.">
+Both distinguish ordinary single-owner work from selective paired evaluation or high-value work. They do not establish runtime participation or benefit. The new vector sources keep labels and connectors maintainable.
 
-| Asset | Dimensions | Use | Download |
-| --- | --- | --- | --- |
-| Ecology stack v3 | 1024 × 1536, PNG | Illustrative overview; non-canonical | [PNG](assets/sovereign-ooda-ecology-stack.png?raw=true) |
-| Cognitive dipole v1 | 1254 × 1254, PNG | Illustrative atomic role; non-canonical | [PNG](assets/cognitive-dipole-v1.png?raw=true) |
+## Colour and type
 
-![Illustrative cognitive dipole: a shared nucleus of role purpose, contract and units of account, two agents with complete OODAs, bounded crawlers below and feedback from the world.](assets/cognitive-dipole-v1.png)
+![Shared production colours](previews/colour-system.png)
 
-Added to the repository kit on 23 October 2026. The published v1.3 ZIP remains the 22 October snapshot and does not include these supplementary assets. Neither replaces the approved cover or establishes deployed paired operation.
+![Live typography specimen](previews/typography.png)
 
-## Colour
+**IBM Plex Mono** carries headers and metadata; **Barlow Condensed** carries character names, role titles and quotations; **Inter Bold** carries the central human statement and diagram hierarchy. Font files are bundled with their licences in [fonts](fonts/README.md). The palette, role of each colour, sizes and spacing are in [tokens](tokens.json) and the [guidelines](GUIDELINES.md).
 
-![Six colour swatches: forest dark #07140F, emerald #20784E, sage #A2BA91, antique gold #C6A45D, bone #F1EBD7 and quiet bone #C9C5B5](previews/colour-system.png)
+## Maintenance
 
-Green carries the identity, gold carries structure and reflected light, and bone carries the message. These are working targets for editable materials; the photograph retains a broad tonal range. [Colour values and roles](GUIDELINES.md#colour-system) · [Design tokens](tokens.json).
+Edit the data and SVG sources, then rebuild and inspect the exports. Do not use a new full-card image generation for a wording or spacing change: that reintroduces variation. Image generation is for the photographic/illustrative layer. Compare the collection at common size and at its intended viewing size. Preserve previous accepted work in version history.
 
-## Typography
+[Manifest and checksums](manifest.json) · [Reusable prompts](PROMPTS.md) · [Rendering instructions](templates/README.md).
 
-![Editable typography specimen: IBM Plex Mono Medium for identity and supporting lines, Inter Bold for the central message](previews/typography.png)
-
-The new editable studies use **IBM Plex Mono Medium** and **Inter Bold**, with bundled font files and licences. The approved raster's letterforms remain the visual benchmark. [Type specifications](GUIDELINES.md#editable-template-typography) · [Font files and sources](fonts/README.md).
-
-## Layout studies
-
-![Four prototype layouts: full cover, compact landscape, square and portrait. These are studies rather than approved cover replacements](previews/layout-gallery.jpg)
-
-The compact landscape, square and portrait recompose the eye and type for their available space. Every study preserves the full chosen wording. Their text and artwork are separate, so future spacing and copy changes can be made precisely.
-
-**Prototype status:** these layouts and the clean eye are production studies. The approved cover remains v1.2.
-
-| Layout | Dimensions | Preview | Editable source |
-| --- | --- | --- | --- |
-| Full cover | 1280 × 640 | [JPEG](previews/cover-editable.jpg) | [SVG](templates/cover-editable.svg) |
-| Compact landscape | 960 × 720 | [JPEG](previews/compact-landscape.jpg) | [SVG](templates/compact-landscape.svg) |
-| Square | 1080 × 1080 | [JPEG](previews/square.jpg) | [SVG](templates/square.svg) |
-| Portrait | 1080 × 1350 | [JPEG](previews/portrait.jpg) | [SVG](templates/portrait.svg) |
-
-[Editing and rendering](templates/README.md) explains the linked source files and the reproducible exports. Compare candidates at their actual display size before selecting a new benchmark.
-
-## Make related artwork
-
-Start with the approved cover, the [guidelines](GUIDELINES.md) and the [reusable prompts](PROMPTS.md). State the destination, exact copy and deliberate changes. Preserve the eye's oblique crop, the green-and-gold balance, the dark pupil and the hierarchy of the message.
-
-For text or spacing changes, use an editable layout. For photographic changes, use the approved image as the reference and keep new candidates separate until selected. Do not add watermarks, generic HUD graphics, unrelated symbols or other organisations' logos.
-
-## Sources and maintenance
-
-Created by **Ben O’Hanlon**, author of [The Ecosystem Operator](https://ecosystemoperator.substack.com/). The eye direction draws on the reflected-world imagery of Blade Runner; Nous/Hermes and Metalabel informed earlier print and typographic exploration. The approved OODA artwork is the production reference.
-
-[Manifest and checksums](manifest.json) · [Design tokens](tokens.json) · [Exact clean-eye edit prompt](prompts/clean-eye-prototype-v1.3.txt).
-
-GitHub holds this portable kit. The maintained approval and exploration record belongs to the project and its chosen store; Ben's existing record is in Notion. The kit's assets and guidance are included here. Git history preserves earlier published versions. Kit v1.3 improves presentation and reuse; it preserves the approved v1.2 cover.
+Created by Ben O’Hanlon, author of [The Ecosystem Operator](https://ecosystemoperator.substack.com/). Origin credit stays in metadata and accompanying text; the overall cover has no added author line or watermark.

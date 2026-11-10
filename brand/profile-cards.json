@@ -1,0 +1,96 @@
+[
+  {
+    "id": "001",
+    "name": "BALDWIN",
+    "role_lines": [
+      "CHIEF OF STAFF"
+    ],
+    "quote_lines": [
+      "Your soul is in your keeping alone."
+    ],
+    "qualities": [
+      "CALM AUTHORITY",
+      "JUDGEMENT / FOLLOW-THROUGH"
+    ],
+    "image": "baldwin-source.png",
+    "source_card": true,
+    "credit": "Archetype: King Baldwin IV / Kingdom of Heaven (2005)   |   Source: user-supplied film image",
+    "output": "../assets/roles/chief-of-staff-baldwin.png"
+  },
+  {
+    "id": "002",
+    "name": "BLAKE",
+    "role_lines": [
+      "HEAD OF",
+      "BUSINESS DEVELOPMENT"
+    ],
+    "quote_lines": [
+      "Winners put up the numbers."
+    ],
+    "qualities": [
+      "COMMERCIAL CONVICTION",
+      "JUDGEMENT / FOLLOW-THROUGH"
+    ],
+    "image": "blake-source.png",
+    "source_card": true,
+    "credit": "Archetype: Blake / Glengarry Glen Ross (1992)   |   Photo: Andy Schwartz / © 1992 New Line Cinema Corp.",
+    "output": "../assets/roles/head-of-business-development-blake.png"
+  },
+  {
+    "id": "003",
+    "name": "HARRY",
+    "surname": "DA SOUZA",
+    "role_lines": [
+      "HEAD OF TALENT"
+    ],
+    "quote_lines": [
+      "Right now I’m in first gear.",
+      "Would you like to see me shift to six?"
+    ],
+    "qualities": [
+      "DISCRETION / RESOURCEFULNESS",
+      "JUDGEMENT / FOLLOW-THROUGH"
+    ],
+    "image": "harry-source.png",
+    "source_card": true,
+    "credit": "Archetype: Harry Da Souza / MobLand (2025)   |   Source: user-supplied character image",
+    "output": "../assets/roles/head-of-talent-harry.png"
+  },
+  {
+    "id": "research",
+    "name": "BATESON",
+    "role_lines": [
+      "RESEARCH LEAD"
+    ],
+    "quote_lines": [
+      "Observe the relationships."
+    ],
+    "qualities": [
+      "PERCEPTION / CONNECTION",
+      "INQUIRY / JUDGEMENT"
+    ],
+    "image": "bateson-woodland.png",
+    "source_card": false,
+    "credit": "Archetype: Gregory Bateson / ecology and patterns of connection   |   Adapted OODA artwork; role line, not a quotation",
+    "output": "../assets/roles/research-lead-bateson.png"
+  },
+  {
+    "id": "engineering",
+    "name": "ODYSSEUS",
+    "role_lines": [
+      "HEAD OF",
+      "HARNESS ENGINEERING"
+    ],
+    "quote_lines": [
+      "Find a way home."
+    ],
+    "qualities": [
+      "RESOURCEFULNESS / CRAFT",
+      "MAINTAINABILITY / LATENCY"
+    ],
+    "image": "odysseus-ship.png",
+    "source_card": false,
+    "credit": "Archetype: Odysseus / ship, Ithaca and hearth smoke   |   Adapted OODA woodcut; role line, not a quotation",
+    "output": "../assets/roles/head-of-harness-engineering-odysseus.png"
+  }
+]
