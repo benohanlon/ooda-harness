@@ -1,8 +1,8 @@
-# Evaluate a role group
+# Run an eval group
 
-**Working guide.** Use real cases to judge whether a group helps the sovereign understand, decide and act. Begin with human review and a few observable checks. Refine the criteria from examples before building a scoring system or evaluation skill.
+**Working guide.** An eval group brings different vantage points to a specific question about an artifact, decision or run. Keep ordinary work with the accountable agent or Master chat. Commission the group when another perspective could change the answer. Use real cases, human review and a few observable checks before building a scoring system.
 
-In the Hermes three-profile arrangement, the group contains three bots, each representing a configured profile. The main profile provides the user-facing interface. The other two provide the continuing role participants, A and B, called the Twins. Each bot has its own continuing conversation within that room. Profile instructions and memory can inform participation, but group membership does not automatically provide access to every project or chat in that profile. Evaluate the actual contexts, access and exchanges observed. See the [Hermes runtime mapping](runtimes/hermes.md#interface-and-two-reusable-participants) for setup and access boundaries.
+In Hermes, an eval group can use a group chat to collect and compare findings. Pick perspectives for the question. For an outreach draft, the sender can check fidelity to intent, a fresh recipient can give a cold read, and a reviewer can challenge unsupported claims. Capture the cold read before exposing the recipient to sender rationale or other verdicts. The accountable agent integrates findings and owns the return. A commissioned pair can use the same room for reciprocal work. Record which arrangement actually ran and check its context and access. See the [Hermes runtime mapping](runtimes/hermes.md#interface-and-two-reusable-participants).
 
 ## Place and ownership
 
@@ -10,7 +10,7 @@ This guide applies the common operating contract's [correction, review and learn
 
 Harness Engineering maintains this reusable guide. The existing role/task owner retains private case evidence, human judgements, results and continuation. A fork uses its own sources and records. These evaluation questions examine how the group serves the role's purpose and relevant axis; they do not replace its units of account with a universal score.
 
-Each Twin receives the whole relevant basis and retains a complete OODA. Giving and active receiving are complementary and reversible. Assess their effect on the work, including the outward interface's integration where one exists. Do not turn the design into permanent author/critic jobs, require a reversal on every task or score recitation of four OODA stages.
+When reciprocal paired work is commissioned, each Twin receives the whole relevant basis and retains a complete OODA. Giving and active receiving are complementary and reversible. Assess their effect on the work, including the outward interface's integration where one exists. Do not turn the design into permanent author/critic jobs, require a reversal on every task or score recitation of four OODA stages.
 
 ## Questions for the first cases
 
@@ -24,6 +24,11 @@ Each Twin receives the whole relevant basis and retains a complete OODA. Giving 
 | Was the benefit worth the whole effort? | Human review, correction, reconstruction and chasing alongside retrieval, coordination, retries, latency and model cost. |
 
 Agreement, disagreement, fluency, message count and a prescribed tool path are not measures of cognition quality. A sound result needing no change can be valuable. A transcript shows observable communication and actions, not direct access to hidden cognition.
+
+## Qualitative and quantitative evidence
+
+- **Qualitative review.** Ask each perspective what it noticed, what evidence supports it and what decision it would change. Calibrate the findings against the artifact and the sovereign's or a domain expert's judgement. Preserve useful dissent and flag false alarms.
+- **Quantitative checks.** Use deterministic checks where the outcome is exact. For a shortlist, compare candidate IDs with the source, count duplicates and verify each exclusion. Track human review time, elapsed time, cost and material corrections where observable. An eval group can interpret the checks alongside the case evidence. Field outcomes, such as replies and introductions, are recorded from actual results.
 
 ## Apply it to useful work
 

@@ -124,7 +124,7 @@ The intended onboarding experience is one-click installation with a short first-
 
 **Initialise an existing role group:** [Bootstrap a role group](docs/bootstrap-group.md) connects configured participants to their selected shared/private role basis, axis, current assignment and continuation. It is a reusable entry for commissioned roles, separate from installing the profiles or selecting a particular first task.
 
-**Evaluate useful group work:** [Evaluate a role group](docs/evaluating-role-groups.md) supplies human-led review questions, a fair solo baseline and a small case record. Use actual results and whole effort before claiming benefit.
+**Evaluate useful group work:** [Run an eval group](docs/evaluating-role-groups.md) supplies human-led review questions, a fair solo baseline and a small case record. Use actual results and whole effort before claiming benefit.
 
 Use [Getting started](docs/getting-started.md) for the first-install, update or recovery path, with [Codex](docs/runtimes/codex.md) or [Hermes](docs/runtimes/hermes.md) setup notes. Create or connect your [private harness](docs/getting-started.md#create-or-connect-your-private-harness), then use the [role assembly path](roles/ROLE-TEMPLATE.md#assemble-this-role) when commissioning an enduring role. Put confirmed routine answers in the private bundle rather than requiring another service to supply them. Add live connections when the assignment needs them. The creator's setup history is not a prerequisite for following the guide.
 
@@ -247,7 +247,7 @@ Available evaluation and review routes:
 
 | Route | What it provides |
 | --- | --- |
-| [Evaluate a role group](docs/evaluating-role-groups.md) | A working evaluation guide for actual group cases and comparison with a well-briefed solo agent. |
+| [Run an eval group](docs/evaluating-role-groups.md) | A working evaluation guide for actual group cases and comparison with a well-briefed solo agent. |
 | [Runtime acceptance](docs/operating-contract.md#runtime-acceptance) | Checks for guidance loading, reciprocal exchange, recovery and useful paired operation. |
 | [Sense of Taste](skills/sense-of-taste/SKILL.md) | A review method for bounded work against its brief, evidence and wider purpose. |
 | [Health Check](skills/health-check/SKILL.md) | A review method for harness coherence, drift and consolidation. |
