@@ -1,8 +1,18 @@
 # Run an eval group
 
-**Working guide.** An eval group brings different vantage points to a specific question about an artifact, decision or run. Keep ordinary work with the accountable agent or Master chat. Commission the group when another perspective could change the answer. Use real cases, human review and a few observable checks before building a scoring system.
+**Working guide.** An eval group brings different vantage points to a specific question about an artifact, decision or run. Keep ordinary work with the accountable agent or Master chat. Use a group when it would help you test the work or bring another vantage point to a decision. Use real cases, human review and a few observable checks before building a scoring system.
 
-In Hermes, an eval group can use a group chat to collect and compare findings. Pick perspectives for the question. For an outreach draft, the sender can check fidelity to intent, a fresh recipient can give a cold read, and a reviewer can challenge unsupported claims. Capture the cold read before exposing the recipient to sender rationale or other verdicts. The accountable agent integrates findings and owns the return. A commissioned pair can use the same room for reciprocal work. Record which arrangement actually ran and check its context and access. See the [Hermes runtime mapping](runtimes/hermes.md#interface-and-two-reusable-participants).
+In Hermes, an eval group can use a group chat to collect and compare findings. Choose perspectives that serve the question. The accountable agent integrates findings and owns the return. A commissioned pair can use the same room for reciprocal work. Record which arrangement actually ran and check its context and access. See the [Hermes runtime mapping](runtimes/hermes.md#interface-and-two-reusable-participants).
+
+## Example: Evaluate an interaction from three vantage points
+
+One use of an eval group is to develop a theory of mind for the people in an exchange. These vantage points can help the accountable agent choose when and how to act within another person's decision cycle.
+
+- **Doer or giver.** What are we trying to do or offer? What can we deliver, and what are we asking the other person to do?
+- **Active receiver or observer.** What can I see from where I stand? What do I stand to give and get, and what would make the next step worthwhile? When first impressions matter, capture the receiver's cold read before sharing the giver's rationale or other verdicts.
+- **Harness reviewer.** What do our role contracts, quality standards, canonical sources and lived experience require or suggest here? Identify where they shaped the work, where an applicable standard was missed and which prior lesson would improve the result.
+
+Use the findings to revise what you say, when you act or what you ask. Revise your understanding in light of the actual counterpart's response. This example illustrates a useful set of perspectives. Choose the number and remit of reviewers for the evaluation at hand.
 
 ## Place and ownership
 

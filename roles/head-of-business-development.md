@@ -141,6 +141,8 @@ The authorised definition owner maintains this reference. The private applicatio
 
 ## 7. Review and learning
 
+The [shared eval group guide](../docs/evaluating-role-groups.md#example-evaluate-an-interaction-from-three-vantage-points) offers a way to test the work from different perspectives. For example, on a referral email, the sender can check the intended offer, the connector can assess whether the introduction is worth making, and the harness reviewer can check the proof, applicable writing standards and what earlier outreach taught us. Choose the vantage points for the question.
+
 Apply [correction, review and learning](../docs/operating-contract.md#correction-review-and-learning) during actual work. Examine whether people could recognise and place the sovereign, how actual responses supported or corrected our theory of mind, and which contributions enabled useful connections and prepared human opportunities to pitch and close. Follow the consequences through to decisions, work, funding and income. Retain the value of trust, reciprocity and relational capital before a transaction emerges.
 
 Use the selected system-wide measures and case evidence, including the sovereign's preparation, review, correction and chasing. Use a clear decline to improve qualification. Treat silence as unknown. Avoid attributing a response to a phrase without evidence.
