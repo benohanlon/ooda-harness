@@ -40,8 +40,8 @@
     },
     {
       "file": "assets/roles/head-of-talent-harry.png",
-      "bytes": 1598508,
-      "sha256": "0eaf62ad7a929f3dd8bb7d821c46a918c0402a226d63151ebed877838b47c37c",
+      "bytes": 1603988,
+      "sha256": "5ccb7c68bc7515532eff278f5348dde72c788d41b5730964b84d4ea83adbf328",
       "width": 1536,
       "height": 1024
     },
@@ -69,8 +69,8 @@
     },
     {
       "file": "brand/README.md",
-      "bytes": 6693,
-      "sha256": "9e8c30a027c490652d17510a451c4122f6657f5ec4b4722d398e15342fc25182"
+      "bytes": 6708,
+      "sha256": "76882cae5b1e63a2f720b6c4ea1813520339a18887507dfc7886b8989c74235a"
     },
     {
       "file": "brand/assets/character-sources/baldwin-source.png",
@@ -233,15 +233,15 @@
     },
     {
       "file": "brand/previews/profile-cards.png",
-      "bytes": 5849676,
-      "sha256": "eec0c81a65d05379eec4ac0a8cbeebb3525b65d0909cde56f29c4ca4f4ddf50c",
+      "bytes": 5855777,
+      "sha256": "096df07723761a3ac30ae447d82c068b51f312ca5a13676a7feda66c72013afd",
       "width": 2370,
       "height": 2630
     },
     {
       "file": "brand/previews/profile-cards.svg",
-      "bytes": 2718,
-      "sha256": "16579810cca195a59466a3c81c2098364de8bcdda335b92ce515c855de73f562",
+      "bytes": 2733,
+      "sha256": "abfb54d2a3ee5d3db8d3c4daef1d90f4cdd90c69ac9082341aeb7c51536aa961",
       "width": 2370,
       "height": 2630
     },
@@ -266,8 +266,8 @@
     },
     {
       "file": "brand/profile-cards.json",
-      "bytes": 2602,
-      "sha256": "8af074e76577a907a08bec8b58ee84e5478fc56b8bf92d5c6f034a8ccacd4499"
+      "bytes": 2626,
+      "sha256": "4768cc9fe119060941c9b4713fd3a250770cc3158720f327a8c4b24ec9b5cee9"
     },
     {
       "file": "brand/templates/README.md",
@@ -345,8 +345,8 @@
     },
     {
       "file": "brand/templates/profile-pack-003.svg",
-      "bytes": 3561,
-      "sha256": "4682ffab96fd4ea2298ef47ccf243d3ce279dafb2f515dfa0e93112c89d42b05",
+      "bytes": 3725,
+      "sha256": "1809b47611d503140390663089263cfff4cf08ff1f24b3ab759bd49d9fb5a870",
       "width": 1536,
       "height": 1024
     },
