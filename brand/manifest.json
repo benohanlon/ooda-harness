@@ -40,8 +40,8 @@
     },
     {
       "file": "assets/roles/head-of-talent-harry.png",
-      "bytes": 1603988,
-      "sha256": "5ccb7c68bc7515532eff278f5348dde72c788d41b5730964b84d4ea83adbf328",
+      "bytes": 1603886,
+      "sha256": "aa89de427afbb2d99f0100ebf3287bdb99ac5406c217239fe67b3427a2db364b",
       "width": 1536,
       "height": 1024
     },
@@ -233,8 +233,8 @@
     },
     {
       "file": "brand/previews/profile-cards.png",
-      "bytes": 5855777,
-      "sha256": "096df07723761a3ac30ae447d82c068b51f312ca5a13676a7feda66c72013afd",
+      "bytes": 5856033,
+      "sha256": "60a62ba83a259ac23126deac46295309bbe7421329243e01c78e524e3f7844e9",
       "width": 2370,
       "height": 2630
     },
@@ -267,7 +267,7 @@
     {
       "file": "brand/profile-cards.json",
       "bytes": 2626,
-      "sha256": "4768cc9fe119060941c9b4713fd3a250770cc3158720f327a8c4b24ec9b5cee9"
+      "sha256": "3bce84bb78721e50944ab1cb56e4563d47fc35d6c897ccaa7cc09f104eaa9031"
     },
     {
       "file": "brand/templates/README.md",
@@ -346,7 +346,7 @@
     {
       "file": "brand/templates/profile-pack-003.svg",
       "bytes": 3725,
-      "sha256": "1809b47611d503140390663089263cfff4cf08ff1f24b3ab759bd49d9fb5a870",
+      "sha256": "11fee7d4d3be4d19d6e12cce3cb1c377890030f3b36d416facb10138a5f2efcc",
       "width": 1536,
       "height": 1024
     },
