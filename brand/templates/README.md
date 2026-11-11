@@ -36,6 +36,6 @@ The canonical role PNGs remain under assets/roles; diagram PNGs remain under bra
 
 ## Sources and review
 
-The full-card source images for Baldwin, Blake and Harry are clipped to their photographic band; old generated headers/footers in those source files are not rendered. Baldwin's flattened quotation was removed with the image tool before live re-typesetting. Bateson's old central banner was removed and its woodland restored. The ship retains its red cheek, Ithaca and hearth smoke.
+The full-card source images for Baldwin, Blake and Harry are clipped to their photographic band; old generated headers/footers in those source files are not rendered. Baldwin's flattened quotation was removed with the image tool before live re-typesetting. Bateson pairs the woodland with a white diagram adapted from John Boyd’s OODA sketch in *The Essence of Winning and Losing*. The diagram is editable in the card source. The ship retains its red cheek, Ithaca and hearth smoke.
 
 Keep candidate assets separate from source text and preserve Git history. Check image identity, each word, attribution, intended relationships and the whole collection at matching size before publication. Changes to a role image do not install or appoint its role.

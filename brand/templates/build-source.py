@@ -48,6 +48,80 @@ def write(path, content):
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(content, encoding='utf-8', newline='\n')
 
+def research_loop():
+    """Draw Boyd's OODA relationships over the Bateson woodland."""
+    white = '#FFFFFF'
+    diagram = """
+<defs>
+  <radialGradient id="research-loop-shade">
+    <stop offset="0.55" stop-color="#031C1D" stop-opacity="0.86"/>
+    <stop offset="0.83" stop-color="#031C1D" stop-opacity="0.66"/>
+    <stop offset="1" stop-color="#031C1D" stop-opacity="0"/>
+  </radialGradient>
+  <marker id="research-loop-arrow" markerWidth="4" markerHeight="4" refX="3.5" refY="2" orient="auto" viewBox="0 0 4 4">
+    <path d="M0 0L4 2L0 4Z" fill="#FFFFFF"/>
+  </marker>
+</defs>
+<g aria-label="OODA loop with implicit guidance and feedback">
+  <rect x="24" y="60" width="1488" height="744" fill="url(#research-loop-shade)"/>
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke-width="4" marker-end="url(#research-loop-arrow)">
+      <path d="M369 423H452"/>
+      <path d="M827 423H904"/>
+      <path d="M1109 423H1192"/>
+    </g>
+    <g stroke-width="3" opacity="0.82" marker-end="url(#research-loop-arrow)">
+      <path d="M526 276V222H267V370"/>
+      <path d="M754 276V222H1298V360"/>
+      <path d="M1008 480V660H319V468"/>
+      <path d="M1281 483V703H273V475"/>
+      <path d="M1392 423H1440V753H225V470"/>
+      <path d="M120 314L192 387"/>
+      <path d="M120 520V423H163"/>
+    </g>
+    <g stroke-width="4" fill="#031C1D" fill-opacity="0.76">
+      <ellipse cx="267" cy="423" rx="103" ry="50"/>
+      <circle cx="640" cy="423" r="187"/>
+      <path d="M950 367H1066L1109 423L1066 479H950L907 423Z"/>
+      <rect x="1194" y="366" width="198" height="114"/>
+    </g>
+    <g stroke-width="2.5" opacity="0.8" marker-end="url(#research-loop-arrow)">
+      <path d="M548 365Q563 338 598 327"/>
+      <path d="M686 324Q717 335 733 362"/>
+      <path d="M761 444Q762 475 738 498"/>
+      <path d="M697 524Q644 544 586 525"/>
+      <path d="M542 493Q520 468 522 440"/>
+      <path d="M565 436L703 477"/>
+      <path d="M704 437L586 480"/>
+      <path d="M640 351L644 489"/>
+    </g>
+  </g>"""
+    for x, label in ((267, 'OBSERVE'), (640, 'ORIENT'), (1008, 'DECIDE'), (1293, 'ACT')):
+        diagram += text(x, 171, label, 47, white, 'condensed', 'middle')
+    for x, y, lines in (
+        (267, 432, ('Observations',)),
+        (640, 286, ('Cultural', 'traditions')),
+        (532, 389, ('Genetic', 'heritage')),
+        (752, 389, ('Analysis and', 'synthesis')),
+        (552, 522, ('New', 'information')),
+        (725, 522, ('Previous', 'experience')),
+        (1008, 416, ('Decision', '(hypothesis)')),
+        (1293, 416, ('Action', '(test)')),
+        (105, 270, ('Unfolding', 'circumstances')),
+        (100, 550, ('Outside', 'information')),
+    ):
+        for index, label in enumerate(lines):
+            diagram += text(x, y + index * 26, label, 25, white, 'condensed', 'middle')
+    for x, y, label in (
+        (400, 211, 'IMPLICIT GUIDANCE & CONTROL'),
+        (1025, 211, 'IMPLICIT GUIDANCE & CONTROL'),
+        (765, 650, 'FEEDBACK'),
+        (765, 693, 'FEEDBACK'),
+        (768, 743, 'UNFOLDING INTERACTION WITH THE ENVIRONMENT'),
+    ):
+        diagram += text(x, y, label, 21, white, 'mono', 'middle')
+    return diagram + '</g>'
+
 cards = json.loads((BRAND / 'profile-cards.json').read_text(encoding='utf-8'))
 layouts = []
 for card in cards:
@@ -59,6 +133,8 @@ for card in cards:
     else:
         picture = f'<image href="../assets/character-sources/{image}" x="24" y="60" width="1488" height="744" preserveAspectRatio="xMidYMid slice" clip-path="url(#picture)"/>'
     body = '<defs><clipPath id="picture"><rect x="24" y="60" width="1488" height="744"/></clipPath></defs>' + picture
+    if card['id'] == 'research':
+        body += research_loop()
     if card['id'] == '001':
         quote_lines = [
             ('A King may move a man,', 133, 400),

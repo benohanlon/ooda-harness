@@ -1,4 +1,4 @@
-![Bateson, Research Lead. Interwoven woodland surrounds a dark title band in sage green, ochre and charcoal.](../assets/roles/research-lead-bateson.png)
+![Bateson, Research Lead. A white OODA diagram shows implicit guidance and feedback over a teal woodland ecology.](../assets/roles/research-lead-bateson.png)
 
 # Research Lead
 

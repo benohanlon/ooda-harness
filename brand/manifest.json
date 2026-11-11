@@ -47,8 +47,8 @@
     },
     {
       "file": "assets/roles/research-lead-bateson.png",
-      "bytes": 2737812,
-      "sha256": "f58b9854c659ff5573dffb8f917292e72fcabb40ca0f1772549adf558a47f8fc",
+      "bytes": 2113492,
+      "sha256": "bf51e3c8b27724571d5360f57349d2963e5f77468a7a8e02609388f55a593156",
       "width": 1536,
       "height": 1024
     },
@@ -69,8 +69,8 @@
     },
     {
       "file": "brand/README.md",
-      "bytes": 6663,
-      "sha256": "d1b89581ab5a09bb3742cd08a8230b91b2ce09cf73bde34bedb8bfd0296be51b"
+      "bytes": 6693,
+      "sha256": "9e8c30a027c490652d17510a451c4122f6657f5ec4b4722d398e15342fc25182"
     },
     {
       "file": "brand/assets/character-sources/baldwin-source.png",
@@ -233,8 +233,8 @@
     },
     {
       "file": "brand/previews/profile-cards.png",
-      "bytes": 5955889,
-      "sha256": "3056ca7ba4a7e7365adcfcba3b4bba281bdb0c9619dc2280cfe807e7b8c39910",
+      "bytes": 5714169,
+      "sha256": "52dcc1893a405455d4b256975c9b47442c20b9b2e0bed245ada615f4ec40254e",
       "width": 2370,
       "height": 2630
     },
@@ -266,18 +266,18 @@
     },
     {
       "file": "brand/profile-cards.json",
-      "bytes": 2615,
-      "sha256": "25cc3802ff89117188afb5539ffb22ff037606f884e7a56391706951f1458e8c"
+      "bytes": 2602,
+      "sha256": "8af074e76577a907a08bec8b58ee84e5478fc56b8bf92d5c6f034a8ccacd4499"
     },
     {
       "file": "brand/templates/README.md",
-      "bytes": 3088,
-      "sha256": "168a7a1e706f697f497bd2dd4acca0a4169eaa7f6774af1de953dbce52b4ce0f"
+      "bytes": 3191,
+      "sha256": "6212b90798b4c45c4555db9b9ebbba608703ecd280b70142ab7d23604eb83ab0"
     },
     {
       "file": "brand/templates/build-source.py",
-      "bytes": 15420,
-      "sha256": "afb565e22302b3c279a74f4df4cc0f76acfc328c4ca4d0808115ca2ad5d2bb1b"
+      "bytes": 18683,
+      "sha256": "7183fe3800f2b0c0446ba6d4a0ccfc0cfdd77d063d8367e0ec4b1de2c7bebde9"
     },
     {
       "file": "brand/templates/cognitive-dipole.svg",
@@ -359,8 +359,8 @@
     },
     {
       "file": "brand/templates/profile-pack-research.svg",
-      "bytes": 3251,
-      "sha256": "f0e7659ba9dd43b75a80bf76af24835ceb7a197c404449e9d882e0714b083b05",
+      "bytes": 8216,
+      "sha256": "873b62912115349298cab54d9900ee6f35bd8004ecd9d0b31cc3aba49d65f68f",
       "width": 1536,
       "height": 1024
     },
