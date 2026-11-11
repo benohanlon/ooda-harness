@@ -44,22 +44,24 @@ This sequence describes assembly dependencies; the role's OODA remains nonlinear
 
 ### Opening the finished contract
 
-Every finished role begins with this five-row navigation immediately after its title. Assemble it as a compact role card: identify the role, connect its combined basis and give the reader a way in. Retain the row order, replace the placeholders and keep each entry concise. The seven contract sections below supply the full contract.
+Begin a shared role reference with the role title and a short **Definition** block. For roles in the [profile pack](../brand/README.md#character-cards), put the artwork above the title. State whom the role serves, the market or setting it operates in, and the decisions or outcomes it helps shape. Use **Draft definition** for provisional wording. Put the character and the navigation below that opening.
 
-Use the same opening structure for both forms:
+A sovereign role sleeve begins with an **Application** table. Link the exact selected shared definition, current brief, decision records and relevant sources. Explain how the role serves this sovereign. Use **Theory of Mind** to name the relevant actors, what each gives and gets, who can decide, and what could change their timing or judgement. Test that reading against evidence and actual responses. Use **Canonical reading** for selected books, with their purpose and a route to the original text where available. Use **Resources** for other maintained source routes.
 
-- **Shared role reference:** state reusable responsibilities and guidance, route to assembly and explain how to find the sovereign's private application through their configured harness. Do not hard-code the creator's private repository.
-- **Sovereign role sleeve:** interpret, apply and develop the shared guidance around the particular sovereign. Link the exact selected shared foundation, current brief and actual work home; connect relevant context and experience through their maintained owners. The sleeve actively receives and learns from the guidance rather than copying it.
+| Application | |
+| --- | --- |
+| Purpose | [How the role serves this sovereign and what it owns.] |
+| Theory of Mind | [Actors, their perspectives, gives and gets, decision timing and evidence that could change the reading.] |
+| Shared and private | [Link to the selected shared definition and its relationship to this application.] |
+| Start here | [Current brief, steering and where to resume.] |
+| Decision records | [Existing brief, case or ledger that owns decisions and their reasons.] |
+| Canonical reading or Resources | [Selected sources, when to consult them and where to find their originals or retained guidance.] |
+| Status | [Source and commissioning status with evidence where available.] |
+| Orientation | [Relevant operating model and methods.] |
 
-Both actual agents work from the combined role basis: shared definition, sovereign application, purpose, accountability and relevant system-wide units of account. Neither document is an agent identity or a permanent polarity.
+The opening routes agents to relevant prior decisions and the guidance they need for the current assignment. During role development, a full reading can establish an adopted method. Record coverage and what was adopted in the maintained resource list. In operation, consult the relevant passage when it can change a judgement. Use the first useful assignment to check that the role can recover its brief and prior decisions, apply the combined basis and save its rationale with the existing record owner.
 
-**Start here is the role's entry instruction.** Help a reader begin the appropriate work without having to understand the whole harness first. Explain what to do first, why, and what following each link will help them accomplish.
-
-For a **shared role**, guide someone through creating or connecting its sovereign application and understanding where the role fits within the team.
-
-For a **sovereign sleeve**, guide someone into the present assignment: recover the current brief and steering, then consult the work home for commitments, ownership and progress.
-
-Write short explanatory sentences with descriptive links. Keep deeper reading under **Orientation** and detailed procedures at their existing destinations. An already assembled role should not send its reader through setup again.
+Both actual agents in commissioned paired work use the combined role basis, including purpose, accountability and relevant system-wide units of account. The seven sections below supply the full contract. Use this navigation for shared references.
 
 | At a glance | |
 | --- | --- |
@@ -68,12 +70,6 @@ Write short explanatory sentences with descriptive links. Keep deeper reading un
 | Shared and private | [Identify this document's part in the combined basis. Shared: explain the relationship and route to the configured private sleeve. Private: link the exact selected shared foundation and explain this sleeve's application and development.] |
 | Status | [State definition status and relevant operational readiness. Link maintained setup or evidence; label commissioning requirements as requirements, not proof of operation.] |
 | Orientation | [Link the role's operating model and relevant methods or knowledge routes. Briefly explain what each helps the reader understand or do.] |
-
-Populate Orientation from the role's [operating model](#3-operating-model-and-execution) and [capabilities, methods and knowledge routes](#4-capabilities-methods-and-knowledge-routes). Keep detailed sources, triggers and applicability there rather than adding a second resource list or requiring the whole library on every assignment. The standing contract defines the role; its brief holds the changing assignment, and its work home holds coordination.
-
-Keep maintenance ownership and source history in contract section 6 or their existing record owner, and loading instructions in assembly and contract section 4. Use Status to distinguish a draft from an accepted reference and from actual operation. Git history and PRs retain revision and acceptance history; avoid separate release banners and hand-maintained version/date labels in the role opening. Record missing setup honestly. Avoid an introduction that repeats the table.
-
-**Assembly check:** follow the populated routes as a new reader. Can you identify the purpose, connect the shared and private basis, begin appropriate work and understand readiness? Each destination must do the job its label promises. Keep assembly instructions in the template; the finished role carries its populated table and full contract.
 
 ## 1. Purpose and accountability
 

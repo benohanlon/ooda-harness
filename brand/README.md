@@ -31,11 +31,11 @@ All cards use one 1536 × 1024 frame, fixed columns and real bundled fonts. [Car
 
 | Character | Role | Artwork | Numbering |
 | --- | --- | --- | --- |
-| Baldwin | Chief of Staff | [PNG](../assets/roles/chief-of-staff-baldwin.png) · [SVG](templates/profile-pack-001.svg) | Profile Pack 001 |
-| Blake | Head of Business Development | [PNG](../assets/roles/head-of-business-development-blake.png) · [SVG](templates/profile-pack-002.svg) | Profile Pack 002 |
+| Baldwin | [Chief of Staff](../roles/chief-of-staff.md) | [PNG](../assets/roles/chief-of-staff-baldwin.png) · [SVG](templates/profile-pack-001.svg) | Profile Pack 001 |
+| Blake | [Head of Business Development](../roles/head-of-business-development.md) | [PNG](../assets/roles/head-of-business-development-blake.png) · [SVG](templates/profile-pack-002.svg) | Profile Pack 002 |
 | Harry Da Souza | [Head of Talent](../roles/head-of-talent.md) | [PNG](../assets/roles/head-of-talent-harry.png) · [SVG](templates/profile-pack-003.svg) | Profile Pack 003 |
-| Bateson | Research Lead | [PNG](../assets/roles/research-lead-bateson.png) · [SVG](templates/profile-pack-research.svg) | Role label; pack number unassigned |
-| Odysseus | Head of Harness Engineering | [PNG](../assets/roles/head-of-harness-engineering-odysseus.png) · [SVG](templates/profile-pack-engineering.svg) | Role label; pack number unassigned |
+| Bateson | [Research Lead](../roles/research-lead.md) | [PNG](../assets/roles/research-lead-bateson.png) · [SVG](templates/profile-pack-research.svg) | Role label; pack number unassigned |
+| Odysseus | [Head of Harness Engineering](../roles/head-of-harness-engineering.md) | [PNG](../assets/roles/head-of-harness-engineering-odysseus.png) · [SVG](templates/profile-pack-engineering.svg) | Role label; pack number unassigned |
 
 Baldwin and Blake's numbers were specified by Ben; Harry follows his next-card request. Artwork numbering is a display convention, not an installer manifest, profile ID or proof of deployment. Research and Engineering remain deliberately unnumbered.
 
