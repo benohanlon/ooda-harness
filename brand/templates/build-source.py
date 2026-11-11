@@ -49,13 +49,13 @@ def write(path, content):
     dest.write_text(content, encoding='utf-8', newline='\n')
 
 def research_loop():
-    """Draw Boyd's OODA relationships over the Bateson woodland."""
+    """Draw a compact version of Boyd's OODA relationships over the woodland."""
     white = '#FFFFFF'
     diagram = """
 <defs>
   <radialGradient id="research-loop-shade">
-    <stop offset="0.55" stop-color="#031C1D" stop-opacity="0.86"/>
-    <stop offset="0.83" stop-color="#031C1D" stop-opacity="0.66"/>
+    <stop offset="0.55" stop-color="#031C1D" stop-opacity="0.8"/>
+    <stop offset="0.8" stop-color="#031C1D" stop-opacity="0.58"/>
     <stop offset="1" stop-color="#031C1D" stop-opacity="0"/>
   </radialGradient>
   <marker id="research-loop-arrow" markerWidth="4" markerHeight="4" refX="3.5" refY="2" orient="auto" viewBox="0 0 4 4">
@@ -63,63 +63,30 @@ def research_loop():
   </marker>
 </defs>
 <g aria-label="OODA loop with implicit guidance and feedback">
-  <rect x="24" y="60" width="1488" height="744" fill="url(#research-loop-shade)"/>
+  <rect x="100" y="159" width="1336" height="546" fill="url(#research-loop-shade)"/>
   <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
-    <g stroke-width="4" marker-end="url(#research-loop-arrow)">
-      <path d="M369 423H452"/>
-      <path d="M827 423H904"/>
-      <path d="M1109 423H1192"/>
+    <g stroke-width="5" marker-end="url(#research-loop-arrow)">
+      <path d="M465 426H536"/>
+      <path d="M756 426H831"/>
+      <path d="M1034 426H1109"/>
     </g>
-    <g stroke-width="3" opacity="0.82" marker-end="url(#research-loop-arrow)">
-      <path d="M526 276V222H267V370"/>
-      <path d="M754 276V222H1298V360"/>
-      <path d="M1008 480V660H319V468"/>
-      <path d="M1281 483V703H273V475"/>
-      <path d="M1392 423H1440V753H225V470"/>
-      <path d="M120 314L192 387"/>
-      <path d="M120 520V423H163"/>
+    <g stroke-width="3.5" opacity="0.82" marker-end="url(#research-loop-arrow)">
+      <path d="M595 335V276H350V368"/>
+      <path d="M698 335V276H1211V368"/>
+      <path d="M1211 479V576H350V484"/>
     </g>
-    <g stroke-width="4" fill="#031C1D" fill-opacity="0.76">
-      <ellipse cx="267" cy="423" rx="103" ry="50"/>
-      <circle cx="640" cy="423" r="187"/>
-      <path d="M950 367H1066L1109 423L1066 479H950L907 423Z"/>
-      <rect x="1194" y="366" width="198" height="114"/>
+    <g stroke-width="5" fill="#031C1D" fill-opacity="0.68">
+      <ellipse cx="350" cy="426" rx="115" ry="52"/>
+      <circle cx="647" cy="426" r="108"/>
+      <path d="M871 374H995L1034 426L995 478H871L832 426Z"/>
+      <rect x="1112" y="374" width="198" height="104"/>
     </g>
-    <g stroke-width="2.5" opacity="0.8" marker-end="url(#research-loop-arrow)">
-      <path d="M548 365Q563 338 598 327"/>
-      <path d="M686 324Q717 335 733 362"/>
-      <path d="M761 444Q762 475 738 498"/>
-      <path d="M697 524Q644 544 586 525"/>
-      <path d="M542 493Q520 468 522 440"/>
-      <path d="M565 436L703 477"/>
-      <path d="M704 437L586 480"/>
-      <path d="M640 351L644 489"/>
-    </g>
+    <path d="M933 479V576" stroke-width="3.5" opacity="0.82"/>
   </g>"""
-    for x, label in ((267, 'OBSERVE'), (640, 'ORIENT'), (1008, 'DECIDE'), (1293, 'ACT')):
-        diagram += text(x, 171, label, 47, white, 'condensed', 'middle')
-    for x, y, lines in (
-        (267, 432, ('Observations',)),
-        (640, 286, ('Cultural', 'traditions')),
-        (532, 389, ('Genetic', 'heritage')),
-        (752, 389, ('Analysis and', 'synthesis')),
-        (552, 522, ('New', 'information')),
-        (725, 522, ('Previous', 'experience')),
-        (1008, 416, ('Decision', '(hypothesis)')),
-        (1293, 416, ('Action', '(test)')),
-        (105, 270, ('Unfolding', 'circumstances')),
-        (100, 550, ('Outside', 'information')),
-    ):
-        for index, label in enumerate(lines):
-            diagram += text(x, y + index * 26, label, 25, white, 'condensed', 'middle')
-    for x, y, label in (
-        (400, 211, 'IMPLICIT GUIDANCE & CONTROL'),
-        (1025, 211, 'IMPLICIT GUIDANCE & CONTROL'),
-        (765, 650, 'FEEDBACK'),
-        (765, 693, 'FEEDBACK'),
-        (768, 743, 'UNFOLDING INTERACTION WITH THE ENVIRONMENT'),
-    ):
-        diagram += text(x, y, label, 21, white, 'mono', 'middle')
+    for x, label in ((350, 'OBSERVE'), (647, 'ORIENT'), (933, 'DECIDE'), (1211, 'ACT')):
+        diagram += text(x, 444, label, 58 if label == 'ORIENT' else 49, white, 'condensed', 'middle')
+    diagram += text(954, 257, 'IMPLICIT GUIDANCE', 28, white, 'mono', 'middle')
+    diagram += text(782, 614, 'FEEDBACK', 28, white, 'mono', 'middle')
     return diagram + '</g>'
 
 cards = json.loads((BRAND / 'profile-cards.json').read_text(encoding='utf-8'))

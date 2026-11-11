@@ -12,8 +12,8 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
 </style><rect width="1536" height="1024" fill="#031C1D"/><defs><clipPath id="picture"><rect x="24" y="60" width="1488" height="744"/></clipPath></defs><image href="../assets/character-sources/bateson-woodland.png" x="24" y="60" width="1488" height="744" preserveAspectRatio="xMidYMid slice" clip-path="url(#picture)"/>
 <defs>
   <radialGradient id="research-loop-shade">
-    <stop offset="0.55" stop-color="#031C1D" stop-opacity="0.86"/>
-    <stop offset="0.83" stop-color="#031C1D" stop-opacity="0.66"/>
+    <stop offset="0.55" stop-color="#031C1D" stop-opacity="0.8"/>
+    <stop offset="0.8" stop-color="#031C1D" stop-opacity="0.58"/>
     <stop offset="1" stop-color="#031C1D" stop-opacity="0"/>
   </radialGradient>
   <marker id="research-loop-arrow" markerWidth="4" markerHeight="4" refX="3.5" refY="2" orient="auto" viewBox="0 0 4 4">
@@ -21,36 +21,23 @@ text{font-kerning:normal;text-rendering:geometricPrecision}
   </marker>
 </defs>
 <g aria-label="OODA loop with implicit guidance and feedback">
-  <rect x="24" y="60" width="1488" height="744" fill="url(#research-loop-shade)"/>
+  <rect x="100" y="159" width="1336" height="546" fill="url(#research-loop-shade)"/>
   <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
-    <g stroke-width="4" marker-end="url(#research-loop-arrow)">
-      <path d="M369 423H452"/>
-      <path d="M827 423H904"/>
-      <path d="M1109 423H1192"/>
+    <g stroke-width="5" marker-end="url(#research-loop-arrow)">
+      <path d="M465 426H536"/>
+      <path d="M756 426H831"/>
+      <path d="M1034 426H1109"/>
     </g>
-    <g stroke-width="3" opacity="0.82" marker-end="url(#research-loop-arrow)">
-      <path d="M526 276V222H267V370"/>
-      <path d="M754 276V222H1298V360"/>
-      <path d="M1008 480V660H319V468"/>
-      <path d="M1281 483V703H273V475"/>
-      <path d="M1392 423H1440V753H225V470"/>
-      <path d="M120 314L192 387"/>
-      <path d="M120 520V423H163"/>
+    <g stroke-width="3.5" opacity="0.82" marker-end="url(#research-loop-arrow)">
+      <path d="M595 335V276H350V368"/>
+      <path d="M698 335V276H1211V368"/>
+      <path d="M1211 479V576H350V484"/>
     </g>
-    <g stroke-width="4" fill="#031C1D" fill-opacity="0.76">
-      <ellipse cx="267" cy="423" rx="103" ry="50"/>
-      <circle cx="640" cy="423" r="187"/>
-      <path d="M950 367H1066L1109 423L1066 479H950L907 423Z"/>
-      <rect x="1194" y="366" width="198" height="114"/>
+    <g stroke-width="5" fill="#031C1D" fill-opacity="0.68">
+      <ellipse cx="350" cy="426" rx="115" ry="52"/>
+      <circle cx="647" cy="426" r="108"/>
+      <path d="M871 374H995L1034 426L995 478H871L832 426Z"/>
+      <rect x="1112" y="374" width="198" height="104"/>
     </g>
-    <g stroke-width="2.5" opacity="0.8" marker-end="url(#research-loop-arrow)">
-      <path d="M548 365Q563 338 598 327"/>
-      <path d="M686 324Q717 335 733 362"/>
-      <path d="M761 444Q762 475 738 498"/>
-      <path d="M697 524Q644 544 586 525"/>
-      <path d="M542 493Q520 468 522 440"/>
-      <path d="M565 436L703 477"/>
-      <path d="M704 437L586 480"/>
-      <path d="M640 351L644 489"/>
-    </g>
-  </g><text x="267" y="171" font-size="47" fill="#FFFFFF" class="condensed" text-anchor="middle" >OBSERVE</text><text x="640" y="171" font-size="47" fill="#FFFFFF" class="condensed" text-anchor="middle" >ORIENT</text><text x="1008" y="171" font-size="47" fill="#FFFFFF" class="condensed" text-anchor="middle" >DECIDE</text><text x="1293" y="171" font-size="47" fill="#FFFFFF" class="condensed" text-anchor="middle" >ACT</text><text x="267" y="432" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >Observations</text><text x="640" y="286" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >Cultural</text><text x="640" y="312" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >traditions</text><text x="532" y="389" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >Genetic</text><text x="532" y="415" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >heritage</text><text x="752" y="389" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >Analysis and</text><text x="752" y="415" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >synthesis</text><text x="552" y="522" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >New</text><text x="552" y="548" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >information</text><text x="725" y="522" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >Previous</text><text x="725" y="548" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >experience</text><text x="1008" y="416" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >Decision</text><text x="1008" y="442" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >(hypothesis)</text><text x="1293" y="416" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >Action</text><text x="1293" y="442" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >(test)</text><text x="105" y="270" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >Unfolding</text><text x="105" y="296" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >circumstances</text><text x="100" y="550" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >Outside</text><text x="100" y="576" font-size="25" fill="#FFFFFF" class="condensed" text-anchor="middle" >information</text><text x="400" y="211" font-size="21" fill="#FFFFFF" class="mono" text-anchor="middle" >IMPLICIT GUIDANCE &amp; CONTROL</text><text x="1025" y="211" font-size="21" fill="#FFFFFF" class="mono" text-anchor="middle" >IMPLICIT GUIDANCE &amp; CONTROL</text><text x="765" y="650" font-size="21" fill="#FFFFFF" class="mono" text-anchor="middle" >FEEDBACK</text><text x="765" y="693" font-size="21" fill="#FFFFFF" class="mono" text-anchor="middle" >FEEDBACK</text><text x="768" y="743" font-size="21" fill="#FFFFFF" class="mono" text-anchor="middle" >UNFOLDING INTERACTION WITH THE ENVIRONMENT</text></g><rect x="12" y="12" width="1512" height="1000" fill="none" stroke="#B8F4DC" stroke-width="2"/><path d="M40 25L40 46" fill="none" stroke="#F17435" stroke-width="4" /><text x="61" y="45" font-size="26" fill="#B8F4DC" class="mono" text-anchor="start" letter-spacing="5">HERMES</text><text x="1501" y="42" font-size="18" fill="#B8F4DC" class="small" text-anchor="end" letter-spacing="1.7">OODA HARNESS / RESEARCH LEAD</text><path d="M26 58L1510 58" fill="none" stroke="#B8F4DC" stroke-width="2" /><path d="M26 804L1510 804" fill="none" stroke="#B8F4DC" stroke-width="2" /><path d="M26 970L1510 970" fill="none" stroke="#B8F4DC" stroke-width="2" /><path d="M500 820L500 954" fill="none" stroke="#F17435" stroke-width="3" /><text x="38" y="932" font-size="116" fill="#B8F4DC" class="condensed" text-anchor="start" font-weight="900" style="font-weight:900" data-slot="name">BATESON</text><text x="530" y="851" font-size="41" fill="#B8F4DC" class="condensed" text-anchor="start" letter-spacing="1.5" data-slot="role">RESEARCH LEAD</text><text x="530" y="926" font-size="29" fill="#F17435" class="condensed" text-anchor="start" font-weight="700" style="font-weight:700" data-slot="quote">Observe the relationships.</text><text x="1500" y="869" font-size="16" fill="#B8F4DC" class="small" text-anchor="end" letter-spacing="1.6" data-slot="qualities">PERCEPTION / CONNECTION</text><text x="1500" y="900" font-size="16" fill="#B8F4DC" class="small" text-anchor="end" letter-spacing="1.6" data-slot="qualities">INQUIRY / JUDGEMENT</text><text x="39" y="995" font-size="14" fill="#B8F4DC" class="small" text-anchor="start" data-slot="credit">Archetype: Gregory Bateson / ecology and patterns of connection   |   OODA diagram adapted from John Boyd</text><text x="1499" y="998" font-size="22" fill="#B8F4DC" class="mono" text-anchor="end" data-slot="destination">sovereignharness.io</text></svg>
+    <path d="M933 479V576" stroke-width="3.5" opacity="0.82"/>
+  </g><text x="350" y="444" font-size="49" fill="#FFFFFF" class="condensed" text-anchor="middle" >OBSERVE</text><text x="647" y="444" font-size="58" fill="#FFFFFF" class="condensed" text-anchor="middle" >ORIENT</text><text x="933" y="444" font-size="49" fill="#FFFFFF" class="condensed" text-anchor="middle" >DECIDE</text><text x="1211" y="444" font-size="49" fill="#FFFFFF" class="condensed" text-anchor="middle" >ACT</text><text x="954" y="257" font-size="28" fill="#FFFFFF" class="mono" text-anchor="middle" >IMPLICIT GUIDANCE</text><text x="782" y="614" font-size="28" fill="#FFFFFF" class="mono" text-anchor="middle" >FEEDBACK</text></g><rect x="12" y="12" width="1512" height="1000" fill="none" stroke="#B8F4DC" stroke-width="2"/><path d="M40 25L40 46" fill="none" stroke="#F17435" stroke-width="4" /><text x="61" y="45" font-size="26" fill="#B8F4DC" class="mono" text-anchor="start" letter-spacing="5">HERMES</text><text x="1501" y="42" font-size="18" fill="#B8F4DC" class="small" text-anchor="end" letter-spacing="1.7">OODA HARNESS / RESEARCH LEAD</text><path d="M26 58L1510 58" fill="none" stroke="#B8F4DC" stroke-width="2" /><path d="M26 804L1510 804" fill="none" stroke="#B8F4DC" stroke-width="2" /><path d="M26 970L1510 970" fill="none" stroke="#B8F4DC" stroke-width="2" /><path d="M500 820L500 954" fill="none" stroke="#F17435" stroke-width="3" /><text x="38" y="932" font-size="116" fill="#B8F4DC" class="condensed" text-anchor="start" font-weight="900" style="font-weight:900" data-slot="name">BATESON</text><text x="530" y="851" font-size="41" fill="#B8F4DC" class="condensed" text-anchor="start" letter-spacing="1.5" data-slot="role">RESEARCH LEAD</text><text x="530" y="926" font-size="29" fill="#F17435" class="condensed" text-anchor="start" font-weight="700" style="font-weight:700" data-slot="quote">Observe the relationships.</text><text x="1500" y="869" font-size="16" fill="#B8F4DC" class="small" text-anchor="end" letter-spacing="1.6" data-slot="qualities">PERCEPTION / CONNECTION</text><text x="1500" y="900" font-size="16" fill="#B8F4DC" class="small" text-anchor="end" letter-spacing="1.6" data-slot="qualities">INQUIRY / JUDGEMENT</text><text x="39" y="995" font-size="14" fill="#B8F4DC" class="small" text-anchor="start" data-slot="credit">Archetype: Gregory Bateson / ecology and patterns of connection   |   OODA diagram adapted from John Boyd</text><text x="1499" y="998" font-size="22" fill="#B8F4DC" class="mono" text-anchor="end" data-slot="destination">sovereignharness.io</text></svg>

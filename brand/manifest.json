@@ -47,8 +47,8 @@
     },
     {
       "file": "assets/roles/research-lead-bateson.png",
-      "bytes": 2113492,
-      "sha256": "bf51e3c8b27724571d5360f57349d2963e5f77468a7a8e02609388f55a593156",
+      "bytes": 2404685,
+      "sha256": "7f2e8f7c198771df55908194985dcf5b4b5e0cd7f7b4300e4b9fdbcfa284a356",
       "width": 1536,
       "height": 1024
     },
@@ -233,8 +233,8 @@
     },
     {
       "file": "brand/previews/profile-cards.png",
-      "bytes": 5714169,
-      "sha256": "52dcc1893a405455d4b256975c9b47442c20b9b2e0bed245ada615f4ec40254e",
+      "bytes": 5849676,
+      "sha256": "eec0c81a65d05379eec4ac0a8cbeebb3525b65d0909cde56f29c4ca4f4ddf50c",
       "width": 2370,
       "height": 2630
     },
@@ -276,8 +276,8 @@
     },
     {
       "file": "brand/templates/build-source.py",
-      "bytes": 18683,
-      "sha256": "7183fe3800f2b0c0446ba6d4a0ccfc0cfdd77d063d8367e0ec4b1de2c7bebde9"
+      "bytes": 17408,
+      "sha256": "42a18bfea226ae664d94f45768ff7ff8201353928a21bf905f4986b7f7f1728b"
     },
     {
       "file": "brand/templates/cognitive-dipole.svg",
@@ -359,8 +359,8 @@
     },
     {
       "file": "brand/templates/profile-pack-research.svg",
-      "bytes": 8216,
-      "sha256": "873b62912115349298cab54d9900ee6f35bd8004ecd9d0b31cc3aba49d65f68f",
+      "bytes": 5281,
+      "sha256": "bf7817bcbdc999e6cdc4bb4518e305e589c963b9566ab497e947065b4380767b",
       "width": 1536,
       "height": 1024
     },
