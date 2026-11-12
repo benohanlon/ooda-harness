@@ -132,7 +132,7 @@ Finish each install, reinstall or refresh with the [private profile connection s
 
 ### First useful interaction
 
-Perception Check is the intended first diagnostic interaction. The first paired-role implementation starts with one bounded Chief of Staff assignment using Perception Check, then a bounded career assignment through Chief of Staff and Head of Talent.
+Perception Check is the intended first diagnostic interaction. The first paired-role implementation starts with one bounded Chief of Staff assignment using Perception Check, then a bounded career assignment through Chief of Staff and Client-Side Search Consultant.
 
 **First intended task: [Perception Check](skills/perception-check/SKILL.md).** Ask, for example: “Run a Perception Check for the past 72 hours. What needs my attention?”
 
@@ -171,7 +171,7 @@ config:
 ---
 flowchart LR
     human["You"] <--> chief["Chief of Staff"]
-    chief <--> talent["Head of Talent"]
+    chief <--> talent["Client-Side Search Consultant"]
     chief <--> business["Head of<br/>Business Development"]
     chief <--> creative["Creative Director"]
     chief <--> project["Project Lead<br/>per client or project"]
