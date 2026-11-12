@@ -1,6 +1,6 @@
 # Example: a bounded research assignment
 
-**Synthetic illustration.** Every source card, exchange, artifact and result below is invented to demonstrate the method. This is not a report of installed or tested paired operation. It does not replace the first runtime path through Chief of Staff and Head of Talent.
+**Synthetic illustration.** Every source card, exchange, artifact and result below is invented to demonstrate the method. This is not a report of installed or tested paired operation. It does not replace the first runtime path through Chief of Staff and Client-Side Search Consultant.
 
 The [Research Lead](../roles/research-lead.md) works under the [common operating contract](../docs/operating-contract.md). One role has two participants, one accepted current basis and one outward continuation. The example shows how their differing interpretations affect the work.
 
