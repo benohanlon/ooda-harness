@@ -33,7 +33,7 @@ All cards use one 1536 × 1024 frame, fixed columns and real bundled fonts. [Car
 | --- | --- | --- | --- |
 | Baldwin | Chief of Staff | [PNG](../assets/roles/chief-of-staff-baldwin.png) · [SVG](templates/profile-pack-001.svg) | Profile Pack 001 |
 | Blake | Head of Business Development | [PNG](../assets/roles/head-of-business-development-blake.png) · [SVG](templates/profile-pack-002.svg) | Profile Pack 002 |
-| Harry Da Souza | [Client-Side Search Consultant](../roles/head-of-talent.md) | [PNG](../assets/roles/head-of-talent-harry.png) · [SVG](templates/profile-pack-003.svg) | Profile Pack 003 |
+| Harry Da Souza | [Client-Side Search Consultant](../roles/client-side-search-consultant.md) | [PNG](../assets/roles/head-of-talent-harry.png) · [SVG](templates/profile-pack-003.svg) | Profile Pack 003 |
 | Bateson | Research Lead | [PNG](../assets/roles/research-lead-bateson.png) · [SVG](templates/profile-pack-research.svg) | Role label; pack number unassigned |
 | Odysseus | Head of Harness Engineering | [PNG](../assets/roles/head-of-harness-engineering-odysseus.png) · [SVG](templates/profile-pack-engineering.svg) | Role label; pack number unassigned |
 
