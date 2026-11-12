@@ -55,6 +55,8 @@ A native group is a separate working context. Its bots do not inherit the role f
 
 ## Set up an eval group
 
+Start from the role's private group Markdown. Copy the [eval group template](../eval-group-template.md) if this is a new group, and link the completed file from the role's sleeve.
+
 Use the [evaluation guide](../evaluating-role-groups.md) to decide when a role's Master would benefit from a group review.
 
 1. Create or find the room on the intended Hermes connection. Verify its identity and actual member profiles. Set **Purpose** and **Shared notes**. If the room supports a default responder and the review has a coordinator, select that profile or address it explicitly.

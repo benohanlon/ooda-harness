@@ -30,7 +30,7 @@ The assembly steps describe what to do; the separately numbered contract section
 2. **Define the combined nucleus and axis.** Select the shared definition or template basis and identify its private application, purpose and accountability. In contract section 1, select the relevant system-wide units of account and connect the role's contribution to those outcomes. Reuse consistent definitions across contributing roles. Record the selected revisions and deliberate adaptations, resolving material conflicts within existing authority. Link the owner of current evidence, priorities, baselines and targets; retain qualitative value. **Result:** one combined governing basis ready for both participants, with unknown values identified rather than invented measures or weights.
 3. **Connect methods, evidence and authority.** Complete contract sections 3–6 with useful workflows, method triggers, source/project/prior-work routes, permitted effects and record owners. Use [private harness assembly](../docs/getting-started.md#create-or-connect-your-private-harness) to connect relevant sovereign sleeves, including the privately customised contract, relevant project briefs and curated experience at their maintained owners. Supply both participants with the same relevant shared definitions and authorised private routes, and retrieve the context needed for the work. Identify work for the pair, contributions from existing enduring roles and bounded questions for temporary workers or crawlers. Give coordination a named owner and apply the [bounded-worker handback](../docs/operating-contract.md#bounded-workers-and-prior-work-retrieval); helpers are commissioned when needed. **Result:** an arriving participant can find what the work needs, commission useful contributions within authority and return them to the right owner.
 4. **Configure the selected arrangement.** For direct work, connect one actual context to the accepted combined basis and verify loading and required access. For commissioned paired work, reuse a configured harness or complete [Getting started](../docs/getting-started.md) if needed. Have the setup owner connect the actual working folder to the selected shared and private guidance through the supported routes in the [instruction-loading step](../docs/getting-started.md#configure-instruction-and-skill-loading). Use the [Codex context recipe](../docs/runtimes/codex.md#create-the-participant-contexts) or [Hermes context recipe](../docs/runtimes/hermes.md#create-the-participant-contexts). Establish two actual participating contexts with the same relevant model specification, available capabilities, accepted guidance, contract, starting context and evidence access. Verify required access and actual guidance loading in both fresh contexts. Record their identities and configuration privately. **Result:** two supplied contexts, rather than two names in a document. Missing access remains a named gap; continue work that does not depend on it.
-   If you commission a Hermes room for focused evaluations, follow [Set up an eval group](../docs/runtimes/hermes.md#set-up-an-eval-group).
+   If you commission a group for focused evaluations, copy the [eval group template](../docs/eval-group-template.md) into the private harness and link it from the role's sleeve. In Hermes, follow [Set up an eval group](../docs/runtimes/hermes.md#set-up-an-eval-group).
 
 5. **Connect work and continuity.** For direct work, connect the existing task record, action owner, recipient and recovery route. The reciprocal exchange and two-perspective checks below apply to paired work.
 
@@ -46,36 +46,38 @@ This sequence describes assembly dependencies; the role's OODA remains nonlinear
 
 ### Opening the finished contract
 
-Every finished role begins with this five-row navigation immediately after its title. Assemble it as a compact role card: identify the role, connect its combined basis and give the reader a way in. Retain the row order, replace the placeholders and keep each entry concise. The seven contract sections below supply the full contract.
+The shared role definition and the sovereign application form one governing basis. Use the openings below above the seven contract sections. Both participants in commissioned paired work receive that same relevant basis, including the role's accountability and relevant units of account.
 
-Use the same opening structure for both forms:
+#### Shared role profile
 
-- **Shared role reference:** state reusable responsibilities and guidance, route to assembly and explain how to find the sovereign's private application through their configured harness. Do not hard-code the creator's private repository.
-- **Sovereign role sleeve:** interpret, apply and develop the shared guidance around the particular sovereign. Link the exact selected shared foundation, current brief and actual work home; connect relevant context and experience through their maintained owners. The sleeve actively receives and learns from the guidance rather than copying it.
+Put the profile artwork above the title where the role has a card. Then use this opening.
 
-Both actual agents work from the combined role basis: shared definition, sovereign application, purpose, accountability and relevant system-wide units of account. Neither document is an agent identity or a permanent polarity.
-
-**Start here is the role's entry instruction.** Help a reader begin the appropriate work without having to understand the whole harness first. Explain what to do first, why, and what following each link will help them accomplish.
-
-For a **shared role**, guide someone through creating or connecting its sovereign application and understanding where the role fits within the team.
-
-For a **sovereign sleeve**, guide someone into the present assignment: recover the current brief and steering, then consult the work home for commitments, ownership and progress.
-
-Write short explanatory sentences with descriptive links. Keep deeper reading under **Orientation** and detailed procedures at their existing destinations. An already assembled role should not send its reader through setup again.
-
-| At a glance | |
+| Field | What to write |
 | --- | --- |
-| Start here | [Explain how to begin or resume the appropriate work. Give the first action and its purpose, using descriptive links to the relevant assembly route, current brief or work home.] |
-| Purpose | [Whom this role serves, its useful contribution, accountability and default reporting recipient; the current commission can name another recipient.] |
-| Shared and private | [Identify this document's part in the combined basis. Shared: explain the relationship and route to the configured private sleeve. Private: link the exact selected shared foundation and explain this sleeve's application and development.] |
-| Status | [State definition status and relevant operational readiness. Link maintained setup or evidence; label commissioning requirements as requirements, not proof of operation.] |
-| Orientation | [Link the role's operating model and relevant methods or knowledge routes. Briefly explain what each helps the reader understand or do.] |
+| Definition | In third person, define whom the role serves, what it owns and the market or environment it works in. Explain the role through the other people in its world. Name the recurring actors and the decisions and exchanges that make the role distinct. Include recurring changes that matter to those decisions. Label provisional wording **Draft definition**. |
+| Character | Where the profile offers an archetype, show a recurring choice the character makes under pressure and the principle behind it. |
+| Start here | Link to the [sovereign sleeve](#sovereign-role-sleeve) and [role assembly](#assemble-this-role). Give a route into an existing sleeve through the reader's configured private harness. |
 
-Populate Orientation from the role's [operating model](#3-operating-model-and-execution) and [capabilities, methods and knowledge routes](#4-capabilities-methods-and-knowledge-routes). Keep detailed sources, triggers and applicability there rather than adding a second resource list or requiring the whole library on every assignment. The standing contract defines the role; its brief holds the changing assignment, and its work home holds coordination.
+Place supporting navigation and status below the definition. Use the contract sections for the detailed operating model, methods and responsibilities.
 
-Keep maintenance ownership and source history in contract section 6 or their existing record owner, and loading instructions in assembly and contract section 4. Use Status to distinguish a draft from an accepted reference and from actual operation. Git history and PRs retain revision and acceptance history; avoid separate release banners and hand-maintained version/date labels in the role opening. Record missing setup honestly. Avoid an introduction that repeats the table.
+#### Sovereign role sleeve
 
-**Assembly check:** follow the populated routes as a new reader. Can you identify the purpose, connect the shared and private basis, begin appropriate work and understand readiness? Each destination must do the job its label promises. Keep assembly instructions in the template; the finished role carries its populated table and full contract.
+Copy this table into the opening of your private role Markdown. Choose a shared role and a character, then adapt the application, relationships and principles to the person the role serves. Link to maintained records for their relevant experience and ongoing work.
+
+| Field | What to write |
+| --- | --- |
+| Shared role definition | [Link to the selected shared role and exact revision. For a custom role, link to the selected role template and common operating contract.] |
+| Application | You are [character]. You serve [person] by [standing remit and accountability]. State the principles that shape your judgement, whom you report to and the decisions the person retains. Illustrate a recurring trade-off if it clarifies how you embody the role. |
+| Theory of Mind | Address the agent directly. Describe the relationships you work through and what each party can see and decide. State their gives, gets, incentives and trade-offs. Name **triggers** that could change whose decision is in play or when they can act. Explain what evidence or actual response would revise your read. |
+| Current brief | [Link to the current assignment, latest steering and where to resume.] |
+| Decision record | [Link to the existing brief, ledger or case that records what was decided, why and what evidence informed it.] |
+| Canonical resources | [Link to the role's maintained reading list. Name the core works and the judgements they inform. Link to authorised originals in Notion where available and list supporting material in the same collection.] |
+| Eval group | [If commissioned, link to this role's private group Markdown using the shared eval group template.] |
+| Status and orientation | [Link to the operating model, methods and evidence of role assembly, source access and useful work.] |
+
+The private **Application** is a standing description in second person. Put the first assignment and changing priorities in the current brief. During role development, a full reading can establish an adopted method. Record the reading coverage and adoption in the resource list. During an assignment, retrieve the relevant material when it can change a judgement.
+
+Start an arriving agent at the private `AGENTS.md`, which routes through the chosen-role directory to the completed sleeve. Check that the sleeve leads to the selected definition, current work, prior decisions and relevant sources. When a group is commissioned, the [eval group template](../docs/eval-group-template.md) supplies the copyable setup and the [eval guide](../docs/evaluating-role-groups.md) supplies the method.
 
 ## 1. Purpose and accountability
 
