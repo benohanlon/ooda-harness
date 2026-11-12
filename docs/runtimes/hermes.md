@@ -53,6 +53,18 @@ Use [Check role bindings](../getting-started.md#check-role-bindings) when settin
 
 A native group is a separate working context. Its bots do not inherit the role from a project chat merely because they represent the same profiles. Reconcile existing rooms or commission a new one through [group bootstrap](../bootstrap-group.md), preserving its continuation and each member's complete relevant basis.
 
+## Set up an eval group
+
+Use the [evaluation guide](../evaluating-role-groups.md) to decide when a role's Master would benefit from a group review.
+
+1. Create or find the room on the intended Hermes connection. Verify its identity and actual member profiles. Set **Purpose** and **Shared notes**. If the room supports a default responder and the review has a coordinator, select that profile or address it explicitly.
+2. Follow [Bootstrap a role group](../bootstrap-group.md) to connect the room participants to the selected shared role definition, private application and current work. In the existing private deployment or role record, keep the Master workspace, owning connection, room ID, members and their functions, selected revisions, and dispatch and return route. If the room changes, update the binding and verify the new route before using it.
+3. From the Master, send one real review question with the artifact or decision, evidence, vantage points and expected return. Verify that the intended participants receive it, can open the relevant sources and return findings the Master can use. Keep the result with the existing case owner.
+
+**Purpose** can be as short as “Evaluate [role] work and improve its decisions.”
+
+**Shared notes** can say “The Master commissions a specific review and owns the recommendation. Use the role's selected sources and the [evaluation guide](../evaluating-role-groups.md). Take the vantage points named for the case. The harness reviewer brings in evidence or prior experience that could change the judgement and checks how it was applied.” Supply a link the room can open.
+
 ## Assemble a role deliberately
 
 Follow the [role assembly path](../../roles/ROLE-TEMPLATE.md#assemble-this-role). [Profiles](https://hermes-agent.nousresearch.com/docs/user-guide/profiles) distinguish persistent state from a running agent and warn against two processes writing the same profile home. Give both participants the relevant accepted basis while defining their state and write ownership explicitly.
