@@ -55,17 +55,13 @@ A native group is a separate working context. Its bots do not inherit the role f
 
 ## Set up an eval group
 
-Start from the role's private group Markdown. Copy the [eval group template](../eval-group-template.md) if this is a new group, and link the completed file from the role's sleeve.
+Start from the role's private group Markdown. Copy the [Hermes Bots Group Settings Template](../eval-group-template.md) for a new group. Fill in the actual settings and link the completed file from the role's sleeve.
 
 Use the [evaluation guide](../evaluating-role-groups.md) to decide when a role's Master would benefit from a group review.
 
 1. Create or find the room on the intended Hermes connection. Verify its identity and actual member profiles. Set **Purpose** and **Shared notes**. If the room supports a default responder and the review has a coordinator, select that profile or address it explicitly.
 2. Follow [Bootstrap a role group](../bootstrap-group.md) to connect the room participants to the selected shared role definition, private application and current work. In the existing private deployment or role record, keep the Master workspace, owning connection, room ID, members and their functions, selected revisions, and dispatch and return route. If the room changes, update the binding and verify the new route before using it.
 3. From the Master, send one real review question with the artifact or decision, evidence, vantage points and expected return. Verify that the intended participants receive it, can open the relevant sources and return findings the Master can use. Keep the result with the existing case owner.
-
-**Purpose** can be as short as “Evaluate [role] work and improve its decisions.”
-
-**Shared notes** can say “The Master commissions a specific review and owns the recommendation. Use the role's selected sources and the [evaluation guide](../evaluating-role-groups.md). Take the vantage points named for the case. The harness reviewer brings in evidence or prior experience that could change the judgement and checks how it was applied.” Supply a link the room can open.
 
 ## Assemble a role deliberately
 

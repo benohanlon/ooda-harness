@@ -2,7 +2,7 @@
 
 **Working guide.** Judge a role's artifact, decision or run against its purpose, contract and evidence. Use the role's Master for ordinary work. Choose a direct check, an independent read or a group review according to what would improve the decision. In Hermes, the [eval group](runtimes/hermes.md#set-up-an-eval-group) brings selected perspectives to a bounded question. The Master integrates the findings and owns the outward recommendation. The same room can support reciprocal paired work when commissioned under the [operating contract](operating-contract.md#choose-the-working-arrangement).
 
-Use the [eval group template](eval-group-template.md) to record a commissioned group's setup and connect it to the private role sleeve.
+Use the [Hermes Bots Group Settings Template](eval-group-template.md) to record a commissioned group's setup and connect it to the private role sleeve.
 
 ## Choose vantage points
 
