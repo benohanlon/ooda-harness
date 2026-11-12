@@ -1,18 +1,20 @@
-# Run an eval group
+# Evaluate role work
 
-**Working guide.** An eval group brings different vantage points to a specific question about an artifact, decision or run. Keep ordinary work with the accountable agent or Master chat. Use a group when it would help you test the work or bring another vantage point to a decision. Use real cases, human review and a few observable checks before building a scoring system.
+**Working guide.** Judge a role's artifact, decision or run against its purpose, contract and evidence. Use the role's Master for ordinary work. Choose a direct check, an independent read or a group review according to what would improve the decision. In Hermes, the [eval group](runtimes/hermes.md#set-up-an-eval-group) brings selected perspectives to a bounded question. The Master integrates the findings and owns the outward recommendation. The same room can support reciprocal paired work when commissioned under the [operating contract](operating-contract.md#choose-the-working-arrangement).
 
-In Hermes, an eval group can use a group chat to collect and compare findings. Choose perspectives that serve the question. The accountable agent integrates findings and owns the return. A commissioned pair can use the same room for reciprocal work. Record which arrangement actually ran and check its context and access. See the [Hermes runtime mapping](runtimes/hermes.md#interface-and-two-reusable-participants).
+## Choose vantage points
+
+A vantage point is whose position an agent takes in the situation. For a relational eval, one peer takes the sovereign's position and the other takes the relevant counterpart's. If several counterparts matter, consider their decisions separately. Ask what each can see and decide, what they give and get, what incentives or obligations they face, and what might change their next move. Treat interpretations as hypotheses and update them as evidence or actual responses arrive. For other cases, choose perspectives that fit the decision. If first impressions matter, capture a fresh counterpart read using only the context that counterpart would have before sharing the maker's rationale.
+
+In paired work, polarity describes how the peers work together. The doer advances the work and the active receiver tests and shapes it. Either can take the lead on a later contribution when it helps. Both retain a complete OODA. Follow the [paired working rules](operating-contract.md#one-role-two-oodas).
+
+## Apply the harness and relevant experience
+
+The harness reviewer checks what the group may be missing. Retrieve the current brief and steering, the role contract, original evidence and relevant lived experience from their existing owners. Recover decision-changing context that may have dropped out after a diversion, handoff or compaction. While the work can still change, ask a specific question when an inference needs testing or state the correction when the evidence settles it. Cite the source and check what it changed or why the original judgement held. Use a senior cold or adversarial read when it would improve the decision. Return material findings and unresolved disagreement to the Master.
 
 ## Example: Evaluate an interaction from three vantage points
 
-One use of an eval group is to develop a theory of mind for the people in an exchange. These vantage points can help the accountable agent choose when and how to act within another person's decision cycle.
-
-- **Doer or giver.** What are we trying to do or offer? What can we deliver, and what are we asking the other person to do?
-- **Active receiver or observer.** What can I see from where I stand? What do I stand to give and get, and what would make the next step worthwhile? When first impressions matter, capture the receiver's cold read before sharing the giver's rationale or other verdicts.
-- **Harness reviewer.** What do our role contracts, quality standards, canonical sources and lived experience require or suggest here? Identify where they shaped the work, where an applicable standard was missed and which prior lesson would improve the result.
-
-Use the findings to revise what you say, when you act or what you ask. Revise your understanding in light of the actual counterpart's response. This example illustrates a useful set of perspectives. Choose the number and remit of reviewers for the evaluation at hand.
+For a referral email, the sender checks whether it makes the intended offer, the connector judges whether the introduction is worth making, and the harness reviewer checks whether the evidence and earlier outreach support the approach. The Master uses their findings to decide what to say, when to act or what to ask.
 
 ## Place and ownership
 

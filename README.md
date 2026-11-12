@@ -122,9 +122,9 @@ No public installation release date is confirmed. Releasing selected elements or
 
 The intended onboarding experience is one-click installation with a short first-run step to connect the sovereign's context. The current package supplies native shared installation and guided private connection and group setup. It is not an unattended installation of the whole personal system.
 
-**Initialise an existing role group:** [Bootstrap a role group](docs/bootstrap-group.md) connects configured participants to their selected shared/private role basis, axis, current assignment and continuation. It is a reusable entry for commissioned roles, separate from installing the profiles or selecting a particular first task.
+**Set up an eval group:** [Hermes room setup](docs/runtimes/hermes.md#set-up-an-eval-group) covers the room settings, how to connect the room to the role's Master and how to verify a first handoff. For an already configured room, [bootstrap the role group](docs/bootstrap-group.md).
 
-**Evaluate useful group work:** [Run an eval group](docs/evaluating-role-groups.md) supplies human-led review questions, a fair solo baseline and a small case record. Use actual results and whole effort before claiming benefit.
+**Evaluate role work:** [Evaluation guide](docs/evaluating-role-groups.md) covers direct checks, independent review and group evaluation, with a fair solo comparison where useful.
 
 Use [Getting started](docs/getting-started.md) for the first-install, update or recovery path, with [Codex](docs/runtimes/codex.md) or [Hermes](docs/runtimes/hermes.md) setup notes. Create or connect your [private harness](docs/getting-started.md#create-or-connect-your-private-harness), then use the [role assembly path](roles/ROLE-TEMPLATE.md#assemble-this-role) when commissioning an enduring role. Put confirmed routine answers in the private bundle rather than requiring another service to supply them. Add live connections when the assignment needs them. The creator's setup history is not a prerequisite for following the guide.
 
@@ -247,7 +247,7 @@ Available evaluation and review routes:
 
 | Route | What it provides |
 | --- | --- |
-| [Run an eval group](docs/evaluating-role-groups.md) | A working evaluation guide for actual group cases and comparison with a well-briefed solo agent. |
+| [Evaluate role work](docs/evaluating-role-groups.md) | Qualitative judgement, exact checks and a fair solo comparison for group cases. |
 | [Runtime acceptance](docs/operating-contract.md#runtime-acceptance) | Checks for guidance loading, reciprocal exchange, recovery and useful paired operation. |
 | [Sense of Taste](skills/sense-of-taste/SKILL.md) | A review method for bounded work against its brief, evidence and wider purpose. |
 | [Health Check](skills/health-check/SKILL.md) | A review method for harness coherence, drift and consolidation. |
