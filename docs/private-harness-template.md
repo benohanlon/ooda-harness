@@ -1,6 +1,6 @@
 # Private harness home template
 
-Adapt this small map in your chosen private home. Reuse existing files and record owners; the headings below are prompts, not a required directory tree. The [Sovereign Profile template](sovereign-profile-template.md) supplies the personal portrait. The [role template](../roles/ROLE-TEMPLATE.md#assemble-this-role) supplies role assembly and its individual contract.
+Adapt this small map in your chosen private home. Reuse existing files and record owners; the headings below are prompts, not a required directory tree. The [Sovereign Profile template](sovereign-profile-template.md) supplies the personal portrait. The [role template](../roles/ROLE-TEMPLATE.md#assemble-this-role) supplies role assembly and its individual contract. Copy the [sovereign role sleeve](../roles/ROLE-TEMPLATE.md#sovereign-role-sleeve) for a chosen role. When you commission an eval group, copy the [Hermes Bots Group Settings Template](eval-group-template.md) and link the completed Markdown from that role's sleeve.
 
 ## Private README: start here
 

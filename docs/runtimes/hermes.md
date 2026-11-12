@@ -55,15 +55,23 @@ A native group is a separate working context. Its bots do not inherit the role f
 
 ## Set up an eval group
 
+Start from the role's private group Markdown. Copy the [Hermes Bots Group Settings Template](../eval-group-template.md) for a new group. Fill in the actual settings and link the completed file from the role's sleeve.
+
 Use the [evaluation guide](../evaluating-role-groups.md) to decide when a role's Master would benefit from a group review.
 
-1. Create or find the room on the intended Hermes connection. Verify its identity and actual member profiles. Set **Purpose** and **Shared notes**. If the room supports a default responder and the review has a coordinator, select that profile or address it explicitly.
+To reproduce the three-bot setup, prepare **three distinct Hermes profiles** on the intended connection. Reuse suitable existing profiles, including the default profile, and create any missing ones from the Bots roster. Follow the [profile setup and private connection](#connect-personal-context-and-begin-work) for each profile and verify its source access. [Hermes Bot Mode](https://hermes-agent.nousresearch.com/docs/user-guide/bot-mode) describes the roster and room controls.
+
+| Room member | Responsibility |
+| --- | --- |
+| Harness reviewer | Represents the harness. Checks that the group applies the selected role contract, steering, evidence and relevant lived experience. Can also act as routing lead. |
+| Peer A | Takes one vantage point for the eval. For a relational eval, this can be the sovereign’s position. |
+| Peer B | Takes the complementary vantage point. For a relational eval, this can be the counterpart’s position. |
+
+Assign the peers’ vantage points for each case. In reciprocal work they can exchange giver and active receiver. The Master is the separate project conversation that commissions the work, integrates the return and owns the recommendation. It can run under the reviewer’s profile.
+
+1. Create or find the room on the intended Hermes connection. Seat the reviewer and both peers for the three-bot setup and verify the actual member profiles. Set **Purpose**, **Shared notes** and reply routing from the completed template.
 2. Follow [Bootstrap a role group](../bootstrap-group.md) to connect the room participants to the selected shared role definition, private application and current work. In the existing private deployment or role record, keep the Master workspace, owning connection, room ID, members and their functions, selected revisions, and dispatch and return route. If the room changes, update the binding and verify the new route before using it.
 3. From the Master, send one real review question with the artifact or decision, evidence, vantage points and expected return. Verify that the intended participants receive it, can open the relevant sources and return findings the Master can use. Keep the result with the existing case owner.
-
-**Purpose** can be as short as “Evaluate [role] work and improve its decisions.”
-
-**Shared notes** can say “The Master commissions a specific review and owns the recommendation. Use the role's selected sources and the [evaluation guide](../evaluating-role-groups.md). Take the vantage points named for the case. The harness reviewer brings in evidence or prior experience that could change the judgement and checks how it was applied.” Supply a link the room can open.
 
 ## Assemble a role deliberately
 

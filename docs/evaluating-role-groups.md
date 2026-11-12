@@ -2,6 +2,8 @@
 
 **Working guide.** Judge a role's artifact, decision or run against its purpose, contract and evidence. Use the role's Master for ordinary work. Choose a direct check, an independent read or a group review according to what would improve the decision. In Hermes, the [eval group](runtimes/hermes.md#set-up-an-eval-group) brings selected perspectives to a bounded question. The Master integrates the findings and owns the outward recommendation. The same room can support reciprocal paired work when commissioned under the [operating contract](operating-contract.md#choose-the-working-arrangement).
 
+Use the [Hermes Bots Group Settings Template](eval-group-template.md) to record a commissioned group's setup and connect it to the private role sleeve.
+
 ## Choose vantage points
 
 A vantage point is whose position an agent takes in the situation. For a relational eval, one peer takes the sovereign's position and the other takes the relevant counterpart's. If several counterparts matter, consider their decisions separately. Ask what each can see and decide, what they give and get, what incentives or obligations they face, and what might change their next move. Treat interpretations as hypotheses and update them as evidence or actual responses arrive. For other cases, choose perspectives that fit the decision. If first impressions matter, capture a fresh counterpart read using only the context that counterpart would have before sharing the maker's rationale.
