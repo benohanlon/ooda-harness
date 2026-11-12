@@ -3,4 +3,4 @@
 /brand/fonts/Inter-LICENSE.txt -text
 /README.md -text whitespace=cr-at-eol
 /assets/roles/*.md text eol=lf
-/roles/head-of-talent.md text eol=lf
+/roles/client-side-search-consultant.md text eol=lf

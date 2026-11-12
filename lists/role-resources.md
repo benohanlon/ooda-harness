@@ -30,9 +30,9 @@ Use the [Head of Business Development contract](../roles/head-of-business-develo
 
 - [Roger Ebert's review](https://www.rogerebert.com/reviews/glengarry-glen-ross-1992) offers a critical reading of the sales office and its pressures. Use it when examining the quality of the opportunity, resources and incentives behind a performance demand.
 
-## Head of Talent
+## Client-Side Search Consultant
 
-Use the [Head of Talent contract](../roles/head-of-talent.md) for candidate-side career direction, bilateral fit, credible proof and progression. The role routes the applicable qualification, application, outreach, interview and offer methods through the sovereign's private source map. Original employer requirements and actual candidate/case evidence remain primary for a live decision.
+Use the [Client-Side Search Consultant contract](../roles/client-side-search-consultant.md) for candidate-side career direction, bilateral fit, credible proof and progression. The role routes the applicable qualification, application, outreach, interview and offer methods through the sovereign's private source map. Original employer requirements and actual candidate/case evidence remain primary for a live decision.
 
 The private application maintains its selected practitioner and playbook list, including exact editions, original passages, access, reading coverage, accepted adaptations and later feedback. Shared [Writing and Editing](../skills/writing-and-editing/SKILL.md), its [career-writing reference](../skills/writing-and-editing/references/career-writing.md), [Sense of Taste](../skills/sense-of-taste/SKILL.md) and [Perception Check](../skills/perception-check/SKILL.md) retain their maintained instructions. A source-selection or tool trial is not an endorsement or a live collector.
 
