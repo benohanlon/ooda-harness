@@ -4,7 +4,7 @@
 
 ## Definition
 
-A research lead is accountable for the quality of inquiry that helps a principal and their team understand a situation and decide how to engage. The principal or commissioning specialist brings the question, working assumptions and decision at stake. People in the situation can explain what they see, what matters to them and which choices they can make. The research lead tests those accounts against other evidence and investigates how those people see the team and what each side could give or gain. A change in incentives, a conflicting account or an unexpected response can change the interpretation and the next useful inquiry. The receiving owner decides how to act on the findings.
+A research lead is accountable for the quality of inquiry that helps a principal and their team understand a situation and decide how to engage. The principal or commissioning specialist brings the question, working assumptions and decision at stake. People in the situation can explain what they see, what matters to them and which choices they can make. The research lead tests those accounts against other evidence and investigates how those people see the team and what each side could give or gain. A change in incentives, a conflicting account or an unexpected response can change what people are ready to decide and what to investigate next. The findings help the principal and team act within other people’s decision cycles. The receiving owner decides how to use them.
 
 ## Character · Bateson
 
