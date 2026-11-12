@@ -5,7 +5,7 @@ Copy this file for a selected role and link it from the sovereign sleeve under *
 ## Apply this template to a role
 
 1. Link the selected shared role definition, private sleeve and Master. In the private copy, link to the setup, bootstrap and eval guides at the selected shared revision or to an accessible snapshot. The source links in this template are relative to the shared repository.
-2. For a new group, choose the Hermes connection and bot profiles, then create the room and record its ID using the [Hermes setup guide](runtimes/hermes.md#set-up-an-eval-group). For an existing group, verify its room ID, owning gateway and roster.
+2. To reproduce the three-bot setup, prepare three Hermes profiles: one harness reviewer and two peers. Reuse suitable profiles and create any missing ones. Follow the [Hermes setup guide](runtimes/hermes.md#set-up-an-eval-group) to seat all three on the intended connection and record the room ID. For an existing group, verify its room ID, owning gateway and roster.
 3. Fill in the room settings, name the member who represents the harness, and record how the Master sends work and receives findings. Give the completed file to Hermes using the instruction below. If the handoff is still pending, carry it into the first real eval. Use the [evaluation guide](evaluating-role-groups.md) for the review method.
 
 ## Instructions for Hermes
@@ -56,7 +56,7 @@ The lead routes a new unaddressed human post and can select one or more responde
 | --- | --- |
 | Room and owning gateway | [Exact room ID, owning connection and private deployment record.] |
 | Members and profiles | [Expected roster and observed member ID, profile ID and handle for each seat. Name the peers and the harness reviewer. The reviewer can also be the routing lead.] |
-| Role and Master | [Selected shared definition, sovereign sleeve and exact Master entry point.] |
+| Role and Master | [Selected shared definition, sovereign sleeve and exact Master chat. It is a separate conversation and can use the reviewer’s profile.] |
 | Dispatch and return | [How the Master sends work to this room and receives findings. Link to the mechanism and its verification, or mark it pending.] |
 | Sources and experience | [Current brief, decision record, canonical resources and relevant lived experience through their maintained owners. Name the source access the group needs.] |
 
