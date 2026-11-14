@@ -175,4 +175,4 @@ Use the [runtime acceptance conditions](../docs/operating-contract.md#runtime-ac
 
 ## Resources and design references
 
-[Collected Talent resources](../lists/role-resources.md#head-of-talent) routes reusable references and the private practitioner's source map. The private application selects career methods, editions, access, reading coverage and retained cases. Use the relevant evidence for the question rather than require a whole-library reread. A named method or linked book does not establish its application or effectiveness.
+[Collected Talent resources](../lists/role-resources.md#client-side-search-consultant) routes reusable references and the private practitioner's source map. The private application selects career methods, editions, access, reading coverage and retained cases. Use the relevant evidence for the question rather than require a whole-library reread. A named method or linked book does not establish its application or effectiveness.
