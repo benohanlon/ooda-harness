@@ -182,7 +182,7 @@ flowchart LR
     chief <--> research["Research Lead"]
 ```
 
-The diagram shows the ten agreed role types and their default delegation and reporting relationships: assignments go out and field reports return. Chief of Staff receives material outcomes, blockers and decisions needed, without becoming a routine approval gate. Each enduring role can use the paired arrangement described below when the work warrants it. The chart does not imply ten deployed roles or twenty always-on agents. Four shared reference contracts are accepted. Deployment and observed usefulness belong to each private installation; this chart establishes neither.
+The diagram shows the ten agreed role types and their default delegation and reporting relationships: assignments go out and field reports return. Chief of Staff receives material outcomes, blockers and decisions needed, without becoming a routine approval gate. Each enduring role can use the paired arrangement described below when the work warrants it. The chart does not imply ten deployed roles or twenty always-on agents. Deployment and observed usefulness belong to each private installation; this chart establishes neither.
 
 **First implementation.** Start with a useful commissioned assignment, such as a Chief of Staff Perception Check. Add specialist roles when needed and ready. [Head of Harness Engineering](roles/head-of-harness-engineering.md) is responsible for the build and its reliability. Its Odysseus reference is accepted for private specialisation. Introduce the remaining roles as their work and contracts are established.
 
@@ -313,7 +313,7 @@ A role defines continuing responsibility. Its contract establishes accountabilit
 
 SOUL retains the core communication principles. Use [Writing and Editing](skills/writing-and-editing/SKILL.md) for drafting, editing, reviewing prose and giving advisory replies. The skill applies [Writing and Editorial Standards](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md), which has one maintained home inside its package. Read that standard before the relevant work, reusing a current read during the task. Specialist workflows retain their production and execution steps. When delegating this work, pass the brief, accepted corrections and the skill and standard to the worker; [ROLES.md](ROLES.md#coordination-and-shared-skills) defines handover review.
 
-Section 4 shows the agreed team structure. [ROLES.md](ROLES.md) records responsibilities, reporting and contract availability. [Chief of Staff](roles/chief-of-staff.md) and [Head of Business Development](roles/head-of-business-development.md) have accepted reusable references; [Research Lead](roles/research-lead.md) is also an accepted reference. [Head of Harness Engineering](roles/head-of-harness-engineering.md) has an accepted reusable reference. The remaining individual contracts remain under development.
+Section 4 shows the agreed team structure. [ROLES.md](ROLES.md) records responsibilities, reporting and which shared reference contracts are accepted.
 
 The [common operating contract](docs/operating-contract.md) owns the shared rules for evidence, authority, truthful completion and continuity. Catalogues provide routes to maintained definitions. [LISTS.md](LISTS.md) links the packaged community directory, selected research resources and existing editorial references. Role contracts explain when those methods and resources are useful. Private reading and ideas queues retain their existing owners.
 
