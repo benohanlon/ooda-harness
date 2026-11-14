@@ -23,6 +23,10 @@ Writing and Editing applies the maintained [Writing and Editorial Standards](ski
 
 [LISTS.md](LISTS.md) routes to the packaged community directory, selected research resources and existing editorial references. Load resources when the assignment calls for them. Required package references and cross-skill dependencies must be available in the actual deployment; a link alone does not load them.
 
+## Assembly
+
+Use the [skill assembly template](docs/skill-assembly-template.md) when creating or materially revising a skill.
+
 ## Loading and connections
 
 The repository holds the versioned skill source. The selected runtime must discover and load that source through its supported skills route. A catalogue entry does not install a skill. See the [Hermes skills guide](https://hermes-agent.nousresearch.com/docs/user-guide/features/skills) for its loading conventions.
