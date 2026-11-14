@@ -17,9 +17,9 @@ For a fresh recipient with no binding, resolve their private location and access
 
 ## Carry out the commissioned change
 
-Select the accepted source revision deliberately. In Hermes, use native profile distributions for named profiles that support that path. Preserve an existing built-in `default` interface and non-distribution profiles through the established bootstrap path until a migration is explicitly commissioned. Never add `--force` to make a failed install succeed.
+Resolve the accepted revisions through [the recorded update policy](../../docs/bootstrap.md#choose-the-accepted-revisions). In Hermes, use native profile distributions for named profiles that support that path. Preserve an existing built-in `default` interface and non-distribution profiles through the established bootstrap path until a migration is explicitly commissioned. Never add `--force` to make a failed install succeed.
 
-Keep a private per-target result with the selected shared/private sources, function, local adaptations, backup/recovery route and exact completed/pending work. A normal package update preserves personal state but can replace distribution-owned files. Check meaningful local edits before updating them. Do not silently repin a private role's selected shared reference.
+Keep [one private current receipt per target](../../docs/bootstrap.md#keep-one-current-receipt-per-target). Read it before changing the installation and update it with the active revisions and observed verification. Retain backups and prior results in the existing deployment history. A normal package update preserves personal state but can replace distribution-owned files. Check meaningful local edits before updating them. Do not silently repin a private role's selected shared reference.
 
 Finish with the Bootstrap guide's [private-profile connection](../../docs/getting-started.md#finish-installation-connect-your-private-profile), reusing the working connection. Verify guidance loading and one useful commissioned action separately from file installation. Use fresh or supported refreshed contexts as the runtime requires. Do not infer success from files or greetings alone.
 
