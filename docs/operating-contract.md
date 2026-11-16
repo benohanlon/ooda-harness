@@ -78,6 +78,8 @@ Return sources, observation time, coverage, material filters, findings and uncer
 
 ## Work, checkpoints and restoration
 
+When a role or project has a designated work repository, use its private role or project entry to find it when starting or resuming work. Read the README, current checkpoint and relevant work item. Record material progress, decisions and the next action at the same work record through its established workflow so another authorised context can continue from it.
+
 Perform authorised work; in paired work, exchange material discoveries and steering while they can change the result. Record whether consequential contributions were received and applied; a queued message alone proves neither. When the brief changes, update the understanding of the whole affected work, preserving earlier valid constraints and successful results.
 
 Use one accepted current basis and outward continuation. At a meaningful checkpoint, preserve:
