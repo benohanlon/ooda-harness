@@ -101,6 +101,8 @@ Compare those selected revisions with the accepted update. Review the relevant c
 
 Keep project instructions concise. Route to the selected shared definition, private sleeve, current brief and existing work records instead of copying the full contracts. Preserve project content and the profile's general function. An uncommissioned role remains available but unconfigured until requested.
 
+When a private role or project entry names a work repository, have each commissioned project or group follow that same entry. During refresh, verify from a fresh or supported refreshed context that its loaded instructions lead to the correct repository, README and current checkpoint without supplying the URL in the verification prompt. Record access or routing gaps in the existing private receipt by context.
+
 Groups have their own continuing participant contexts. Updating a project does not update those contexts. Supply the same whole relevant role basis to the actual interface and both participants through supported room controls, retaining continuity and independent state. Do not give reusable participant profiles a permanent single-role identity, bypass room ownership or create a second writer for a busy profile. Follow [group bootstrap](bootstrap-group.md) when commissioning a new role room.
 
 Read back the managed routes and verify loading on the affected surface. Keep package installation, project instruction loading and group-member loading distinct in the existing private receipt. Record each as current, updated, deliberately held or pending with its reason and next action. A stale role binding need not block an independent package update, but it prevents claiming that role is fully refreshed. Use the next authorised work to assess behaviour.
