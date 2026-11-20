@@ -16,7 +16,7 @@ The editable artwork uses live SVG type and separate generated photographic laye
 
 ## Edit and render
 
-Use the repository checkout to edit the current card collection. Extract [kit 2.1](../downloads/sovereign-ooda-brand-kit-v2.1.zip) to work from the 10 November edition, keeping the brand and assets directories together. Install bundled TTFs when editing in a desktop vector editor. The renderer embeds the fonts automatically and makes no remote font or image requests.
+Use the repository checkout or extract [kit 2.2](../downloads/sovereign-ooda-brand-kit-v2.2.zip), keeping the brand and assets directories together. Install bundled TTFs when editing in a desktop vector editor. The renderer embeds the fonts automatically and makes no remote font or image requests.
 
 Requirements: Python 3 (standard library only), Node.js and the pinned Playwright package. From this directory:
 

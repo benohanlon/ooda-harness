@@ -1,21 +1,28 @@
 {
   "brand": "Sovereign OODA Harness",
-  "kit_version": "2.1",
-  "prepared_on": "2026-11-10",
-  "status": "Visible destination URL added; source publication and runtime deployment remain separate",
+  "kit_version": "2.2",
+  "prepared_on": "2026-11-20",
+  "status": "Faceless Man Client Account Lead card and editable source added",
   "asset_paths_relative_to": "repository root",
   "selection": "Ben selected the mint/teal/orange character-card direction and requested the OODA kit and graphics be updated.",
   "production": "Image-tool artwork layers; native SVG type/geometry; bundled local OFL fonts; checked Chromium exports.",
   "destination": "https://sovereignharness.io/; displayed as sovereignharness.io on current shareable artwork",
-  "numbering": "001 Baldwin, 002 Blake, 003 Harry; Research and Engineering unnumbered.",
+  "numbering": "001 Baldwin, 002 Blake, 003 Harry; Research, Engineering and Client Account Lead unnumbered.",
   "attribution": "Ben O’Hanlon; retained film/photo credits on character cards. No invented photographer or quoted role copy.",
-  "archive": "brand/downloads/sovereign-ooda-brand-kit-v2.1.zip",
+  "archive": "brand/downloads/sovereign-ooda-brand-kit-v2.2.zip",
   "exclusions": "Manifest and ZIP exclude their own checksums; historical files/downloads and development dependencies are outside the current archive.",
   "assets": [
     {
       "file": "assets/roles/chief-of-staff-baldwin.png",
       "bytes": 2081349,
       "sha256": "90ee538b21942d7966f059f1c771e496dc9a5f2dbebd56b2750f58fdeb3b981f",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "file": "assets/roles/faceless-man-hall-card.png",
+      "bytes": 1662782,
+      "sha256": "d8087d96286764f2a08268fe44f673d8004ca9ee652de05e80bb27e50518e8cb",
       "width": 1536,
       "height": 1024
     },
@@ -59,8 +66,8 @@
     },
     {
       "file": "brand/GUIDELINES.md",
-      "bytes": 7199,
-      "sha256": "3188f4077ca645a7c1c4ad5e6fe79f6fd46c70c8faac56476bc5f02d43e585ac"
+      "bytes": 7284,
+      "sha256": "e8b3fd62164f1cc43b795b2c3d190ba9dfb9ae32b8c5e7af9dd2650f6f805b24"
     },
     {
       "file": "brand/PROMPTS.md",
@@ -69,8 +76,8 @@
     },
     {
       "file": "brand/README.md",
-      "bytes": 6708,
-      "sha256": "76882cae5b1e63a2f720b6c4ea1813520339a18887507dfc7886b8989c74235a"
+      "bytes": 7086,
+      "sha256": "ca5cbf40f6dd95824b78ddfe888e4f2c282a163b7de3600a97e7ecbff4821231"
     },
     {
       "file": "brand/assets/character-sources/baldwin-source.png",
@@ -92,6 +99,13 @@
       "sha256": "2213d6209f44f54b498623122eaba8869f501f49e27c2fd0c01046504be02235",
       "width": 1536,
       "height": 1024
+    },
+    {
+      "file": "brand/assets/character-sources/faceless-man-hall.png",
+      "bytes": 2452171,
+      "sha256": "fc8f37b1a1a00b2f24d0a0837d8e8fce40c2105a32aa9acb317a67e81884e852",
+      "width": 1774,
+      "height": 887
     },
     {
       "file": "brand/assets/character-sources/harry-source.png",
@@ -216,13 +230,13 @@
     },
     {
       "file": "brand/previews/layout-gallery.jpg",
-      "bytes": 513597,
-      "sha256": "2ccb9e04905fd60f7259720a3ba1e9075b916534b548965344ec402924e23239"
+      "bytes": 505262,
+      "sha256": "7ecf1f668f339a2e4e09ac7eedb6c55a160c566f7cb36e21678ba31abd1bcc1c"
     },
     {
       "file": "brand/previews/layout-gallery.svg",
-      "bytes": 2712,
-      "sha256": "0ceb85142432fc95b2127a1cec553b00aca09e6d6ece380ae065c4c7481f275d",
+      "bytes": 2701,
+      "sha256": "bfe5c156ae237e7659b356c4209ef1d234be68c58db1313f57d3edc16826a7ac",
       "width": 1600,
       "height": 1580
     },
@@ -233,15 +247,15 @@
     },
     {
       "file": "brand/previews/profile-cards.png",
-      "bytes": 5856033,
-      "sha256": "60a62ba83a259ac23126deac46295309bbe7421329243e01c78e524e3f7844e9",
+      "bytes": 6766375,
+      "sha256": "fdd04e1afbec888935e03eb102660a9b31493e21c2c4422ba17f5676d055da84",
       "width": 2370,
       "height": 2630
     },
     {
       "file": "brand/previews/profile-cards.svg",
-      "bytes": 2733,
-      "sha256": "abfb54d2a3ee5d3db8d3c4daef1d90f4cdd90c69ac9082341aeb7c51536aa961",
+      "bytes": 2971,
+      "sha256": "32803e4c52bc240909f4d893e1aa73afc8ef18e767274841e53f48a73fae9f78",
       "width": 2370,
       "height": 2630
     },
@@ -266,18 +280,18 @@
     },
     {
       "file": "brand/profile-cards.json",
-      "bytes": 2626,
-      "sha256": "3bce84bb78721e50944ab1cb56e4563d47fc35d6c897ccaa7cc09f104eaa9031"
+      "bytes": 3281,
+      "sha256": "9815bc665f6ce284749e2cf568f725e6be8af8fc87dec729d05ff0749a5da748"
     },
     {
       "file": "brand/templates/README.md",
-      "bytes": 3191,
-      "sha256": "6212b90798b4c45c4555db9b9ebbba608703ecd280b70142ab7d23604eb83ab0"
+      "bytes": 3210,
+      "sha256": "221810c28667d82ce9c31936429de2197d81fe77a5544079b04f1df446314192"
     },
     {
       "file": "brand/templates/build-source.py",
-      "bytes": 17408,
-      "sha256": "42a18bfea226ae664d94f45768ff7ff8201353928a21bf905f4986b7f7f1728b"
+      "bytes": 17623,
+      "sha256": "18a4c93c18ff2d803853daf8bb95124e6cbbe84f9200b5569f98918b9c8115b7"
     },
     {
       "file": "brand/templates/cognitive-dipole.svg",
@@ -309,13 +323,13 @@
     },
     {
       "file": "brand/templates/layouts.json",
-      "bytes": 2697,
-      "sha256": "36f8febacbfea5467b236d5242ea96bcbd9593fe90c1ce6fa0ad5c8d07fa01dd"
+      "bytes": 2988,
+      "sha256": "67a38bed141e7cae405635dd2439a90b70e12e588b4401bd9b8f072fd5d801e7"
     },
     {
       "file": "brand/templates/package-kit.py",
-      "bytes": 3215,
-      "sha256": "3c71226d8b262ab434fcd83a60edf125f8d9762004f77fdc9252e0e75c15c0fb"
+      "bytes": 3653,
+      "sha256": "05482b5a4319c95b29cca95a31e17b58cee8f36220a31104d77b41d6caf811b3"
     },
     {
       "file": "brand/templates/package.json",
@@ -351,6 +365,13 @@
       "height": 1024
     },
     {
+      "file": "brand/templates/profile-pack-client-account-lead-hall.svg",
+      "bytes": 3358,
+      "sha256": "26747983aef2de36f6dbaa24a0c180c3d1763b772306308c3829e3f0328b99b9",
+      "width": 1536,
+      "height": 1024
+    },
+    {
       "file": "brand/templates/profile-pack-engineering.svg",
       "bytes": 3410,
       "sha256": "d5de2cc8d71cd73603cb59df2087aa00f9c5dfb6940f6112da6b463691765b4e",
@@ -366,8 +387,8 @@
     },
     {
       "file": "brand/templates/render.mjs",
-      "bytes": 7251,
-      "sha256": "7508eceb4aa785fe3d836092bb6ddaf99ff9289132d33934096e3fce0add202a"
+      "bytes": 7240,
+      "sha256": "e8772007f7dc74ab7d7fdb3729003b39cc874fb9848501b115cd02e4acd561a4"
     },
     {
       "file": "brand/templates/square.svg",

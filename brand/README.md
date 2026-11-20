@@ -2,9 +2,9 @@
 
 ![OODA cover: an oblique mint eye with the message There's something in you that the world needs](../assets/sovereign-ooda-cover.jpg)
 
-**Kit 2.1 · 10 November 2026**
+**Kit 2.2 · 20 November 2026**
 
-[Download kit 2.1](downloads/sovereign-ooda-brand-kit-v2.1.zip?raw=true) · [Design guidelines](GUIDELINES.md) · [Editable sources and rendering](templates/README.md) · [Artwork prompts](PROMPTS.md)
+[Download kit 2.2](downloads/sovereign-ooda-brand-kit-v2.2.zip?raw=true) · [Design guidelines](GUIDELINES.md) · [Editable sources and rendering](templates/README.md) · [Artwork prompts](PROMPTS.md)
 
 One visual language connects the harness cover, character cards and architecture illustrations: dark petrol teal, pale mint, restrained orange, fine print texture and clear type hierarchy. Ben selected this direction from the Blake card and requested the wider kit update. Nous Research / Hermes informed the visual direction; these are OODA production choices, not official third-party brand specifications.
 
@@ -17,17 +17,15 @@ The eye remains the human centre: there is something in you that the world needs
 | Repository cover | 1280 × 640 JPEG | [JPEG](../assets/sovereign-ooda-cover.jpg?raw=true) |
 | Lossless cover export | 1280 × 640 PNG | [PNG](assets/sovereign-ooda-cover-master.png?raw=true) |
 | Cover and alternative layouts | Live SVG, four formats | [Sources and previews](templates/README.md) |
-| Current kit | Sources, fonts, guides and exports | [ZIP](downloads/sovereign-ooda-brand-kit-v2.1.zip?raw=true) |
+| Current kit | Sources, fonts, guides and exports | [ZIP](downloads/sovereign-ooda-brand-kit-v2.2.zip?raw=true) |
 
 The full title, five-line pupil statement, strategic labels and cognitive footer are retained. Cover text is live in the SVG source. The clean eye is a separately generated, mint/teal photographic layer. Its print texture and geometry are reviewed visually; it is not a pixel-identical recolouring of the old image.
 
-Kit 2.1 adds the destination URL at Ben's request. The [kit 2.0 archive](downloads/sovereign-ooda-brand-kit-v2.0.zip?raw=true) retains the preceding treatment. The 22 October cover and kit remain in Git history and the retained [v1.3 download](downloads/sovereign-ooda-brand-kit-v1.3.zip?raw=true). The earlier clean-eye source and prompt have an explicit [history home](history/v1.3/README.md). They are historical, not the current palette. A source or branding update does not refresh any installed harness or GitHub repository-setting social preview.
+Kit 2.2 adds the Faceless Man card and its editable source. The [kit 2.1 archive](downloads/sovereign-ooda-brand-kit-v2.1.zip?raw=true) introduced the destination URL. The [kit 2.0 archive](downloads/sovereign-ooda-brand-kit-v2.0.zip?raw=true) retains the preceding treatment. The 22 October cover and kit remain in Git history and the retained [v1.3 download](downloads/sovereign-ooda-brand-kit-v1.3.zip?raw=true). The earlier clean-eye source and prompt have an explicit [history home](history/v1.3/README.md). They are historical, not the current palette. A source or branding update does not refresh any installed harness or GitHub repository-setting social preview.
 
 ## Character cards
 
 ![The coordinated character-card collection](previews/profile-cards.png)
-
-The gallery shows the current repository cards. The kit 2.1 download and its checksums record the 10 November edition.
 
 All cards use one 1536 × 1024 frame, fixed columns and real bundled fonts. [Card content](profile-cards.json) separates names, role titles, quotations, attribution and output paths from [shared tokens](tokens.json).
 
