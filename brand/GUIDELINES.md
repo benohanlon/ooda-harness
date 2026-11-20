@@ -1,6 +1,6 @@
 # OODA design guidelines
 
-Kit 2.1 · 10 November 2026. This refresh applies Ben's selected character-card direction across the OODA kit. It supersedes the old green/gold/bone palette for current production; prior work remains in Git history and the v1.3 archive.
+Kit 2.2 · 20 November 2026. The collection includes the Faceless Man Client Account Lead card and uses Ben’s selected character-card direction throughout. It supersedes the old green/gold/bone palette for current production; prior work remains in Git history and the v1.3 archive.
 
 ## Purpose and visual identity
 
@@ -39,7 +39,7 @@ The canvas is **1536 × 1024**, ratio 3:2. All dimensions are explicit in [token
 
 - Header bottom rule: y58. Picture bounds: x24, y60, width1488, height744.
 - Information band starts at y804. Orange divider: x500. Title/quote column: x530.
-- Name type: 116px at weight900; title: 41px; quote: 29px, line height32px. These sizes are common to the set. Name length does not move the divider.
+- Name type: 116px at weight900; title: 41px; quote: 29px, line height32px. The Faceless Man name uses two equal 94px lines in the same name column. Name length does not move the divider.
 - Destination URL: bottom right, mint IBM Plex Mono 22px. Keep a minimum 24px gap from source credits.
 - Attribution rule: y970. Metadata stays within the frame. Long character surnames can use the designated secondary line; long quotations wrap within the common quote area.
 - Keep the header, frame, rules, margins, metadata spacing and semantic colours constant. Essential text must remain legible at actual display size. Full attribution and a long source quotation may need full-size viewing.
