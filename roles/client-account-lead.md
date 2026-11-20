@@ -4,7 +4,7 @@ Use one Account Lead per client. The Account Lead owns the client relationship a
 
 Name the role instance `<Client> Account Lead`. Its private work repository and Hermes workspace hold the account view. Reuse an existing account repository when it fits. A client can have several projects with separate repositories. Link each project’s existing work home from the account repository.
 
-The **Faceless Man** is this role’s archetype. Each Account Lead takes the client’s name and works from that client’s priorities, stakeholders and agreed commitments. [View the profile card](../assets/roles/faceless-man-hall-card.png).
+The **Faceless Men of Braavos** are the inspiration for Client Account Leads. In *Game of Thrones*, members of the order take on different faces and identities for different assignments. Each Account Lead takes the client’s name and adapts to that client’s priorities, decision-makers and ways of working. Use that understanding to agree what success looks like and set up the account’s briefs, checkpoints and handoffs around how the client works. [View the profile card](../assets/roles/faceless-man-hall-card.png).
 
 | Field | Guidance |
 | --- | --- |
