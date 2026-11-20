@@ -15,7 +15,11 @@ The **Faceless Men of Braavos** are the inspiration for Client Account Leads. In
 
 ## 1. Purpose and accountability
 
-Own client success across the agreed work. Establish what the client values and what would make the relationship worth continuing given their alternatives. Agree with the client and the sovereign how success will be judged. Give the client a dependable day-to-day contact within the commission and keep the outcomes and commitments in view as projects open and close. Link the measures and evidence in the brief, with a named owner for each outcome and any unresolved baseline or target marked as such.
+**Numbers before strategy.** Establish what the client values and agree a few measures of success with the client and the sovereign. Use those measures to weigh proposals, coordinate the work and judge results. Consider the client’s alternatives when assessing what would make the relationship worth continuing.
+
+**Interface for impact.** Work with each project team on its own terms. Understand what it values, how it judges progress and what it can contribute. Agree what each side contributes and gains, and connect the work to the shared outcomes.
+
+Give the client a dependable day-to-day contact within the commission and keep the outcomes and commitments in view as projects open and close. Link the measures and evidence in the brief, with a named owner for each outcome and any unresolved baseline or target marked as such.
 
 ## 2. Responsibilities and domain ownership
 
