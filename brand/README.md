@@ -27,6 +27,8 @@ Kit 2.1 adds the destination URL at Ben's request. The [kit 2.0 archive](downloa
 
 ![The coordinated character-card collection](previews/profile-cards.png)
 
+The gallery shows the current repository cards. The kit 2.1 download and its checksums record the 10 November edition.
+
 All cards use one 1536 × 1024 frame, fixed columns and real bundled fonts. [Card content](profile-cards.json) separates names, role titles, quotations, attribution and output paths from [shared tokens](tokens.json).
 
 | Character | Role | Artwork | Numbering |
@@ -36,8 +38,9 @@ All cards use one 1536 × 1024 frame, fixed columns and real bundled fonts. [Car
 | Harry Da Souza | [Client-Side Search Consultant](../roles/client-side-search-consultant.md) | [PNG](../assets/roles/head-of-talent-harry.png) · [SVG](templates/profile-pack-003.svg) | Profile Pack 003 |
 | Bateson | Research Lead | [PNG](../assets/roles/research-lead-bateson.png) · [SVG](templates/profile-pack-research.svg) | Role label; pack number unassigned |
 | Odysseus | Head of Harness Engineering | [PNG](../assets/roles/head-of-harness-engineering-odysseus.png) · [SVG](templates/profile-pack-engineering.svg) | Role label; pack number unassigned |
+| Faceless Man | [Client Account Lead](../roles/client-account-lead.md) | [PNG](../assets/roles/faceless-man-hall-card.png) · [SVG](templates/profile-pack-client-account-lead-hall.svg) | Role label; pack number unassigned |
 
-Baldwin and Blake's numbers were specified by Ben; Harry follows his next-card request. Artwork numbering is a display convention, not an installer manifest, profile ID or proof of deployment. Research and Engineering remain deliberately unnumbered.
+Baldwin and Blake's numbers were specified by Ben; Harry follows his next-card request. Artwork numbering is a display convention, not an installer manifest, profile ID or proof of deployment. Research, Engineering and Client Account Lead remain deliberately unnumbered.
 
 Harry's quote retains Ben's wording, including **six**. Its setup is regular weight and the second line bold, at the same font size. The Bateson and Odysseus short lines are role copy, not attributed historical quotations. Existing film/photo credits remain with their images; missing photographer details are not invented. Character inspiration does not change authority or professional standards.
 

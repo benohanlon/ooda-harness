@@ -124,7 +124,11 @@ for card in cards:
     body += text(1501, 42, header, 18, cls='small', anchor='end', extra='letter-spacing="1.7"')
     body += line(26, 58, 1510, 58) + line(26, 804, 1510, 804) + line(26, 970, 1510, 970)
     body += line(geometry['divider_x'], 820, geometry['divider_x'], 954, ORANGE, 3)
-    body += text(38, 932, card['name'], geometry['name_font_size'], cls='condensed', weight=900, extra='data-slot="name"')
+    if card.get('name_lines'):
+        for index, name in enumerate(card['name_lines']):
+            body += text(38, 886 + index * 73, name, 94, cls='condensed', weight=900, extra='data-slot="name"')
+    else:
+        body += text(38, 932, card['name'], geometry['name_font_size'], cls='condensed', weight=900, extra='data-slot="name"')
     if card.get('surname'):
         body += text(41, 959, card['surname'], 26, cls='condensed', weight=700, extra='letter-spacing="2"')
     for i, value in enumerate(card['role_lines']):

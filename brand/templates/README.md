@@ -1,6 +1,6 @@
 # Editable OODA artwork
 
-Kit 2.1 uses live SVG type and separate generated photographic layers. This makes copy, font weights, colours and spacing reproducible across the collection.
+The editable artwork uses live SVG type and separate generated photographic layers. This makes copy, font weights, colours and spacing reproducible across the collection.
 
 | Layout | Canvas | Source |
 | --- | --- | --- |
@@ -8,7 +8,7 @@ Kit 2.1 uses live SVG type and separate generated photographic layers. This make
 | Compact landscape | 960 ×720 | [SVG](compact-landscape.svg) |
 | Square | 1080 ×1080 | [SVG](square.svg) |
 | Portrait | 1080 ×1350 | [SVG](portrait.svg) |
-| Five character cards | 1536 ×1024 each | [Data](../profile-cards.json) and profile-pack SVGs |
+| Six character cards | 1536 ×1024 each | [Data](../profile-cards.json) and profile-pack SVGs |
 | Cognitive dipole | 1254 ×1254 | [SVG](cognitive-dipole.svg) |
 | Ecology overview | 1024 ×1536 | [SVG](ecology-stack.svg) |
 
@@ -16,7 +16,7 @@ Kit 2.1 uses live SVG type and separate generated photographic layers. This make
 
 ## Edit and render
 
-Extract [kit 2.1](../downloads/sovereign-ooda-brand-kit-v2.1.zip), keeping the brand and assets directories together. Install bundled TTFs when editing in a desktop vector editor. The renderer embeds the fonts automatically and makes no remote font or image requests.
+Use the repository checkout to edit the current card collection. Extract [kit 2.1](../downloads/sovereign-ooda-brand-kit-v2.1.zip) to work from the 10 November edition, keeping the brand and assets directories together. Install bundled TTFs when editing in a desktop vector editor. The renderer embeds the fonts automatically and makes no remote font or image requests.
 
 Requirements: Python 3 (standard library only), Node.js and the pinned Playwright package. From this directory:
 
@@ -30,9 +30,9 @@ python package-kit.py
 
 On Windows, use the available Python 3 command or its absolute executable path. An existing browser can be selected with PLAYWRIGHT_CHROMIUM_EXECUTABLE. PLAYWRIGHT_MODULE can select an installed Playwright module. OODA_RENDER_REPORT optionally writes the actual font, text-boundary and type-slot check results.
 
-The renderer checks font loading, canvas boundaries, card-column overflow and the exact complete cover copy. It exports the eleven layouts, lossless master, specimens and galleries. Review the resulting images visually: those checks do not establish composition quality or diagram correctness.
+The renderer checks font loading, canvas boundaries, card-column overflow and the exact complete cover copy. It exports the layouts, lossless master, specimens and galleries. Review the resulting images visually: those checks do not establish composition quality or diagram correctness.
 
-The canonical role PNGs remain under assets/roles; diagram PNGs remain under brand/assets. Profile-pack numbers are artwork identifiers only. Research and Engineering deliberately use role labels until numbers are chosen. Harry's regular setup and bold second line share one font family and size.
+The canonical role PNGs remain under assets/roles; diagram PNGs remain under brand/assets. Profile-pack numbers are artwork identifiers only. Research, Engineering and Client Account Lead use role labels. Harry's regular setup and bold second line share one font family and size.
 
 ## Sources and review
 

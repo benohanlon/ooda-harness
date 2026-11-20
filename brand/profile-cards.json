@@ -93,5 +93,28 @@
     "source_card": false,
     "credit": "Archetype: Odysseus / ship, Ithaca and hearth smoke   |   Adapted OODA woodcut; role line, not a quotation",
     "output": "../assets/roles/head-of-harness-engineering-odysseus.png"
+  },
+  {
+    "id": "client-account-lead-hall",
+    "name": "FACELESS MAN",
+    "name_lines": [
+      "FACELESS",
+      "MAN"
+    ],
+    "role_lines": [
+      "CLIENT ACCOUNT LEAD"
+    ],
+    "quote_lines": [
+      "Valar Dohaeris"
+    ],
+    "qualities": [
+      "DISCRETION / CLIENT TRUST",
+      "CONTINUITY / FOLLOW-THROUGH"
+    ],
+    "image": "faceless-man-hall.png",
+    "source_card": false,
+    "credit": "Archetype: The Faceless Men / Game of Thrones",
+    "source_note": "Original concept artwork inspired by Jaqen H’ghar and the Hall of Faces, based on supplied visual references.",
+    "output": "../assets/roles/faceless-man-hall-card.png"
   }
 ]

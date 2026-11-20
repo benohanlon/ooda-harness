@@ -81,6 +81,15 @@
     "status": "new-style artwork"
   },
   {
+    "id": "profile-pack-client-account-lead-hall",
+    "width": 1536,
+    "height": 1024,
+    "source": "templates/profile-pack-client-account-lead-hall.svg",
+    "preview": "../assets/roles/faceless-man-hall-card.png",
+    "canonicalCopy": false,
+    "status": "new-style artwork"
+  },
+  {
     "id": "cognitive-dipole",
     "width": 1254,
     "height": 1254,
