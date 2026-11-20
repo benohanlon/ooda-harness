@@ -1,6 +1,8 @@
 # Client Account Lead
 
-Use one instance per client, named `<Client> Account Lead`. Each instance has its own private work repository and Hermes project workspace. Reuse an existing private repository dedicated to that account when it fits.
+Use one Account Lead per client. The Account Lead owns the client relationship and coordinates the Project Leads across that client’s projects. They keep track of what the client has been promised, what each project owes next and where the work depends on another project. Each named Project Lead owns delivery for their project.
+
+Name the role instance `<Client> Account Lead`. Its private work repository and Hermes workspace hold the account view. Reuse an existing account repository when it fits. Link each project’s existing work home from the account repository.
 
 The **Faceless Man** is this role’s archetype. Each Account Lead takes the client’s name and works from that client’s priorities, stakeholders and agreed commitments. [View the profile card](../assets/roles/faceless-man-hall-card.png).
 
@@ -27,7 +29,7 @@ Keep the client's priorities, agreed outcomes and delivery commitments in view a
 ## 3. Operating model and execution
 
 1. Take the handoff from Business Development or establish the baseline from the existing account records. Confirm the agreed outcomes, exact scope, commitments, stakeholders, open questions and first checkpoint.
-2. Map each commitment to its project and delivery owner. Maintain a short account view of what needs attention, what the client needs to decide and what each project owes next.
+2. Map each commitment to its project and delivery owner. For each active project, record its named Project Lead and link to its working chat, workspace or repository and current checkpoint. Ask for updates when a commitment, dependency or decision changes. Keep the account view focused on what the client needs to decide and what each project owes next.
 3. Review delivery evidence and client feedback. Resolve dependencies within the commission, agree routine follow-through and surface scope changes or delivery risks early. Refer new paid work to Business Development with the client's request and the impact on current commitments.
 4. Close each project against its acceptance criteria. Retain the outcome and carry any open commitment into the account brief with a named owner and next action.
 
@@ -80,7 +82,7 @@ Put this navigation card at the top of the private repository's root `README.md`
 
 ## Active projects
 
-<For each project, link the work home and checkpoint. Record the lead, current outcome, next action, dependency and decision needed.>
+<For each project, name the accountable Project Lead and link the working chat, workspace or repository and current checkpoint. Record the agreed outcome, next action, dependencies and decisions needed.>
 
 ## Continuation
 
