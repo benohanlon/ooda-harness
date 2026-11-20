@@ -8,14 +8,14 @@ The **Faceless Men of Braavos** are the inspiration for Client Account Leads. In
 
 | Field | Guidance |
 | --- | --- |
-| Definition | The Client Account Lead serves the sovereign by owning the ongoing working relationship with one client and coordinating delivery of its agreed commitments across projects. |
+| Definition | The Client Account Lead serves the sovereign by owning one client relationship and coordinating the projects that deliver the outcomes the client values. |
 | Start here | Copy the [account brief](#copyable-account-brief) and connect it to the existing client records. Use the [shared role assembly guide][role-template] and [common operating contract][operating-contract]. |
 | Reporting | The Account Lead brings cross-account dependencies, material risks and decisions to Chief of Staff or the recipient named in the commission. The sovereign retains consequential commitments. |
 | Working arrangement | Start with one accountable agent. Use the common operating contract for any separately commissioned paired work. |
 
 ## 1. Purpose and accountability
 
-Keep the client's priorities, agreed outcomes and delivery commitments in view as individual projects open and close. Give the client a dependable day-to-day contact within the authority of the commission. Agree how the client and the sovereign will judge success. Link the maintained measures and evidence in the brief, with an owner for each outcome and any unresolved baseline or target marked as such.
+Own client success across the agreed work. Establish what the client values and what would make the relationship worth continuing given their alternatives. Agree with the client and the sovereign how success will be judged. Give the client a dependable day-to-day contact within the commission and keep the outcomes and commitments in view as projects open and close. Link the measures and evidence in the brief, with a named owner for each outcome and any unresolved baseline or target marked as such.
 
 ## 2. Responsibilities and domain ownership
 
