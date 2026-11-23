@@ -5,24 +5,38 @@ Use this template to understand how someone sees their work so we can meet them 
 ## Instructions for the agent
 
 1. **Review the whole available archive.** Identify every authorised source of relevant work for this person. Review the relevant history from the earliest available record through the review date. Check relevant channels and direct messages you can access, email threads, meeting recordings or transcripts, and related work records. Use prior research to locate original evidence. Resolve names and aliases, include the surrounding conversation and follow source links. Record each source, its date range and any inaccessible records or gaps. An archive claim covers only the sources reviewed.
-2. **Collect the evidence before testing the profile.** Group observations by decision, handoff or other episode. Record the date, setting, what they said or did, what happened and the original source. Count copies of the same underlying episode once. For an existing profile, use the evidence to test each consequential claim. Retain, revise or retire it and record why. For a new profile, assemble the sections below from the same evidence. Leave gaps explicit.
+2. **Collect the evidence before testing the profile.** Group observations by decision, handoff or other episode. Record the date, setting and original source. Trace what they asked for or said, what we did, how they responded and what happened next. Distinguish a stated position, a decision and follow-through. Count copies of the same underlying episode once. Keep open requests with the project or issue that owns the action. For an existing profile, test each consequential claim. Retain, revise or retire it and record why. For a new profile, assemble the sections below from the same evidence.
 3. **Compare plausible explanations.** For any inference that could change how we work with them, look for a comparable episode, an exception or evidence that distinguishes explanations. Account for role, authority, audience, deadline and process when relevant. Treat an absent signal as evidence only where the archive would reasonably show it. Record what would change the judgement. Use a full competing-hypotheses matrix when a consequential judgement turns on several plausible explanations.
-4. **Keep the profile current.** Use later sweeps to capture new episodes and check for changed circumstances. Periodically rebuild the read from the original evidence across the full available history. Review the whole archive sooner when a material surprise or change in role calls a settled judgement into question. Before a consequential decision, record what you expect them to ask for or do and why. Check the expectation and the reasoning against what actually happened when that record becomes available.
+4. **Keep the profile current.** Use later sweeps to capture new episodes and check for changed circumstances. Periodically rebuild the read from the original evidence across the full available history. Review the whole archive sooner when a material surprise or change in role calls a settled judgement into question. Where the archive allows, build a version from earlier records and use a later exchange held back from the initial review to test which criterion they raise, what evidence they ask for or what they actually do. For future consequential decisions, record the expectation and reasoning before the decision and check both when the outcome becomes available.
 
 ## Profile
 
+**Name and role** · **Last reviewed** · **Source coverage and gaps**
+
+### Before you speak to them
+
+- **What matters to them here**
+- **What to bring**
+- **What to avoid**
+- **What we may have wrong**
+
 | Field | What to capture |
 | --- | --- |
-| Role and relationship | What they own, how we work together and what we depend on each other for. |
-| How they see the work | The problems they recognise, what they believe drives outcomes and what they return to across decisions. |
-| Incentives and constraints | What they’re accountable for and the limits, dependencies and trade-offs that shape their choices. |
-| Success and units of account | What a good outcome looks like to them, the measures they actually use and which are shared across teams. |
-| How they decide | What they ask to see, how they weigh options, who else participates and when their decision criteria change. |
-| Communication style and preferences | Their language, tone, preferred level of detail, channel and timing. Note what they welcome, push back on or find unhelpful, with the circumstances in which you observed it. |
-| How to work together | What to bring to the next exchange, how to frame it in terms they recognise and what to avoid based on observed friction. |
+| Role and relationship | What they own, how they appear to see us, what they come to us for and what we depend on each other for. |
+| Work history | Where our work has intersected. Record where we met, what brought us into the same conversation, what feedback we exchanged, where our views or priorities converged and any work we delivered together. Give each entry a date or period, context, what happened and an original source link. |
+| How they see the work | The problem they recognise in their own terms, what they think drives it and what they expect to happen under which conditions. Record what has changed their view. |
+| Incentives and constraints | What they’re accountable for, what each side gives and gets from cooperating, and the limits, risks, dependencies and trade-offs that shape their choices. |
+| Success and units of account | What success looks like to them. Distinguish system-wide units of account, measures specific to their remit and figures cited once. Where supported, give the definition, period, threshold and decision the measure informed. |
+| How they decide | What they ask to see, who can approve, influence or carry out a decision, and what changes their criteria or who can act. Trace what they said, decided and followed through on. |
+| What lands and what to avoid | Note the language, tone, channel and timing that work. For routine updates, decisions and disagreements, distinguish altitude (where to start) from depth (how much evidence they need). Record what they welcome, push back on or find easy to miss, and what has worked better in a comparable situation. |
+| How to work together | Identify a shared outcome, what we can offer and a concrete ask they could act on. Name the evidence they would need and the trade-off to acknowledge. |
 
-For each consequential inference, add the dated evidence, the context where the pattern holds, a plausible alternative or exception, and what evidence would change the read. Distinguish direct statements, observed actions and our interpretations. Close with the review date, source coverage and any material changes from the prior profile.
+### Decision episodes and open questions
 
-## Canonical reference
+Link three to five of the strongest episodes where the record supports them. Include dated requests or feedback that explain a decision, reveal a pattern or contradict the current read. Keep the source context and outcome. Mark consequential claims **stated**, **observed**, **inferred** or **unknown**. For an inference, record where it holds, a plausible alternative or exception, and what would change the judgement. Close with material changes since the last review and the open questions the next sweep should investigate.
 
-Use Richards J. Heuer Jr.’s *Psychology of Intelligence Analysis* as the basis for drawing and revising inferences. Chapters 2 and 14 cover archive review, Chapters 4–8 cover competing explanations and diagnostic evidence, and Chapters 10–13 cover evidence, attribution and hindsight. [CIA full text](https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf)
+## References
+
+**Canonical.** Use Richards J. Heuer Jr.’s *Psychology of Intelligence Analysis* as the basis for drawing and revising inferences. Chapters 2 and 14 cover archive review, Chapters 4–8 cover competing explanations and diagnostic evidence, and Chapters 10–13 cover evidence, attribution and hindsight. [CIA full text](https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf)
+
+**Supporting.** Chase Hughes’s *Six-Minute X-Ray* (Chapters 3, 10 and 13) and *The Ellipsis Manual* (the behaviour-analysis and linguistic-harvesting sections) suggest where to look for changes in language or behaviour across contexts. Use their observations as prompts to check against comparable work episodes. Ground any conclusion about decision criteria or preferences in what the person said or did in those episodes. [Chase Hughes’s books](https://chase3665.wixstudio.com/nciu/books)
