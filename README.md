@@ -228,8 +228,6 @@ Within an assignment, the role considers whose OODA it is enabling, at what scal
 
 Discovery and ingestion support your observation. Distribution helps active receivers encounter your work within their field of view and horizon. What either party takes in can change their orientation and response.
 
-In role work, the [stakeholder map](docs/stakeholder-map-template.md) shows who is involved and where to learn about them. A [stakeholder profile](docs/stakeholder-profile-template.md) records one person’s perspective, what they can decide and how the evidence could change our read. Agents use those records when a person’s decision, cooperation or handoff matters, then revisit the read as the work unfolds.
-
 | Scale of interaction | What to understand and enable |
 | --- | --- |
 | **1:Self** | Understand your own situation, aims, capacity, commitments and assumptions. |
@@ -238,6 +236,10 @@ In role work, the [stakeholder map](docs/stakeholder-map-template.md) shows who 
 | **1:Many** | Gather intelligence from wider networks and help relevant people encounter, understand and respond to your work. Distribution supports observation. Positioning, offers, résumés, onboarding and qualification can support orientation. Credible proof supports decisions. Clear asks and usable next steps support action. Shared outcomes and visible signals can support collective coordination. |
 
 These scales overlap. Your own cycle continues throughout, and capabilities can support several OODA activities. An interaction can change your own understanding, affect a group and ripple through a wider network. How public or private the encounter is matters at every scale. Other people retain their own aims and decisions.
+
+### Theory of Mind in role work
+
+The role’s Theory of Mind describes the relationships and perspectives it needs to understand. Its [stakeholder map](docs/stakeholder-map-template.md) shows who is involved and where to learn about them. A [stakeholder profile](docs/stakeholder-profile-template.md) records one person’s perspective, what they can decide and how the evidence could change our read. Agents use those records when a person’s decision, cooperation or handoff matters, then revisit the read as the work unfolds.
 
 ### Review and learning
 

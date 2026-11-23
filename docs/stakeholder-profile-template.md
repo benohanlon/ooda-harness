@@ -8,7 +8,7 @@ Use this template to understand how someone sees their work so we can meet them 
 
 1. Follow **Theory of Mind** from the work-repo README to `STAKEHOLDERS.md` or its maintained equivalent. Use the existing entry and link the completed or revised profile there. If a map is needed and none exists, use the [stakeholder map template](stakeholder-map-template.md) to create one in the authorised private work home.
 2. Keep a source list on the map or link to the existing source inventory. For each channel, record where to start, what evidence it holds and any known access limits. At the start of a review, confirm which routes you can use. In the profile, record which sources and date ranges you actually reviewed and any gaps.
-3. At the bottom of the stakeholder map, add **Profile template and reading**. Link to this template and any applicable reading at its maintained home. Keep the list of people and their profile links near the top so the map can serve as the entry point to the profiles.
+3. Keep the list of people and their profile links near the top of the map. Use the [map footer](stakeholder-map-template.md#copyable-map) to link the method and applicable reading.
 
 ### Review and maintain the profile
 
@@ -42,6 +42,10 @@ Use this template to understand how someone sees their work so we can meet them 
 ### Decision episodes and open questions
 
 Link three to five of the strongest episodes where the record supports them. Include dated requests or feedback that explain a decision, reveal a pattern or contradict the current read. Keep the source context and outcome. Mark consequential claims **stated**, **observed**, **inferred** or **unknown**. For an inference, record where it holds, a plausible alternative or exception, and what would change the judgement. Close with material changes since the last review and the open questions the next sweep should investigate.
+
+### Profile links
+
+At the bottom of each completed profile, link back to its stakeholder map, this template and [Theory of Mind in OODA](../README.md#theory-of-mind-in-role-work). For a profile within a map, link to the top of the map and its shared footer for the method and reading.
 
 ## References
 
