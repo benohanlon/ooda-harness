@@ -4,6 +4,14 @@ Use this template to understand how someone sees their work so we can meet them 
 
 ## Instructions for the agent
 
+### Start from the stakeholder map
+
+1. Follow **Theory of Mind** from the work-repo README to `STAKEHOLDERS.md` or its maintained equivalent. Use the existing entry and link the completed or revised profile there. If a map is needed and none exists, create one in the authorised private work home and link it from the README. List the relevant people, how the work connects to them and links to any existing profiles.
+2. Keep a source list on the map or link to the existing source inventory. For each channel, record where to start, what evidence it holds and any known access limits. At the start of a review, confirm which routes you can use. In the profile, record which sources and date ranges you actually reviewed and any gaps.
+3. At the bottom of the stakeholder map, add **Profile template and reading**. Link to this template and any applicable reading at its maintained home. Keep the list of people and their profile links near the top so the map can serve as the entry point to the profiles.
+
+### Review and maintain the profile
+
 1. **Review the whole available archive.** Identify every authorised source of relevant work for this person. Review the relevant history from the earliest available record through the review date. Check relevant channels and direct messages you can access, email threads, meeting recordings or transcripts, and related work records. Use prior research to locate original evidence. Resolve names and aliases, include the surrounding conversation and follow source links. Record each source, its date range and any inaccessible records or gaps. An archive claim covers only the sources reviewed.
 2. **Collect the evidence before testing the profile.** Group observations by decision, handoff or other episode. Record the date, setting and original source. Trace what they asked for or said, what we did, how they responded and what happened next. Distinguish a stated position, a decision and follow-through. Count copies of the same underlying episode once. Keep open requests with the project or issue that owns the action. For an existing profile, test each consequential claim. Retain, revise or retire it and record why. For a new profile, assemble the sections below from the same evidence.
 3. **Compare plausible explanations.** For any inference that could change how we work with them, look for a comparable episode, an exception or evidence that distinguishes explanations. Account for role, authority, audience, deadline and process when relevant. Treat an absent signal as evidence only where the archive would reasonably show it. Record what would change the judgement. Use a full competing-hypotheses matrix when a consequential judgement turns on several plausible explanations.
