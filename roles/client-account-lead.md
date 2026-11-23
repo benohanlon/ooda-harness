@@ -62,10 +62,12 @@ At a client checkpoint or project close, compare what was promised with what the
 
 ## Copyable account brief
 
-Put this navigation card at the top of the private repository's root `README.md`, below the title. The README can hold the account brief or link to its maintained home. Use the same fields for every account so an arriving agent can find the shared role, active projects, Star Command and where to resume. Link existing records from the working sections below the card.
+Start the private repository's root `README.md` with the [project board link](ROLE-TEMPLATE.md#work-repository-readme), then add the navigation card. Where an account uses Star Command, link directly to its account view and name Star Command as in the example. Adapt the board name and link to the private harness's actual tracker. The README can hold the account brief or link to its maintained home. Use the same fields for every account so an arriving agent can find the shared role, active projects and where to resume.
 
 ```markdown
 # <Client> Account Lead
+
+[Open the <Client> project board](<account-board-url>) in Star Command for commitments, owners, status and priorities.
 
 | Field | Account information |
 | --- | --- |
@@ -76,7 +78,7 @@ Put this navigation card at the top of the private repository's root `README.md`
 | Decision record | <Existing account or project record with decisions, evidence and outstanding decisions> |
 | Canonical resources | <Account home, agreed scope, client contacts and applicable methods> |
 | Private work repository | <Verified link and role, or access/setup pending> |
-| Star Command | <Board and relevant work links, with access status> |
+| Tracked work | <Relevant work items and any known board access limits> |
 | Authority | <Approved actions and destinations, reserved decisions and approvers> |
 | Status and orientation | <Hermes workspace, lead, latest checkpoint and verified setup state> |
 
