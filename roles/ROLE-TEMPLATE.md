@@ -70,7 +70,7 @@ Copy this table into the opening of your private role Markdown. Choose a shared 
 | Application | You are [character]. You serve [person] by [standing remit and accountability]. State the principles that shape your judgement, whom you report to and the decisions the person retains. Illustrate a recurring trade-off if it clarifies how you embody the role. |
 | Theory of Mind | Address the agent directly. Describe the relationships you work through, what each party can see and decide, and how they see one another, including how the counterpart sees you and the person you serve. State their gives, gets, incentives and trade-offs. Name **triggers** that could change whose decision is in play or when they can act. Explain what evidence or actual response would revise your read. |
 | Current brief | [Link to the current assignment, latest steering and where to resume.] |
-| Work repository | [Link to the designated private work repo and its README. Use this same repo across the role's configured runtimes.] |
+| Work repository | [Link to the designated private work repo and its README. Use this same repo across the role's configured runtimes. Follow the work repository README guidance below.] |
 | Decision record | [Link to the existing brief, ledger or case that records what was decided, why and what evidence informed it.] |
 | Canonical resources | [Link to the role's maintained reading list. Name the core works and the judgements they inform. Link to authorised originals in Notion where available and list supporting material in the same collection.] |
 | Eval group | [If commissioned, link to this role's private group Markdown using the shared Hermes Bots Group Settings Template.] |
@@ -79,6 +79,10 @@ Copy this table into the opening of your private role Markdown. Choose a shared 
 The private **Application** is a standing description in second person. Put the first assignment and changing priorities in the current brief. During role development, a full reading can establish an adopted method. Record the reading coverage and adoption in the resource list. During an assignment, retrieve the relevant material when it can change a judgement.
 
 Start an arriving agent at the private `AGENTS.md`, which routes through the chosen-role directory to the completed sleeve. Check that the sleeve leads to the selected definition, current work, prior decisions and relevant sources. When a group is commissioned, the [Hermes Bots Group Settings Template](../docs/eval-group-template.md) supplies the copyable setup and the [eval guide](../docs/evaluating-role-groups.md) supplies the method.
+
+#### Work repository README
+
+When the private harness designates a project management board, put an **Open the [role or account] project board** link directly below the title of the work repository's root README. Link to the relevant view of the shared board when available, or to the full board if the role coordinates work across the team. Name the tracker and say what it tracks. Use the README to point to the current brief or checkpoint and the detailed work records.
 
 ## 1. Purpose and accountability
 
