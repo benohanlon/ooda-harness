@@ -228,6 +228,8 @@ Within an assignment, the role considers whose OODA it is enabling, at what scal
 
 Discovery and ingestion support your observation. Distribution helps active receivers encounter your work within their field of view and horizon. What either party takes in can change their orientation and response.
 
+In role work, the [stakeholder map](docs/stakeholder-map-template.md) shows who is involved and where to learn about them. A [stakeholder profile](docs/stakeholder-profile-template.md) records one person’s perspective, what they can decide and how the evidence could change our read. Agents use those records when a person’s decision, cooperation or handoff matters, then revisit the read as the work unfolds.
+
 | Scale of interaction | What to understand and enable |
 | --- | --- |
 | **1:Self** | Understand your own situation, aims, capacity, commitments and assumptions. |
@@ -302,6 +304,7 @@ The proposed access model gives the harness a dedicated email account and a defi
 | [ROLES.md](ROLES.md) | A catalogue of agreed role types and available contracts, including Chief of Staff, [Head of Business Development](roles/head-of-business-development.md) and Research Lead. |
 | [Role template](roles/ROLE-TEMPLATE.md) | The assembly path and seven-section form for shared reference contracts and private role specialisations. |
 | [Work-repo README convention](roles/ROLE-TEMPLATE.md#work-repository-readme) | The navigation table and routes to projects, stakeholders and current work. |
+| [Stakeholder map template](docs/stakeholder-map-template.md) | The overview of people, profile links and evidence sources for a role or project. |
 | [Stakeholder profile template](docs/stakeholder-profile-template.md) | How to build and revise a private profile from evidence. |
 | [SKILLS.md](SKILLS.md) | A catalogue of reusable skills linking to their instructions. |
 | [LISTS.md](LISTS.md) | Routes into maintained collections, their purpose and when to retrieve them. |
