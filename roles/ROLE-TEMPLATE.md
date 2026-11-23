@@ -84,6 +84,11 @@ Start an arriving agent at the private `AGENTS.md`, which routes through the cho
 
 When the private harness designates a project management board, put an **Open the [role or account] project board** link directly below the title of the work repository's root README. Link to the relevant view of the shared board when available, or to the full board if the role coordinates work across the team. Name the tracker and say what it tracks. Use the README to point to the current brief or checkpoint and the detailed work records.
 
+Use **Navigation** and **Context and use** as the column headings. Use this order for the core rows: Role & Commission, Theory of Mind, Projects, Current brief, Knowledge base, Decision log, Workflows and automation, and Runtime setup. Put the shared role and private commission together so an arriving agent can assemble both parts of the role. Add role-specific rows below the core rows where they aid navigation.
+
+- **Projects.** Link to the project directory and directly to key projects. In both places, link any independent repository that serves as a working home. Give each project one default home and explain what any additional repository contains. The project board tracks commitments, owners, status and priorities.
+- **Theory of Mind.** Link to the stakeholder map for the overview and directly to the profiles of key people. Use the [stakeholder profile template](../docs/stakeholder-profile-template.md) to build and review those profiles. Keep the map, completed profiles and supporting account sources in the private work repository.
+
 ## 1. Purpose and accountability
 
 Serve [the sovereign individual] by achieving [useful outcome]. Name this role's accountable contribution, its dependencies and who receives its work. Explain the benefit to the sovereign individual and the intended recipient, including relevant judgement, discovery, agency or creative capability.

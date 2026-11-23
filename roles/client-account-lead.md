@@ -69,13 +69,16 @@ Start the private repository's root `README.md` with the [project board link](RO
 
 [Open the <Client> project board](<account-board-url>) in Star Command for commitments, owners, status and priorities.
 
-| Field | Account information |
+| Navigation | Context and use |
 | --- | --- |
-| Shared role definition | <Accepted Client Account Lead definition and exact revision> |
-| Application | You are <Client> Account Lead. You serve <sovereign> by owning <client relationship and agreed delivery commitments>. Report to <recipient>. <Named decision owner> retains <reserved decisions>. |
-| Theory of Mind | <Who sets priorities, who approves scope and deliverables, who supplies inputs, what matters to each, and what evidence would change the account lead's view> |
+| Role & Commission | <Link to the accepted Client Account Lead definition at its exact revision and to the private account commission, including remit and reserved decisions. Read both to assemble the role.> |
+| Theory of Mind | <Link to the stakeholder map and directly to key people’s completed profiles.> |
+| Projects | <Link to the project directory, key projects and their independent working repositories where applicable.> |
 | Current brief | <Agreed purpose, current priorities and where to resume> |
-| Decision record | <Existing account or project record with decisions, evidence and outstanding decisions> |
+| Knowledge base | <Link to the agreed scope and other maintained sources needed to work the account.> |
+| Decision log | <Link to the existing record of decisions, evidence and open questions.> |
+| Workflows and automation | <Link to the workflows in use and their verified level of automation.> |
+| Runtime setup | <Link to the account entry instructions and runtime bindings.> |
 | Canonical resources | <Account home, agreed scope, client contacts and applicable methods> |
 | Private work repository | <Verified link and role, or access/setup pending> |
 | Tracked work | <Relevant work items and any known board access limits> |
