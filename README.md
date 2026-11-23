@@ -301,6 +301,8 @@ The proposed access model gives the harness a dedicated email account and a defi
 | [Common operating contract](docs/operating-contract.md) | Shared paired-role method, decision rights, assignments, recovery and learning. |
 | [ROLES.md](ROLES.md) | A catalogue of agreed role types and available contracts, including Chief of Staff, [Head of Business Development](roles/head-of-business-development.md) and Research Lead. |
 | [Role template](roles/ROLE-TEMPLATE.md) | The assembly path and seven-section form for shared reference contracts and private role specialisations. |
+| [Work-repo README convention](roles/ROLE-TEMPLATE.md#work-repository-readme) | The navigation table and routes to projects, stakeholders and current work. |
+| [Stakeholder profile template](docs/stakeholder-profile-template.md) | How to build and revise a private profile from evidence. |
 | [SKILLS.md](SKILLS.md) | A catalogue of reusable skills linking to their instructions. |
 | [LISTS.md](LISTS.md) | Routes into maintained collections, their purpose and when to retrieve them. |
 | Each skill’s [SKILL.md](skills/perception-check/SKILL.md) | The method or knowledge for that skill, with supporting references, scripts or templates where needed. |

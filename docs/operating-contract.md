@@ -80,6 +80,8 @@ Return sources, observation time, coverage, material filters, findings and uncer
 
 When a role or project has a designated work repository, use its private role or project entry to find it when starting or resuming work. Read the README, current checkpoint and relevant work item. Record material progress, decisions and the next action at the same work record through its established workflow so another authorised context can continue from it.
 
+For delivery work, follow the README’s Projects route to the relevant working record and its repository. When a person’s decision, cooperation or handoff matters, follow Theory of Mind to the stakeholder map and read the relevant existing profile or case evidence. Check the current evidence when a dated profile could affect a decision. Use the [work-repo README convention](../roles/ROLE-TEMPLATE.md#work-repository-readme) to set up these routes.
+
 Perform authorised work; in paired work, exchange material discoveries and steering while they can change the result. Record whether consequential contributions were received and applied; a queued message alone proves neither. When the brief changes, update the understanding of the whole affected work, preserving earlier valid constraints and successful results.
 
 Use one accepted current basis and outward continuation. At a meaningful checkpoint, preserve:

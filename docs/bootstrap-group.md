@@ -26,6 +26,8 @@ Each actual participant retrieves the selected SOUL, shared role definition/comm
 
 Use authorised maintained sources. Commissioning the role does not grant blanket permission to disclose private conversations into the room; respect the installed native room protocol and the sources' disclosure boundaries.
 
+If the assignment has a designated work repo, use the [common work startup route](operating-contract.md#work-checkpoints-and-restoration) to reach its current project and relevant stakeholder records.
+
 Understand three connected things:
 
 - **Nucleus:** the combined shared/private governing basis, including the role contract, purpose, accountability and relevant axis.
