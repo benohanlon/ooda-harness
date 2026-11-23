@@ -6,7 +6,7 @@ Use this template to understand how someone sees their work so we can meet them 
 
 ### Start from the stakeholder map
 
-1. Follow **Theory of Mind** from the work-repo README to `STAKEHOLDERS.md` or its maintained equivalent. Use the existing entry and link the completed or revised profile there. If a map is needed and none exists, create one in the authorised private work home and link it from the README. List the relevant people, how the work connects to them and links to any existing profiles.
+1. Follow **Theory of Mind** from the work-repo README to `STAKEHOLDERS.md` or its maintained equivalent. Use the existing entry and link the completed or revised profile there. If a map is needed and none exists, use the [stakeholder map template](stakeholder-map-template.md) to create one in the authorised private work home.
 2. Keep a source list on the map or link to the existing source inventory. For each channel, record where to start, what evidence it holds and any known access limits. At the start of a review, confirm which routes you can use. In the profile, record which sources and date ranges you actually reviewed and any gaps.
 3. At the bottom of the stakeholder map, add **Profile template and reading**. Link to this template and any applicable reading at its maintained home. Keep the list of people and their profile links near the top so the map can serve as the entry point to the profiles.
 
