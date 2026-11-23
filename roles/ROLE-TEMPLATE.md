@@ -86,8 +86,10 @@ When the private harness designates a project management board, put an **Open th
 
 Use **Navigation** and **Context and use** as the column headings. Use this order for the core rows: Role & Commission, Theory of Mind, Projects, Current brief, Knowledge base, Decision log, Workflows and automation, and Runtime setup. Put the shared role and private commission together so an arriving agent can assemble both parts of the role. Add role-specific rows below the core rows where they aid navigation.
 
-- **Projects.** Link to the project directory and directly to key projects. In both places, link any independent repository that serves as a working home. Give each project one default home and explain what any additional repository contains. The project board tracks commitments, owners, status and priorities.
-- **Theory of Mind.** Link to the stakeholder map for the overview and directly to the profiles of key people. Use the [stakeholder profile template](../docs/stakeholder-profile-template.md) to build and review those profiles. Keep the map, completed profiles and supporting account sources in the private work repository.
+- **Projects.** Use `PROJECTS.md` as the directory in a work repository. Link to it and directly to key projects from the README. In both places, link any independent repository that serves as a working home. Give each project one default home and explain what any additional repository contains. The project board tracks commitments, owners, status and priorities.
+- **Theory of Mind.** Use `STAKEHOLDERS.md` as the map in a private work repository. Link to it and directly to available profiles of key people from the README. Use the [stakeholder profile template](../docs/stakeholder-profile-template.md) to build and review profiles. Link to existing authorised profiles and case evidence at their maintained homes.
+
+If an equivalent directory or map already has a maintained home, link to it. Create a local landing page when it helps someone find the role's work or relationships.
 
 ## 1. Purpose and accountability
 
