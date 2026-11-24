@@ -16,9 +16,9 @@ A reusable shared foundation connects to your private Sovereign Harness, which r
 2. **Method.** Recursive OODA: continuing observation, orientation, decision and action across connected participants and scales, shaped by evidence and responses from the world. [Recursive OODA](#recursive-ooda).
 3. **People and agents.** You set direction and retain consequential decision authority. Each enduring role has one accountability and a combined shared/private basis. Use complementary paired agents selectively for evaluation and high-value work. [Roles and accountability](ROLES.md).
 4. **Shared machinery and your private harness.** The shared and private harnesses work together so each sovereign can benefit from collective improvements while developing and protecting their own distinctive edge. Sovereign sleeves connect your private context and experience. [Shared and private harnesses](#shared-and-private-harnesses).
-5. **Getting started.** Use the [included setup guide](docs/getting-started.md), select an accepted revision and supply your private context. Begin useful authorised work. [Current status](#3-current-state-and-getting-started).
+5. **Getting started.** Follow [Installation and configuration](#installation-and-configuration) to select an accepted revision, connect your private context and begin useful authorised work.
 
-[SOUL](SOUL.md) · [Ecology of mind](docs/ecology-of-mind.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md) · [Lists](LISTS.md) · [Brand guide](brand/README.md)
+[Harness map](HARNESS-MAP.md) · [SOUL](SOUL.md) · [Ecology of mind](docs/ecology-of-mind.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md) · [Lists](LISTS.md) · [Brand guide](brand/README.md)
 
 OODA stands for Observe, Orient, Decide and Act. [John Boyd](https://slightlyeastofnew.com/wp-content/uploads/2010/03/essence_of_winning_losing.pdf) described its role in enabling us to “comprehend, shape, adapt to and in turn be shaped by an unfolding evolving reality that is uncertain, everchanging, and unpredictable.” OODA is a non-linear process of continuing reorientation and feedback, rather than a fixed sequence of four steps.
 
@@ -104,31 +104,17 @@ Here, “operating system” means the connected arrangement of working practice
 
 GitHub versions accepted definitions and methods. The intended Hermes deployment supplies the runtime, models and tools. The reusable package and configured private profile should carry the guidance needed for ordinary work without requiring access to the creator's private workspace. Live CRM, correspondence and project records remain in stores chosen by the sovereign and become dependencies of the assignments that need them. Some of Ben's existing workflows still use Notion; that is an installation binding, not a requirement for another sovereign's harness.
 
-The first recorded private alpha snapshot is [v0.1.0-alpha.1](https://github.com/benohanlon/ooda-harness/releases/tag/v0.1.0-alpha.1). Draft-branch changes remain proposals until accepted. The [included setup guide](docs/getting-started.md) connects manual installation, first use, updates and recovery. Independent installation has not been demonstrated.
+The first recorded private alpha snapshot is [v0.1.0-alpha.1](https://github.com/benohanlon/ooda-harness/releases/tag/v0.1.0-alpha.1). Draft-branch changes remain proposals until accepted.
 
 ### Current status
 
-The reviewed [common operating contract](docs/operating-contract.md), [role template](roles/ROLE-TEMPLATE.md), [ecology of mind](docs/ecology-of-mind.md) and [Sovereign Profile template](docs/sovereign-profile-template.md) are merged. Individual role implementation, connected workflows and supported interfaces remain under development. The Hermes rebuild has not yet demonstrated a working MVP. The immediate target is a small number of roles completing useful assignments with recoverable results and next actions.
-
-Hermes setup checks on 2026-10-14 covered repository access and instruction loading for earlier definitions. They do not verify the current accepted package or useful paired work. The private setup history retains those checks; it is not needed to understand the portable method. Installation, loading and useful paired operation remain separate states.
+**24 November 2026 · Shared source.** The package supplies the [operating model](docs/ecology-of-mind.md), [common operating contract](docs/operating-contract.md), [reusable roles](ROLES.md), [skills](SKILLS.md) and templates for the [private harness](docs/private-harness-template.md) and [sovereign profile](docs/sovereign-profile-template.md). Independent installation has not been demonstrated in the shared record. Keep installation, instruction loading and useful paired operation separate in the deployment evidence. See [Versioning and releases](#versioning-and-releases) and [earlier implementation notes](#earlier-implementation-notes).
 
 No public installation release date is confirmed. Releasing selected elements or open-sourcing the wider harness remains a choice.
 
 ### Installation and configuration
 
-**Bootstrap from chat:** use the short copyable instruction in [Bootstrap OODA Harness](docs/bootstrap.md). It selects an accepted source revision and target, then routes the receiving agent through the maintained installation procedure. The [Hermes notes](docs/runtimes/hermes.md#interface-and-two-reusable-participants) describe the interface plus reusable A/B option and its pending runtime checks.
-
-**Native Hermes package:** [Install and update the Hermes foundation](docs/runtimes/hermes-distribution.md) uses the root `distribution.yaml` with Hermes's native profile installer. [Deploy Harness](skills/deploy-harness/SKILL.md) coordinates shared and private updates through Bootstrap. New named profiles can use that path. Existing default and non-distribution profiles retain their established loading routes until deliberately migrated. Native install/update has been exercised in isolated profiles, preserving synthetic personal state. Private connection, model-backed loading and useful group work remain separate deployment checks.
-
-The intended onboarding experience is one-click installation with a short first-run step to connect the sovereign's context. The current package supplies native shared installation and guided private connection and group setup. It is not an unattended installation of the whole personal system.
-
-**Set up an eval group:** [Hermes room setup](docs/runtimes/hermes.md#set-up-an-eval-group) covers the room settings, how to connect the room to the role's Master and how to verify a first handoff. For an already configured room, [bootstrap the role group](docs/bootstrap-group.md).
-
-**Evaluate role work:** [Evaluation guide](docs/evaluating-role-groups.md) covers direct checks, independent review and group evaluation, with a fair solo comparison where useful.
-
-Use [Getting started](docs/getting-started.md) for the first-install, update or recovery path, with [Codex](docs/runtimes/codex.md) or [Hermes](docs/runtimes/hermes.md) setup notes. Create or connect your [private harness](docs/getting-started.md#create-or-connect-your-private-harness), then use the [role assembly path](roles/ROLE-TEMPLATE.md#assemble-this-role) when commissioning an enduring role. Put confirmed routine answers in the private bundle rather than requiring another service to supply them. Add live connections when the assignment needs them. The creator's setup history is not a prerequisite for following the guide.
-
-Finish each install, reinstall or refresh with the [private profile connection step](docs/getting-started.md#finish-installation-connect-your-private-profile). Reuse a working connection. If its location is unknown or access needs repair, ask the user and save their choice in that installation's private configuration.
+Use [Getting started](docs/getting-started.md) for the first-install, update or recovery path. It leads to the Codex and Hermes instructions, private connection and role assembly. To start from a chat, use the [copyable bootstrap instruction](docs/bootstrap.md#copy-into-chat).
 
 ### First useful interaction
 
@@ -287,7 +273,7 @@ A knowledge link explains a relationship. An execution dependency determines whi
 
 ### Selected structure and current state
 
-**Runtime and access.** Hermes is the selected deployment target. For each supported combination of interface, model and tools, we need to verify the routes for loading instructions, retrieving context and saving results. The common contract, CoS, Business Development and Research Lead references are accepted. The Odysseus engineering reference is also accepted for private specialisation. Their presence does not establish runtime loading, paired execution or benefit; retain evidence and limits for each deployment separately.
+**Runtime and access.** The [setup guide](docs/getting-started.md#configure-instruction-and-skill-loading) owns the loading and access checks. [ROLES.md](ROLES.md) records the accepted shared references. Retain evidence and limits for each deployment separately.
 
 The proposed access model gives the harness a dedicated email account and a defined working environment, with personal accounts outside that scope unless explicitly connected. A separate role, chat or directory does not by itself establish isolation. Account details and credentials belong in private configuration.
 
@@ -432,6 +418,14 @@ As the arrangement grew, responsibilities and guidance spread across different p
 I began rebuilding around Hermes and GitHub to make that design intentional: understand the whole system, clarify how its parts work together, and preserve greater control over my knowledge, instructions and choice of models and interfaces.
 
 [Inside my OODA](https://ecosystemoperator.substack.com/p/inside-my-ooda-a-bespoke-ai-harness) and the [existing schematic](https://ben-ohanlon-harness.bigkahunaburg3r.chatgpt.site/) document the earlier working arrangement.
+
+### Earlier implementation notes
+
+The [previous source snapshot](https://github.com/benohanlon/ooda-harness/blob/ca013d42823adc00ef1a8e59f296dc6165d62403/README.md#current-status) recorded these observations during the initial Hermes rebuild.
+
+> The reviewed [common operating contract](docs/operating-contract.md), [role template](roles/ROLE-TEMPLATE.md), [ecology of mind](docs/ecology-of-mind.md) and [Sovereign Profile template](docs/sovereign-profile-template.md) are merged. Individual role implementation, connected workflows and supported interfaces remain under development. The Hermes rebuild has not yet demonstrated a working MVP. The immediate target is a small number of roles completing useful assignments with recoverable results and next actions.
+>
+> Hermes setup checks on 2026-10-14 covered repository access and instruction loading for earlier definitions. They do not verify the current accepted package or useful paired work. The private setup history retains those checks; it is not needed to understand the portable method. Installation, loading and useful paired operation remain separate states.
 
 ## 10. Credit and licence
 

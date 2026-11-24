@@ -39,7 +39,7 @@ The [Hugging Face course card](https://huggingface.co/smlflg/learn-harness-engin
 
 ## Cover and literary sources
 
-[Odysseus Visual Resources](odysseus-visual-resources.md) keeps the Homeric ship passages, art and film candidates, proposed cover direction and attribution limits together. The collection links the approved original cover and its source and generation record.
+[Odysseus Visual Resources](../assets/roles/head-of-harness-engineering-odysseus.md#earlier-visual-selection) keeps the Homeric ship passages, art and film candidates, proposed cover direction and attribution limits together. The collection links the approved original cover and its source and generation record.
 
 ## Keep the map useful
 

@@ -95,4 +95,4 @@ These sources inform the method; none demonstrates benefit for this particular r
 - [MAST](https://arxiv.org/html/2503.13657v3): useful failure vocabulary, not a universal outcome score.
 - [Hermes compression evaluation](https://github.com/NousResearch/hermes-compression-eval/tree/b65773b401874863b3dab94d6b0bd3d19fd95688): continuation probes, not an evaluation of this group design.
 
-Use [Research Resources](../lists/research-resources.md) and [Community Hubs](../skills/community-research/references/communities.md) for further original evidence. Keep the actual source-reading coverage and deployment findings with the existing research/case owner. Reading, adoption, execution and demonstrated usefulness remain separate.
+Use [Research Resources](../lists/research-resources.md) and [Community Hubs](../lists/community-hubs.md) for further original evidence. Keep the actual source-reading coverage and deployment findings with the existing research/case owner. Reading, adoption, execution and demonstrated usefulness remain separate.
