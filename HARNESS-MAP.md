@@ -1,22 +1,22 @@
 # Harness Map
 
-[OODA](README.md) and a Sovereign Harness form one harness with two strands. The shared strand holds reusable methods. The private strand puts them to work through a person’s aims, relationships and working memory. This map gives you a route into either strand and shows which pages own the answers you’ll need.
+[OODA](README.md) and a Sovereign Harness form one harness with two strands. OODA provides the reusable structure. Sovereign has **private sleeves** that fit over that structure, connecting it to the person’s aims, context, relationships and living memory. This map gives you a route into either strand and shows which pages own the answers you’ll need.
 
 ## The double helix
 
 | Where | What it owns | How it connects |
 | --- | --- | --- |
-| **OODA** | Shared principles, the operating contract, reusable role definitions, skills and templates. | A private role application selects the exact shared revision it uses. |
-| **Sovereign** | Private context, the chosen team, role applications, relationships and working memory. | A private application combines the shared definition with the person’s mandate and links to the work. |
+| **OODA** | Shared principles, the operating contract, reusable role definitions, skills and templates. | A private role sleeve selects the exact shared revision it fits over. |
+| **Sovereign** | The chosen team, private sleeves, personal context, relationships and living memory. | Each sleeve applies the selected shared definition to the person’s mandate and links to the relevant context and work. |
 | **Designated work home** | The live brief, checkpoint, decisions and evidence for an account or project. | A work home links back to the accountable role and its guidance, so a reader can recover the remit when arriving through a project. |
 
 ```text
-OODA definition  ← selects a revision ─  Sovereign application  ─ links to →  Work home
+OODA definition  ← selects a revision ─  Sovereign role sleeve  ─ links to →  Work home
 OODA template    ─ shapes ─────────────→  Private project, stakeholder map or profile
 OODA improvement ← selected portable learning ─ Sovereign
 ```
 
-For a role, the selected shared definition and the private application together establish the governing basis. When paired work is commissioned, both participants receive that basis. The Client-Side Search Consultant and Head of Business Development can draw on the same [Closed, Open and Network Loops](README.md#6-opportunity-loops). Each role applies the loops within its own remit and keeps its work with the designated owner. [Combined role basis](docs/ecology-of-mind.md#combined-role-basis) · [Role assembly](roles/ROLE-TEMPLATE.md#assemble-this-role)
+For a role, the selected shared definition and its private sleeve together establish the governing basis. When paired work is commissioned, both participants receive that basis. The Client-Side Search Consultant and Head of Business Development can draw on the same [Closed, Open and Network Loops](README.md#6-opportunity-loops). Each role applies the loops within its own remit and keeps its work with the designated owner. [Combined role basis](docs/ecology-of-mind.md#combined-role-basis) · [Role assembly](roles/ROLE-TEMPLATE.md#assemble-this-role)
 
 ## Component overview
 
