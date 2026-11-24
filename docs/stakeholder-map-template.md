@@ -24,6 +24,6 @@ In the private work repository, open the map from the README’s **Theory of Min
 <Link the OODA Theory of Mind explanation, the shared map and profile templates, and applicable reading. Keep private resources at their authorised home.>
 ```
 
-Profiles can be sections below the source list or separate linked pages. Put **Profile template and reading** at the bottom of the map in either form. The [work-repo README convention](../roles/ROLE-TEMPLATE.md#work-repository-readme) shows how to surface these routes during role assembly.
+Give a short profile a named heading on the map when its evidence and decisions make sense in this project. Give a profile its own linked page when several projects retrieve it, its evidence changes independently, or its access differs. Link that page back to the relevant map. Put **Profile template and reading** at the bottom of the map in either form. The [work-repo README convention](../roles/ROLE-TEMPLATE.md#work-repository-readme) shows how to surface these routes during role assembly.
 
 [Theory of Mind in OODA](../README.md#theory-of-mind-in-role-work) · [Stakeholder profile template](stakeholder-profile-template.md)

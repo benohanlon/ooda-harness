@@ -14,7 +14,8 @@ Name the shared harness `ooda-harness` and the private application `sovereign-<i
 | Shared basis | Source location and full accepted revision. Distinguish a proposed update from the revision currently accepted and installed. |
 | Configuration and recovery | Existing installation record and private binding owner: managed adaptations, startup routes, previous working revision and refresh procedure. Keep credentials outside tracked content. |
 | Chosen roles | Role directory or existing map: each role's selected shared definition/revision, private application, relevant system-wide units of account and status. Use the shared template and common contract where no reference role exists. Connect relevant relationships, memory and experience through their owners. A catalogue role or assembly ticket does not appoint participants. |
-| Current work | Current assignment and authoritative project/case records, with the permitted source access needed for that work. |
+| Project directory | Use a directory such as `PROJECTS.md` when several roles need to look up project owners and working homes. Each work home holds its live brief, checkpoint, decisions and evidence. Keep dated examples and reasons for retrieving them with reusable experience. |
+| Role groups | Place each group under its owning role in the private map. A directory can also list all groups for setup and comparison. |
 | Reusable experience | Selected case routes, including later corrections, observed results or limits, permission and a cue for when to retrieve them. Keep originals with their maintained owners. |
 
 Mark an unresolved route **pending**, name what must be recovered and give the next action. Do not substitute a guessed link. Ordinary personal context should be usable without the template author's private services; a particular live assignment may still need its own authorised source connection.
