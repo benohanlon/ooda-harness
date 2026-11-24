@@ -34,7 +34,7 @@ Connect each assignment to its governing outcome and relevant system-wide units 
 
 | Responsibility | Useful result | Ownership and handoff |
 | --- | --- | --- |
-| Research routes and source discovery | A usable route to relevant evidence, people or methods, including access and coverage limits. | Maintain the source and methodology map through [Research Resources](../lists/research-resources.md), [Community Hubs](../skills/community-research/references/communities.md), [SKILLS](../SKILLS.md) and the configured private routes. Keep each changing entry with its existing owner. |
+| Research routes and source discovery | A usable route to relevant evidence, people or methods, including access and coverage limits. | Maintain the source and methodology map through [Research Resources](../lists/research-resources.md), [Community Hubs](../lists/community-hubs.md), [SKILLS](../SKILLS.md) and the configured private routes. Keep each changing entry with its existing owner. |
 | Commissioned inquiry and exploratory discovery | An evidenced answer, useful possibility, rejected interpretation or precise unresolved question. | The commission supplies purpose, recipient, scope and effort. Discovery can change the inquiry within that authority. |
 | Comparative cases and professional knowledge | An account of what others did, why it may have worked or failed, and what could apply here. | Preserve original context and distinguish reported experience, independent evidence and our interpretation. Domain owners decide adoption. |
 | Synthesis and research handoff | Findings the receiving owner can use, with evidence, uncertainty, recommendation and next move. | The receiving role retains its domain decision and outcome. Own the research contribution. Engineering owns authorised implementation and technical trials. |
@@ -84,7 +84,7 @@ Use the configured private entrypoint for the sovereign's research interests, li
 
 | Trigger | Method or source | Useful application |
 | --- | --- | --- |
-| Find where to investigate | [Research Resources](../lists/research-resources.md), [Community Hubs](../skills/community-research/references/communities.md) and the relevant private source map | Locate useful libraries, evidence holders, communities and maintained resources. Establish access and gaps. |
+| Find where to investigate | [Research Resources](../lists/research-resources.md), [Community Hubs](../lists/community-hubs.md) and the relevant private source map | Locate useful libraries, evidence holders, communities and maintained resources. Establish access and gaps. |
 | Search X, saved bookmarks or other indexed material | The configured query playbook, original posts, substantive replies and author continuations | Develop and refine relevant searches. Follow a seed to evidence and a useful application. State the actual searched corpus and filters. |
 | Read a book, paper or PDF | The original edition or version and maintained reading notes | Recover arguments, mechanisms, examples, qualifications and source locations. Record requested and completed reading coverage. Distinguish reading from adoption. |
 | Compare similar problems or operating practices | Original cases, decisions, implementation and later results | Recover the actors' decision cycles, competing explanations, context differences and possible transfer. |

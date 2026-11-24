@@ -45,7 +45,7 @@ The LibGen, Z-Library and Sci-Hub links open Anna's Archive's collection and sou
 
 - [Awesome](https://github.com/sindresorhus/awesome) - Topic directories for finding specialised collections of tools and resources.
 
-For AI papers, models, datasets and practitioner discussion, use the Hugging Face and Nous/Hermes links in [Community Hubs](../skills/community-research/references/communities.md#browse-hubs).
+For AI papers, models, datasets and practitioner discussion, use the Hugging Face and Nous/Hermes links in [Community Hubs](community-hubs.md#browse-hubs).
 
 The original directory entries were checked on 23 October 2026. The added book-access and document-handling entries were checked on 4 November 2026 against service pages, collection notes and official guidance. They are discovery routes, not claims that their contents have been read or adopted. Follow a useful result to its original author, version and relevant text.
 
@@ -76,7 +76,7 @@ The original directory entries were checked on 23 October 2026. The added book-a
 
 ## Source notes
 
-**Maintained owner:** Research Lead. This shelf carries selected reusable sources already used in harness research. It complements [Community Hubs](../skills/community-research/references/communities.md), which locates ongoing practitioner evidence.
+**Maintained owner:** Research Lead. This shelf carries selected reusable sources already used in harness research. It complements [Community Hubs](community-hubs.md), which locates ongoing practitioner evidence.
 
 **Coverage basis:** the 22 October 2026 engineering review and its retained source coverage. Entries below report that recorded reading, not a new full read by every consumer. Reading is separate from adoption or a reproduced result. Retrieve the specified original passages when the current task depends on them. Follow the [Community Research method](../skills/community-research/SKILL.md) for new practitioner inquiry.
 

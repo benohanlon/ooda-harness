@@ -12,6 +12,7 @@ Use this assembly path to install the shared guidance, put it into use, or updat
 - **Update, reinstall or refresh:** begin with [Update an existing installation](#update-an-existing-installation).
 - **Something no longer works:** use [Recover a working installation](#recover-a-working-installation).
 - **The harness is configured and you need a role:** use the [role template](../roles/ROLE-TEMPLATE.md#assemble-this-role).
+- **The role needs an eval group:** use [Hermes room setup](runtimes/hermes.md#set-up-an-eval-group). For an already configured room, [bootstrap the role group](bootstrap-group.md).
 
 ## Establish the destination and preserve existing work
 
@@ -42,6 +43,8 @@ Start with [README](../README.md), [SOUL](../SOUL.md) and [AGENTS](../AGENTS.md)
 Follow the [Codex](runtimes/codex.md) or [Hermes](runtimes/hermes.md) notes. Use the selected runtime's supported mechanisms and check the installed version. Record where startup instructions and complete skill packages are loaded. Preserve personalisation, specialist procedures and project guidance.
 
 Hermes can install this shared repository as a native profile distribution. The [distribution guide](runtimes/hermes-distribution.md) covers new named profiles, in-place updates and the boundary around existing default profiles. [Deploy Harness](../skills/deploy-harness/SKILL.md) follows [Bootstrap](bootstrap.md) to coordinate that shared package with the recipient's own private source. No private source is included in the distribution.
+
+The intended onboarding experience is one-click installation with a short first-run step to connect the sovereign's context. The current package supplies native shared installation and guided private connection and group setup. It is not an unattended installation of the whole personal system.
 
 The setup owner records the actual working folder and its startup, profile and project routes to the accepted shared and private sources. The working folder can sit outside those snapshots. Reuse working bindings and configure missing routes explicitly; matching filenames and readable links do not establish loading. Verify actual loading in a fresh context using that folder, for both participants when a role pair is commissioned. Keep exact paths, revisions and verification evidence in the private installation record.
 
