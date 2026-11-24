@@ -84,7 +84,7 @@ The rows below are optional examples. Fill them from existing records, use an in
 | Which contact details and documents should be used? | [Private source for approved email, phone preference and current document versions] | [Purpose, permitted sharing and any required-field exception] | [Source; date if known] |
 | [Other recurring question, including alternative wording] | [Answer or maintained source] | [When this applies; relevant exceptions] | [Source; date if known] |
 
-Add only what the person has supplied and the work needs. Detailed career evidence, application answers and current opportunity decisions retain their existing owners.
+Add only what the person has supplied and the work needs. Detailed career evidence, application answers and current opportunity decisions retain their existing owners. For a sovereign using the harness for career work, the [career.md template](career-template.md) describes the private career file and how to make it available to the assigned role.
 
 Match meaning, not just similar wording. Work authorisation does not establish citizenship; a region does not establish a legal address. A saved answer supports reuse within its scope, while permission to disclose it or take an external action comes from the current assignment and applicable agreement.
 
