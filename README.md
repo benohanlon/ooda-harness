@@ -18,7 +18,7 @@ A reusable shared foundation connects to your private Sovereign Harness, which r
 4. **Shared machinery and your private harness.** The shared and private harnesses work together so each sovereign can benefit from collective improvements while developing and protecting their own distinctive edge. Sovereign sleeves connect your private context and experience. [Shared and private harnesses](#shared-and-private-harnesses).
 5. **Getting started.** Follow [Installation and configuration](#installation-and-configuration) to select an accepted revision, connect your private context and begin useful authorised work.
 
-[SOUL](SOUL.md) · [Ecology of mind](docs/ecology-of-mind.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md) · [Lists](LISTS.md) · [Brand guide](brand/README.md)
+[Harness map](HARNESS-MAP.md) · [SOUL](SOUL.md) · [Ecology of mind](docs/ecology-of-mind.md) · [Repository guidance](AGENTS.md) · [Roles](ROLES.md) · [Skills](SKILLS.md) · [Lists](LISTS.md) · [Brand guide](brand/README.md)
 
 OODA stands for Observe, Orient, Decide and Act. [John Boyd](https://slightlyeastofnew.com/wp-content/uploads/2010/03/essence_of_winning_losing.pdf) described its role in enabling us to “comprehend, shape, adapt to and in turn be shaped by an unfolding evolving reality that is uncertain, everchanging, and unpredictable.” OODA is a non-linear process of continuing reorientation and feedback, rather than a fixed sequence of four steps.
 
