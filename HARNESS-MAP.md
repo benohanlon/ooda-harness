@@ -49,6 +49,7 @@ README.md                                                                  Purpo
 │   ├── docs/connections.md                                                Configure and verify permitted access
 │   ├── docs/private-harness-template.md                                   Private README and agent entry template
 │   │   └── docs/sovereign-profile-template.md                             Personal context template
+│   │       └── docs/career-template.md                                    Career direction and thesis template
 │   ├── docs/runtimes/codex.md                                             Codex setup and loading
 │   └── docs/runtimes/hermes.md                                            Hermes setup, profiles and rooms
 │       ├── docs/runtimes/hermes-distribution.md                           Native package installation and updates
@@ -91,6 +92,7 @@ README.md                                                                  Purpo
 | Work in this repository | [Repository instructions](AGENTS.md), then [shared judgement guidance](SOUL.md). |
 | Understand how roles work together | [Ecology of mind](docs/ecology-of-mind.md), then the [shared operating contract](docs/operating-contract.md). |
 | Assemble a private role or map its work | [Role catalogue](ROLES.md) → [role template](roles/ROLE-TEMPLATE.md) → the relevant [work-home](roles/ROLE-TEMPLATE.md#work-repository-readme), [stakeholder map](docs/stakeholder-map-template.md) or [profile](docs/stakeholder-profile-template.md) convention. |
+| Assemble the private career record | [Sovereign Profile template](docs/sovereign-profile-template.md) → [Career direction template](docs/career-template.md). |
 | Set up, update or recover an installation | [Getting started](docs/getting-started.md). For setup from a chat, use the [copyable bootstrap prompt](docs/bootstrap.md#copy-into-chat). |
 | Find a method or look up a maintained source | [Skills](SKILLS.md) or [Lists](LISTS.md). For example, the [Writing and Editing skill](skills/writing-and-editing/SKILL.md) leads to the [editorial standard](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md), which repository guidance also cites directly. |
 | Use or adapt the visual kit | [Brand kit](brand/README.md), then the [design guidelines](brand/GUIDELINES.md) and [editable sources](brand/templates/README.md). |
