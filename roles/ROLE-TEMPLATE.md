@@ -82,7 +82,7 @@ Start an arriving agent at the private `AGENTS.md`, which routes through the cho
 
 #### Work repository README
 
-When the private harness designates a project management board, put an **Open the [role or account] project board** link directly below the title of the work repository's root README. Link to the relevant view of the shared board when available, or to the full board if the role coordinates work across the team. Name the tracker and say what it tracks. Use the README to point to the current brief or checkpoint and the detailed work records.
+When the private harness designates a project management board, put an **Open the [role or account] project board** link directly below the title of the work repository's root README. Link to the relevant view of the shared board when available, or to the full board if the role coordinates work across the team. Name the tracker and say what it tracks. Use the README to point to the current brief or checkpoint and the detailed work records. Use **Resume current work** for the live route. Use **Role assembly and history** for any separate formation or acceptance record worth keeping.
 
 Use **Navigation** and **Context and use** as the column headings. Use this order for the core rows: Role & Commission, Theory of Mind, Projects, Current brief, Knowledge base, Decision log, Workflows and automation, and Runtime setup. Put the shared role and private commission together so an arriving agent can assemble both parts of the role. Add role-specific rows below the core rows where they aid navigation.
 
