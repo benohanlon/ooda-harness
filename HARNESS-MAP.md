@@ -22,68 +22,66 @@ For a role, the selected shared definition and its private sleeve together estab
 
 Indentation shows where you can find a page in the reading hierarchy. Every path is relative to the OODA repo root. Pages also link across branches where someone needs a different view or the source that owns an answer.
 
-```text
-README.md                                                                  Purpose and front door
-├── HARNESS-MAP.md                                                         This navigation and ownership map
-├── AGENTS.md                                                              Repository entry and assignment routing
-│   └── docs/pull-request-review.md                                        Review procedure
-│       └── examples/final-convergence-review.md                           Worked review and repair
-├── SOUL.md                                                                Shared identity and judgement
-├── docs/ecology-of-mind.md                                                Roles, reciprocal attention and feedback
-├── docs/operating-contract.md                                             Authority, collaboration and continuity
-│   └── docs/evaluating-role-groups.md                                     Choose and conduct a role evaluation
-├── ROLES.md                                                               Shared roles and their boundaries
-│   ├── roles/ROLE-TEMPLATE.md                                             Assemble a role and its private application
-│   │   ├── docs/stakeholder-map-template.md                               Copyable relationship map
-│   │   └── docs/stakeholder-profile-template.md                           Copyable individual profile
-│   ├── roles/chief-of-staff.md                                            Whole-harness orientation and coordination
-│   ├── roles/client-account-lead.md                                       Client relationship and project coordination
-│   ├── roles/client-side-search-consultant.md                             Candidate-side executive search
-│   │   └── roles/head-of-talent.md                                        Forwarding address
-│   ├── roles/head-of-business-development.md                              Commercial opportunities and partnerships
-│   ├── roles/head-of-harness-engineering.md                               Technical design and upkeep
-│   └── roles/research-lead.md                                             Inquiry and evidence
-│       └── examples/research-assignment.md                                Synthetic paired inquiry
-├── docs/getting-started.md                                                Setup, updates and recovery
-│   ├── docs/bootstrap.md                                                  Copyable setup prompt and revision selection
-│   ├── docs/connections.md                                                Configure and verify permitted access
-│   ├── docs/private-harness-template.md                                   Private README and agent entry template
-│   │   └── docs/sovereign-profile-template.md                             Personal context template
-│   │       └── docs/career-template.md                                    Career direction and thesis template
-│   ├── docs/runtimes/codex.md                                             Codex setup and loading
-│   └── docs/runtimes/hermes.md                                            Hermes setup, profiles and rooms
-│       ├── docs/runtimes/hermes-distribution.md                           Native package installation and updates
-│       ├── docs/bootstrap-group.md                                        Commission a configured role group
-│       └── docs/eval-group-template.md                                    Reusable group settings template
-├── SKILLS.md                                                              Skill catalogue and assembly instructions
-│   ├── docs/skill-assembly-template.md                                    Forwarding address for skill assembly
-│   ├── skills/community-research/SKILL.md                                 Research practitioner evidence
-│   │   └── skills/community-research/references/communities.md            Bundled standalone reference
-│   ├── skills/deploy-harness/SKILL.md                                     Deploy, refresh or recover
-│   ├── skills/health-check/SKILL.md                                       Review coherence and drift
-│   ├── skills/perception-check/SKILL.md                                   Orient to current work and evidence
-│   │   └── examples/perception-check-role.md                              Synthetic role walkthrough
-│   ├── skills/sense-of-taste/SKILL.md                                     Review bounded work against its brief
-│   └── skills/writing-and-editing/SKILL.md                                Writing and editing method
-│       ├── skills/writing-and-editing/references/EDITORIAL-STANDARDS.md   Maintained standard
-│       ├── skills/writing-and-editing/references/career-writing.md        Career guidance
-│       └── skills/writing-and-editing/references/visual-communication.md  Diagram guidance
-├── LISTS.md                                                               Maintained collection catalogue
-│   ├── lists/community-hubs.md                                            Canonical practitioner directory
-│   ├── lists/harness-engineering-resources.md                             Runtime and engineering references
-│   ├── lists/research-resources.md                                        Research sources and reading notes
-│   ├── lists/role-resources.md                                            Cross-role bibliography
-│   └── lists/short-film-resources.md                                      Film production references
-│       └── docs/short-film-workflow.md                                    A reusable first-cut method
-└── brand/README.md                                                        Current visual kit
-    ├── brand/GUIDELINES.md                                                Visual and production rules
-    ├── brand/PROMPTS.md                                                   Artwork production briefs
-    ├── brand/fonts/README.md                                              Font provenance and licensing
-    ├── brand/templates/README.md                                          Editable sources and rendering
-    ├── assets/roles/head-of-harness-engineering-odysseus.md               Artwork provenance and selection
-    │   └── lists/odysseus-visual-resources.md                             Forwarding address for source notes
-    └── brand/history/v1.3/README.md                                       Earlier kit and source history
-```
+- [OODA Harness](README.md)
+    - [This navigation and ownership map](HARNESS-MAP.md)
+    - [Repository entry and assignment routing](AGENTS.md)
+        - [Review procedure](docs/pull-request-review.md)
+            - [Worked review and repair](examples/final-convergence-review.md)
+    - [Shared identity and judgement](SOUL.md)
+    - [Roles, reciprocal attention and feedback](docs/ecology-of-mind.md)
+    - [Authority, collaboration and continuity](docs/operating-contract.md)
+        - [Choose and conduct a role evaluation](docs/evaluating-role-groups.md)
+    - [Shared roles and their boundaries](ROLES.md)
+        - [Assemble a role and its private application](roles/ROLE-TEMPLATE.md)
+            - [Copyable relationship map](docs/stakeholder-map-template.md)
+            - [Copyable individual profile](docs/stakeholder-profile-template.md)
+        - [Whole-harness orientation and coordination](roles/chief-of-staff.md)
+        - [Client relationship and project coordination](roles/client-account-lead.md)
+        - [Candidate-side executive search](roles/client-side-search-consultant.md)
+            - [Forwarding address](roles/head-of-talent.md)
+        - [Commercial opportunities and partnerships](roles/head-of-business-development.md)
+        - [Technical design and upkeep](roles/head-of-harness-engineering.md)
+        - [Inquiry and evidence](roles/research-lead.md)
+            - [Synthetic paired inquiry](examples/research-assignment.md)
+    - [Setup, updates and recovery](docs/getting-started.md)
+        - [Copyable setup prompt and revision selection](docs/bootstrap.md)
+        - [Configure and verify permitted access](docs/connections.md)
+        - [Private README and agent entry template](docs/private-harness-template.md)
+            - [Personal context template](docs/sovereign-profile-template.md)
+                - [Career direction and thesis template](docs/career-template.md)
+        - [Codex setup and loading](docs/runtimes/codex.md)
+        - [Hermes setup, profiles and rooms](docs/runtimes/hermes.md)
+            - [Native package installation and updates](docs/runtimes/hermes-distribution.md)
+            - [Commission a configured role group](docs/bootstrap-group.md)
+            - [Reusable group settings template](docs/eval-group-template.md)
+    - [Skill catalogue and assembly instructions](SKILLS.md)
+        - [Forwarding address for skill assembly](docs/skill-assembly-template.md)
+        - [Research practitioner evidence](skills/community-research/SKILL.md)
+            - [Bundled standalone reference](skills/community-research/references/communities.md)
+        - [Deploy, refresh or recover](skills/deploy-harness/SKILL.md)
+        - [Review coherence and drift](skills/health-check/SKILL.md)
+        - [Orient to current work and evidence](skills/perception-check/SKILL.md)
+            - [Synthetic role walkthrough](examples/perception-check-role.md)
+        - [Review bounded work against its brief](skills/sense-of-taste/SKILL.md)
+        - [Writing and editing method](skills/writing-and-editing/SKILL.md)
+            - [Maintained standard](skills/writing-and-editing/references/EDITORIAL-STANDARDS.md)
+            - [Career guidance](skills/writing-and-editing/references/career-writing.md)
+            - [Diagram guidance](skills/writing-and-editing/references/visual-communication.md)
+    - [Maintained collection catalogue](LISTS.md)
+        - [Canonical practitioner directory](lists/community-hubs.md)
+        - [Runtime and engineering references](lists/harness-engineering-resources.md)
+        - [Research sources and reading notes](lists/research-resources.md)
+        - [Cross-role bibliography](lists/role-resources.md)
+        - [Film production references](lists/short-film-resources.md)
+            - [A reusable first-cut method](docs/short-film-workflow.md)
+    - [Current visual kit](brand/README.md)
+        - [Visual and production rules](brand/GUIDELINES.md)
+        - [Artwork production briefs](brand/PROMPTS.md)
+        - [Font provenance and licensing](brand/fonts/README.md)
+        - [Editable sources and rendering](brand/templates/README.md)
+        - [Artwork provenance and selection](assets/roles/head-of-harness-engineering-odysseus.md)
+            - [Forwarding address for source notes](lists/odysseus-visual-resources.md)
+        - [Earlier kit and source history](brand/history/v1.3/README.md)
 
 ## Find the page you need
 

@@ -437,7 +437,7 @@ The operating model draws on John Boyd’s [The Essence of Winning and Losing](h
 
 If you share or adapt the project, please credit Ben and link to the original project and newsletter. This is a voluntary request. The licence decision remains open.
 
-[Original project](https://github.com/benohanlon/ooda-harness) · [Writing, resume and contact](https://linktr.ee/benohanlon)
+[Harness Map](HARNESS-MAP.md) · [Original project](https://github.com/benohanlon/ooda-harness) · [Writing, resume and contact](https://linktr.ee/benohanlon)
 
 ---
 
