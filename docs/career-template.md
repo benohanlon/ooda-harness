@@ -14,14 +14,32 @@ Put proof at the turn it substantiates. A before-and-after measure, dated adopti
 
 The career thesis says what the next move should add. In `career.md`, give each active direction a short summary that tells the reader where to look, what outcome the sovereign would own and what signal makes the opportunity timely. Link a separate card when the full thesis is useful on its own, for example when an agent needs its search criteria or a person needs to revisit its evidence. Keep the full thesis with its maintained owner and link each card back to the parent.
 
-A full card can use these headings.
+### Copyable thesis card
 
-| Section | What to capture |
-| --- | --- |
-| Where and why now | The kind of organisation, what changed and why it might need this work now. |
-| Mandate and career move | The outcome to own, who can sponsor it, the authority and resources it needs, and what the move would add. |
-| Evidence and gaps | A relevant result and any material gap in fit. |
-| Discovery and next test | Search signals, a useful next check and what would change the assessment. |
+```markdown
+# <Career direction>
+
+## Career Thesis
+
+<In the person's voice: what they believe about this field, why they want to work in it, what problem they can solve and what the next move should let them own.>
+
+## Executive Search Brief
+
+<Make this section independently shareable. Link the approved public résumé, professional profile and relevant work.>
+
+**Target organisations and hiring situation.** <Which employers should a recruiter think of? What change makes a call timely?>
+**Mandate.** <Outcome, likely titles, sponsor, scope, team and decision rights.>
+**Relevant track record.** <One or two attributable results that establish credibility in this field.>
+**Working arrangements and remuneration.** <Include the practical terms the person wants recruiters to see, using the parent career brief as the source.>
+
+## Sourcing Plan
+
+**What to look for.** <Refer to the brief for targets and terms. Distinguish requirements, preferences and open questions. List primary domain terms, mandate terms, adjacent terms and alternative titles explicitly.>
+**How to assemble the search.** <Specify which alternatives can substitute for each other and which independent conditions must both hold. Say where evidence may come from. Adapt the same accepted definition to each source's capabilities. Record the revision, actual queries, coverage and proposed vocabulary changes.>
+**How to judge and return results.** <Give a clear match, a pass and a case needing a question. Define the freshness window, verification and duplicate rules, what counts as partial coverage, and the existing destination and next owner.>
+```
+
+Keep source credentials, schedules and platform-specific calls with the worker. Keep candidate details, private cases and search vocabulary in the person's own card. Check that the brief makes sense when copied alone and that two workers reading the same revision can explain why the same vacancy qualifies.
 
 ## Copyable career file
 
