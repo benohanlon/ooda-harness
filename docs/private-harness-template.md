@@ -12,6 +12,7 @@ Name the shared harness `ooda-harness` and the private application `sovereign-<i
 | --- | --- |
 | Personal context | Profile entrypoint, relevant answers and communication preferences, or the resolved choice to proceed without one. |
 | Shared basis | Source location and full accepted revision. Distinguish a proposed update from the revision currently accepted and installed. |
+| Scheduled work | If you commission recurring work, link your private directory of jobs from here and from each owning role’s workflows and automation page. Start with the [copyable scheduled assignment](../README.md#copyable-scheduled-assignment). |
 | Configuration and recovery | Existing installation record and private binding owner: managed adaptations, startup routes, previous working revision and refresh procedure. Keep credentials outside tracked content. |
 | Chosen roles | Role directory or existing map: each role's selected shared definition/revision, private application, relevant system-wide units of account and status. Use the shared template and common contract where no reference role exists. Connect relevant relationships, memory and experience through their owners. A catalogue role or assembly ticket does not appoint participants. |
 | Project directory | Use a directory such as `PROJECTS.md` when several roles need to look up project owners and working homes. Each work home holds its live brief, checkpoint, decisions and evidence. Keep dated examples and reasons for retrieving them with reusable experience. |
