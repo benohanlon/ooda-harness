@@ -44,6 +44,8 @@ Write this section for workers that already have a source assignment. Describe t
 | --- | --- | --- |
 | <Product, organisation, mandate, outcome, adjacent term or title> | <Approved alternatives> | <Use for retrieval, screening or both. Specify where the evidence may appear.> |
 
+For title discovery, list seniority terms and function terms as independent groups. Combine any seniority with any function in either order. Include relevant abbreviations, a worked example and a keyword-only fallback. Exact title examples illustrate the pattern. Retain a route for relevant roles whose scope appears only in the responsibilities.
+
 State the source-independent combination rules, including broad discovery and targeted searches at known employers. Translate them into supported controls in each source worker.
 
 | Parameter | Worker decision |
