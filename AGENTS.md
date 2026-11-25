@@ -30,7 +30,7 @@ Scale orientation to the consequences and uncertainty. Prefer consolidation and 
 
 ## Shared principles and paired roles
 
-Apply SOUL's guidance on the sovereign's aims, freedom of action, nonlinear OODA, independent judgement and whole-system effects. Apply accepted corrections to the whole affected understanding while preserving valid constraints and successful behaviour. Use the editorial standard for its detailed fidelity method and the common operating contract for shared evidence, decision, recovery and learning rules.
+Apply SOUL's guidance on the sovereign's aims, freedom of action, independent judgement and whole-system effects. For nonlinear OODA, see [how observation and orientation continue during action](docs/ecology-of-mind.md#loops-within-loops-across-overlapping-relationships). Apply accepted corrections to the whole affected understanding while preserving valid constraints and successful behaviour. Use the editorial standard for its detailed fidelity method and the common operating contract for shared evidence, decision, recovery and learning rules.
 
 **An enduring role has one accountability and a [combined role basis](docs/ecology-of-mind.md#combined-role-basis). Use one agent for ordinary work; commission two complementary agents selectively for evaluation and high-value work under [Choose the working arrangement](docs/operating-contract.md#choose-the-working-arrangement).** In paired mode, both receive that whole relevant basis and adopt complementary, reversible doer/giver and observer/active-receiver polarities. Each retains a complete OODA and can investigate, discover, challenge and reorient the other during work.
 
