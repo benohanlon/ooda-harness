@@ -40,9 +40,22 @@ Write this section for workers that already have a source assignment. Describe t
 
 ## Search Parameters
 
-**What to look for.** <Refer to the brief for targets and terms. Distinguish requirements, preferences and open questions. List primary domain terms, mandate terms, adjacent terms and alternative titles explicitly.>
-**How to assemble the search.** <Specify which alternatives can substitute for each other and which independent conditions must both hold. Say where evidence may come from. Adapt the same accepted definition to each source's capabilities. Record the revision, actual queries, coverage and proposed vocabulary changes.>
-**How to judge and return results.** <Give a clear match, a pass and a case needing a question. Define the freshness window, verification and duplicate rules, what counts as partial coverage, and the existing destination and next owner.>
+| Search group | Agreed terms | How to use them |
+| --- | --- | --- |
+| <Product, organisation, mandate, outcome, adjacent term or title> | <Approved alternatives> | <Use for retrieval, screening or both. Specify where the evidence may appear.> |
+
+State the source-independent combination rules, including broad discovery and targeted searches at known employers. Translate them into supported controls in each source worker.
+
+| Parameter | Worker decision |
+| --- | --- |
+| Recency and availability | <Window, cutoff and required date evidence for a vacancy or a material change.> |
+| Relevance and timing | <Product, owned outcome, trigger and evidence of commitment.> |
+| Authority and practical fit | <Refer to the brief. Distinguish hard constraints from unresolved preferences.> |
+| Evidence and history | <Original source, stable identity and previous decisions.> |
+| Coverage | <Revision, queries, filters, stopping condition and remaining work.> |
+
+Give one high-signal example for each loop and a plausible false positive. Preserve the difference between a verified role, an inferred mandate and a relationship move. Return through the assigned destination.
+
 ```
 
 Keep source credentials, schedules and platform-specific calls with the worker. Keep candidate details, private cases and search vocabulary in the person's own card. Check that the brief makes sense when copied alone and that two workers reading the same revision can explain why the same vacancy qualifies.
