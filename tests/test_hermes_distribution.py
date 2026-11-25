@@ -22,7 +22,7 @@ else:
 
 PACKAGE = Path(__file__).resolve().parents[1]
 OWNED = {
-    "distribution.yaml", "SOUL.md", "README.md", "HARNESS-MAP.md", "AGENTS.md", "ROLES.md",
+    "distribution.yaml", "LICENSE", "SOUL.md", "README.md", "HARNESS-MAP.md", "AGENTS.md", "ROLES.md",
     "SKILLS.md", "LISTS.md", "docs", "roles", "skills", "lists", "examples",
     "assets", "brand",
 }
