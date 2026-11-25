@@ -403,6 +403,19 @@ Scheduled work must preserve the ongoing conversation’s task and flow. Use a s
 
 Check configured state, actual execution, coverage, delivery and usefulness separately. A calendar entry or scheduled invocation is not evidence of completed work.
 
+### Copyable scheduled assignment
+
+Put one entry in the sovereign’s existing private Scheduled Work directory. Link the owning role’s workflows and automation page to that entry. A job may invoke a reusable skill or use its own versioned instructions.
+
+| Field | Supply in the private entry |
+| --- | --- |
+| Assignment | Outcome, accountable role and bounded worker. |
+| Invocation | Trigger, cadence and timezone, isolated execution context, prompt or skill revision, inputs and permitted effects. Keep credentials in the runtime’s credential store. |
+| Return | Existing destination, evidence of completion, how to report a partial or failed run, and who reviews it. |
+| Runtime evidence | Desired state, observed enabled or paused state, runtime job ID, revision actually loaded and dated last return. Mark unknowns explicitly. |
+
+For a new sovereign, substitute their own role, source and destination. For example, a documentation owner could commission a worker to read an approved release feed and return changed entries to a private maintenance issue. Test the invocation manually with those bindings. After an authorised schedule is enabled, check that the isolated worker loaded the intended revision and delivered a dated return. A manual run and a scheduled run establish different facts.
+
 Ask for a Schedule Check to establish what is due, what actually ran and what needs attention. The method compares agreed commitments with available execution evidence and reports gaps. It is maintained within [Perception Check](skills/perception-check/SKILL.md), where it can be used independently or contribute to the wider situational review. Manual testing remains pending.
 
 <a name="8-development-and-sharing"></a>
