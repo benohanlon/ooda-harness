@@ -19,6 +19,8 @@ The career thesis says what the next move should add. In `career.md`, give each 
 ```markdown
 # <Career direction>
 
+<Name> speaks in the first person in the Career Thesis and Executive Search Brief. Use these sections to judge fit. Follow the Sourcing Plan and its search parameters to run the search.
+
 ## Career Thesis
 
 <In the person's voice: what they believe about this field, why they want to work in it, what problem they can solve and what the next move should let them own.>
