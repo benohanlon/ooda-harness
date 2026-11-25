@@ -56,6 +56,8 @@ Keep the accepted source intact. If installed skill copies move away from their 
 
 For personalised use, connect the shared package to a private working home you maintain. The [shared/private explanation](../README.md#shared-and-private-harnesses) defines that arrangement and meaningful sovereign sleeves. Reuse an existing private repository, folder or chosen store and its maintained owners. A profile bundle can be the starting home; it need not contain every connected project or record.
 
+On GitHub, open [sovereign-harness-template](https://github.com/benohanlon/sovereign-harness-template), choose **Use this template** and select **Private**.
+
 Use `ooda-harness` for the shared harness and `sovereign-harness-<username>` for its private application. The generic example is `sovereign-harness-username`; replace `username` with the person's chosen identifier, for example `sovereign-harness-alex`. A display name can be **Sovereign Harness · Alex**. These names identify the harnesses; they require neither GitHub storage nor a new repository or directory for each role. For an existing installation, preserve working addresses until an authorised migration reconciles its [active routes and bindings](#update-an-existing-installation).
 
 1. **Recover the existing arrangement.** Inspect its entrypoint, chosen roles, private bindings and relevant records. Retain working locations and access boundaries. Resolve an unknown profile location through the final connection step below rather than asking twice. An explicit choice to continue with limited personal context remains valid.
