@@ -4,7 +4,7 @@
 
 ![Sovereign OODA Harness. A mint and petrol-teal eye reflects the surrounding world. There's something in you that the world needs. Counter-revolutionary manoeuvre warfare. Cognitive superiority within the distributed mind.](assets/sovereign-ooda-cover.jpg)
 
-**Public alpha.** Pick one profile pack, try it on a real task and [tell us how it went](https://github.com/benohanlon/ooda-harness/issues).
+**Alpha.** Pick one profile pack, try it on a real task and [tell us how it went](https://github.com/benohanlon/ooda-harness/issues).
 
 ## Own your intelligence
 
@@ -203,7 +203,7 @@ We draw on manoeuvre warfare as a strategic lens. The ambition is cognitive supr
 
 ### Sovereign sleeves and shared revisions
 
-The **shared OODA Harness** provides reusable principles, common contracts, role templates, reference roles, skills and assembly guidance. It is the shared foundation for the public alpha. The [scoped MIT licence](LICENSE) covers the reusable harness material.
+The **shared OODA Harness** provides reusable principles, common contracts, role templates, reference roles, skills and assembly guidance. It is the shared foundation for the alpha. The [scoped MIT licence](LICENSE) covers the reusable harness material.
 
 Your **private sovereign harness** is the personal implementation you maintain around a chosen shared revision: your profile, chosen team, customised responsibilities, private bindings and connections to projects and experience. It can reference shared definitions while retaining your own adaptations. The runtime hosts the actual agents; the repositories and other chosen stores preserve their guidance and continuity. Connect existing work through its maintained owners so the harness can extend what you already have.
 

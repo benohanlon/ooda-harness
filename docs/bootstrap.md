@@ -1,6 +1,6 @@
 # Bootstrap OODA Harness
 
-**Public alpha: agent-driven setup.** Give an existing assistant the short instruction below; the repository supplies the installation procedure. It needs repository access and permission to configure the selected destination. This does not install the assistant runtime itself or establish that a role pair is operational.
+**Alpha: agent-driven setup.** Give an existing assistant the short instruction below; the repository supplies the installation procedure. It needs repository access and permission to configure the selected destination. This does not install the assistant runtime itself or establish that a role pair is operational.
 
 ## Two parts, one personalised deployment
 
