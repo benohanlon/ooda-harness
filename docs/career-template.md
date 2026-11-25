@@ -80,3 +80,12 @@ Keep source credentials, schedules and platform-specific calls with the worker. 
 
 <Group approved materials and the strongest cases by the questions they answer. Say what each case shows and link to the version suitable for the intended audience. Keep routine application answers in the FAQ and full examples with their maintained owners.>
 ```
+
+## Career thesis references and worked examples
+
+When drafting or reviewing a thesis card, use the examples for the section you are working on.
+
+- **Career thesis.** Allison Mnookin explains how she tested her account of her strengths with former colleagues and used it to recognise an unexpected opportunity. Stacey Feero shows an excerpt from her own candidate one-pager. [Mnookin’s firsthand account](https://womenpm.org/wp-content/uploads/2023/05/Allison-H.-Mnookin-_-Phyl-Terry.pdf) · [Feero’s worked example](https://nofearproductleadership.substack.com/p/interviewing-for-your-next-product)
+- **Executive search brief.** Pages 7–11 of Spencer Stuart’s OHSU president specification connect the institution’s needs to outcomes, authority and evidence of capability. For a candidate’s brief, describe the situation in which a recruiter should call. [OHSU position specification](https://www.ohsu.edu/sites/default/files/2025-02/OHSU-President-51221-015-SPC-Final.pdf#page=7) · [Spencer Stuart’s candidate guidance](https://www.spencerstuart.com/research-and-insight/practical-advice-for-experienced-job-seekers-a-reactive-and-proactive-mix)
+- **Sourcing plan.** Isaacson, Miller’s sample plan shows how a first review brings together prospects and lessons from conversations. Duke’s candidate-side worksheet distinguishes interest in an employer, a potential advocate and evidence of hiring. [Sample search work plan, p. 124](https://fa.ucf.edu/wp-content/uploads/sites/3/2016/11/C00001706-Isaacson-Miller-Inc.pdf#page=124) · [Duke’s employer target list](https://sites.duke.edu/prattgsps/career-communications-team/job-internship-search/understand-the-job-market-employers/target-list/)
+- **Search parameters.** Cochrane’s worked searches show how to combine alternatives within a concept and require evidence across concepts. Check the provider’s documentation when translating that logic into supported filters, sorting and pagination. [Cochrane search methods, §3.4](https://training.cochrane.org/chapter04-tech-supplonlinepdfv65270924#page=66) · [Himalayas job search parameters](https://himalayas.app/docs/remote-jobs-mcp)
