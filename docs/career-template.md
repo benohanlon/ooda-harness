@@ -36,7 +36,7 @@ The career thesis says what the next move should add. In `career.md`, give each 
 
 ## Sourcing Plan
 
-Describe the three routes. For known targets, compare the last recorded state with original sources and capture material changes. For open discovery, name sources and dated events that could create a mandate. For relationships, use the history, what the candidate can offer and the reason to reconnect. Identify the existing destination, what warrants review and who owns the next action when routes overlap.
+Write this section for workers that already have a source assignment. Describe the evidence that matters to this thesis in each loop: changes at known targets, newly discovered vacancies or trigger events, and opportunities to develop an existing relationship. Give examples specific enough to distinguish an observed fact from a plausible hiring need. Specify what the search lead needs to recognise relevance, uncertainty and repeated sightings across sources. The job brief supplies the source, permitted actions and return destination.
 
 ## Search Parameters
 
