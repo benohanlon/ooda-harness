@@ -2,6 +2,10 @@
 
 [OODA](README.md) and a Sovereign Harness form one harness with two strands. OODA provides the reusable structure. Sovereign has **private sleeves** that fit over that structure, connecting it to the person’s aims, context, relationships and living memory. This map gives you a route into either strand and shows which pages own the answers you’ll need.
 
+[![Shared OODA principles, roles and templates connect to an illustrative private team and its work repositories.](assets/harness-map/overview.png)](assets/harness-map/explorer.html?raw=1)
+
+[Download the interactive map](assets/harness-map/explorer.html?raw=1) · [Follow the role route (GIF)](assets/harness-map/overview.gif). Open the downloaded HTML to browse the page index and explore the full Graphify network.
+
 ## The double helix
 
 | Where | What it owns | How it connects |
