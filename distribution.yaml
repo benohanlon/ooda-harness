@@ -4,6 +4,7 @@ version: 0.1.0-alpha.1
 description: "OODA shared foundation for a sovereign interface and reusable participants"
 distribution_owned:
   - distribution.yaml
+  - LICENSE
   - SOUL.md
   - README.md
   - HARNESS-MAP.md
