@@ -43,7 +43,7 @@ Hermes records the source location for later updates. Keep that checkout availab
 
 The built-in `default` profile cannot be a distribution target. Preserve an existing interface there through Bootstrap's established file-loading/update path. Existing named profiles without distribution metadata also remain on that path until their migration is commissioned and reviewed. `--force` can replace authored configuration and is not a routine conversion strategy.
 
-For community use, recipients with access can also install this distribution directly from its Git repository. That follows the source's default branch. A public community release and licence remain deliberate publication decisions, separate from this private alpha implementation.
+For community use, recipients with access can also install this distribution directly from its Git repository. That follows the source's default branch. See the [licence](../../LICENSE) for reuse and artwork attribution.
 
 ## 3. Connect the private half and verify use
 

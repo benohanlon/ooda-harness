@@ -2,7 +2,7 @@
 
 Use this assembly path to install the shared guidance, put it into use, or update an existing installation. A human or an agent can follow it. The result should be a known revision, working instruction and skill routes, a small private working home where chosen, a resolved private-profile connection and a recoverable next assignment.
 
-**Private alpha:** this is a manual guide, not a one-click installer or evidence of independent installation. Creating an enduring role follows the [role assembly path](../roles/ROLE-TEMPLATE.md#assemble-this-role); installing the package alone does not start its participants.
+**Public alpha:** this is a manual guide, not a one-click installer or evidence of independent installation. Creating an enduring role follows the [role assembly path](../roles/ROLE-TEMPLATE.md#assemble-this-role); installing the package alone does not start its participants.
 
 ## Choose your path
 

@@ -4,7 +4,7 @@
 
 ![Sovereign OODA Harness. A mint and petrol-teal eye reflects the surrounding world. There's something in you that the world needs. Counter-revolutionary manoeuvre warfare. Cognitive superiority within the distributed mind.](assets/sovereign-ooda-cover.jpg)
 
-**Private alpha.** No public installation release date is confirmed.
+**Public alpha.** Pick one profile pack, try it on a real task and [tell us how it went](https://github.com/benohanlon/ooda-harness/issues).
 
 ## Own your intelligence
 
@@ -20,7 +20,7 @@ Each character gives you someone familiar to turn to. Behind the card is an oper
 
 [![Six rotating profile packs. Baldwin, Blake, Harry, Bateson, Odysseus and the Faceless Men.](assets/roles/profile-packs.gif)](https://sovereignharness.io/#profile-packs)
 
-[Browse the profile packs](https://sovereignharness.io/#profile-packs) · [Set up your first role (private alpha)](docs/getting-started.md)
+[Browse the profile packs](https://sovereignharness.io/#profile-packs) · [Set up your first role](docs/getting-started.md)
 
 <a name="shared-and-private-harnesses"></a>
 
@@ -203,7 +203,7 @@ We draw on manoeuvre warfare as a strategic lens. The ambition is cognitive supr
 
 ### Sovereign sleeves and shared revisions
 
-The **shared OODA Harness** provides reusable principles, common contracts, role templates, reference roles, skills and assembly guidance. It is the intended commons, currently a private alpha. The [scoped MIT licence](LICENSE) covers the reusable harness material.
+The **shared OODA Harness** provides reusable principles, common contracts, role templates, reference roles, skills and assembly guidance. It is the shared foundation for the public alpha. The [scoped MIT licence](LICENSE) covers the reusable harness material.
 
 Your **private sovereign harness** is the personal implementation you maintain around a chosen shared revision: your profile, chosen team, customised responsibilities, private bindings and connections to projects and experience. It can reference shared definitions while retaining your own adaptations. The runtime hosts the actual agents; the repositories and other chosen stores preserve their guidance and continuity. Connect existing work through its maintained owners so the harness can extend what you already have.
 
@@ -486,7 +486,7 @@ The operating model draws on John Boyd’s [The Essence of Winning and Losing](h
 
 [Hermes Agent by Nous Research](https://github.com/NousResearch/hermes-agent) is the selected runtime. Its official [user guide](https://hermes-agent.nousresearch.com/docs/user-guide/which-file-does-what) informs the file and loading conventions described here.
 
-If you share or adapt the project, please credit Ben and link to the original project and newsletter. This is a voluntary request. See the [licence](LICENSE) for the covered files and exclusions.
+If you share or adapt the project, please credit Ben and link to the original project and newsletter. This request is voluntary for the MIT-covered material. When sharing artwork, credit Ben O’Hanlon and link to [OODA Harness](https://github.com/benohanlon/ooda-harness). See the [licence](LICENSE) for the covered files and exclusions.
 
 [Harness Map](HARNESS-MAP.md) · [Original project](https://github.com/benohanlon/ooda-harness) · [Writing, resume and contact](https://linktr.ee/benohanlon)
 

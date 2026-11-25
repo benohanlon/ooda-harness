@@ -4,6 +4,8 @@
 
 **Kit 2.2 · 20 November 2026**
 
+When sharing artwork, role cards or brand kits, credit Ben O’Hanlon and link to [OODA Harness](https://github.com/benohanlon/ooda-harness). See the [artwork permission](../LICENSE).
+
 [Download kit 2.2](downloads/sovereign-ooda-brand-kit-v2.2.zip?raw=true) · [Design guidelines](GUIDELINES.md) · [Editable sources and rendering](templates/README.md) · [Artwork prompts](PROMPTS.md)
 
 One visual language connects the harness cover, character cards and architecture illustrations: dark petrol teal, pale mint, restrained orange, fine print texture and clear type hierarchy. Ben selected this direction from the Blake card and requested the wider kit update. Nous Research / Hermes informed the visual direction; these are OODA production choices, not official third-party brand specifications.
