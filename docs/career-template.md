@@ -12,7 +12,7 @@ Put proof at the turn it substantiates. A before-and-after measure, dated adopti
 
 ## Write the career thesis
 
-The career thesis says what the next move should add. In `career.md`, give each active direction a short summary that tells the reader where to look, what outcome the sovereign would own and what signal makes the opportunity timely. Link a separate card when the full thesis is useful on its own, for example when an agent needs its search criteria or a person needs to revisit its evidence. Keep the full thesis with its maintained owner and link each card back to the parent.
+The career thesis says what the next move should add. In `career.md`, give each active direction a short summary that tells the reader where to look, what outcome the sovereign would own and what signal makes the opportunity timely. Link a separate card when the full thesis is useful on its own, for example when an agent needs its search criteria or a person needs to revisit its evidence. Keep the full thesis with its maintained owner and link each card back to the parent. When testing a direction, compare it with dated feedback from a recruiter, colleague or hiring team. Record what their response established in the existing case. A lack of feedback leaves the thesis untested.
 
 ### Copyable thesis card
 
@@ -31,12 +31,12 @@ The career thesis says what the next move should add. In `career.md`, give each 
 
 **Target organisations and hiring situation.** <Which employers should a recruiter think of? What change makes a call timely?>
 **Mandate.** <Outcome, likely titles, sponsor, scope, team and decision rights.>
-**Relevant track record.** <One or two attributable results that establish credibility in this field.>
+**Relevant track record.** <One or two attributable results linked to the hiring problem. If the evidence comes from another field, say what the person can carry across and what remains unproved.>
 **Working arrangements and remuneration.** <Include the practical terms the person wants recruiters to see, using the parent career brief as the source.>
 
 ## Sourcing Plan
 
-Write this section for workers that already have a source assignment. Describe the evidence that matters to this thesis in each loop: changes at known targets, newly discovered vacancies or trigger events, and opportunities to develop an existing relationship. Give examples specific enough to distinguish an observed fact from a plausible hiring need. Specify what the search lead needs to recognise relevance, uncertainty and repeated sightings across sources. The job brief supplies the source, permitted actions and return destination.
+Write this section for workers that already have a source assignment. Describe the evidence that matters to this thesis in each loop: changes at known targets, newly discovered vacancies or trigger events, and opportunities to develop an existing relationship. Give examples specific enough to distinguish an observed fact from a plausible hiring need. Specify what the search lead needs to recognise relevance, uncertainty and repeated sightings across sources. The job brief supplies the source, permitted actions and return destination. The search lead joins repeated sightings to one case, retains each relevant thesis and identifies the outcome the hire would own. Bring back what changed the assessment, who could substantiate it and the event or date for another look.
 
 | Loop | Evidence worth returning for this thesis |
 | --- | --- |
@@ -57,11 +57,11 @@ Write this section for workers that already have a source assignment. Describe t
 
 For title discovery, list seniority terms and function terms as independent groups. Combine any seniority with any function in either order. Include relevant abbreviations, a worked example and a keyword-only fallback. Exact title examples illustrate the pattern. Retain a route for relevant roles whose scope appears only in the responsibilities.
 
-State the source-independent combination rules, including broad discovery and targeted searches at known employers. Translate them into supported controls in each source worker. For a date-ordered feed, specify how to cover the window once and evaluate the pooled records. For a keyword service, define separate passes and how to deduplicate them.
+State the source-independent combination rules, including broad discovery and targeted searches at known employers. Translate them into supported controls in each source worker. For a feed sorted by original posting date, page to the cutoff or the end of the feed and assess the pooled records. A relevance-ranked or recently updated feed can contain older records before newer ones. Use a supported date filter or exhaust the results before reporting complete coverage. For a keyword service, compare a broad pass with a targeted pass on the same records where possible. Check one expected match and inspect the irrelevant results before narrowing the terms.
 
 | Parameter | Worker decision |
 | --- | --- |
-| Recency and availability | <Window, cutoff and required date evidence for a vacancy or a material change.> |
+| Recency and availability | <Window, cutoff, timezone and evidence of the original posting or dated material change. Record first sighting separately.> |
 | Relevance and timing | <Product, owned outcome, trigger and evidence of commitment.> |
 | Authority and practical fit | <Refer to the brief. Distinguish hard constraints from unresolved preferences.> |
 | Evidence and history | <Original source, stable identity and previous decisions.> |
