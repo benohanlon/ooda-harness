@@ -1,10 +1,10 @@
-# Sovereign Harness
+# OODA Harness · The shared foundation for Sovereign Harness
 
 <a name="sovereign-ooda-harness"></a>
 
 ![Sovereign OODA Harness. A mint and petrol-teal eye reflects the surrounding world. There's something in you that the world needs. Counter-revolutionary manoeuvre warfare. Cognitive superiority within the distributed mind.](assets/sovereign-ooda-cover.jpg)
 
-**Alpha.** Pick one profile pack, try it on a real task and [tell us how it went](https://github.com/benohanlon/ooda-harness/issues).
+**Public alpha.** To build your own Sovereign Harness, copy the [private harness home template](docs/private-harness-template.md) into a private repository you control. Add your context, chosen roles and working memory there. Pick one profile pack, try it on a real task and [tell us how it went](https://github.com/benohanlon/ooda-harness/issues).
 
 ## Own your intelligence
 
