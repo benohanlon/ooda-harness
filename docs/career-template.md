@@ -38,11 +38,22 @@ The career thesis says what the next move should add. In `career.md`, give each 
 
 Write this section for workers that already have a source assignment. Describe the evidence that matters to this thesis in each loop: changes at known targets, newly discovered vacancies or trigger events, and opportunities to develop an existing relationship. Give examples specific enough to distinguish an observed fact from a plausible hiring need. Specify what the search lead needs to recognise relevance, uncertainty and repeated sightings across sources. The job brief supplies the source, permitted actions and return destination.
 
+| Loop | Evidence worth returning for this thesis |
+| --- | --- |
+| Closed | <A material change since the known record and what it changes.> |
+| Open | <A fresh vacancy or dated event, the implied work and what remains to be confirmed.> |
+| Network | <Who matters, the relationship history, what the candidate could offer and why now.> |
+
 ## Search Parameters
 
 | Search group | Agreed terms | How to use them |
 | --- | --- | --- |
-| <Product, organisation, mandate, outcome, adjacent term or title> | <Approved alternatives> | <Use for retrieval, screening or both. Specify where the evidence may appear.> |
+| Products and markets | <Primary terms and spelling variants> | <How the product or market can be verified.> |
+| Organisations | <Employer types, operating entities and common descriptions> | <Where to look for the actual hiring organisation.> |
+| Functions | <Functions that might own the outcome> | <When the responsibilities establish a fit.> |
+| Outcomes and participants | <What changes and for whom> | <Which terms retrieve opportunities and which help qualify them.> |
+| Adjacent vocabulary | <Broader sector, mission or culture language> | <Where these terms are useful and which false positives to expect.> |
+| Title variants | <Seniority group> AND <function group>, plus common acronyms | <Illustrate with employer-used titles. Include unfamiliar titles with equivalent scope.> |
 
 For title discovery, list seniority terms and function terms as independent groups. Combine any seniority with any function in either order. Include relevant abbreviations, a worked example and a keyword-only fallback. Exact title examples illustrate the pattern. Retain a route for relevant roles whose scope appears only in the responsibilities.
 
