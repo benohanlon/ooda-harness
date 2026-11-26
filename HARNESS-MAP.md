@@ -1,5 +1,7 @@
 # Harness Map
 
+[Horizon Scanning](docs/horizon-scanning.md) describes the Closed, Open and Network loops and how to map a sovereign’s working resources to them.
+
 [OODA](README.md) and a Sovereign Harness form one harness with two strands. OODA provides the reusable structure. Sovereign has **private sleeves** that fit over that structure, connecting it to the person’s aims, context, relationships and living memory. This map gives you a route into either strand and shows which pages own the answers you’ll need.
 
 [![Shared OODA principles, roles and templates connect to an illustrative private team and its work repositories.](assets/harness-map/overview.png)](assets/harness-map/explorer.html?raw=1)
