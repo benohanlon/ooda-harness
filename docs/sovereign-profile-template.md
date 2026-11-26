@@ -11,6 +11,7 @@ Build it from authorised existing records and conversation. These prompts are op
 ## Private home and use
 
 - **Maintained private home:** [Document or existing profile to adapt]
+- **Public profile, if I use one:** [Canonical URL or file for my public account of my work]. Link to the maintained profile here so a change to public copy has one home.
 - **Maintenance owner:** [Person or authorised role]
 - **Last reconciled:** [Date and relevant sources]
 
