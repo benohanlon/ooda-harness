@@ -26,9 +26,9 @@ Use [Loops](../docs/loops.md) to design and test the return path.
 | Who acts next? | [OpenAI’s runner](https://openai.github.io/openai-agents-python/running_agents/) describes tool returns, handoffs and final outputs. Its [handoff guide](https://openai.github.io/openai-agents-python/handoffs/) explains choosing a recipient and passing context. |
 | What survives until tomorrow? | [Nous Research’s scheduled change monitor](https://hermes-agent.nousresearch.com/docs/guides/automate-with-cron#pattern-1-website-change-monitor) compares a new observation with a saved baseline. When adapting this pattern, test what happens if delivery fails after the baseline advances. |
 | How can a failure improve the worker? | [LangChain’s trace review guide](https://www.langchain.com/blog/traces-start-agent-improvement-loop) follows an observed failure into evaluation. Use it to test whether a repair changes the outcome on replay. |
+| How can independent comparison improve an artifact? | [Matt Shumer’s Gauntlet Loop](https://somethingbig.ai/gauntlet-loop) uses a fresh critic and an inspectable reference. See the [reusable brief](../docs/gauntlet-loop.md#reusable-brief). |
 
 ## Professional waypoints
-
 
 - **Gergely Orosz, The Software Engineer's Guidebook.** Use its treatment of shipping, technical debt, documentation, effective tooling, reliability, architecture and business context to develop practical judgement. The sovereign supplies an authorised reading edition and retained notes. Focused sections informed this contract, not a complete-book reading. Keep licensed full text and private annotations out of the shared package.
 - **Teknium and the Hermes engineering community.** [Teknium](https://x.com/Teknium), [Nous Research](https://nousresearch.com/) and the [Hermes implementation](https://github.com/NousResearch/hermes-agent) are routes into current engineering work. Retrieve original design, code and discussion relevant to the question rather than infer technical truth from a public persona.
