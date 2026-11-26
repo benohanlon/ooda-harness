@@ -29,6 +29,7 @@ Use [Loops](../docs/loops.md) to design and test the return path.
 
 ## Professional waypoints
 
+
 - **Gergely Orosz, The Software Engineer's Guidebook.** Use its treatment of shipping, technical debt, documentation, effective tooling, reliability, architecture and business context to develop practical judgement. The sovereign supplies an authorised reading edition and retained notes. Focused sections informed this contract, not a complete-book reading. Keep licensed full text and private annotations out of the shared package.
 - **Teknium and the Hermes engineering community.** [Teknium](https://x.com/Teknium), [Nous Research](https://nousresearch.com/) and the [Hermes implementation](https://github.com/NousResearch/hermes-agent) are routes into current engineering work. Retrieve original design, code and discussion relevant to the question rather than infer technical truth from a public persona.
 - **Homer's Odysseus.** Resourcefulness, adaptability and the continuing journey home supply the chosen literary bearing. The contract states its engineering application. Source episodes and visual interpretations belong in their own evidenced notes rather than becoming additional operating authority.

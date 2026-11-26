@@ -17,4 +17,4 @@ Start from the same decision and try two plausible observations that warrant dif
 
 For a loop that spans runs, repeat an observation and check that the next worker can recover the prior decision without duplicating the action. Where losing a handoff matters, interrupt it after the finding is saved and before the recipient accepts. Check that the outstanding action is recoverable and that retrying does not cause anyone to act twice.
 
-[Loop design references](../lists/harness-engineering-resources.md#loop-design) · [Horizon Scanning](horizon-scanning.md)
+[Loop design references](../lists/harness-engineering-resources.md#loop-design) · [Horizon Scanning](horizon-scanning.md) · [Gauntlet Loop](gauntlet-loop.md)

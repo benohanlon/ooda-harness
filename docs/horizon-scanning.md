@@ -17,3 +17,15 @@ One message may serve several loops. A trusted contact might introduce a new opp
 ### Apply this in a private harness
 
 Under each loop, list the resources people actually use. For each, give its scope, accountable role, dated evidence of its latest use and a link to the live record. Distinguish an audience from a send history and an observed reply. Link to schedules for timing and to the cross-loop briefing for decisions.
+
+## Copy into your private harness
+
+Define what horizon scanning serves for you and name the roles using it. Put the links to your records in the middle column and the components that use them in the last column.
+
+| Loop | What we have | How we use it |
+| --- | --- | --- |
+| Closed | [Target list, priority segment and active cases] | [Owner and monitoring procedure]. Compare with the last review. Write the change or return date to [case record]. |
+| Open | [Sources, current thesis and prior findings] | [Search and triage procedure]. Verify and deduplicate. Route accepted findings to [owner and destination]. |
+| Network | [Relationship segments and original exchanges] | [Relationship owner and review procedure]. Record promises, replies and introductions against [relationship or linked case]. |
+
+Above the inventory, link to the shared measures you use to judge outcomes. For each count, identify its source, scope and refresh method. Label a manual count with its date. Count a shared outcome once. Under each loop, link the live records, the component that reads them and the destination for updates. Keep candidate tools in a separate backlog and link a trial to its work issue once someone owns it.
