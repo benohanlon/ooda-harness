@@ -1,6 +1,6 @@
 # Gauntlet Loop
 
-A gauntlet improves an inspectable piece of work through repeated independent comparison. The builder makes a version. A critic examines that version against a concrete reference. The critic’s finding determines what the builder changes next. Use it when the comparison can reveal a material defect and another pass is worth the effort. [Matt Shumer’s original method](https://somethingbig.ai/gauntlet-loop)
+Matt Shumer’s Gauntlet Loop combines a [gauntlet](gauntlets.md) with repeated revision. The builder makes a version. A critic examines that version against a concrete reference. The critic’s finding determines what the builder changes next. Use it when the comparison can reveal a material defect and another pass is worth the effort. [Original method](https://somethingbig.ai/gauntlet-loop)
 
 ## Design the comparison
 
