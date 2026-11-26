@@ -4,21 +4,17 @@ A loop connects an action to an observed outcome and brings that information bac
 
 ## Design a loop
 
-| Part | What to establish |
-| --- | --- |
-| Purpose | Which decision should improve with feedback? What outcome matters? |
-| Input | What event or date starts a pass? Where does the worker find the previous decision, outstanding commitments and fresh evidence? |
-| Action and output | What can the worker do, what needs approval, and where does it record what actually happened? Distinguish an action taken from its observed outcome. |
-| Handoff | When ownership changes, name the recipient, evidence, next action and return destination. Until the recipient accepts or declines, the sender owns follow-up. A worker reporting a finding leaves the decision with its commissioning role. |
-| Return path | Who reads the outcome next, from which record, and when? Specify what happens if evidence is unchanged, arrives late or never arrives. |
-| Connections | Which decision in another loop changes as a result? Link the original evidence there and assign one owner per next action. |
+1. **What are we trying to influence or learn?** Name the outcome and the decision this loop should improve. What would count as success?
+2. **What do we do, and what can we observe as a consequence?** Identify the trigger, the evidence already available and the action within the worker’s authority. Separate making a request, receiving a reply and achieving the intended outcome. How long might a meaningful response take?
+3. **How will we interpret what comes back?** Say what would justify continuing, changing approach, waiting or finishing. Consider what a late or missing response tells us, and what evidence would make us reconsider our original assumption. Fresh evidence may confirm the current decision.
+4. **Where does that judgement enter the work again?** Identify who or what uses it and when. A tool result can inform the same agent’s next step immediately. Across runs, identify what must survive and where the next worker reads it. If ownership changes, name the recipient, next action, evidence and where the outcome goes. The sender follows up until the handoff is accepted or declined. If another loop can use the evidence, link it to the decision it informs there.
 
-A schedule determines when to check. The saved decision and the evidence returned to it determine what happens next. Several loops can share evidence and operate at different speeds. See [loops within loops](ecology-of-mind.md#loops-within-loops-across-overlapping-relationships).
+A schedule determines when to check. People and agents may reorient while work is underway. One role can own the next action even when understanding its outcome takes feedback from several participants. See [loops within loops](ecology-of-mind.md#loops-within-loops-across-overlapping-relationships).
 
 ## Test the return path
 
-1. Run a pass and save its decision. Repeat with unchanged evidence. Check that the next worker recognises the earlier decision and avoids a duplicate action.
-2. Introduce a material change. Check that it reaches the owner and changes the intended decision.
-3. Interrupt a handoff after the finding is saved but before the recipient accepts it. Check that a fresh worker can recover the outstanding action and that retrying delivers it once.
+Start from the same decision and try two plausible observations that warrant different responses. Check that each observation reaches the decision-maker and that the response fits the evidence. Then try fresh information that warrants keeping the earlier decision. The loop should recognise that case too.
+
+For a loop that spans runs, repeat an observation and check that the next worker can recover the prior decision without duplicating the action. Where losing a handoff matters, interrupt it after the finding is saved and before the recipient accepts. Check that the outstanding action is recoverable and that retrying does not cause anyone to act twice.
 
 [Loop design references](../lists/harness-engineering-resources.md#loop-design) · [Horizon Scanning](horizon-scanning.md)
