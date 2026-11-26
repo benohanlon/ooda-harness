@@ -1,6 +1,6 @@
 # Horizon Scanning
 
-Horizon scanning is the shared OODA practice of looking outward, monitoring what is already known and developing relationships so the sovereign can recognise and act on opportunities. Three loops describe how the work begins. Each can observe, orient, decide, act and learn.
+Horizon scanning combines opportunity discovery and relationship management to increase the surface area for luck. We watch chosen targets closely enough to catch a change, look widely enough to find opportunities we did not anticipate, and build relationships through which people bring opportunities to each other. Each of the three loops can observe, orient, decide, act and learn.
 
 | Loop | Starting point | Useful return |
 | --- | --- | --- |
