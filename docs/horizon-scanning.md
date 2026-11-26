@@ -2,6 +2,10 @@
 
 Horizon scanning combines opportunity discovery and relationship management to increase the surface area for luck. We watch chosen targets closely enough to catch a change, look widely enough to find opportunities we did not anticipate, and build relationships through which people bring opportunities to each other. Each of the three loops can observe, orient, decide, act and learn.
 
+## Loops
+
+A [loop](loops.md) brings the outcome of an action back to a decision it can change. Here that decision concerns a known target, a new opportunity or an existing relationship.
+
 | Loop | Starting point | Useful return |
 | --- | --- | --- |
 | **Closed — Monitoring & Follow-through** | Start with a known target, registered source, active pursuit or unfinished assessment. Compare the latest evidence with the previous state and decision. | A verified change, a next action with an owner, or a deliberate wait with a return date or event. Record outstanding coverage when the work is incomplete. |

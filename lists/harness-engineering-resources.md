@@ -15,6 +15,18 @@ Routes were checked on 5 November 2026. Documentation and marketplaces change. M
 
 For profile packaging, use Hermes's [native distributions](https://hermes-agent.nousresearch.com/docs/user-guide/profile-distributions) and [profile commands](https://hermes-agent.nousresearch.com/docs/reference/profile-commands). The [OODA distribution guide](../docs/runtimes/hermes-distribution.md) records our selected source, ownership and update method. Native installer functions have been exercised in isolated local profiles. That does not verify the CLI launcher, remote deployment, provider setup or useful role-group operation. Check source selection and preservation behaviour in the actual version rather than treating a manifest version as an exact Git pin.
 
+## Loop design
+
+Use [Loops](../docs/loops.md) to design and test the return path.
+
+| Question | Reading and use |
+| --- | --- |
+| Where should feedback go? | [Donella Meadows, *Leverage Points*](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) examines delays, feedback strength and who receives information. Sections 9, 8 and 6 explain how a consequence reaches someone able to act on it. |
+| How does the agent observe an outcome? | [Hugging Face’s construction lesson](https://huggingface.co/learn/agents-course/en/unit1/dummy-agent-library) shows how a tool result becomes the next model input. [Anthropic’s design guide](https://www.anthropic.com/research/building-effective-agents) covers external evidence, human checkpoints and stopping conditions. |
+| Who acts next? | [OpenAI’s runner](https://openai.github.io/openai-agents-python/running_agents/) describes tool returns, handoffs and final outputs. Its [handoff guide](https://openai.github.io/openai-agents-python/handoffs/) explains choosing a recipient and passing context. |
+| What survives until tomorrow? | [Nous Research’s scheduled change monitor](https://hermes-agent.nousresearch.com/docs/guides/automate-with-cron#pattern-1-website-change-monitor) compares a new observation with a saved baseline. When adapting this pattern, test what happens if delivery fails after the baseline advances. |
+| How can a failure improve the worker? | [LangChain’s trace review guide](https://www.langchain.com/blog/traces-start-agent-improvement-loop) follows an observed failure into evaluation. Use it to test whether a repair changes the outcome on replay. |
+
 ## Professional waypoints
 
 - **Gergely Orosz, The Software Engineer's Guidebook.** Use its treatment of shipping, technical debt, documentation, effective tooling, reliability, architecture and business context to develop practical judgement. The sovereign supplies an authorised reading edition and retained notes. Focused sections informed this contract, not a complete-book reading. Keep licensed full text and private annotations out of the shared package.
